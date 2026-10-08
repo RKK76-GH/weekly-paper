@@ -1,0 +1,76 @@
+{
+  "_about": "Sources and rules for Richard's weekly paper. 'pool' groups sources in the digest. 'urls' are tried in order until one works. 'trial': true marks sources still being evaluated.",
+
+  "sources": [
+    {"name": "ABC News - Top Stories", "outlet": "ABC", "pool": "general",
+     "urls": ["https://www.abc.net.au/news/feed/10719986/rss.xml"]},
+    {"name": "SMH - Latest", "outlet": "SMH", "pool": "general",
+     "urls": ["https://www.smh.com.au/rss/feed.xml"]},
+    {"name": "Guardian - Australia", "outlet": "Guardian", "pool": "general",
+     "urls": ["https://www.theguardian.com/australia-news/rss"]},
+    {"name": "Guardian - World", "outlet": "Guardian", "pool": "general",
+     "urls": ["https://www.theguardian.com/world/rss"]},
+    {"name": "BBC - World", "outlet": "BBC", "pool": "general",
+     "urls": ["https://feeds.bbci.co.uk/news/world/rss.xml"]},
+
+    {"name": "iTnews", "outlet": "iTnews", "pool": "it",
+     "urls": ["https://www.itnews.com.au/rss/rss.ashx"]},
+    {"name": "CRN Australia", "outlet": "CRN", "pool": "it", "trial": true,
+     "urls": ["https://www.crn.com.au/rss/rss.ashx", "https://www.crn.com.au/feed", "https://www.crn.com.au/rss"]},
+    {"name": "ARN", "outlet": "ARN", "pool": "it", "trial": true,
+     "urls": ["https://www.arnnet.com.au/feed/", "https://www.arnnet.com.au/news/feed/", "https://www.arnnet.com.au/rss"]},
+
+    {"name": "BBC - Technology", "outlet": "BBC", "pool": "tech",
+     "urls": ["https://feeds.bbci.co.uk/news/technology/rss.xml"]},
+    {"name": "Guardian - Technology", "outlet": "Guardian", "pool": "tech",
+     "urls": ["https://www.theguardian.com/technology/rss"]},
+
+    {"name": "CarExpert", "outlet": "CarExpert", "pool": "cars",
+     "urls": ["https://www.carexpert.com.au/feed"]},
+
+    {"name": "Guardian - Science", "outlet": "Guardian", "pool": "science",
+     "urls": ["https://www.theguardian.com/science/rss"]},
+    {"name": "BBC - Science & Environment", "outlet": "BBC", "pool": "science",
+     "urls": ["https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"]},
+
+    {"name": "ABC - Climate change", "outlet": "ABC", "pool": "green",
+     "urls": ["https://www.abc.net.au/news/feed/1450/rss.xml"]},
+    {"name": "Guardian - Australia environment", "outlet": "Guardian", "pool": "green",
+     "urls": ["https://www.theguardian.com/au/environment/rss"]},
+    {"name": "Guardian - Renewable energy", "outlet": "Guardian", "pool": "green",
+     "urls": ["https://www.theguardian.com/environment/renewableenergy/rss"]},
+    {"name": "Carbon Brief", "outlet": "Carbon Brief", "pool": "green",
+     "urls": ["https://www.carbonbrief.org/feed"]},
+
+    {"name": "Loft For Words - QPR match reports", "outlet": "Loft For Words", "pool": "qpr", "type": "lfw-page",
+     "urls": ["https://www.fansnetwork.co.uk/football/queensparkrangers/news/"]}
+  ],
+
+  "_rules_about": "Text matching is case-insensitive. Title rules are regular expressions.",
+
+  "exclude_link_contains": [
+    "/commentisfree/", "/live/", "/iplayer/", "/sounds/", "/programmes/",
+    "/video/", "/videos/", "/gallery/", "/feature/", "/podcast", "/quiz"
+  ],
+  "exclude_title_matches": [
+    " \\| ", "^(watch|video|listen|quiz|in pictures)\\b", "\\bcrossword\\b", "\\bhoroscope",
+    "\\bpodcast\\b", "\\bsponsored\\b", " - the latest$", "– video$", "– podcast$"
+  ],
+
+  "general_exclude_link_contains": ["/sport/", "/lifestyle/", "/entertainment/", "/culture/", "/goodfood/", "/traveller/"],
+  "general_exclude_categories": [
+    "Sport", "NRL", "AFL", "Rugby League", "Rugby Union", "Australian Rules Football", "Cricket",
+    "Soccer", "Football", "Tennis", "Golf", "Horse Racing", "Reality TV", "Celebrity",
+    "Arts and Entertainment", "Television", "Music", "Film", "Lifestyle"
+  ],
+
+  "politics_keywords": [
+    "budget", "treasurer", "chalmers", "albanese", "prime minister", "opposition leader", "parliament",
+    "senate", "federal government", "state government", "premier", "election", "reserve bank", "rba",
+    "interest rate", "cash rate", "inflation", "cpi", "unemployment", "jobless", "wages", "gdp",
+    "economy", "economic", "economist", "productivity", "housing", "mortgage", "home loan", "tax",
+    "superannuation", "migration", "cost of living", "chris richardson"
+  ],
+
+  "highlight_names": ["Chris Richardson"]
+}
