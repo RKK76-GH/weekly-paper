@@ -312,7 +312,12 @@ def collect(config, stories, state, rules, run_time):
         name = source["name"]
         health = state.setdefault("sources", {}).setdefault(name, {})
         found, problem, used_url = None, "", ""
-        for url in source["urls"]:
+        # Try the address that worked last time first, then the rest in order.
+        urls = list(source["urls"])
+        if health.get("url_used") in urls:
+            urls.remove(health["url_used"])
+            urls.insert(0, health["url_used"])
+        for url in urls:
             if not robots_allowed(url):
                 problem = "robots.txt asks us not to fetch this"
                 continue
@@ -493,8 +498,12 @@ def build_digest(config, stories, state, rules, run_time):
     big = [g for g in by_weight if len(g["outlets"]) >= 2]
     used = {id(g) for g in big[:DIGEST_CAPS["big"]]}
 
+    politics_sources = {s["name"] for s in config["sources"] if s.get("politics")}
+
     def political(group):
-        return any(matches_any(m["title"] + " " + m["summary"] + " " + " ".join(m["categories"]),
+        # Australian sources only, so overseas elections and tax stories don't crowd the list.
+        return any(m["source"] in politics_sources and
+                   matches_any(m["title"] + " " + m["summary"] + " " + " ".join(m["categories"]),
                                rules["politics"]) for m in group["members"])
     politics = [g for g in by_weight if id(g) not in used and political(g)]
     used |= {id(g) for g in politics[:DIGEST_CAPS["politics"]]}

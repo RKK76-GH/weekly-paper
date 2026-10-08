@@ -2,11 +2,11 @@
   "_about": "Sources and rules for Richard's weekly paper. 'pool' groups sources in the digest. 'urls' are tried in order until one works. 'trial': true marks sources still being evaluated.",
 
   "sources": [
-    {"name": "ABC News - Top Stories", "outlet": "ABC", "pool": "general",
+    {"name": "ABC News - Top Stories", "politics": true, "outlet": "ABC", "pool": "general",
      "urls": ["https://www.abc.net.au/news/feed/10719986/rss.xml"]},
-    {"name": "SMH - Latest", "outlet": "SMH", "pool": "general",
+    {"name": "SMH - Latest", "politics": true, "outlet": "SMH", "pool": "general",
      "urls": ["https://www.smh.com.au/rss/feed.xml"]},
-    {"name": "Guardian - Australia", "outlet": "Guardian", "pool": "general",
+    {"name": "Guardian - Australia", "politics": true, "outlet": "Guardian", "pool": "general",
      "urls": ["https://www.theguardian.com/australia-news/rss"]},
     {"name": "Guardian - World", "outlet": "Guardian", "pool": "general",
      "urls": ["https://www.theguardian.com/world/rss"]},
@@ -16,7 +16,9 @@
     {"name": "iTnews", "outlet": "iTnews", "pool": "it",
      "urls": ["https://www.itnews.com.au/rss/rss.ashx"]},
     {"name": "CRN Australia", "outlet": "CRN", "pool": "it", "trial": true,
-     "urls": ["https://www.crn.com.au/rss/rss.ashx", "https://www.crn.com.au/feed", "https://www.crn.com.au/rss"]},
+     "urls": ["https://www.crn.com.au/rss/rss.ashx", "https://www.crn.com.au/feed", "https://www.crn.com.au/rss",
+              "https://www.crn.com.au/news/feed/", "https://www.crn.com.au/rss.xml", "https://www.crn.com.au/feed/rss",
+              "https://www.crn.com.au/rss/news.xml", "https://www.crn.com.au/feeds/news"]},
     {"name": "ARN", "outlet": "ARN", "pool": "it", "trial": true,
      "urls": ["https://www.arnnet.com.au/feed/", "https://www.arnnet.com.au/news/feed/", "https://www.arnnet.com.au/rss"]},
 
