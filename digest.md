@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Fri 09 Oct 2026, 03:32 Sydney time. Stories from 02 Oct to 09 Oct. 425 stories held from 18 of 18 sources.
+Updated Fri 09 Oct 2026, 05:32 Sydney time. Stories from 02 Oct to 09 Oct. 445 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -10,16 +10,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Convicted killer Christa Pike awoke "angry and confused" in a hospital this week, with her first words being: "Where am I?"
 - Russian attack on bus stop kills at least 33 in Ukraine, officials say — ABC +3 (BBC, Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/ukraine-russia-bus-stop-strike-attack-bomb/107245320
   More than 30 people were killed when Russia struck two passenger buses in Kramatorsk, near the frontline in eastern Ukraine.
+- Maduro and wife Flores face new charge of conspiracy to commit torture — ABC +3 (BBC, Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/maduro-flores-torture-allegations/107245720
+  The ousted Venezuelan president and his wife were captured by the US military at their Caracas home and taken to New York in January.
 - CCTV of Lamarre-Condon shows alleged killer's movements hours after deaths — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/beau-lamarre-condon-trial-cctv-shows-movements-after-deaths/107241544
   A NSW court has released more CCTV compilations showing the movements of accused double murderer Beau Lamarre-Condon following the deaths of Sydney couple Jesse Baird and Luke Davies.
-- Labor split on ATO credit card ban as businesses call for leadership — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/business-political-leadership-ato-credit-card-ban-labor/107242634
-  The federal government is facing growing pressure over the Australian Taxation Office's decision to stop accepting credit card payments for tax bills.
 - UK to continue 'vital services' after Jerusalem consulate ends functions — ABC +2 (BBC, Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/british-diplomats-to-remain-at-renamed-jerusalem-consulate/107244832
   Britain says its nearly 200-year-old consulate in Jerusalem will remain operating at a smaller scale after Israel ordered it shut in a dispute over sanctions on settlements.
+- Labor split on ATO credit card ban as businesses call for leadership — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/business-political-leadership-ato-credit-card-ban-labor/107242634
+  The federal government is facing growing pressure over the Australian Taxation Office's decision to stop accepting credit card payments for tax bills.
 - Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
   Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
-- Maduro and wife Flores face new charge of conspiracy to commit torture — ABC +2 (BBC, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/maduro-flores-torture-allegations/107245720
-  The ousted Venezuelan president and his wife were captured by the US military at their Caracas home and taken to New York in January.
 - Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90 — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software
   MIT computer scientist led development of software for moon mission and earned Presidential Medal of Freedom Margaret Hamilton, the computer pioneer whose software powered the first moon landing, has…
 - Japan beer giants raided over suspicions they colluded to set the price of beverages — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages
@@ -32,14 +32,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Police allege Mr Wood became involved in a family argument in Noosa on Saturday night before he assaulted and choked his wife.
 - US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
   The US has banned a Chinese Fijian businessman accused of being a member of a criminal network with ties to the Chinese government.
-- Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
-  Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
-- Prominent Indigenous elder arrested over child sex assault allegation — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/mick-mundine-arrest-redfern-child-sex-assault-allegation/107242280
-  Aboriginal Housing Company boss Mick Mundine has been arrested in Redfern over a historical child sexual assault allegation.
 - Canadian poet and writer Anne Carson wins 2026 Nobel Prize in Literature — ABC +1 (Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/107245306
   The 76-year-old was honoured "for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature," the Swedish Academy said.
+- Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
+  Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
 - South Korea recalls ambassador as row with Ukraine escalates — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/south-korea-recalls-ambassador-to-ukraine/107245422
   Tensions between South Korea and Ukraine started escalating last month when Ukraine revealed it had transferred two North Korean soldiers to Seoul.
+- Prominent Indigenous elder arrested over child sex assault allegation — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/mick-mundine-arrest-redfern-child-sex-assault-allegation/107242280
+  Aboriginal Housing Company boss Mick Mundine has been arrested in Redfern over a historical child sexual assault allegation.
 - Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
 - Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
@@ -60,16 +60,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
 - How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
   Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
+- Angus Taylor tries to find his place on the migration middle road — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706
+  As the three-cornered migration battle continues, Angus Taylor is trying to position his party in the middle of the government and One Nation.
 - Coalition MPs concede immigration pledge not fully costed by independent watchdog — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb
   Angus Taylor says opposition ‘worked closely’ with Parliamentary Budget Office but Liberal sources say it has not yet conducted a full analysis of the policy Get our new political email , free app or…
 - Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation — Guardian · 06 Oct · https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb
   Coalition leader’s proposal goes further than Peter Dutton’s 2025 election promise and beyond even Pauline Hanson’s bottom line Get our new political email , free app or daily news podcast With Angus…
-- Angus Taylor tries to find his place on the migration middle road — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706
-  As the three-cornered migration battle continues, Angus Taylor is trying to position his party in the middle of the government and One Nation.
 - Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine
   High court judgment blocking Mount Pleasant mine expansion will not affect state regulation, NSW premier says Get our new political email , free app or daily news podcast Chris Minns says activists…
 - Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
   After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
+- Sam has worked as a police officer for nine years, but still struggled to secure a home in Perth’s market — SMH · 09 Oct · https://www.smh.com.au/property/news/sam-has-worked-as-a-police-officer-for-nine-years-but-still-struggled-to-secure-a-home-in-perth-s-market-20261009-p612zt.html?ref=rss
+  A recent survey found more than 60 per cent of essential workers who were renting were experiencing housing stress, and three-quarters of long-serving renters were concerned they may never own a home.
 - Mamdani is jeered at October 7 vigil as protesters call him traitor to Palestinian cause — SMH · 08 Oct · https://www.smh.com.au/world/north-america/mamdani-is-jeered-at-october-7-vigil-as-protesters-call-him-traitor-to-palestinian-cause-20261008-p613wx.html?ref=rss
   Since his election, New York Mayor Zohran Mamdani has walked a fine line in his stance on the situation in the Middle East.
 - International student cuts risk ‘very significant hole’, universities warn — SMH · 08 Oct · https://www.smh.com.au/national/international-student-cuts-risk-very-significant-hole-universities-warn-20261008-p613k8.html?ref=rss
@@ -86,14 +88,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam…
 - NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb
   Police watchdog says Mal Lanyon’s timing in raising the issue was ‘regrettable’ and led to delays Get our breaking news email , free app or daily news podcast The New South Wales police commissioner…
-- ‘That is a lie’: alleged Alan Jones victim denies family tried to get money out of broadcaster, court hears — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb
-  Youngest complainant in trial alleges Jones put his tongue in his mouth and touched him on the bottom during visit to shock jock’s property Get our breaking news email , free app or daily news…
-- Bendy elm still standing against all odds crowned UK tree of the year — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/bendy-elm-newcastle-northern-ireland-crowned-uk-tree-of-the-year
-  Hundred-and-fifty-year-old Wych elm in Newcastle, Co Down has grown sideways owing to strong winds The “astonishing and bizarre” Bendy Tree in Northern Ireland has been crowned the winner of this…
 - Bachelor star Sam Wood denied bail as police allege he choked woman until she ‘thought she would die’ — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb
   Court heard police attended Wood’s Victorian home over a similar allegation about three years ago, but the woman had not complained out of “fear of retribution” A woman who was allegedly choked and…
+- ‘That is a lie’: alleged Alan Jones victim denies family tried to get money out of broadcaster, court hears — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb
+  Youngest complainant in trial alleges Jones put his tongue in his mouth and touched him on the bottom during visit to shock jock’s property Get our breaking news email , free app or daily news…
 - Teenager becomes first person to have testicular tissue transplant in UK — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility
   Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
+- Bendy elm still standing against all odds crowned UK tree of the year — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/bendy-elm-newcastle-northern-ireland-crowned-uk-tree-of-the-year
+  Hundred-and-fifty-year-old Wych elm in Newcastle, Co Down has grown sideways owing to strong winds The “astonishing and bizarre” Bendy Tree in Northern Ireland has been crowned the winner of this…
 - Chemistry Nobel awarded for solving mystery of life's asymmetry — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/c6ly038jg0d4o
   The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
 - Major share market float of Firmus in trouble as interest wanes — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/firmus-ipo-underwhelms-before-it-hits-the-market/107241548
@@ -104,10 +106,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A court is read extensive correspondences Alan Jones had with a 17-year-old boy after he asked for help with his family's financial struggles.
 - Spanish pensioner whose eviction sparked nationwide protests dies, union says — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo
   Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
-- ‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins
-  People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive Ahmed Ishtaiwi has six chairs. They are cheap and plastic and…
-- Houthi forces appear to make slow advance in south-west Yemen — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport
-  Group’s fighters hit key airport in Aden with explosive moments before plane from Cairo was due to land Houthi forces appeared to be making slow advances on Wednesday in south-west Yemen, approaching…
 - Canada suspends plans to expand assisted dying to people with mental illness — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cqd09g0gj50ko
   People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.
 - Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners
@@ -122,13 +120,17 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After a surprise first-round victory, critics suggest son of disgraced ex-president could seek to continue his father’s authoritarian project Flávio’s surprise first-round win highlights rapid rise…
 - Satellite images show attack jets at Chinese military facility in Laos — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos
   New ‘support and training centre’ prompts concern in region but China says it is ‘not directed at any third party’ Satellite images show attack jets stationed at a new Chinese military facility in…
-- Separatists win in Quebec – but does that bring separation from Canada any closer? — Guardian · 07 Oct · https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis
-  Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump The victory of the Parti Québécois in Monday’s election in Quebec might seem to bring…
 - Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised — Guardian · 07 Oct · https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb
   Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own…
 - The Republican candidates walking a Trump tightrope — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cm93z74e0n9zo
   Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.
-(+154 more not listed)
+- Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/ck054zm1701qo
+  Relatives are finding themselves with no compensation and facing an administrative nightmare.
+- Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province — Guardian · 06 Oct · https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc
+  Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the…
+- Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads — Guardian · 06 Oct · https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes
+  Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of…
+(+169 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - 8 New Cisco Workplace And AI Innovations Unveiled At WebexOne 2026 — CRN · 09 Oct · https://www.crn.com.au/news-network/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexon
@@ -399,6 +401,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The BMW X3 M50 xDrive performance SUV has received a power bump and a stealthy new Black Package option, with the wider range to receive interior enhancements.
 
 ## Science (Guardian, BBC)
+- More than 800,000 hours of sewage spills in Wales last year, report claims — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cqwy74e8nyggo
+  It is equivalent to a sewage discharge happening every five minutes, according to campaigners.
 - Four astronauts return to Earth from ISS after medical relief mission — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/08/astronauts-return-iss-nasa-spacex
   Crew hurried to International Space Station eight months ago after astronaut fell ill in space Four astronauts returned to Earth from the International Space Station on Thursday after hurrying there…
 - How a scientist used Britpop to reach Mars — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ckzd65665q1yo
@@ -457,6 +461,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
+- MoD has objected to four windfarms in past year over radar interference fears — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears
+  Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero The Ministry of Defence has objected to at least four planned windfarms in the past year…
 - World must change way it produces food to avoid biodiversity collapse, says WWF — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/world-must-change-food-avoid-biodiversity-collapse-wwf
   Recovery of tigers, tuna and green sea turtles show nature loss can be reversed when action taken, charity says Conservation comebacks for wild tigers, tuna and green​ sea turtles prove that global…
 - Was pre-COP a flop? Questions loom over the Australian government — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/was-pre-cop-a-failure-analysis/107239270
@@ -491,23 +497,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 09 Oct 03:32 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 09 Oct 03:32 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 09 Oct 03:32 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 09 Oct 03:32 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 09 Oct 03:32 | 35 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 09 Oct 03:32 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 09 Oct 03:32 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 09 Oct 03:32 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 09 Oct 03:32 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 09 Oct 03:32 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 09 Oct 03:32 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 09 Oct 03:32 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 09 Oct 03:32 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 09 Oct 03:32 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 09 Oct 03:32 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 09 Oct 03:32 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 09 Oct 03:32 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 09 Oct 03:32 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 09 Oct 05:32 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 09 Oct 05:32 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 09 Oct 05:32 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 09 Oct 05:32 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 09 Oct 05:32 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 09 Oct 05:32 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 09 Oct 05:32 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 09 Oct 05:32 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 09 Oct 05:32 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 09 Oct 05:32 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 09 Oct 05:32 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 09 Oct 05:32 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 09 Oct 05:32 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 09 Oct 05:32 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 09 Oct 05:32 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 09 Oct 05:32 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 09 Oct 05:32 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 09 Oct 05:32 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 20,336 tokens._
+_Approximate reading cost of this digest: 20,589 tokens._
