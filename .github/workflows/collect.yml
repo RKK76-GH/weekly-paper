@@ -1,0 +1,44 @@
+name: Collect stories
+
+on:
+  # Every two hours, at 17 minutes past (UTC). GitHub may start scheduled runs a little late.
+  schedule:
+    - cron: "17 */2 * * *"
+  # Also adds a "Run workflow" button on the Actions tab for running it by hand.
+  workflow_dispatch:
+
+# Lets the workflow save the collected stories back into the repository.
+permissions:
+  contents: write
+
+# Never run two collections at the same time.
+concurrency:
+  group: collect-stories
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Get the repository files
+        uses: actions/checkout@v4
+
+      - name: Collect stories and build the digest
+        run: python3 collect.py
+
+      - name: Save the results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data digest.md
+          if git diff --cached --quiet; then
+            echo "Nothing new to save"
+            exit 0
+          fi
+          git commit -m "Collect stories $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for attempt in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          exit 1
