@@ -1,18 +1,23 @@
 # Weekly paper – story digest
 
-Updated Thu 08 Oct 2026, 13:52 Sydney time. Stories from 01 Oct to 08 Oct. 235 stories held from 17 of 18 sources.
-**Sources with problems:** CRN Australia (details at the end).
+Updated Thu 08 Oct 2026, 15:29 Sydney time. Stories from 01 Oct to 08 Oct. 285 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
 ## Big stories – covered by two or more outlets (Australia and world)
 Ranked by number of outlets, then by how long they stayed in the feeds.
-- Christa Pike woke 'angry and confused' after surviving botched execution — ABC +2 (BBC, Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/evidence-from-christa-pike-botched-execution-must-be-preserved/107241090
+- Christa Pike woke 'angry and confused' after surviving botched execution — ABC +3 (BBC, Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/evidence-from-christa-pike-botched-execution-must-be-preserved/107241090
   Convicted killer Christa Pike awoke "angry and confused" in a hospital this week, with her first words being: "Where am I?"
-- Jurors in Beau Lamarre-Condon murder case shown photos of decomposed bodies — Guardian +1 (SMH) · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb
-  Former NSW police officer has pleaded not guilty to the February 2024 murders of Jesse Baird and Luke Davies in Sydney Get our breaking news email , free app or daily news podcast Photographs of the…
+- CCTV of Lamarre-Condon shows alleged killer's movements hours after deaths — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/beau-lamarre-condon-trial-cctv-shows-movements-after-deaths/107241544
+  A NSW court has released more CCTV compilations showing the movements of accused double murderer Beau Lamarre-Condon following the deaths of Sydney couple Jesse Baird and Luke Davies.
 - WHO says it does not have ‘full picture’ from Russia following suspected plague death — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death
   ‘Transparent information sharing’ from Moscow is required to conduct full risk assessment, UN agency says The World Health Organization has said it does not have the “full picture” from Russia…
+- Japan beer giants raided over suspicions they colluded to set the price of beverages — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages
+  Investigators probe Asahi, Kirin, Suntory and Sapporo breweries – which together control more than 90% of Japan’s beer market Japanese authorities have raided the country’s four biggest breweries…
+- Indonesian government faces wildfires lawsuit as haze blankets region — ABC +1 (Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412
+  Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
+- Prominent Indigenous elder arrested over child sex assault allegation — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/mick-mundine-arrest-redfern-child-sex-assault-allegation/107242280
+  Aboriginal Housing Company boss Mick Mundine has been arrested in Redfern over a historical child sexual assault allegation.
 - Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
   Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
 - US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
@@ -27,30 +32,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The federal government is facing growing pressure over the Australian Taxation Office's decision to stop accepting credit card payments for tax bills.
 - Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
   The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
-- Prominent Indigenous elder arrested over child sex assault allegation — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/mick-mundine-arrest-redfern-child-sex-assault-allegation/107242280
-  Aboriginal Housing Company boss Mick Mundine has been arrested in Redfern over a historical child sexual assault allegation.
-- International student cuts risk ‘very significant hole’, universities warn — SMH · 08 Oct · https://www.smh.com.au/national/international-student-cuts-risk-very-significant-hole-universities-warn-20261008-p613k8.html?ref=rss
-  Universities were already seeing the impact of rejected international students visas, but recent announcements to further curb migration have anxiety in the sector.
-- María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87 — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies
-  Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis ‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on…
-- Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners
-  Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls More fire, more ash, more crime, more death. And a globally important ecosystem…
-- Canada to indefinitely bar mental illness as sole reason for access to euthanasia — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness
-  Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada ’s federal government said on Wednesday it would advance legislation to…
-- Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan — Guardian · 08 Oct · https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech
-  Party hopes to win over affluent middle-class voters as leader rejects calls to ‘unite the right’ in conference speech Kemi Badenoch has announced that the Conservatives would abolish inheritance tax…
-- Israelis demand accountability over 7 October failures three years after attacks — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c5zjx7xx3487o
-  Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
-- Separatists win in Quebec – but does that bring separation from Canada any closer? — Guardian · 07 Oct · https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis
-  Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump The victory of the Parti Québécois in Monday’s election in Quebec might seem to bring…
 - Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
   Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
 - Coalition MPs concede immigration pledge not fully costed by independent watchdog — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb
   Angus Taylor says opposition ‘worked closely’ with Parliamentary Budget Office but Liberal sources say it has not yet conducted a full analysis of the policy Get our new political email , free app or…
-- EU negotiators head to China hoping to curb cheap imports of hybrid electric cars — Guardian · 07 Oct · https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars
-  Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese imports EU trade negotiators are heading to China for two days of crunch talks aimed at…
 - Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation — Guardian · 06 Oct · https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb
   Coalition leader’s proposal goes further than Peter Dutton’s 2025 election promise and beyond even Pauline Hanson’s bottom line Get our new political email , free app or daily news podcast With Angus…
+- Mamdani is jeered at October 7 vigil as protesters call him traitor to Palestinian cause — SMH · 08 Oct · https://www.smh.com.au/world/north-america/mamdani-is-jeered-at-october-7-vigil-as-protesters-call-him-traitor-to-palestinian-cause-20261008-p613wx.html?ref=rss
+  Since his election, New York Mayor Zohran Mamdani has walked a fine line in his stance on the situation in the Middle East.
+- International student cuts risk ‘very significant hole’, universities warn — SMH · 08 Oct · https://www.smh.com.au/national/international-student-cuts-risk-very-significant-hole-universities-warn-20261008-p613k8.html?ref=rss
+  Universities were already seeing the impact of rejected international students visas, but recent announcements to further curb migration have anxiety in the sector.
 
 ## Other prominent general stories – one outlet
 - OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
@@ -67,32 +58,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The number of pharmacies stocking the MS-2 Step medication increased from 2,228 to 4,107 after rules relaxed in 2023 Get our breaking news email , free app or daily news podcast The number of…
 - Chemistry Nobel awarded for solving mystery of life's asymmetry — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/c6ly038jg0d4o
   The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
+- Teenager becomes first person to have testicular tissue transplant in UK — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility
+  Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
 - Great Southern, Gold Fields deep drilling hints at Qld copper-gold riches — SMH · 08 Oct · https://www.smh.com.au/business/companies/great-southern-gold-fields-deep-drilling-hints-at-qld-copper-gold-riches-20261008-p613wv.html?ref=rss
   Drilling by Great Southern Mining and global giant Gold Fields has uncovered fresh clues at the Mt Dillon target in Qld, with assays now pending to confirm copper-gold potential.
-- The latest illustrations from artist Matt Golding — SMH · 08 Oct · https://www.smh.com.au/politics/federal/the-latest-illustrations-from-artist-matt-golding-20230608-p5df5o.html?ref=rss
-  Illustrations by the artist from The Age.
-- Tense scenes as Alan Jones accuser denies scheme to extract more than $100k from him — SMH · 08 Oct · https://www.smh.com.au/national/nsw/tense-scenes-as-alan-jones-accuser-denies-scheme-to-extract-more-than-100k-from-him-20261008-p613gd.html?ref=rss
-  A man who alleges Jones indecently assaulted him when he was 17 has been accused of misleading the broadcaster with emails secretly written by his mother.
 - Donald Trump’s Texas rally rocked by repeated protests — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests
   Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president…
 - Major share market float of Firmus in trouble as interest wanes — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/firmus-ipo-underwhelms-before-it-hits-the-market/107241548
   The company is reportedly having to price its shares lower as it closed its books to potential investors abruptly overnight.
-- Three teens arrested as boy, 13, fights for life in botched arson attack — SMH · 08 Oct · https://www.smh.com.au/national/victoria/six-cars-firebombed-in-a-single-night-as-melbourne-arson-wave-enters-fourth-day-20261008-p613qt.html?ref=rss
-  The arrests come after 13 vehicles were torched across Melbourne in just a week.
 - The 'Gate of Tears' at the centre of Houthis' latest battle for control — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/houthi-advances-on-bab-el-mandeb-strait-explained/107202798
   The Bab el-Mandeb Strait has become a "lifeline" for global trade. But in the battle between Saudi-backed Yemeni forces and the Houthis, it's even more important.
-- Indonesian government faces wildfires lawsuit as haze blankets region — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412
-  Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
 - 'Enough is enough': Alan Jones emails to 17yo read in court — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-alan-jones-accuser-denies-deceiving-broadcaster/107237644
   A court is read extensive correspondences Alan Jones had with a 17-year-old boy after he asked for help with his family's financial struggles.
-- Europe raids Trump’s tool box for new ‘trade bazooka’ against China — SMH · 08 Oct · https://www.smh.com.au/business/markets/europe-raids-trump-s-tool-box-for-new-trade-bazooka-against-china-20261008-p613rp.html?ref=rss
-  France and Germany have proposed measures that could cut China off its biggest and richest market if it doesn’t change its ways.
-- NSW Police unveil armed response command in wake of Bondi terror attack — SMH · 08 Oct · https://www.smh.com.au/national/nsw-police-unveil-armed-response-command-in-wake-of-bondi-terror-attack-20261008-p613vg.html?ref=rss
-  A special unit of NSW Police will be armed with long-arm rifles and will have the ability to be deployed outside major attractions and events.
-- While the world is watching reports of plague in Russia, deadly Ebola is breaking borders — SMH · 08 Oct · https://www.smh.com.au/world/africa/while-the-world-is-watching-reports-of-plague-in-russia-deadly-ebola-is-breaking-borders-20261008-p613qp.html?ref=rss
-  Kenya’s first Ebola death – a man who travelled undetected through three countries – has raised questions about how to trace the virus across borders.
-- Japan beer giants raided over alleged price-fixing cartel — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cm5yn3592xk9o
-  Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.
 - Snowtown serial killer James Vlassakis walks out of Adelaide Pre-release Centre — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/first-images-of-snowtown-murderer-james-vlassakis/107242384
   Snowtown murderer James Spyridon Vlassakis has been filmed leaving the Adelaide Pre-release Centre after having his parole confirmed almost a month ago.
 - Spanish pensioner whose eviction sparked nationwide protests dies, union says — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo
@@ -103,17 +80,47 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The 78-year-old has spent nearly six decades in prison and California governor has overturned last two parole grants Patricia Krenwinkel, a former Charles Manson follower, was granted parole on…
 - Man jailed for luring 4yo girl away from front yard and raping her — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/nathaniel-farrell-jailed-rape-4yo-girl-darwin-town-camp/107241576
   A man who approached a four-year-old girl playing in the front yard of a house at a Darwin town camp and lured her away to violently rape her has been sentenced to 10 years in prison.
-(+48 more not listed)
+- Rubio in Greece digs into past to tout Trump’s ‘America first’ approach — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/07/rubio-greece-trump-america-first-speech
+  In the shadow of the Parthenon, the secretary of state gave a selective reading of history as he urged Europe to ‘awaken from its slumber’ The US secretary of state, Marco Rubio, delivered a…
+- Family of student who took his own life say university ‘will be held to account’ — Guardian · 08 Oct · https://www.theguardian.com/education/2026/oct/07/family-student-ethan-scott-brown-university-glasgow-accountable
+  Ethan Scott Brown died after being wrongly told he would not be eligible to graduate from the University of Glasgow The family of a student who took his own life after being wrongly told he would not…
+- ‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins
+  People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive Ahmed Ishtaiwi has six chairs. They are cheap and plastic and…
+- Labour Send changes at risk as parents rush to secure support, say experts — Guardian · 08 Oct · https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england
+  Overhaul of special education in England could unravel, thinktank finds, because of ‘use it before you lose it’ dynamic Labour’s flagship changes to special education in England are at risk of…
+- María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87 — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies
+  Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis ‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on…
+- Data shows rental tenants have hit breaking point — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/tenants-hit-breaking-point-record-rent-costs-according-to-domain/107238110
+  New data from Domain shows that despite severe rental shortages, landlords are facing challenges to increasing rent due to tenants hitting affordability limits.
+- Trump backs away from top aides who reportedly advised pro-Russia government — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska
+  President floats firing Chris LaCivita and James Blair over any ‘conflict’ after reports of work in Republika Srpska Donald Trump distanced himself from two top advisers on Wednesday, claiming he did…
+(+69 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
+- 8 New Cisco Workplace And AI Innovations Unveiled At WebexOne 2026 — CRN · 09 Oct · https://www.crn.com.au/news-network/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexon
+  Cisco is bringing new AI agents, smart workplace management capabilities, collaboration hardware and customer experience technology to Webex and Cisco Cloud Control as it pushes its vision of…
+- Partner Content: Why demand mapping is now as important as partner certifications — CRN · 08 Oct · https://www.crn.com.au/sponsored/partner-content-why-demand-mapping-is-now-as-important-as-partner-certifications
+  AI is compressing sales timelines and making demand mapping a key partner capability.
+- ThreatLocker is sponsoring an F1 team, but not for the reason you think — CRN · 08 Oct · https://www.crn.com.au/news/2026/cybersecurity/danny-jenkins-ceo-threatlocker-interview-2026
+  CEO Danny Jenkins tells CRN why he’s spending money on one of the world’s most lucrative sports.
+- Dicker Data acquires Sektor for NZ$138M — ARN +1 (CRN) · 06 Oct · https://www.arnnet.com.au/article/4231004/dicker-data-acquires-sektor-for-nz138m-2.html
+  Dicker Data has acquired Asia Pacific distributor, Sektor Group for NZ$138 million, marking a significant milestone in its ambitions to break into the South-East Asia market. Sektor was established…
 - Telstra looks to support WA’s digital ambitions with Aura Network launch — ARN · 08 Oct · https://www.arnnet.com.au/article/4232253/telstra-looks-to-support-was-digital-ambitions-with-aura-network-launch.html
   Telstra has outlined ambitions to turn Western Australia into a stronger digital gateway to international markets, with its Aura Network at the centre of the strategy. With the launch of its…
 - C4X Technology Architects supports Genea Biomedx with technology transformation — iTnews · 08 Oct · https://www.itnews.com.au/itnews-tv/c4x-technology-architects-supports-genea-biomedx-with-technology-transformation-629489
   Highly Commended project in the Techpartner.news Impact Awards. Hear from Leo Raikhman, director and co-founder at C4X Technology Architects.
 - Cisco finds AI puts network capacity under pressure — ARN · 08 Oct · https://www.arnnet.com.au/article/4232189/cisco-finds-ai-puts-network-capacity-under-pressure.html
   Modernising networks early better position businesses to support AI agents, real-time applications and future innovations at scale. Those that fail to upgrade their networks could risk performance…
+- N-able signs new distribution deal with Leader to bolster security — CRN · 08 Oct · https://www.crn.com.au/news/2026/distributor/nable-leader-distribution-deal
+  The MSP-focused platform wants to continue growing its reach across Australia.
 - Australia’s perfect storm of AI, cyber security and skills shortages — ARN · 08 Oct · https://www.arnnet.com.au/article/4231601/australias-perfect-storm-of-ai-cyber-security-and-skills-shortages.html
   Australia’s artificial Intelligence ambition is facing a reality check as growing demand for specialist technology talent, industry shortages, cybersecurity capability gaps and a shrinking technology…
+- Schneider Electric CEO: US$22.6B PTC Deal Creates ‘Next Generation’ Of Industrial AI — CRN · 08 Oct · https://www.crn.com.au/news-network/ai/2026/schneider-electric-ceo-22
+  Schneider Electric’s Olivier Blum explains his acquisition of software company PTC for US$22.6 billion to create the next generation of industrial AI.
+- Dell Supercharges Enterprise AI Push With New Agents, Accelerated Data Prep And Cloud Storage — CRN · 08 Oct · https://www.crn.com.au/news-network/storage/2026/dell-supercharges-enterprise-ai-push-with-new-agents
+  Dell’s newly-expanded AI Data Platform is aimed at helping enterprises more quickly see concrete results from their AI projects, particularly in getting their data AI-ready.
+- Six Months After Mythos, Here’s How AI Is Shaking Up Vulnerability Management: Experts — CRN · 08 Oct · https://www.crn.com.au/news-network/security/2026/six-months-after-mythos
+  The arrival of ultra-powerful AI models for vulnerability discovery that began with Anthropic’s Claude Mythos earlier this year has jolted the industry into making widespread changes in exposure…
 - Microsoft brings more AI to PCs — iTnews · 08 Oct · https://www.itnews.com.au/news/microsoft-brings-more-ai-to-pcs-629506
   As it challenges Apple.
 - CSIRO finds permanent CISO — iTnews · 08 Oct · https://www.itnews.com.au/news/csiro-finds-permanent-ciso-629495
@@ -128,20 +135,30 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Security vendor BeyondTrust has appointed Brendon Thwaites as APAC director of partner ecosystems. Based in Sydney, Thwaites will help partners build and scale profitable BeyondTrust practices across…
 - Customer Science realigns leadership to target US market — ARN · 07 Oct · https://www.arnnet.com.au/article/4231488/customer-science-realigns-leadership-to-target-us-market.html
   Sydney-based customer experience and digital transformation agency Customer Science has realigned its leadership as it looks to expand into the North American market. This realignment will see chief…
+- Cisco, LeapXpert Take On Shadow Communication With Webex-WhatsApp Tie-Up — CRN · 07 Oct · https://www.crn.com.au/news-network/networking/2026/cisco-leapxpert-take-on-shadow-communication-with-webex-whatsapp-tie-up
+  LeapXpert’s compliant messaging platform is coming to Webex, allowing regulated and enterprise customers to securely engage clients on WhatsApp while maintaining security, governance and archiving…
+- Microsoft Delays Default Copilot Usage-Based Billing To Dec. 1, Adds Spending Cap Option — CRN · 07 Oct · https://www.crn.com.au/news-network/ai/2026/microsoft-delays-default-copilot-usage-based-billing-to-dec
+  Microsoft delayed default Copilot usage-based billing to Dec. 1 and revealed ways for partners to limit customer spending.
 - Microsoft expands incentives as partner responsibilities grow — ARN · 07 Oct · https://www.arnnet.com.au/article/4230970/microsoft-expands-incentives-as-partner-responsibilities-grow.html
   Microsoft has rolled out a series of channel updates aimed at giving partners a bigger advisory role with customers, including greater responsibility for cost management, billing and growth. At the…
-- SUBCO eyes cable laying ship and survey drone — iTnews · 07 Oct · https://www.itnews.com.au/news/subco-eyes-cable-laying-ship-and-survey-drone-629451
-  Would seek government investment in vessel.
+- VMware ‘Isn’t The Right Business For Everybody:’ Broadcom Channel Exec Says Insight Deauthorized In North America For Not Meeting Program Requirements — CRN · 07 Oct · https://www.crn.com.au/news-network/virtualization/2026/vmware-isn-t-the-right-business-for-everybody-broadcom-cha
+  Here’s a look at why Broadcom VMware Global Partner Marketing and Partner Program Office Chief Laura Falko says Insight Enterprises was deauthorized in North America.
 - Health's data modernisation on GCP reaches $32.8m — iTnews · 07 Oct · https://www.itnews.com.au/news/healths-data-modernisation-on-gcp-reaches-328m-629417
   After being unveiled back in 2024.
+- SUBCO eyes cable laying ship and survey drone — iTnews · 07 Oct · https://www.itnews.com.au/news/subco-eyes-cable-laying-ship-and-survey-drone-629451
+  Would seek government investment in vessel.
 - Anthropic opens its most powerful AI models to more security teams — iTnews · 07 Oct · https://www.itnews.com.au/news/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams-629461
   Multiple tiers of access unveiled.
 - Atlassian Data Centre products hit by unauthenticated file access vulnerability — iTnews · 07 Oct · https://www.itnews.com.au/news/atlassian-data-centre-products-hit-by-unauthenticated-file-access-vulnerability-629460
   Take internet-facing instances offline if they can't be patched immediately.
-- Dicker Data acquires Sektor for NZ$138M — ARN · 06 Oct · https://www.arnnet.com.au/article/4231004/dicker-data-acquires-sektor-for-nz138m-2.html
-  Dicker Data has acquired Asia Pacific distributor, Sektor Group for NZ$138 million, marking a significant milestone in its ambitions to break into the South-East Asia market. Sektor was established…
+- Increased complexities and costs: Cybersecurity vendors on how the channel is shifting — CRN · 06 Oct · https://www.crn.com.au/news/2026/cybersecurity/cybersecurity-vendors-on-how-the-channel-is-shifting
+  Leaders from Check Point, OpenText Cybersecurity and WatchGuard Technologies give us their take on the current market.
 - ArgentEdge expands into Auckland, appoints Alan Key as chair — ARN · 06 Oct · https://www.arnnet.com.au/article/4230965/argentedge-expands-into-auckland-appoints-alan-key-as-chair.html
   Australian AI consultancy ArgentEdge is accelerating its expansion into New Zealand with the opening of an Auckland office, alongside the appointment of former Dialog Information Technology founder…
+- Powerlink Queensland partners with Atturra on SAP incident management system — CRN · 06 Oct · https://www.crn.com.au/news/2026/transformation/powerlink-queensland-partners-with-atturra-on-sap-incident-management-system
+  Improves incident, risk and hazard management and is built with native SAP integration.
+- Channel Change: All the movements you might’ve missed in September — CRN · 06 Oct · https://www.crn.com.au/news/2026/channel-news/channel-change-september-aussie-it-channel-movements
+  Movements include a new HP commercial director and a big Red Hat move.
 - CRMIT Australia expands into consultancy with Brooke Global acquisition — ARN · 06 Oct · https://www.arnnet.com.au/article/4230875/crmit-australia-expands-into-consultancy-with-brooke-global-acquisition.html
   Enterprise technology service provider (TSP) CRMIT Australia has acquired Brooke Global – to strengthen its consulting and business transformation capabilities. Both organisations have a shared…
 - Microsoft spots new twist on ClickFix "cache smuggling" — iTnews · 06 Oct · https://www.itnews.com.au/news/microsoft-spots-new-twist-on-clickfix-cache-smuggling-629401
@@ -150,16 +167,40 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After Meta's Muse draws complaints.
 - Australia's Firmus to allocate half of IPO to existing investors — iTnews · 06 Oct · https://www.itnews.com.au/news/australias-firmus-to-allocate-half-of-ipo-to-existing-investors-629422
   AI factory builder prepares float.
+- Aussie MSSPs explain what keeps them up at night — CRN · 05 Oct · https://www.crn.com.au/news/2026/cybersecurity/mssp-cybersecurity-landscape-outlook
+  As part of Global Cybersecurity Week, we asked three cybersecurity partners about the trends in the market.
 - Colonial First State turns marketing automation into an always-on engagement engine — iTnews · 05 Oct · https://www.itnews.com.au/news/colonial-first-state-turns-marketing-automation-into-an-always-on-engagement-engine-629251
   Connecting members to their super.
 - NSW National Parks web app accessed by OpenAI agent — iTnews · 04 Oct · https://www.itnews.com.au/news/nsw-national-parks-web-app-accessed-by-openai-agent-629402
   Incident classified as a "misalignment".
+- ESET Launches AI-Era Security Portfolio — CRN · 03 Oct · https://www.crn.com.au/news-network/ai/2026/eset-launches-ai-era-security-portfolio
+  ESET launched its new Protect portfolio with AI agent security, managed detection and response, cyber warranty and seat-based pricing designed to help partners scale in the AI era.
+- NetApp CEO George Kurian: ‘We Are Light Years Ahead Of Everybody Else’ In Cloud, AI — CRN · 03 Oct · https://www.crn.com.au/news-network/ai/2026/netapp-ceo-george-kurian-we-are-light-years-ahead-of-everyb
+  NetApp CEO George Kurian told CRN that his company is committed to bringing the highest performance and scalable data architecture to cloud and AI environments.
+- HPE Networking Chief Rahim: ‘Partner Day One’ Creates Major Cross-Selling Opportunity For Partners — CRN · 03 Oct · https://www.crn.com.au/news-network/networking/2026/hpe-networking-chief-rahim-partner-day-one-creates-major-c
+  Here’s a look at how HPE Networking is raising the bar on the “channel opportunity” with a “Partner Day One” integration of the Juniper and Aruba partner programs along with a modern new integrated…
+- Accenture CEO: ‘AI Is Now Embedded Across All Of Our Work’ As Demand Surges — CRN · 03 Oct · https://www.crn.com.au/news-network/channel-news/2026/accenture-ceo-ai-is-now-embedded-across-all-of-our-work-as
+  Accenture, which saw its stock gain on Thursday after reporting fourth-quarter earnings, is seeing AI demand rise as productivity gains boost the firm’s bottom line.
+- New Everpure ANZ partner lead discusses her new role and why it feels like “home” — CRN · 02 Oct · https://www.crn.com.au/news/2026/storage/new-everpure-anz-partner-lead-discusses-her-role-and-future-plans
+  Alison McQuarrie has more than 25 years experience in the Aussie channel.
 - Building influence, not just authority: Lessons for emerging leaders — ARN · 02 Oct · https://www.arnnet.com.au/article/4229834/building-influence-not-just-authority-lessons-for-emerging-leaders.html
   Leadership isn’t reserved for people with the right title. Increasingly, career success in the technology industry comes down to something far more valuable: influence. That’s a key theme set to be…
+- Why MSPs sometimes need to go deeper than incident response to solve an IT issue — CRN · 02 Oct · https://www.crn.com.au/news/2026/partners/why-msps-sometimes-need-to-go-deeper-than-incident-response
+  Mervyn Jackson, founder and principal consultant at IT ICU explains why the root cause is hard to find for MSPs.
 - Virtualplatform looks to disrupt traditional telco service model — ARN · 02 Oct · https://www.arnnet.com.au/article/4229339/virtualplatform-looks-to-disrupt-traditional-telco-service-model.html
   As MSPs increasingly deliver connectivity, cloud, security and AI services as a single offering. Having a traditional platform potentially limit an MSP’s ability to scale efficiently and deliver…
 - Avanade elevates AI leader Ben Beath to chief AI role — ARN · 02 Oct · https://www.arnnet.com.au/article/4229350/avanade-elevates-ai-leader-ben-beath-to-chief-ai-role.html
   Avanade has signalled that AI has become a core business and transformation priority with the appointment of its AI acceleration lead Ben Beath to the role of chief AI officer. Beath has been with…
+- NetApp Bets On Peak:AIO Acquisition To Provide New Performance Firepower In AI Data Battle — CRN · 02 Oct · https://www.crn.com.au/news-network/storage/2026/netapp-bets-on-peakaio-acquisition-to-provide-new-performanc
+  NetApp wants to acquire Peak:AIO to provide the kind of orchestration needed to build high-performance exascale data infrastructures targeting AI workloads.
+- Accenture Cyber Exec: Industry Is Moving Beyond ‘Whack-A-Mole’ Patching Amid AI-Driven Vulnerability Surge — CRN · 02 Oct · https://www.crn.com.au/news-network/security/2026/accenture-cyber-exec-industry-is-moving-beyond-whack-a-mole
+  Many businesses are moving beyond an initial focus on faster patching in response to surging vulnerability discovery by frontier AI models, and are increasingly rethinking how to identify and reduce…
+- Microsoft Enables Consumption Billing By Default For Copilot Business: 5 Things To Know — CRN · 02 Oct · https://www.crn.com.au/news-network/ai/2026/microsoft-usage-based-billing-in-copilot-business-5-things-t
+  Microsoft is enabling usage-based billing by default for new Microsoft 365 Copilot Business purchases. Here’s what solution providers need to know about Copilot Credits, spending controls, pricing…
+- How Everpure enables its partners as it narrows its focuses on enterprise customers — CRN · 02 Oct · https://www.crn.com.au/news/2026/storage/everpure-enterprise-play-partners
+  Speaking at Everpure Accelerate in Melbourne, Altay Ayyuce explains how they’re going deeper with fewer partners.
+- HPE Forecasts Data Center Networking Bonanza, Inks US$1.2B AMD Helios AI Rack Deal — CRN · 02 Oct · https://www.crn.com.au/news-network/networking/2026/hpe-forecasts-data-center-networking-bonanza
+  0
 - NSW Health uses AI to help map staff access to digital patient record system — iTnews · 02 Oct · https://www.itnews.com.au/news/nsw-health-uses-ai-to-help-map-staff-access-to-digital-patient-record-system-629328
   Runs Amazon Bedrock.
 - Chinese hackers impersonated ex-US official to steal emails from AI experts — iTnews · 02 Oct · https://www.itnews.com.au/news/chinese-hackers-impersonated-ex-us-official-to-steal-emails-from-ai-experts-629370
@@ -386,23 +427,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 08 Oct 13:52 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 08 Oct 13:52 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 08 Oct 13:52 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 08 Oct 13:52 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 08 Oct 13:52 | 22 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 08 Oct 13:52 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | Problem: HTTP 404 (trial) | never |  |  |
-| ARN | OK (trial) | 08 Oct 13:52 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 08 Oct 13:52 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 08 Oct 13:52 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 08 Oct 13:52 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 08 Oct 13:52 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 08 Oct 13:52 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 08 Oct 13:52 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 08 Oct 13:52 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 08 Oct 13:52 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 08 Oct 13:52 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 08 Oct 13:52 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 08 Oct 15:29 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 08 Oct 15:29 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 08 Oct 15:29 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 08 Oct 15:29 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 08 Oct 15:29 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 08 Oct 15:29 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 08 Oct 15:29 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 08 Oct 15:29 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 08 Oct 15:29 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 08 Oct 15:29 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 08 Oct 15:29 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 08 Oct 15:29 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 08 Oct 15:29 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 08 Oct 15:29 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 08 Oct 15:29 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 08 Oct 15:29 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 08 Oct 15:29 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 08 Oct 15:29 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 15,733 tokens._
+_Approximate reading cost of this digest: 17,574 tokens._
