@@ -11,6 +11,7 @@ between requests so it is polite to every site.
 """
 
 import datetime as dt
+import html
 import os
 import re
 import time
@@ -27,26 +28,44 @@ USER_AGENT = (
 
 # (name, address, kind, where the address came from)
 # kind: "feed" = RSS/Atom feed, "page" = ordinary web page
+# Round 2: candidates for the "Technology breakthroughs" and "Green economy" sections.
+# Round 1 (the nine original sources) all passed on 7 Oct 2026 and are recorded in the project.
+# kind "abc-topic" = an ABC topic page; the script finds the page's ContentId and
+# builds the feed address from it (abc.net.au/news/feed/<ContentId>/rss.xml).
 SOURCES = [
-    ("ABC News - Top Stories", "https://www.abc.net.au/news/feed/10719986/rss.xml", "feed",
-     "Tested by Claude: works"),
-    ("BBC News - World", "https://feeds.bbci.co.uk/news/world/rss.xml", "feed",
-     "Found in search; blocked for Claude"),
-    ("Guardian - Australia news", "https://www.theguardian.com/australia-news/rss", "feed",
+    # --- Technology breakthroughs ---
+    ("BBC - Science & Environment", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "feed",
+     "Listed on feeder.co"),
+    ("BBC - Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml", "feed",
+     "Listed on feeder.co"),
+    ("Guardian - Science", "https://www.theguardian.com/science/rss", "feed",
      "ASSUMED from Guardian's address pattern"),
-    ("Guardian - World news", "https://www.theguardian.com/world/rss", "feed",
+    ("Guardian - Technology", "https://www.theguardian.com/technology/rss", "feed",
      "ASSUMED from Guardian's address pattern"),
-    ("SMH - Latest", "https://www.smh.com.au/rss/feed.xml", "feed",
-     "Listed in a feed directory; blocked for Claude"),
-    ("iTnews", "https://www.itnews.com.au/rss/rss.ashx", "feed",
-     "Tested by Claude: works"),
-    ("CarExpert", "https://www.carexpert.com.au/feed", "feed",
-     "Tested by Claude: works"),
-    ("WhichCar - Car news", "https://www.whichcar.com.au/car-news", "page",
-     "Tested by Claude: works"),
-    ("Loft For Words - QPR news", "https://www.fansnetwork.co.uk/football/queensparkrangers/news/", "page",
-     "Tested by Claude: works"),
+    ("Nature", "https://www.nature.com/nature.rss", "feed",
+     "Seen in a dataset of feed files"),
+    ("Quanta Magazine", "https://www.quantamagazine.org/feed/", "feed",
+     "ASSUMED (standard WordPress feed address)"),
+    ("ABC - Science", "https://www.abc.net.au/news/science", "abc-topic",
+     "Feed address discovered from page"),
+    # --- Green economy ---
+    ("Guardian - Climate crisis", "https://www.theguardian.com/environment/climate-crisis/rss", "feed",
+     "ASSUMED from Guardian's address pattern"),
+    ("Guardian - Renewable energy", "https://www.theguardian.com/environment/renewableenergy/rss", "feed",
+     "ASSUMED from Guardian's address pattern"),
+    ("Guardian - Australia environment", "https://www.theguardian.com/au/environment/rss", "feed",
+     "ASSUMED from Guardian's address pattern"),
+    ("Carbon Brief", "https://www.carbonbrief.org/feed", "feed",
+     "ASSUMED (standard WordPress feed address)"),
+    ("RenewEconomy", "https://reneweconomy.com.au/feed", "feed",
+     "ASSUMED (standard WordPress feed address); advocacy-leaning, tested for comparison"),
+    ("ABC - Environment", "https://www.abc.net.au/news/environment", "abc-topic",
+     "Feed address discovered from page"),
+    ("ABC - Climate change topic", "https://www.abc.net.au/news/topic/climate-change", "abc-topic",
+     "Feed address discovered from page"),
 ]
+
+HEADLINES_TO_SHOW = 8
 
 PAUSE_SECONDS = 2
 TIMEOUT_SECONDS = 30
@@ -147,6 +166,45 @@ def analyse_feed(body):
     }
 
 
+CDATA_RE = re.compile(r"<!\[CDATA\[(.*?)\]\]>", re.S)
+ABC_META_RE = re.compile(
+    r"<meta[^>]+name=[\"']ContentId[\"'][^>]+content=[\"'](\d+)"
+    r"|<meta[^>]+content=[\"'](\d+)[\"'][^>]+name=[\"']ContentId[\"']", re.I)
+ABC_ANY_RE = re.compile(r"ContentId[\"']?\s*[:=]\s*[\"']?(\d{3,12})", re.I)
+
+
+def headlines(body, limit):
+    """Return the first few story titles from a feed, cleaned up for reading."""
+    titles = []
+    for match in ITEM_RE.finditer(body):
+        found = re.search(r"<title[^>]*>(.*?)</title>", match.group(0), re.S | re.I)
+        if not found:
+            continue
+        text = CDATA_RE.sub(r"\1", found.group(1))
+        text = html.unescape(re.sub(r"<[^>]+>", "", text)).strip()
+        text = " ".join(text.split())
+        if text:
+            titles.append(text.replace("|", "/")[:140])
+        if len(titles) >= limit:
+            break
+    return titles
+
+
+def discover_abc_feed(page_url):
+    """Find an ABC topic page's ContentId and return the matching feed address, or None."""
+    got = fetch(page_url)
+    if got["status"] != 200 or not got["body"]:
+        return None, got["error"] or f"HTTP {got['status']}"
+    found = ABC_META_RE.search(got["body"])
+    content_id = (found.group(1) or found.group(2)) if found else None
+    if not content_id:
+        found = ABC_ANY_RE.search(got["body"])
+        content_id = found.group(1) if found else None
+    if not content_id:
+        return None, "Page loaded but no ContentId found"
+    return f"https://www.abc.net.au/news/feed/{content_id}/rss.xml", ""
+
+
 def analyse_page(body):
     """For ordinary web pages, just report the page title."""
     found = TITLE_RE.search(body)
@@ -159,6 +217,20 @@ def main():
     for index, (name, url, kind, origin) in enumerate(SOURCES):
         if index:
             time.sleep(PAUSE_SECONDS)
+        discovered_note = ""
+        if kind == "abc-topic":
+            feed_url, problem = discover_abc_feed(url)
+            if not feed_url:
+                print(f"{name}: could not find feed ({problem})")
+                rows.append({
+                    "name": name, "url": url, "origin": origin, "robots": "",
+                    "result": f"No feed found: {problem}", "kb": 0, "tokens": 0, "items": "",
+                    "covers": "", "full_text": "", "notes": "", "headlines": [],
+                })
+                continue
+            discovered_note = f"Feed found at {feed_url}"
+            url, kind = feed_url, "feed"
+            time.sleep(PAUSE_SECONDS)
         robots = robots_allowed(url)
         if robots == "no":
             # Respect the site's wishes: record it and move on without fetching.
@@ -167,6 +239,7 @@ def main():
                 "name": name, "url": url, "origin": origin, "robots": robots,
                 "result": "Skipped (robots.txt)", "kb": 0, "tokens": 0, "items": "",
                 "covers": "", "full_text": "", "notes": "Site asks automated tools not to fetch this",
+                "headlines": [],
             })
             continue
         got = fetch(url)
@@ -175,12 +248,14 @@ def main():
         row = {
             "name": name, "url": url, "origin": origin, "robots": robots,
             "result": "OK" if got["status"] == 200 and got["bytes"] else (got["error"] or f"HTTP {got['status']}"),
-            "kb": kb, "tokens": rough_tokens, "items": "", "covers": "", "full_text": "", "notes": "",
+            "kb": kb, "tokens": rough_tokens, "items": "", "covers": "", "full_text": "",
+            "notes": discovered_note, "headlines": [],
         }
         if got["status"] == 200 and got["body"]:
             if kind == "feed":
                 info = analyse_feed(got["body"])
-                row.update(items=info["items"], covers=info["covers"], full_text=info["full_text"])
+                row.update(items=info["items"], covers=info["covers"], full_text=info["full_text"],
+                           headlines=headlines(got["body"], HEADLINES_TO_SHOW))
                 if not info["looks_like_feed"]:
                     row["notes"] = f"Not a feed (content type: {got['content_type'][:40]})"
             else:
@@ -204,6 +279,12 @@ def main():
             f"| {row['name']} | {row['result']} | {row['robots']} | {row['kb']} | {row['tokens']:,} | "
             f"{row['items']} | {row['covers']} | {row['full_text']} | {row['notes']} |"
         )
+    lines += ["", "## Sample headlines (newest first)", ""]
+    for row in rows:
+        if row["headlines"]:
+            lines.append(f"### {row['name']}")
+            lines += [f"- {title}" for title in row["headlines"]]
+            lines.append("")
     lines += ["", "## Addresses tested", ""]
     for row in rows:
         lines.append(f"- **{row['name']}**: {row['url']} ({row['origin']})")
