@@ -1,7 +1,6 @@
 # Weekly paper – story digest
 
-Updated Thu 08 Oct 2026, 17:35 Sydney time. Stories from 01 Oct to 08 Oct. 318 stories held from 17 of 18 sources.
-**Sources with problems:** Loft For Words - QPR match reports (details at the end).
+Updated Thu 08 Oct 2026, 19:31 Sydney time. Stories from 01 Oct to 08 Oct. 351 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -23,12 +22,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
 - Prominent Indigenous elder arrested over child sex assault allegation — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/mick-mundine-arrest-redfern-child-sex-assault-allegation/107242280
   Aboriginal Housing Company boss Mick Mundine has been arrested in Redfern over a historical child sexual assault allegation.
-- Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
-  Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
 - US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
   The US has banned a Chinese Fijian businessman accused of being a member of a criminal network with ties to the Chinese government.
+- Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
+  Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
+- British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband
+  Foreign secretary says former consulate general will remain independent, operational ⁠and serving Palestinian people The foreign secretary, ⁠Ed Miliband, has said Britain’s consulate general…
 
 ## Australian politics and economy – other candidates
 - Overseas, Albanese sees ‘the very definition of climate injustice’ – but at home, he still wants coal — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal
@@ -45,30 +46,38 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
 - Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine
   High court judgment blocking Mount Pleasant mine expansion will not affect state regulation, NSW premier says Get our new political email , free app or daily news podcast Chris Minns says activists…
+- How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
+  Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
+- Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
+  After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
+- Angus Taylor tries to find his place on the migration middle road — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706
+  As the three-cornered migration battle continues, Angus Taylor is trying to position his party in the middle of the government and One Nation.
 - Mamdani is jeered at October 7 vigil as protesters call him traitor to Palestinian cause — SMH · 08 Oct · https://www.smh.com.au/world/north-america/mamdani-is-jeered-at-october-7-vigil-as-protesters-call-him-traitor-to-palestinian-cause-20261008-p613wx.html?ref=rss
   Since his election, New York Mayor Zohran Mamdani has walked a fine line in his stance on the situation in the Middle East.
 - International student cuts risk ‘very significant hole’, universities warn — SMH · 08 Oct · https://www.smh.com.au/national/international-student-cuts-risk-very-significant-hole-universities-warn-20261008-p613k8.html?ref=rss
   Universities were already seeing the impact of rejected international students visas, but recent announcements to further curb migration have anxiety in the sector.
 - Auction clearance rate dives to lowest level since July — as it happened — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/asx-markets-business-news-live-updates-thursday-october-8/107241332
   Five weeks into the spring season, property data firm Cotality said the combined capital clearance rate of 45 per cent was at its lowest level since July.
-- How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
-  Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
 
 ## Other prominent general stories – one outlet
 - OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
   Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
 - ‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires
   Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam…
-- Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing
-  Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our breaking news email , free app or daily news podcast The momentum behind Firmus Technologies’…
 - Bendy elm still standing against all odds crowned UK tree of the year — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/bendy-elm-newcastle-northern-ireland-crowned-uk-tree-of-the-year
   Hundred-and-fifty-year-old Wych elm in Newcastle, Co Down has grown sideways owing to strong winds The “astonishing and bizarre” Bendy Tree in Northern Ireland has been crowned the winner of this…
 - Teenager becomes first person to have testicular tissue transplant in UK — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility
   Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
-- Abortion pill access jumps almost 50% after Australia eases restrictions for pharmacies — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/australia-pill-abortion-restrictions-pharmacies-ntwnfb
-  The number of pharmacies stocking the MS-2 Step medication increased from 2,228 to 4,107 after rules relaxed in 2023 Get our breaking news email , free app or daily news podcast The number of…
+- Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing
+  Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our breaking news email , free app or daily news podcast The momentum behind Firmus Technologies’…
 - Chemistry Nobel awarded for solving mystery of life's asymmetry — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/c6ly038jg0d4o
   The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
+- NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb
+  Police watchdog says Mal Lanyon’s timing in raising the issue was ‘regrettable’ and led to delays Get our breaking news email , free app or daily news podcast The New South Wales police commissioner…
+- High Court's coalmine emissions ruling says 'the quiet part out loud' — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132
+  Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
+- ‘That is a lie’: alleged Alan Jones victim denies family tried to get money out of broadcaster, court hears — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb
+  Youngest complainant in trial alleges Jones put his tongue in his mouth and touched him on the bottom during visit to shock jock’s property Get our breaking news email , free app or daily news…
 - Donald Trump’s Texas rally rocked by repeated protests — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests
   Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president…
 - Major share market float of Firmus in trouble as interest wanes — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/firmus-ipo-underwhelms-before-it-hits-the-market/107241548
@@ -77,26 +86,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Bab el-Mandeb Strait has become a "lifeline" for global trade. But in the battle between Saudi-backed Yemeni forces and the Houthis, it's even more important.
 - 'Enough is enough': Alan Jones emails to 17yo read in court — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-alan-jones-accuser-denies-deceiving-broadcaster/107237644
   A court is read extensive correspondences Alan Jones had with a 17-year-old boy after he asked for help with his family's financial struggles.
-- Snowtown serial killer James Vlassakis walks out of Adelaide Pre-release Centre — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/first-images-of-snowtown-murderer-james-vlassakis/107242384
-  Snowtown murderer James Spyridon Vlassakis has been filmed leaving the Adelaide Pre-release Centre after having his parole confirmed almost a month ago.
 - Spanish pensioner whose eviction sparked nationwide protests dies, union says — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo
   Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
 - Schoolboy suffers burns to 90pc of his body after car firebombing goes wrong — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/taylors-hill-firebombing-teen-took-orders-middlemen/107241702
   The teenager is fighting for life after being engulfed in flames during the arson attack in Melbourne's north-west on Monday.
 - Patricia Krenwinkel, former Manson follower, granted parole for third time — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole
   The 78-year-old has spent nearly six decades in prison and California governor has overturned last two parole grants Patricia Krenwinkel, a former Charles Manson follower, was granted parole on…
-- Man jailed for luring 4yo girl away from front yard and raping her — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/nathaniel-farrell-jailed-rape-4yo-girl-darwin-town-camp/107241576
-  A man who approached a four-year-old girl playing in the front yard of a house at a Darwin town camp and lured her away to violently rape her has been sentenced to 10 years in prison.
-- Rubio in Greece digs into past to tout Trump’s ‘America first’ approach — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/07/rubio-greece-trump-america-first-speech
-  In the shadow of the Parthenon, the secretary of state gave a selective reading of history as he urged Europe to ‘awaken from its slumber’ The US secretary of state, Marco Rubio, delivered a…
 - ‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins
   People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive Ahmed Ishtaiwi has six chairs. They are cheap and plastic and…
-- María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87 — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies
-  Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis ‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on…
-- Data shows rental tenants have hit breaking point — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/tenants-hit-breaking-point-record-rent-costs-according-to-domain/107238110
-  New data from Domain shows that despite severe rental shortages, landlords are facing challenges to increasing rent due to tenants hitting affordability limits.
-- Aussies hit back at ex-players in build-up to first South Africa Test — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/australia-south-africa-first-test-durban-travis-head/107241292
-  Travis Head accuses former Australian players of levelling unfair criticism at the current Test squad, saying the game has changed significantly since they played.
 - Houthi forces appear to make slow advance in south-west Yemen — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport
   Group’s fighters hit key airport in Aden with explosive moments before plane from Cairo was due to land Houthi forces appeared to be making slow advances on Wednesday in south-west Yemen, approaching…
 - Canada suspends plans to expand assisted dying to people with mental illness — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cqd09g0gj50ko
@@ -105,11 +102,21 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls More fire, more ash, more crime, more death. And a globally important ecosystem…
 - Canada to indefinitely bar mental illness as sole reason for access to euthanasia — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness
   Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada ’s federal government said on Wednesday it would advance legislation to…
-(+89 more not listed)
+- Firefighter looked shark in the eye before it bit off his leg — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/geraldton-shark-attack-victim-mel-ismail-speaks/107233326
+  Speaking for the first time since he survived the attack last month, Mel Ismail recalls the moment he looked the apex predator in the eye.
+- Israelis demand accountability over 7 October failures three years after attacks — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c5zjx7xx3487o
+  Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
+- ‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel
+  Forced closure marks low point in UK-Israeli relations, with reports UK is considering retaliatory expulsion of Israeli diplomats from London The UK consulate in East Jerusalem gave few signs it was…
+- ‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election
+  After a surprise first-round victory, critics suggest son of disgraced ex-president could seek to continue his father’s authoritarian project Flávio’s surprise first-round win highlights rapid rise…
+(+110 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - 8 New Cisco Workplace And AI Innovations Unveiled At WebexOne 2026 — CRN · 09 Oct · https://www.crn.com.au/news-network/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexon
   Cisco is bringing new AI agents, smart workplace management capabilities, collaboration hardware and customer experience technology to Webex and Cisco Cloud Control as it pushes its vision of…
+- NT government recovers from lengthy network outage — iTnews · 08 Oct · https://www.itnews.com.au/news/nt-government-recovers-from-lengthy-network-outage-629518
+  Impacted telecommunications and access to digital systems.
 - CrowdStrike says China-based suspect used AI tools in South Korean bank hacks — iTnews · 08 Oct · https://www.itnews.com.au/news/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-629513
   Clues found through analysis of AI coding-tool sessions.
 - Attackers hijack ccTLDs to fake certs for Google — iTnews · 08 Oct · https://www.itnews.com.au/news/attackers-hijack-cctlds-to-fake-certs-for-google-629504
@@ -224,12 +231,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Not left to telco discretion.
 
 ## Technology news (BBC, Guardian)
+- Molly Russell’s father to tell UK cinemagoers: ‘Instagram helped kill my daughter’ — Guardian · 08 Oct · https://www.theguardian.com/media/2026/oct/08/molly-russell-father-uk-cinemas-the-social-reckoning
+  In ad to be shown before The Social Reckoning, Ian Russell will say ‘too little has changed’ since death of Molly, 14 The father of Molly Russell will tell UK cinemagoers “Instagram helped kill my…
 - AI chip boom pushes Samsung profits to record $80bn — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c687z8127302o
   The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
 - Fuel prices added to Google Maps as petrol and diesel costs soar — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo
   A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.
 - OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o
   The research found that important guardrails for teens using ChatGPT often failed.
+- EU drops sponsorship of disinformation conference at Trump officials’ request — Guardian · 08 Oct · https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference
+  Lithuania and Canada were also pressured to withdraw, and days before #Disinfo2026, logos were wiped off website The Trump administration pressured multiple countries to withdraw their sponsorship of…
 - The AI industry is booming. Women are getting left behind — Guardian · 08 Oct · https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality
   Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a common fear among people who work in Silicon Valley: snag one of the fast-growing…
 - Dyson, Breville, Apple: the 59 best Amazon Prime Day deals actually worth it, obsessively vetted by us — Guardian · 08 Oct · https://www.theguardian.com/thefilter-us/2026/oct/07/best-amazon-prime-day-deals-october
@@ -260,12 +271,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Latest model is launching in New York to target rich US buyers – and is more than 5.2 metres long and 2 metres wide It has no rear window, will not fit into a UK parking space and – starting at…
 - Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cj3vqxldglepo
   Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try
+- Google told to halt work on datacentres in Finland over environmental concerns — Guardian +1 (BBC) · 07 Oct · https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment
+  Order on two construction sites comes after Google failed to carry out environmental impact assessments Google has been ordered to temporarily stop work on two datacentres in Finland after failing to…
 - Asos confirms hackers sent 'unauthorised' notification to app users — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o
   Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.
-- Finland orders halt to work on two Google data centres — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o
-  The order affecting two planned data centres follows concerns over forest clearance.
 - Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire — Guardian · 07 Oct · https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review
   New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield On the day that Luca Guadagnino ’s film about Sam Altman and OpenAI…
+- Who owns ‘brain rot’? Inside the international legal drama over a beloved meme — Guardian · 07 Oct · https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video
+  Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of online video…
 - Ofcom investigates Meta over Instagram Instants safety checks — Guardian +1 (BBC) · 07 Oct · https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks
   Watchdog examining whether company carried out adequate risk assessment as required by Online Safety Act Mark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digital…
 - Silver Pines review – a stylish, neo-noir detective drama — Guardian · 07 Oct · https://www.theguardian.com/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17
@@ -296,6 +309,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Xbox, PC (version tested); The Coalition/Xbox Game Studios E-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointing Every Gears of War game released in…
 
 ## Cars (CarExpert)
+- Porsche teases mid-engined hypercar but axes plans for petrol Boxster, Cayman successor — CarExpert · 08 Oct · https://www.carexpert.com.au/car-news/porsche-teases-mid-engined-hypercar-but-axes-plans-for-petrol-boxster-cayman-successor
+  Porsche's next 718 will only be offered with electric power, but it will build a new flagship sports car that's set to use a combustion engine.
 - 2027 Nissan Navara Pro PHEV ute confirmed for Australia with 300kW and 800Nm — CarExpert · 08 Oct · https://www.carexpert.com.au/car-news/2027-nissan-navara-pro-phev-ute-confirmed-for-australia-with-300kw-and-800nm
   The Nissan Navara Pro PHEV ute will take on the popular BYD Shark 6 when it arrives here in 2027, after an extensive localisation program.
 - 2027 Hyundai Inster price cut, lineup trimmed in Australia – UPDATE — CarExpert · 08 Oct · https://www.carexpert.com.au/car-news/2027-hyundai-inster-price-cut-lineup-trimmed-in-australia
@@ -386,6 +401,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on health They were born into a Britain still recovering from the hardships of…
 - A beautiful Himalayan bird is changing its voice due to human activity, research shows — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cq9868z88rexo
   A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.
+- Making scents: could AI help perfumers take pressure off endangered plants? — Guardian · 07 Oct · https://www.theguardian.com/science/2026/oct/06/fragrance-biotechnology-endangered-plants-perfume
+  Firms working on reproducing compounds without need for repeated harvesting but conservationists are sceptical Many of the world’s most expensive perfumes begin with a wounded tree. When some…
 - Nobel prize in physics goes to Francis Halzen for south pole work on neutrinos — Guardian · 06 Oct · https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector
   Belgian physicist praised for work on the IceCube detector that observes the ghost-like particles in Antarctica The Nobel prize in physics 2026 has been awarded to a researcher who turned an enormous…
 - 'Ghost particles' from space telescope wins physics Nobel — BBC · 06 Oct · https://www.bbc.co.uk/news/articles/cq203mymlvkeo
@@ -448,23 +465,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 08 Oct 17:35 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 08 Oct 17:35 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 08 Oct 17:35 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 08 Oct 17:35 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 08 Oct 17:35 | 22 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 08 Oct 17:35 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 08 Oct 17:35 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 08 Oct 17:35 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 08 Oct 17:35 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 08 Oct 17:35 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 08 Oct 17:35 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 08 Oct 17:35 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 08 Oct 17:35 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 08 Oct 17:35 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 08 Oct 17:35 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 08 Oct 17:35 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 08 Oct 17:35 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | Problem: URLError: <urlopen error [Errno 104] Connection reset by peer> | 08 Oct 15:29 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 08 Oct 19:31 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 08 Oct 19:31 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 08 Oct 19:31 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 08 Oct 19:31 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 08 Oct 19:31 | 24 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 08 Oct 19:31 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 08 Oct 19:31 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 08 Oct 19:31 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 08 Oct 19:31 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 08 Oct 19:31 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 08 Oct 19:31 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 08 Oct 19:31 | 25 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 08 Oct 19:31 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 08 Oct 19:31 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 08 Oct 19:31 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 08 Oct 19:31 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 08 Oct 19:31 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 08 Oct 19:31 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 18,272 tokens._
+_Approximate reading cost of this digest: 19,133 tokens._
