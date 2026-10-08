@@ -1,113 +1,113 @@
 {
- "last_run": "2026-10-08T18:32:03Z",
+ "last_run": "2026-10-08T20:30:54Z",
  "sources": {
   "ABC - Climate change": {
    "last_count": 25,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.abc.net.au/news/feed/1450/rss.xml"
   },
   "ABC News - Top Stories": {
    "last_count": 25,
-   "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 15,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.abc.net.au/news/feed/10719986/rss.xml"
   },
   "ARN": {
    "last_count": 20,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.arnnet.com.au/news/feed/"
   },
   "BBC - Science & Environment": {
    "last_count": 42,
-   "last_new": 1,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 0,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
   },
   "BBC - Technology": {
    "last_count": 21,
-   "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 1,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://feeds.bbci.co.uk/news/technology/rss.xml"
   },
   "BBC - World": {
    "last_count": 36,
-   "last_new": 1,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 2,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://feeds.bbci.co.uk/news/world/rss.xml"
   },
   "CRN Australia": {
    "last_count": 130,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.crn.com.au/rss.xml"
   },
   "CarExpert": {
    "last_count": 30,
-   "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 1,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.carexpert.com.au/feed"
   },
   "Carbon Brief": {
    "last_count": 12,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.carbonbrief.org/feed"
   },
   "Guardian - Australia": {
    "last_count": 20,
    "last_new": 1,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.theguardian.com/australia-news/rss"
   },
   "Guardian - Australia environment": {
    "last_count": 43,
-   "last_new": 1,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 0,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.theguardian.com/au/environment/rss"
   },
   "Guardian - Renewable energy": {
    "last_count": 20,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.theguardian.com/environment/renewableenergy/rss"
   },
   "Guardian - Science": {
    "last_count": 26,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.theguardian.com/science/rss"
   },
   "Guardian - Technology": {
    "last_count": 36,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.theguardian.com/technology/rss"
   },
   "Guardian - World": {
    "last_count": 45,
-   "last_new": 10,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 2,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.theguardian.com/world/rss"
   },
   "Loft For Words - QPR match reports": {
    "last_count": 0,
    "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_success": "2026-10-08T20:30:54Z",
    "max_report": 66912,
    "url_used": "https://www.fansnetwork.co.uk/football/queensparkrangers/news/"
   },
   "SMH - Latest": {
    "last_count": 20,
-   "last_new": 6,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 7,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.smh.com.au/rss/feed.xml"
   },
   "iTnews": {
    "last_count": 20,
-   "last_new": 0,
-   "last_success": "2026-10-08T18:32:03Z",
+   "last_new": 2,
+   "last_success": "2026-10-08T20:30:54Z",
    "url_used": "https://www.itnews.com.au/rss/rss.ashx"
   }
  }
