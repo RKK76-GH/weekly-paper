@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Fri 09 Oct 2026, 09:28 Sydney time. Stories from 02 Oct to 09 Oct. 498 stories held from 18 of 18 sources.
+Updated Fri 09 Oct 2026, 11:40 Sydney time. Stories from 02 Oct to 09 Oct. 524 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -46,12 +46,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
 - Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
   Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
-- Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
-  Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
 - Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
   Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
 - Woman, child found dead in car in dam — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026
   A woman, 36, and a child, 10, from Maryborough have been killed in a double fatal incident on Thursday afternoon.
+- Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
+  Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
 
@@ -76,16 +76,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   High court judgment blocking Mount Pleasant mine expansion will not affect state regulation, NSW premier says Get our new political email , free app or daily news podcast Chris Minns says activists…
 - Taylor thought he'd struck political gold, but Hanson has taken the mine — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/michelle-grattan-migration-policy-liberal-party/107242754
   In the furious debate about migration policy, figures and justifications get easily lost in a quagmire of vocal stakeholders, potential losers and outcomes that may not stand the test of the real…
-- Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
-  After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
 - State government seizes control of City of Sydney’s Town Hall square plan — SMH · 09 Oct · https://www.smh.com.au/national/nsw/state-government-seizes-control-of-city-of-sydney-s-town-hall-square-plan-20261009-p612us.html?ref=rss
   Planning Minister Paul Scully last month sought independent advice on the project, driven by Clover Moore’s council, citing its cost and prominent location.
 - Vegetarian buffet and a ‘free dental’ raffle prize: Greens launch bullish bid to ‘take our country back’ in Victoria — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/victoria-greens-2026-state-election-campaign-launch-david-shoebridge-ellen-sandell
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
-- Building resilience into the real-time economy — SMH · 09 Oct · https://www.smh.com.au/technology/building-resilience-into-the-real-time-economy-20261009-p613gz.html?ref=rss
-  More of Australia’s economy now depends on digital systems operating in real time.
 - Live: Wong says government cannot force tax office to accept credit card payments — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/federal-politics-live-blog-labor-ato-ct-9/107246030
   The foreign minister says the government does not have the power to direct the ATO to reverse its decision to stop accepting credit card payments. Follow live.
+- Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
+  After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
+- Building resilience into the real-time economy — SMH · 09 Oct · https://www.smh.com.au/technology/building-resilience-into-the-real-time-economy-20261009-p613gz.html?ref=rss
+  More of Australia’s economy now depends on digital systems operating in real time.
 - Veterans sue government over 'mass and routine' medical data sharing — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/mates-program-class-action-against-veterans-affairs-department/107215484
   A new class action will allege the federal government breach privacy laws by sharing thousands of ex-ADF members' medical records to an Australian university.
 - Sam has worked as a police officer for nine years, but still struggled to secure a home in Perth’s market — SMH · 09 Oct · https://www.smh.com.au/property/news/sam-has-worked-as-a-police-officer-for-nine-years-but-still-struggled-to-secure-a-home-in-perth-s-market-20261009-p612zt.html?ref=rss
@@ -104,16 +104,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
 - ‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires
   Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam…
-- NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb
-  Police watchdog says Mal Lanyon’s timing in raising the issue was ‘regrettable’ and led to delays Get our breaking news email , free app or daily news podcast The New South Wales police commissioner…
 - Residents airlifted to safety after flooding in central Chile — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ck5yn8jn677vo
   The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.
 - Bachelor star Sam Wood denied bail as police allege he choked woman until she ‘thought she would die’ — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb
   Court heard police attended Wood’s Victorian home over a similar allegation about three years ago, but the woman had not complained out of “fear of retribution” A woman who was allegedly choked and…
+- NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb
+  Police watchdog says Mal Lanyon’s timing in raising the issue was ‘regrettable’ and led to delays Get our breaking news email , free app or daily news podcast The New South Wales police commissioner…
 - Teenager becomes first person to have testicular tissue transplant in UK — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility
   Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
 - Chemistry Nobel awarded for solving mystery of life's asymmetry — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/c6ly038jg0d4o
   The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
+- Astronomers detect mysterious burst of energy from a galaxy far, far away — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves
+  Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was…
 - Spanish pensioner whose eviction sparked nationwide protests dies, union says — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo
   Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
 - Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners
@@ -126,8 +128,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   New ‘support and training centre’ prompts concern in region but China says it is ‘not directed at any third party’ Satellite images show attack jets stationed at a new Chinese military facility in…
 - Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised — Guardian · 07 Oct · https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb
   Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own…
-- The Republican candidates walking a Trump tightrope — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cm93z74e0n9zo
-  Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.
 - Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province — Guardian · 06 Oct · https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc
   Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the…
 - Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads — Guardian · 06 Oct · https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes
@@ -144,15 +144,31 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’ The Indian pilot who helped thwart an apparent attempt to crash a flydubai…
 - Queensland literary awards: ‘stunning’ debut inspired by segregated shantytown wins top prize — Guardian · 08 Oct · https://www.theguardian.com/books/2026/oct/08/queensland-literary-awards-lenora-thaker-the-pearl-of-tagai-town-winner
   Lenora Thaker wins $30,000 prize for ‘a work of state significance’ for The Pearl of Tagai Town, which draws on her family’s history in Cairns-Malay Town A “stunning” debut novel described as…
-- ‘That is a lie’: alleged Alan Jones victim denies family tried to get money out of broadcaster, court hears — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb
-  Youngest complainant in trial alleges Jones put his tongue in his mouth and touched him on the bottom during visit to shock jock’s property Get our breaking news email , free app or daily news…
 - Veteran Indian actor Nana Patekar dies at 75 — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo
   Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.
-(+200 more not listed)
+- France's school protests: what lies behind the anger — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6n9rgg80z94o
+  Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.
+(+218 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
+- Logitech Enterprise Products Reveal: 5 Things To Know — CRN · 10 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-enterprise-products-reveal-5-things-to-know
+  From Sound Shape audio technology to Rally Bar 2 and Tap Scheduler 2, here are five of the biggest announcements from Logitech’s latest enterprise video device launch.
+- 8 Big Intel Channel Changes Impacting Partners — CRN · 10 Oct · https://www.crn.com.au/news-network/components-peripherals/2026/8-big-intel-channel-changes-impacting-partners
+  Here are eight big changes that Intel has made to channel benefits and resources as well as its channel organization since last year.
+- Why Rogue AI Agents Are A Wake-Up Call For Security Teams: Experts — CRN · 10 Oct · https://www.crn.com.au/news-network/security/2026/why-rogue-ai-agents-are-a-wake-up-call-for-security-teams-ex
+  As frontier AI platforms such as OpenAI and Anthropic struggle to keep agents under control, the developments are a clear sign of the need to get much more deliberate around security and governance…
+- Netskope CEO Sanjay Beri: Rogue Agents Make An AI ‘Kill Switch’ Mandatory — CRN · 10 Oct · https://www.crn.com.au/news-network/security/2026/netskope-ceo-sanjay-beri-rogue-agents-make-an-ai-kill-switc
+  When it comes to AI agents that have the potential to go haywire, businesses can’t wait for regulators or AI platform providers to come to the rescue, Netskope CEO Sanjay Beri says during the latest…
+- Australian Nvidia-backed AI data centre operator Firmus shelves IPO — iTnews · 09 Oct · https://www.itnews.com.au/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-629529
+  Would-be investors sceptical.
+- John Walters to chair 1KE — ARN · 09 Oct · https://www.arnnet.com.au/article/4232822/john-walters-to-chair-1ke.html
+  AI-powered presales platform 1KE has named channel veteran John Walters chairman as it aims to help partners convert more sales opportunities into successful solutions. With eight beta customers and…
 - 8 New Cisco Workplace And AI Innovations Unveiled At WebexOne 2026 — CRN · 09 Oct · https://www.crn.com.au/news-network/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexon
   Cisco is bringing new AI agents, smart workplace management capabilities, collaboration hardware and customer experience technology to Webex and Cisco Cloud Control as it pushes its vision of…
+- Specialist security providers carve out cyber security niches — ARN · 09 Oct · https://www.arnnet.com.au/article/4232313/specialist-security-providers-carve-out-cyber-security-niches.html
+  As Australian organisations grapple with the shift in cybersecurity from an IT issue to governance, risk and compliance, demand is growing for managed security services, compliance support and…
+- Bad Meeting Rooms: The Invisible Tax on Productivity — ARN · 09 Oct · https://www.arnnet.com.au/article/4232794/bad-meeting-rooms-the-invisible-tax-on-productivity-2.html
+  Australian workplaces have largely accepted hybrid work as the new way of working, but one critical component of this shift has failed to keep pace: video conferencing (VC) technology. In fact…
 - US freezes Microsoft, Adobe, Infosys green-card applications — iTnews · 09 Oct · https://www.itnews.com.au/news/us-freezes-microsoft-adobe-infosys-green-card-applications-629526
   Over alleged fraud.
 - EasyPark builds an AI agent to help it qualify B2B sales leads — iTnews · 09 Oct · https://www.itnews.com.au/news/easypark-builds-an-ai-agent-to-help-it-qualify-b2b-sales-leads-629474
@@ -249,24 +265,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Alison McQuarrie has more than 25 years experience in the Aussie channel.
 - Building influence, not just authority: Lessons for emerging leaders — ARN · 02 Oct · https://www.arnnet.com.au/article/4229834/building-influence-not-just-authority-lessons-for-emerging-leaders.html
   Leadership isn’t reserved for people with the right title. Increasingly, career success in the technology industry comes down to something far more valuable: influence. That’s a key theme set to be…
-- Why MSPs sometimes need to go deeper than incident response to solve an IT issue — CRN · 02 Oct · https://www.crn.com.au/news/2026/partners/why-msps-sometimes-need-to-go-deeper-than-incident-response
-  Mervyn Jackson, founder and principal consultant at IT ICU explains why the root cause is hard to find for MSPs.
-- Virtualplatform looks to disrupt traditional telco service model — ARN · 02 Oct · https://www.arnnet.com.au/article/4229339/virtualplatform-looks-to-disrupt-traditional-telco-service-model.html
-  As MSPs increasingly deliver connectivity, cloud, security and AI services as a single offering. Having a traditional platform potentially limit an MSP’s ability to scale efficiently and deliver…
-- Avanade elevates AI leader Ben Beath to chief AI role — ARN · 02 Oct · https://www.arnnet.com.au/article/4229350/avanade-elevates-ai-leader-ben-beath-to-chief-ai-role.html
-  Avanade has signalled that AI has become a core business and transformation priority with the appointment of its AI acceleration lead Ben Beath to the role of chief AI officer. Beath has been with…
-- NetApp Bets On Peak:AIO Acquisition To Provide New Performance Firepower In AI Data Battle — CRN · 02 Oct · https://www.crn.com.au/news-network/storage/2026/netapp-bets-on-peakaio-acquisition-to-provide-new-performanc
-  NetApp wants to acquire Peak:AIO to provide the kind of orchestration needed to build high-performance exascale data infrastructures targeting AI workloads.
-- Accenture Cyber Exec: Industry Is Moving Beyond ‘Whack-A-Mole’ Patching Amid AI-Driven Vulnerability Surge — CRN · 02 Oct · https://www.crn.com.au/news-network/security/2026/accenture-cyber-exec-industry-is-moving-beyond-whack-a-mole
-  Many businesses are moving beyond an initial focus on faster patching in response to surging vulnerability discovery by frontier AI models, and are increasingly rethinking how to identify and reduce…
-- Microsoft Enables Consumption Billing By Default For Copilot Business: 5 Things To Know — CRN · 02 Oct · https://www.crn.com.au/news-network/ai/2026/microsoft-usage-based-billing-in-copilot-business-5-things-t
-  Microsoft is enabling usage-based billing by default for new Microsoft 365 Copilot Business purchases. Here’s what solution providers need to know about Copilot Credits, spending controls, pricing…
-- How Everpure enables its partners as it narrows its focuses on enterprise customers — CRN · 02 Oct · https://www.crn.com.au/news/2026/storage/everpure-enterprise-play-partners
-  Speaking at Everpure Accelerate in Melbourne, Altay Ayyuce explains how they’re going deeper with fewer partners.
-- HPE Forecasts Data Center Networking Bonanza, Inks US$1.2B AMD Helios AI Rack Deal — CRN · 02 Oct · https://www.crn.com.au/news-network/networking/2026/hpe-forecasts-data-center-networking-bonanza
-  0
 
 ## Technology news (BBC, Guardian)
+- Why are more roofs not made of solar tiles? — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cdr7n610rmzo
+  Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?
 - White House blocks Microsoft from foreign worker hiring program — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo
   An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.
 - Lourdes gets a Vegas glow-up at Dublin theatre festival, where canvases are slashed — Guardian · 08 Oct · https://www.theguardian.com/stage/2026/oct/08/dublin-theatre-festival-lourdes-the-musical-xnthony-heroes-of-tomorrow-brokentalkers-zinc-dead-centre
@@ -333,6 +335,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   PC, PS5, Switch 2; Wych Elm Games, Team 17 Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a missing…
 - Italian PM files to trademark her voice against AI threats — BBC · 06 Oct · https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo
   Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.
+- OpenAI’s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did … ChatGPT write this? — Guardian · 06 Oct · https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude
+  Kwon’s answers were provided in a helpful, quiet and calm manner, but his mea culpa left the audience not much the wiser Open AI’s Jason Kwon flew 15 hours from San Francisco to Sydney to give the…
 - ‘We’re not going to go away’: the mom fighting for social media reform after her son’s suicide — Guardian · 06 Oct · https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary
   A new documentary follows Kristin Bride as she takes on Congress after the death of her 16-year-old son who was cyberbullied At this point in time, going anywhere without your smartphone feels almost…
 - Lego fraudster among last year's most high-profile insurance scammers — BBC · 06 Oct · https://www.bbc.co.uk/news/articles/cm86z9npj5deo
@@ -355,6 +359,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The former employees were investigated for sharing data with an outside AI evaluation group.
 
 ## Cars (CarExpert)
+- Toyota Australia says sensitive connected-car data "never transmitted" — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/toyota-australia-says-sensitive-connected-car-data-never-transmitted
+  Customer data security is a priority, says Toyota, amid concerns over privacy and the potential for connected vehicles to be hacked.
+- One-off Australian Porsche 911 Turbo S up for bids — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/one-off-australian-porsche-911-turbo-s-up-for-bids
+  The one-of-a-kind 911 created to celebrate Porsche's 75th anniversary in Australia will be sold through an exclusive bidding process.
+- Diesel critical to regional Australia, says Toyota — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/diesel-critical-to-regional-australia-says-toyota
+  Toyota Australia says diesel-powered vehicles remain a key part of its local lineup, especially for buyers in rural areas.
+- Lexus TZ: Luxury three-row electric SUV locked in for Australian launch — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/lexus-tz-luxury-three-row-electric-suv-locked-in-for-australian-launch
+  Lexus will bring its largest electric SUV yet to Australia, the three-row TZ. It's due here during 2027.
 - Volkswagen ID.4 gets updates, higher prices for 2027 despite looming replacement — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/volkswagen-id4-gets-updates-higher-prices-for-2027-despite-looming-replacement
   Despite confirmation it will be replaced, the ID.4 has been given an update for 2027, including a larger battery in the base model.
 - Toyota Australia won’t rule out cheaper Chinese-made cars — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/toyota-australia-wont-rule-out-cheaper-chinese-made-cars
@@ -423,6 +435,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The BMW X3 M50 xDrive performance SUV has received a power bump and a stealthy new Black Package option, with the wider range to receive interior enhancements.
 
 ## Science (Guardian, BBC)
+- Will El Niño and the polar vortex bring snow to the UK this winter? — BBC · 09 Oct · https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o
+  The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.
 - More than 800,000 hours of sewage spills in Wales last year, report claims — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cqwy74e8nyggo
   It is equivalent to a sewage discharge happening every five minutes, according to campaigners.
 - Four astronauts return to Earth from ISS after medical relief mission — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/08/astronauts-return-iss-nasa-spacex
@@ -517,23 +531,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 09 Oct 09:28 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 09 Oct 09:28 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 09 Oct 09:28 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 09 Oct 09:28 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 09 Oct 09:28 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 09 Oct 09:28 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 09 Oct 09:28 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 09 Oct 09:28 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 09 Oct 09:28 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 09 Oct 09:28 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 09 Oct 09:28 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 09 Oct 09:28 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 09 Oct 09:28 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 09 Oct 09:28 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 09 Oct 09:28 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 09 Oct 09:28 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 09 Oct 09:28 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 09 Oct 09:28 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 09 Oct 11:40 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 09 Oct 11:40 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 09 Oct 11:40 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 09 Oct 11:40 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 09 Oct 11:40 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 09 Oct 11:40 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 09 Oct 11:40 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 09 Oct 11:40 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 09 Oct 11:40 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 09 Oct 11:40 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 09 Oct 11:40 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 09 Oct 11:40 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 09 Oct 11:40 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 09 Oct 11:40 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 09 Oct 11:40 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 09 Oct 11:40 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 09 Oct 11:40 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 09 Oct 11:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 21,531 tokens._
+_Approximate reading cost of this digest: 22,038 tokens._
