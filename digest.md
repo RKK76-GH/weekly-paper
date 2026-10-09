@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Fri 09 Oct 2026, 15:29 Sydney time. Stories from 02 Oct to 09 Oct. 562 stories held from 18 of 18 sources.
+Updated Fri 09 Oct 2026, 17:35 Sydney time. Stories from 02 Oct to 09 Oct. 596 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -42,16 +42,22 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The US has banned a Chinese Fijian businessman accused of being a member of a criminal network with ties to the Chinese government.
 - Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
   Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
-- Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
-  Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
+- Adidas accuses Australian label White Fox of ‘trading off its reputation’ with use of four-stripe branding — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb
+  Global sportswear brand is suing online retailer in the federal court for selling clothes featuring ‘deceptively similar’ design Global sportswear brand Adidas claims Australian label White Fox is…
 - Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
   Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
+- Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
+  Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
+- Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
+  Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
+- ICE agent shoots man in New York City with five-year-old in car, mayor says — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent
+  Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot a man in New York City on…
 - Woman, child found dead in car in dam — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026
   A woman, 36, and a child, 10, from Maryborough have been killed in a double fatal incident on Thursday afternoon.
 - Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
   Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
-- Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
-  Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
+- Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
+  An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
 
@@ -80,14 +86,20 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   High court judgment blocking Mount Pleasant mine expansion will not affect state regulation, NSW premier says Get our new political email , free app or daily news podcast Chris Minns says activists…
 - State government seizes control of City of Sydney’s Town Hall square plan — SMH · 09 Oct · https://www.smh.com.au/national/nsw/state-government-seizes-control-of-city-of-sydney-s-town-hall-square-plan-20261009-p612us.html?ref=rss
   Planning Minister Paul Scully last month sought independent advice on the project, driven by Clover Moore’s council, citing its cost and prominent location.
+- Federal government backtracks on disaster funding split — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/federal-government-drops-disaster-funding-changes/107247772
+  In June, the Commonwealth announced plans to split disaster recovery funding 50-50 with states and territories, having previously contributed 64 per cent in Queensland, and up to 75 per cent in other…
 - Live: Wong says government cannot force tax office to accept credit card payments — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/federal-politics-live-blog-labor-ato-ct-9/107246030
   The foreign minister says the government does not have the power to direct the ATO to reverse its decision to stop accepting credit card payments. Follow live.
 - Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
   After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
+- Albanese backflips on controversial disaster funding following backlash — SMH · 09 Oct · https://www.smh.com.au/national/queensland/albanese-backflips-on-controversial-disaster-funding-following-backlash-20261009-p6149d.html?ref=rss
+  Queensland Premier David Crisafulli was a vocal critique of the plan, describing the now ditched proposal as an “unmitigated disaster”.
+- MP Luke Gosling vows to seek Labor preselection despite pending assault case — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/mp-luke-gosling-to-seek-labor-preselection-despite-charges/107248020
+  Member for Solomon Luke Gosling has vowed to recontest his seat at the next federal election, saying future Territorians will "shake their head" at his prosecution for an alleged assault on the…
+- How the card surcharge ban could change our relationship with cash — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/card-surcharge-ban-cash-use-australia/107239200
+  Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.
 - Albanese talked up cheaper coffee, but Chalmers has to swallow his pride — SMH · 09 Oct · https://www.smh.com.au/politics/federal/albanese-talked-up-cheaper-coffee-but-chalmers-has-to-swallow-his-pride-20261009-p6144f.html?ref=rss
   A plan to cut credit card surcharge fees for consumers turned, somehow, into a tale of government hypocrisy and an attack on small business.
-- Federal government backtracks on disaster funding split — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/federal-government-drops-disaster-funding-changes/107247772
-  In June, the Commonwealth announced plans to split disaster recovery funding 50-50 with states and territories, having previously contributed 64 per cent in Queensland, and up to 75 per cent in other…
 - Building resilience into the real-time economy — SMH · 09 Oct · https://www.smh.com.au/technology/building-resilience-into-the-real-time-economy-20261009-p613gz.html?ref=rss
   More of Australia’s economy now depends on digital systems operating in real time.
 - Veterans sue government over 'mass and routine' medical data sharing — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/mates-program-class-action-against-veterans-affairs-department/107215484
@@ -104,20 +116,20 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 ## Other prominent general stories – one outlet
 - OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
   Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
-- High Court's coalmine emissions ruling says 'the quiet part out loud' — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132
-  Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
 - Residents airlifted to safety after flooding in central Chile — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ck5yn8jn677vo
   The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.
+- High Court's coalmine emissions ruling says 'the quiet part out loud' — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132
+  Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
 - ‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires
   Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam…
 - Astronomers detect mysterious burst of energy from a galaxy far, far away — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves
   Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was…
+- Researchers find 180,000 giant tortoises living on island in Seychelles — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles
+  Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tortoise population…
 - Teenager becomes first person to have testicular tissue transplant in UK — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility
   Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
 - Chemistry Nobel awarded for solving mystery of life's asymmetry — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/c6ly038jg0d4o
   The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
-- Researchers find 180,000 giant tortoises living on island in Seychelles — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles
-  Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tortoise population…
 - Spanish pensioner whose eviction sparked nationwide protests dies, union says — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo
   Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
 - Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners
@@ -126,8 +138,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
 - Satellite images show attack jets at Chinese military facility in Laos — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos
   New ‘support and training centre’ prompts concern in region but China says it is ‘not directed at any third party’ Satellite images show attack jets stationed at a new Chinese military facility in…
-- Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised — Guardian · 07 Oct · https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb
-  Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own…
 - Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province — Guardian · 06 Oct · https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc
   Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the…
 - Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads — Guardian · 06 Oct · https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes
@@ -140,19 +150,21 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Up to 300mm of rain could fall in places, while extreme downpours bring landslides and deaths in Nepal Torrential rain and potentially damaging flooding are forecast in eastern Spain over the coming…
 - ‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack — Guardian · 02 Oct · https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack
   Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’ The Indian pilot who helped thwart an apparent attempt to crash a flydubai…
-- Bachelor star Sam Wood denied bail as police allege he choked woman until she ‘thought she would die’ — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb
-  Court heard police attended Wood’s Victorian home over a similar allegation about three years ago, but the woman had not complained out of “fear of retribution” A woman who was allegedly choked and…
-- NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb
-  Police watchdog says Mal Lanyon’s timing in raising the issue was ‘regrettable’ and led to delays Get our breaking news email , free app or daily news podcast The New South Wales police commissioner…
+- Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia
+  The offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in…
 - Veteran Indian actor Nana Patekar dies at 75 — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo
   Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.
 - France's school protests: what lies behind the anger — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6n9rgg80z94o
   Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.
-- Trump wants a new Camp David-like retreat at his Florida golf club — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o
-  Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.
 - Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing
   Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our breaking news email , free app or daily news podcast The momentum behind Firmus Technologies’…
-(+244 more not listed)
+- She made India fall in love with women's cricket - now her era as captain is over — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo
+  The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.
+- Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised — Guardian · 07 Oct · https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb
+  Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own…
+- One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb
+  The inflammatory clip shows the wild west of online politicking created by unrestricted access to AI – and why watchdogs need more powers to do something about it Get our new political email , free…
+(+262 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Logitech Enterprise Products Reveal: 5 Things To Know — CRN · 10 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-enterprise-products-reveal-5-things-to-know
@@ -367,6 +379,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The former employees were investigated for sharing data with an outside AI evaluation group.
 
 ## Cars (CarExpert)
+- Honda to follow Nissan in rebadging Mitsubishi Triton – report — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/honda-to-follow-nissan-in-rebadging-mitsubishi-triton-report
+  Mitsubishi has found yet another brand to rebadge its Triton, with Honda set to sell a version of the ute in Asia, and other markets may follow.
+- GWM offers $5000 discounts on selected SUVs, low-rate finance in October — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/gwm-offers-dollar5000-discounts-on-selected-suvs-low-rate-finance-in-october
+  GWM’s October offers include discounts of up to $5000, low-rate finance and $2000 cash-or-fuel-card bonuses on selected new models.
 - Polestar simplifying options as it aims to improve value for money — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/polestar-simplifying-options-as-it-aims-to-improve-value-for-money
   After cutting prices for the Polestar 4 coupé and SUV, the brand's head of program management says more can be done to sharpen the value equation across the lineup.
 - Toyota Australia says sensitive connected-car data "never transmitted" — CarExpert · 09 Oct · https://www.carexpert.com.au/car-news/toyota-australia-says-sensitive-connected-car-data-never-transmitted
@@ -445,6 +461,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The BMW X3 M50 xDrive performance SUV has received a power bump and a stealthy new Black Package option, with the wider range to receive interior enhancements.
 
 ## Science (Guardian, BBC)
+- Data centre raises noise and wildlife impact fears — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/c5n49x09e3l9o
+  The data centre, which will have 72 chiller units on its roof, will generate 150 jobs, planners hear.
+- £15m spent cleaning illegal waste supersite in ancient woodland — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cq98zdp612pko
+  Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.
 - Will El Niño and the polar vortex bring snow to the UK this winter? — BBC · 09 Oct · https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o
   The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.
 - More than 800,000 hours of sewage spills in Wales last year, report claims — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cqwy74e8nyggo
@@ -507,6 +527,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
+- Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder — Carbon Brief · 09 Oct · https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder
+  A booklet published by the UK’s opposition Conservative party includes a “cost of net-zero” that appears to have been doubled… The post Factcheck: UK Conservatives double the ‘cost of net-zero’ after…
 - MoD has objected to four windfarms in past year over radar interference fears — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears
   Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero The Ministry of Defence has objected to at least four planned windfarms in the past year…
 - World must change way it produces food to avoid biodiversity collapse, says WWF — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/world-must-change-food-avoid-biodiversity-collapse-wwf
@@ -541,23 +563,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 09 Oct 15:29 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 09 Oct 15:29 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 09 Oct 15:29 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 09 Oct 15:29 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 09 Oct 15:29 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 09 Oct 15:29 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 09 Oct 15:29 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 09 Oct 15:29 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 09 Oct 15:29 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 09 Oct 15:29 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 09 Oct 15:29 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 09 Oct 15:29 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 09 Oct 15:29 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 09 Oct 15:29 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 09 Oct 15:29 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 09 Oct 15:29 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 09 Oct 15:29 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 09 Oct 15:29 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 09 Oct 17:35 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 09 Oct 17:35 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 09 Oct 17:35 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 09 Oct 17:35 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 09 Oct 17:35 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 09 Oct 17:35 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 09 Oct 17:35 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 09 Oct 17:35 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 09 Oct 17:35 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 09 Oct 17:35 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 09 Oct 17:35 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 09 Oct 17:35 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 09 Oct 17:35 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 09 Oct 17:35 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 09 Oct 17:35 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 09 Oct 17:35 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 09 Oct 17:35 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 09 Oct 17:35 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 22,439 tokens._
+_Approximate reading cost of this digest: 23,414 tokens._
