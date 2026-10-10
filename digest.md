@@ -1,15 +1,15 @@
 # Weekly paper – story digest
 
-Updated Sun 11 Oct 2026, 03:26 Sydney time. Stories from 04 Oct to 11 Oct. 871 stories held from 18 of 18 sources.
+Updated Sun 11 Oct 2026, 05:29 Sydney time. Stories from 04 Oct to 11 Oct. 881 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
 ## Big stories – covered by two or more outlets (Australia and world)
 Ranked by number of outlets, then by how long they stayed in the feeds.
-- US sanctions 'rogue' ICC hours after former judge wins Nobel Peace Prize — ABC +3 (BBC, Guardian, SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/us-to-sanction-icc-after-trump-overlooked-for-peace-prize/107250264
-  The US announces sanctions on the International Criminal Court, hours after one of its former judges is given the Nobel Peace Prize, which Donald Trump covets.
 - Trump strikes deal with Putin for Russia to supply diesel to US — ABC +3 (BBC, Guardian, SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/trump-strikes-deal-with-putin-for-russia-to-supply-diesel-to-us/107250922
   In an apparent reversal of Washington's campaign to squeeze Russian fuel revenue powering the war in Ukraine, Donald Trump says Moscow will supply diesel to the US.
+- US sanctions 'rogue' ICC hours after former judge wins Nobel Peace Prize — ABC +3 (BBC, Guardian, SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/us-to-sanction-icc-after-trump-overlooked-for-peace-prize/107250264
+  The US announces sanctions on the International Criminal Court, hours after one of its former judges is given the Nobel Peace Prize, which Donald Trump covets.
 - Pentagon says firing squad execution of Fort Hood shooter will be livestreamed — ABC +3 (BBC, Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/hegseth-says-firing-squad-execution-at-fort-hood-will-be-public/107246210
   The United States's first execution by a military firing squad since World War II will be livestreamed, the Pentagon has said.
 - Russian attack on bus stop kills at least 33 in Ukraine, officials say — ABC +3 (BBC, Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/ukraine-russia-bus-stop-strike-attack-bomb/107245320
@@ -32,10 +32,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
 - US imposes new sanctions on international criminal court — Guardian +2 (BBC, SMH) · 10 Oct · https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump
   Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
-- Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
-  Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
 - ‘Cockroach’ leader among thousands detained in Delhi protest crackdown — Guardian +2 (BBC, SMH) · 10 Oct · https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns
   Authorities impose strict lockdown in capital to try to stop rally against removal of 130m names from electoral roll Indian authorities have placed Delhi under a severe lockdown and detained tens of…
+- Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
+  Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
 - Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90 — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software
   MIT computer scientist led development of software for moon mission and earned Presidential Medal of Freedom Margaret Hamilton, the computer pioneer whose software powered the first moon landing, has…
 - Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb
@@ -52,30 +52,32 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hammam al-Hammami’s shift towards extremism began while he was a student in Melbourne, according to Emirati attorney general Get our breaking news email , free app or daily news podcast The co-pilot…
 - Dozens reported injured in Yemeni Houthi attack at Riyadh airport — Guardian +1 (BBC) · 11 Oct · https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz
   Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait Yemen’s Houthis have launched a missile attack on Riyadh’s…
+- Hurricane Isaias makes landfall in Florida with severe effects expected across several states — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall
+  Governors of Mississippi, Alabama and Florida declared states of emergency as a downsized Fema faces first major test Hurricane Isaias made landfall near Destin, Florida, on Friday evening, sweeping…
 - Former Bachelor Sam Wood to fight for bail application on domestic violence charges — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sam-wood-supreme-court-bail-domestic-violence-charge/107247738
   The fitness influencer will launch a new fight for bail in Queensland's highest court after he was remanded in custody yesterday.
 - South Korea recalls ambassador as row with Ukraine escalates — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/south-korea-recalls-ambassador-to-ukraine/107245422
   Tensions between South Korea and Ukraine started escalating last month when Ukraine revealed it had transferred two North Korean soldiers to Seoul.
-- Hurricane Isaias makes landfall in Florida with severe effects expected across several states — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall
-  Governors of Mississippi, Alabama and Florida declared states of emergency as a downsized Fema faces first major test Hurricane Isaias made landfall near Destin, Florida, on Friday evening, sweeping…
-- Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
-  Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
 - Candidate named Hitler Mussolini elected mayor in Peru — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor
   Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote…
+- Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
+  Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
   Three men accused of killing Australian brothers Jake and Callum Robinson in Mexico have been found guilty of the murders.
 - Sydney councillor accuses Indigenous elder Mick Mundine of sexual assault — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/yvonne-weldon-mick-mundine-child-sexual-assault-charges/107247482
   City of Sydney councillor Yvonne Weldon has revealed she is the now-adult complainant at the centre of Mick Mundine's historical child sexual assault charges.
-- ICE agent shoots man in New York City with five-year-old in car, mayor says — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent
-  Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot a man in New York City on…
+- Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' — BBC +1 (SMH) · 10 Oct · https://www.bbc.co.uk/news/articles/cm1dwgr666wno
+  Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
 - ‘Smarmy management consultant’: Angus Taylor criticised by Pauline Hanson and heckled at CPAC event — Guardian +1 (SMH) · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/10/angus-taylor-pauline-hanson-criticised-heckled-cpac-australia-brisbane-ntwnfb
   Liberal leader says Coalition ‘got some things wrong’ in signing up to net zero and increasing immigration Get our new political email , free app or daily news podcast Pauline Hanson has labelled…
+- ICE agent shoots man in New York City with five-year-old in car, mayor says — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent
+  Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot a man in New York City on…
+- Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
+  South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
 - Man found dead by police after 'serious incident' in Perth's south — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536
   Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.
-- Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
-  South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Woman, child found dead in car in dam — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026
   A woman, 36, and a child, 10, from Maryborough have been killed in a double fatal incident on Thursday afternoon.
 - US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
@@ -84,9 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.
 - Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
   Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
-- Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
-  Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
-(+5 more not listed)
+(+7 more not listed)
 
 ## Australian politics and economy – other candidates
 - Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
@@ -119,14 +119,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Angus Taylor says opposition ‘worked closely’ with Parliamentary Budget Office but Liberal sources say it has not yet conducted a full analysis of the policy Get our new political email , free app or…
 - Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation — Guardian · 06 Oct · https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb
   Coalition leader’s proposal goes further than Peter Dutton’s 2025 election promise and beyond even Pauline Hanson’s bottom line Get our new political email , free app or daily news podcast With Angus…
+- Opal Tower declared defect-free eight years after evacuations — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/opal-tower-olympic-park-defect-free-eight-years-after-evacuation/107251142
+  A ribbon-cutting ceremony brings an end to a saga that involved a class action, two legal cases, ongoing rectification work, and relocations after cracks appeared on level 10 of the complex on…
 - Veterans call on prime minister to release official war histories — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/veterans-call-on-prime-minister-release-official-war-histories/107250098
   The Australian War Memorial, RSL and Legacy are appealing to the federal government to release official histories of conflicts in the Middle East.
 - Labor's surcharge headache exposes a government on the back foot — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/labor-reverses-credit-card-surcharge-call-after-backlash/107247904
   After furious backlash from small businesses, the electorate and some of his own colleagues, Treasurer Jim Chalmers has rapidly reversed two major government decisions. But is it enough?
 - Fiona Dhawunymurruwuy will be evicted on Sunday, along with 120 other First Nations people: ‘There’s no place for me’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/10/fiona-dhawunymurruwuy-will-be-evicted-on-sunday-along-with-120-other-first-nations-people-theres-no-place-for-me-ntwnfb
   The NT government turned down $6.5m to keep the Darwin emergency housing open, saying it’s a ‘waste of taxpayers’ hard-earned money’ Get our breaking news email , free app or daily news podcast Three…
-- Opal Tower declared defect-free eight years after evacuations — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/opal-tower-olympic-park-defect-free-eight-years-after-evacuation/107251142
-  A ribbon-cutting ceremony brings an end to a saga that involved a class action, two legal cases, ongoing rectification work, and relocations after cracks appeared on level 10 of the complex on…
 - Taylor thought he'd struck political gold, but Hanson has taken the mine — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/michelle-grattan-migration-policy-liberal-party/107242754
   In the furious debate about migration policy, figures and justifications get easily lost in a quagmire of vocal stakeholders, potential losers and outcomes that may not stand the test of the real…
 - Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine
@@ -171,12 +171,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Five weeks into the spring season, property data firm Cotality said the combined capital clearance rate of 45 per cent was at its lowest level since July.
 
 ## Other prominent general stories – one outlet
+- Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
+  Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
 - Andrew Mountbatten-Windsor handed compensation over Royal Lodge repair bill — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/andrew-receives-crown-estate-compensation/107250546
   The former prince was forced to surrender the lease on Royal Lodge after public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
 - Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
 - Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
   Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
+- Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
+  Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
 - Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia
@@ -191,14 +195,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
 - ‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires
   Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam…
-- Astronomers detect mysterious burst of energy from a galaxy far, far away — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves
-  Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was…
 - Isaias strengthens to become first Atlantic hurricane of 2026 season — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026
   Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds…
-- Residents airlifted to safety after flooding in central Chile — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ck5yn8jn677vo
-  The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.
+- Astronomers detect mysterious burst of energy from a galaxy far, far away — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves
+  Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was…
 - Teenager becomes first person to have testicular tissue transplant in UK — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility
   Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
+- Residents airlifted to safety after flooding in central Chile — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ck5yn8jn677vo
+  The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.
 - Supporters of Imran Khan start march on locked-down Islamabad — Guardian · 06 Oct · https://www.theguardian.com/world/2026/oct/05/jailed-imran-khan-march-on-islamabad-pakistan
   Pakistani authorities insist marchers calling for former PM to be released from jail will not reach the capital Imran Khan ’s supporters have begun a march to Islamabad to demand his release from…
 - Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing
@@ -217,11 +221,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.
 - One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb
   The inflammatory clip shows the wild west of online politicking created by unrestricted access to AI – and why watchdogs need more powers to do something about it Get our new political email , free…
-- Israel promotes film that mimics NAZA documentary — Guardian · 09 Oct · https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary
-  Embassies post links to hastily produced online film echoing style of real Guardian documentary about mass killings of Gaza civilians The Israeli government is promoting an online film project that…
-- Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem — Guardian · 09 Oct · https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem
-  Consulate targeted in sanctions spat has unusual diplomatic status that clashes with Israel’s ambitions to fully annex the city Israel’s attempt to close the British consulate general in Jerusalem…
-(+422 more not listed)
+(+429 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Logitech Enterprise Products Reveal: 5 Things To Know — CRN · 10 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-enterprise-products-reveal-5-things-to-know
@@ -595,8 +595,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The students will head to Florida to compete against university teams from Australia, India and the US.
 - Astronomers get permission for mini-observatory — BBC · 04 Oct · https://www.bbc.co.uk/news/articles/ck5ynpzz4q28o
   The Shropshire Astronomical Society plans to install the dome at Rodington village hall.
-- I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise — BBC · 04 Oct · https://www.bbc.co.uk/news/articles/c6q8jly114j8o
-  Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Climate crisis is coming to crush many of world’s best surf breaks, study warns — Guardian · 10 Oct · https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk
@@ -636,23 +634,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 11 Oct 03:26 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 11 Oct 03:26 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 11 Oct 03:26 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 11 Oct 03:26 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 11 Oct 03:26 | 29 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 11 Oct 03:26 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 11 Oct 03:26 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 11 Oct 03:26 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 11 Oct 03:26 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 11 Oct 03:26 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 11 Oct 03:26 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 11 Oct 03:26 | 25 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 11 Oct 03:26 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 11 Oct 03:26 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 11 Oct 03:26 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 11 Oct 03:26 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 11 Oct 03:26 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 11 Oct 03:26 | 1 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 11 Oct 05:29 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 11 Oct 05:29 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 11 Oct 05:29 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 11 Oct 05:29 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 11 Oct 05:29 | 30 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 11 Oct 05:29 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 11 Oct 05:29 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 11 Oct 05:29 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 11 Oct 05:29 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 11 Oct 05:29 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 11 Oct 05:29 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 11 Oct 05:29 | 25 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 11 Oct 05:29 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 11 Oct 05:29 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 11 Oct 05:29 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 11 Oct 05:29 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 11 Oct 05:29 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 11 Oct 05:29 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 26,805 tokens._
+_Approximate reading cost of this digest: 26,714 tokens._
