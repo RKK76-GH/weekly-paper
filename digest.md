@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sun 11 Oct 2026, 15:28 Sydney time. Stories from 04 Oct to 11 Oct. 968 stories held from 18 of 18 sources.
+Updated Sun 11 Oct 2026, 17:32 Sydney time. Stories from 04 Oct to 11 Oct. 989 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -34,6 +34,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   At least 12 people are dead and more than 300 have been wounded after an attack on King Khalid International Airport in the Saudi capital.
 - Powerful 7.7-magnitude earthquake hits off coast of Panama — ABC +2 (BBC, Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/earthquake-panama-tsunami-warning/107250814
   The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
+- Australian government warns not to fly to Saudi capital after three attacks on airports — ABC +2 (BBC, Guardian) · 11 Oct · https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260
+  Flights have been suspended in and out of Riyadh, in Saudi Arabia, after three attacks on its main airport. Here's the latest travel advice for the Middle East.
 - At CPAC, Angus Taylor comes second to Pauline Hanson — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940
   Angus Taylor is the first Liberal leader to attend the Australian Conservative Political Action Conference, but Pauline Hanson is still the favourite.
 - US imposes new sanctions on international criminal court — Guardian +2 (BBC, SMH) · 10 Oct · https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump
@@ -54,8 +56,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hammam al-Hammami’s shift towards extremism began while he was a student in Melbourne, according to Emirati attorney general Get our breaking news email , free app or daily news podcast The co-pilot…
 - 'Abhorrent' US plan to livestream execution amounts to torture, says UN — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/livestream-death-penalty-firing-squad-united-nation-/107250294
   The announcement by US Defense Secretary Pete Hegseth has drawn sharp condemnation from human rights groups and politicians, while Donald Trump has yet to comment.
-- Dozens reported injured in Yemeni Houthi attack at Riyadh airport — Guardian +1 (BBC) · 11 Oct · https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz
-  Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait Yemen’s Houthis have launched a missile attack on Riyadh’s…
 - Candidate named Hitler Mussolini elected mayor in Peru — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor
   Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote…
 - Hurricane Isaias makes landfall in Florida with severe effects expected across several states — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall
@@ -66,33 +66,35 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Tensions between South Korea and Ukraine started escalating last month when Ukraine revealed it had transferred two North Korean soldiers to Seoul.
 - Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
   Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
+- Hurricane Isaias kills at least four, leaves thousands without power in US — ABC +1 (BBC) · 11 Oct · https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334
+  Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
 - Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' — BBC +1 (SMH) · 10 Oct · https://www.bbc.co.uk/news/articles/cm1dwgr666wno
   Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
 - US man shoots off-duty ICE agent who allegedly attacked him and daughter — Guardian +1 (BBC) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty
   ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE )…
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
   Three men accused of killing Australian brothers Jake and Callum Robinson in Mexico have been found guilty of the murders.
-- Hurricane Isaias kills at least four, leaves thousands without power in US — ABC +1 (BBC) · 11 Oct · https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334
-  Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
-- Sydney councillor accuses Indigenous elder Mick Mundine of sexual assault — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/yvonne-weldon-mick-mundine-child-sexual-assault-charges/107247482
-  City of Sydney councillor Yvonne Weldon has revealed she is the now-adult complainant at the centre of Mick Mundine's historical child sexual assault charges.
 - Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
   Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
-- Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
-  South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
+- Sydney councillor accuses Indigenous elder Mick Mundine of sexual assault — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/yvonne-weldon-mick-mundine-child-sexual-assault-charges/107247482
+  City of Sydney councillor Yvonne Weldon has revealed she is the now-adult complainant at the centre of Mick Mundine's historical child sexual assault charges.
 - Man found dead by police after 'serious incident' in Perth's south — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536
   Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.
+- Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
+  South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
 - Woman, child found dead in car in dam — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026
   A woman, 36, and a child, 10, from Maryborough have been killed in a double fatal incident on Thursday afternoon.
-(+13 more not listed)
+(+14 more not listed)
 
 ## Australian politics and economy – other candidates
 - How the card surcharge ban could change our relationship with cash — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/card-surcharge-ban-cash-use-australia/107239200
   Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.
 - Hockey adamant corruption flourishing in Washington — ABC +1 (SMH) · 07 Oct · https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782
   Donald Trump might be the most influential US president of the past 100 years, according to Joe Hockey, but that does not mean he has not "diminished" the standing of the US globally.
+- Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb
+  Anthony Albanese speaks at Australian War Memorial event commemorating 25th anniversary of country’s involvement in the conflict Get our breaking news email , free app or daily news podcast Anthony…
 - Overseas, Albanese sees ‘the very definition of climate injustice’ – but at home, he still wants coal — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal
   It isn’t hard to see a contradiction between the PM’s message in Fiji and his opposition to legal action to stop a NSW coalmine Get our new political email , free app or daily news podcast There are…
 - Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato
@@ -105,18 +107,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Death row inmate Christa Pike was still fighting for life in a Tennessee hospital when the US federal government revealed it was ready to conduct its own high profile execution.
 - Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb
   Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Pauline Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast…
-- Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
-  Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
 - Albanese wants universal childcare to be his legacy. But paying for it isn’t as easy as ABC — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics
   Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news…
+- Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
+  Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
 - Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
   The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
+- As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
+  International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
 - Vegetarian buffet and a ‘free dental’ raffle prize: Greens launch bullish bid to ‘take our country back’ in Victoria — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/victoria-greens-2026-state-election-campaign-launch-david-shoebridge-ellen-sandell
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
 - How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
   Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
-- As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
-  International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
 - An average of 17 older Australians died each day last year waiting for home care — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
 - Opal Tower declared defect-free eight years after evacuations — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/opal-tower-olympic-park-defect-free-eight-years-after-evacuation/107251142
@@ -137,6 +139,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   In the furious debate about migration policy, figures and justifications get easily lost in a quagmire of vocal stakeholders, potential losers and outcomes that may not stand the test of the real…
 - Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine
   High court judgment blocking Mount Pleasant mine expansion will not affect state regulation, NSW premier says Get our new political email , free app or daily news podcast Chris Minns says activists…
+- Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
+  Opposition Leader Angus Taylor says former Liberal treasurer Josh Frydenberg has a "role to play" and should be mobilised at the next election.
 - Homelessness camp in Perth's south tip of iceberg — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/homelessness-increase-perth/107178436
   More people, from all walks of life, including dual income families, are becoming homeless, sector workers say, as rising rents and the cost of living bites.
 - MP Luke Gosling vows to seek Labor preselection despite pending assault case — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/mp-luke-gosling-to-seek-labor-preselection-despite-charges/107248020
@@ -145,10 +149,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   In June, the Commonwealth announced plans to split disaster recovery funding 50-50 with states and territories, having previously contributed 64 per cent in Queensland, and up to 75 per cent in other…
 - State government seizes control of City of Sydney’s Town Hall square plan — SMH · 09 Oct · https://www.smh.com.au/national/nsw/state-government-seizes-control-of-city-of-sydney-s-town-hall-square-plan-20261009-p612us.html?ref=rss
   Planning Minister Paul Scully last month sought independent advice on the project, driven by Clover Moore’s council, citing its cost and prominent location.
-- Ben Roberts-Smith joins 600 veterans as Albanese marks Australia’s 25 years in Afghanistan — SMH · 11 Oct · https://www.smh.com.au/politics/federal/ben-roberts-smith-joins-600-veterans-as-albanese-marks-australia-s-25-years-in-afghanistan-20261011-p614hr.html?ref=rss
-  The prime minister honoured those who served in Afghanistan, the 47 Australian personnel who died as a result of their service and the families who continue to live with their loss.
-- Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
-  Opposition Leader Angus Taylor says former Liberal treasurer Josh Frydenberg has a "role to play" and should be mobilised at the next election.
+- Commemoration marks 25 years since Australia joined Afghanistan conflict — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770
+  At a ceremony in Canberra, Prime Minister Anthony Albanese quotes John Howard as he speaks of what motivated Australia to join the Afghanistan conflict after the September 11 terrorist attacks in…
 - SES volunteers change in front of others at 'embarrassing' regional HQ — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/ses-emergency-services-funding-mildura-government-election/107228820
   The Mildura SES Unit is lobbying the state government for $1 million to upgrade its outdated headquarters with better training facilities, offices and change rooms.
 - Mineral royalties and technical colleges in duelling Victorian election pledges — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/victorian-election-mineral-royalties-technical-colleges/107251274
@@ -161,15 +163,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The foreign minister says the government does not have the power to direct the ATO to reverse its decision to stop accepting credit card payments. Follow live.
 - Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
   After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
-- Commemoration marks 25 years since Australia joined Afghanistan conflict — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770
-  At a ceremony in Canberra, Prime Minister Anthony Albanese quotes John Howard as he speaks of what motivated Australia to join the Afghanistan conflict after the September 11 terrorist attacks in…
+- ‘What they’re doing isn’t working’: Opposition hits back at premier over poverty report — SMH · 11 Oct · https://www.smh.com.au/national/western-australia/what-they-re-doing-isn-t-working-opposition-hits-back-at-premier-over-poverty-report-20261011-p614ki.html?ref=rss
+  A new report estimates 456,000 Western Australians, including almost 99,000 children, are living in poverty in 2026
 - The socialite, her ‘jobless’ ex and his accused ‘mastermind’ father: Inside the murder that shocked Hong Kong — SMH · 11 Oct · https://www.smh.com.au/world/asia/the-socialite-her-jobless-ex-and-his-accused-mastermind-father-inside-the-murder-that-shocked-hong-kong-20261011-p61454.html?ref=rss
   It’s a major global financial hub where violent crime is rare. But the nature of this one is so gruesome, a juror asked to be excused.
 - ‘We are talking billions’: Burke demands costings on Coalition deportation plan — SMH · 11 Oct · https://www.smh.com.au/politics/federal/we-are-talking-billions-burke-demands-costings-on-coalition-migration-plan-20261011-p614hq.html?ref=rss
   As the government launched a new attack on Angus Taylor’s migration plan, Burke would not say whether Labor had made mistakes on migration management.
-- Deal or no deal? How the major parties are tackling the minority government risk — SMH · 10 Oct · https://www.smh.com.au/politics/victoria/deal-or-no-deal-how-the-major-parties-are-tackling-the-minority-government-risk-20261010-p6140z.html?ref=rss
-  Victorians reckon the two-party system is a thing of the past. Ahead of the state election, Jess Wilson and Ben Carroll are trying to come to terms with what the future may hold.
-(+10 more not listed)
+(+11 more not listed)
 
 ## Other prominent general stories – one outlet
 - US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
@@ -184,26 +184,26 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The former prince was forced to surrender the lease on Royal Lodge after public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
 - Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
-- Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
-  Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
 - Pregnant woman among eight killed in Pennsylvania shooting — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788
   Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to…
+- Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
+  Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
 - Breaking: Police responding to CBD incident near Flinders Street Station — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/police-melbourne-cbd-incident-emergency/107252918
   Emergency services are responding to an incident in Melbourne's city centre, with witnesses telling the ABC a car was driving erratically on Flinders and Elizabeth streets.
-- Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
-  The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
 - Running legend Kipchoge sets race record at Melbourne Marathon — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768
   Marathon legend Eliud Kipchoge has time to slow down and wave at the crowds at the MCG and still break the race record at the Melbourne Marathon.
+- Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
+  The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
 - Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia
   The offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in…
 - How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia
   Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery…
 - Researchers find 180,000 giant tortoises living on island in Seychelles — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles
   Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tortoise population…
-- OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
-  Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
 - Isaias strengthens to become first Atlantic hurricane of 2026 season — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026
   Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds…
+- OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
+  Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
 - High Court's coalmine emissions ruling says 'the quiet part out loud' — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132
   Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
 - ‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires
@@ -222,7 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Researchers found five events, including Russia’s invasion of Ukraine, caused serious damage to mental wellbeing across UK Brexit, Liz Truss’s mini-budget and other “shocks” over the last 10 years…
 - Fired OpenAI researchers say they were let go for 'prioritising safety' — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo
   The AI firm instead claims the researchers were fired for mishandling sensitive information.
-(+496 more not listed)
+(+512 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Logitech Enterprise Products Reveal: 5 Things To Know — CRN · 10 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-enterprise-products-reveal-5-things-to-know
@@ -333,6 +333,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 ## Technology news (BBC, Guardian)
 - Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment — Guardian · 11 Oct · https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment
   Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists Humans could become extinct by the year 2100 due to malicious use of…
+- Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’? — Guardian · 11 Oct · https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop
+  As streamers poach viral creators to appeal to children, digital whack-a-mole has become a new kind of family challenge Exasperated dad Simon Hooper shakes his fist at the camera in a viral video…
 - King warns malicious online actors are evolving tactics — BBC · 11 Oct · https://www.bbc.co.uk/news/articles/cme3xl7d18z2o
   The King spoke of "threats to our international order" in a letter marking the 10th anniversary of the National Cyber Security Centre.
 - How drones are hunting fires hidden beneath the Cairngorms — BBC · 10 Oct · https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo
@@ -429,9 +431,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   PC, PS5, Switch 2; Wych Elm Games, Team 17 Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a missing…
 - Italian PM files to trademark her voice against AI threats — BBC · 06 Oct · https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo
   Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.
-- OpenAI’s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did … ChatGPT write this? — Guardian · 06 Oct · https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude
-  Kwon’s answers were provided in a helpful, quiet and calm manner, but his mea culpa left the audience not much the wiser Open AI’s Jason Kwon flew 15 hours from San Francisco to Sydney to give the…
-(+6 more not listed)
+(+7 more not listed)
 
 ## Cars (CarExpert)
 - Jetour G700: Australia-bound LandCruiser rival updated as Chinese brand heads upmarket — CarExpert · 11 Oct · https://www.carexpert.com.au/car-news/jetour-g700-australia-bound-landcruiser-rival-updated-as-chinese-brand-heads-upmarket
@@ -530,6 +530,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The BMW X3 M50 xDrive performance SUV has received a power bump and a stealthy new Black Package option, with the wider range to receive interior enhancements.
 
 ## Science (Guardian, BBC)
+- 'I watched Apollo 17 launch with Neil Armstrong' — BBC · 11 Oct · https://www.bbc.co.uk/news/articles/ckdd86nglrggo
+  Dermot Gethings was 16 when Nasa picked him to watch the Apollo 17 launch alongside Neil Armstrong.
 - Hundreds protest over data centre plans — BBC · 11 Oct · https://www.bbc.co.uk/news/articles/cm78pwq47vp1o
   Placard-waving opponents highlight concerns about a data centre development on the local landscape.
 - Asbestos mystery leaves beloved beach closed — BBC · 10 Oct · https://www.bbc.co.uk/news/articles/c574p9rdk2mko
@@ -596,8 +598,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The tribute recognises Colin Pillinger who led the 2003 probe mission to Mars.
 - Why are data centres such a big deal in Scotland? — BBC · 05 Oct · https://www.bbc.co.uk/news/articles/c6qxv55882z1o
   At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.
-- Students blast off to US for Nasa robotics competition — BBC · 04 Oct · https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo
-  The students will head to Florida to compete against university teams from Australia, India and the US.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Drying wetlands create genetic risk for southern Australia's brolgas — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286
@@ -637,23 +637,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 11 Oct 15:28 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 11 Oct 15:28 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 11 Oct 15:28 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 11 Oct 15:28 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 11 Oct 15:28 | 32 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 11 Oct 15:28 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 11 Oct 15:28 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 11 Oct 15:28 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 11 Oct 15:28 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 11 Oct 15:28 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 11 Oct 15:28 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 11 Oct 15:28 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 11 Oct 15:28 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 11 Oct 15:28 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 11 Oct 15:28 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 11 Oct 15:28 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 11 Oct 15:28 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 11 Oct 15:28 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 11 Oct 17:32 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 11 Oct 17:32 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 11 Oct 17:32 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 11 Oct 17:32 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 11 Oct 17:32 | 33 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 11 Oct 17:32 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 11 Oct 17:32 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 11 Oct 17:32 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 11 Oct 17:32 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 11 Oct 17:32 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 11 Oct 17:32 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 11 Oct 17:32 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 11 Oct 17:32 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 11 Oct 17:32 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 11 Oct 17:32 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 11 Oct 17:32 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 11 Oct 17:32 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 11 Oct 17:32 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 26,937 tokens._
+_Approximate reading cost of this digest: 26,922 tokens._
