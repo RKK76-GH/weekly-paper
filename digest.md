@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Mon 12 Oct 2026, 07:26 Sydney time. Stories from 05 Oct to 12 Oct. 1113 stories held from 18 of 18 sources.
+Updated Mon 12 Oct 2026, 09:27 Sydney time. Stories from 05 Oct to 12 Oct. 1129 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -10,8 +10,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   US President Donald Trump blamed Ukrainian President Volodymyr Zelenskyy for sky-rocketing diesel prices shortly after he said he had brokered a supply deal with Russia.
 - US sanctions 'rogue' ICC hours after former judge wins Nobel Peace Prize — ABC +3 (BBC, Guardian, SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/us-to-sanction-icc-after-trump-overlooked-for-peace-prize/107250264
   The US announces sanctions on the International Criminal Court, hours after one of its former judges is given the Nobel Peace Prize, which Donald Trump covets.
-- Pentagon says firing squad execution of Fort Hood shooter will be livestreamed — ABC +3 (BBC, Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/hegseth-says-firing-squad-execution-at-fort-hood-will-be-public/107246210
-  The United States's first execution by a military firing squad since World War II will be livestreamed, the Pentagon has said.
+- Calls for Australia to ban live streaming of US firing squad execution — ABC +3 (BBC, Guardian, SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/greens-want-to-block-us-execution-live-stream/107253928
+  US Defense Secretary Pete Hegseth has said he will make sure the public can watch the December 3 execution of Fort Hood shooter Nidal Malik Hasan.
 - Christa Pike released from hospital, back in prison after failed execution — ABC +3 (BBC, Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/christa-pike-back-in-prison-after-botched-execution/107252594
   Christa Pike, who survived two lethal injection attempts in a botched Tennessee execution has been discharged from hospital and returned to prison.
 - Russian attack on bus stop kills at least 33 in Ukraine, officials say — ABC +3 (BBC, Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/ukraine-russia-bus-stop-strike-attack-bomb/107245320
@@ -111,24 +111,24 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news…
 - The number of US executions had dwindled. Last year, that all changed — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/death-penalty-opinion-us-politics/107248172
   Death row inmate Christa Pike was still fighting for life in a Tennessee hospital when the US federal government revealed it was ready to conduct its own high profile execution.
-- As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
-  International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
 - A Trump impersonator and opera singers: CPAC was a spectacle, but the right still can’t agree how to take down Labor — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb
   Preferences proved the sticking point at the conference as conservatives face the prospect of a third successive election defeat Get our new political email , free app or daily news podcast Many…
+- As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
+  International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
 - Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
   Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
+- Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous? — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous
+  Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Get our new political email , free app or daily news podcast Australia is flirting with the idea…
 - Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
   The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
+- Donations to major parties and an ex-premier as a lobbyist: how datacentres play the political game in Australia — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/donations-lobbyists-how-datacentres-play-the-political-game-in-australia
+  As governments face community backlash for fast-tracking developments, big tech’s financial contributions face renewed scrutiny Get our new political email , free app or daily news podcast On 14 June…
 - Commemoration marks 25 years since Australia joined Afghanistan conflict — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770
   At a ceremony in Canberra, Prime Minister Anthony Albanese quotes John Howard as he speaks of what motivated Australia to join the Afghanistan conflict after the September 11 terrorist attacks in…
 - Vegetarian buffet and a ‘free dental’ raffle prize: Greens launch bullish bid to ‘take our country back’ in Victoria — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/victoria-greens-2026-state-election-campaign-launch-david-shoebridge-ellen-sandell
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
 - How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
   Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
-- Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous? — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous
-  Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Get our new political email , free app or daily news podcast Australia is flirting with the idea…
-- Donations to major parties and an ex-premier as a lobbyist: how datacentres play the political game in Australia — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/donations-lobbyists-how-datacentres-play-the-political-game-in-australia
-  As governments face community backlash for fast-tracking developments, big tech’s financial contributions face renewed scrutiny Get our new political email , free app or daily news podcast On 14 June…
 - An average of 17 older Australians died each day last year waiting for home care — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
 - Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
@@ -141,6 +141,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Angus Taylor says opposition ‘worked closely’ with Parliamentary Budget Office but Liberal sources say it has not yet conducted a full analysis of the policy Get our new political email , free app or…
 - Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation — Guardian · 06 Oct · https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb
   Coalition leader’s proposal goes further than Peter Dutton’s 2025 election promise and beyond even Pauline Hanson’s bottom line Get our new political email , free app or daily news podcast With Angus…
+- 'Up to our people': Zelenskyy responds to Trump's election call — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/ukraine-trump-zelenskyy-elections/107254072
+  The US president has called for Ukraine to pick a new leader as he blames Volodymyr Zelenskyy and Ukrainian strikes on Russian refineries for high diesel prices.
 - WA moves ahead with plans to create mega-uni amid concerns — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/wa-progresses-university-merger-plan/107253400
   Premier Roger Cook says a potential merger could create a "once-in-a-generation" opportunity as all three universities raise concerns about the move.
 - Veterans call on prime minister to release official war histories — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/veterans-call-on-prime-minister-release-official-war-histories/107250098
@@ -149,8 +151,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After furious backlash from small businesses, the electorate and some of his own colleagues, Treasurer Jim Chalmers has rapidly reversed two major government decisions. But is it enough?
 - Fiona Dhawunymurruwuy will be evicted on Sunday, along with 120 other First Nations people: ‘There’s no place for me’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/10/fiona-dhawunymurruwuy-will-be-evicted-on-sunday-along-with-120-other-first-nations-people-theres-no-place-for-me-ntwnfb
   The NT government turned down $6.5m to keep the Darwin emergency housing open, saying it’s a ‘waste of taxpayers’ hard-earned money’ Get our breaking news email , free app or daily news podcast Three…
-- 'Up to our people': Zelenskyy responds to Trump's election call — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/ukraine-trump-zelenskyy-elections/107254072
-  The US president has called for Ukraine to pick a new leader as he blames Volodymyr Zelenskyy and Ukrainian strikes on Russian refineries for high diesel prices.
 - Taylor thought he'd struck political gold, but Hanson has taken the mine — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/michelle-grattan-migration-policy-liberal-party/107242754
   In the furious debate about migration policy, figures and justifications get easily lost in a quagmire of vocal stakeholders, potential losers and outcomes that may not stand the test of the real…
 - Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine
@@ -163,13 +163,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   In June, the Commonwealth announced plans to split disaster recovery funding 50-50 with states and territories, having previously contributed 64 per cent in Queensland, and up to 75 per cent in other…
 - State government seizes control of City of Sydney’s Town Hall square plan — SMH · 09 Oct · https://www.smh.com.au/national/nsw/state-government-seizes-control-of-city-of-sydney-s-town-hall-square-plan-20261009-p612us.html?ref=rss
   Planning Minister Paul Scully last month sought independent advice on the project, driven by Clover Moore’s council, citing its cost and prominent location.
-- ‘What they’re doing isn’t working’: Opposition hits back at premier over poverty report — SMH · 11 Oct · https://www.smh.com.au/national/western-australia/what-they-re-doing-isn-t-working-opposition-hits-back-at-premier-over-poverty-report-20261011-p614ki.html?ref=rss
-  A new report estimates 456,000 Western Australians, including almost 99,000 children, are living in poverty in 2026
-- SES volunteers change in front of others at 'embarrassing' regional HQ — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/ses-emergency-services-funding-mildura-government-election/107228820
-  The Mildura SES Unit is lobbying the state government for $1 million to upgrade its outdated headquarters with better training facilities, offices and change rooms.
-- Mineral royalties and technical colleges in duelling Victorian election pledges — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/victorian-election-mineral-royalties-technical-colleges/107251274
-  Labor Premier Ben Carroll and Coalition leader Jess Wilson will today announce duelling policies on mineral royalties and technical colleges ahead of next month's Victorian election.
-(+27 more not listed)
+- Australia news LIVE: Labor’s Digital Duty of Care to be introduced to parliament this week, but Greens will demand changes; Frydenberg says Liberals ‘need to do better’ — SMH · 12 Oct · https://www.smh.com.au/national/australia-news-live-labor-s-digital-duty-of-care-to-be-introduced-to-parliament-this-week-but-greens-will-demand-changes-frydenberg-says-liberals-need-to-do-better-20261012-p614mc.html?ref=rss
+  Follow along as we bring you the latest live news updates from Australia and around the world.
+- Live: ASX set to rise after strong sessions on Wall Street and Europe — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878
+  US and European markets made solid gains on Friday, giving the ASX a positive lead for today. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
+- One Nation threatens major parties as voters turn to AI for information — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/one-nation-victoria-elections-ai-voters/107253040
+  Labor and the Liberals are trying to appeal to disgruntled voters as the Victorian election looms. But voters seeking information from AI chatbots could find One Nation missing from the answer.
+(+29 more not listed)
 
 ## Other prominent general stories – one outlet
 - Pregnant woman among eight killed in Pennsylvania shooting — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788
@@ -188,20 +188,20 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A man has died after being attacked by a tiger at Yorkshire Wildlife Park, police say.
 - Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
   Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
-- Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
-  Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
 - Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
+- Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
+  Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
 - Andrew Mountbatten-Windsor handed compensation over Royal Lodge repair bill — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/andrew-receives-crown-estate-compensation/107250546
   The former prince was forced to surrender the lease on Royal Lodge after public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
 - Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
   Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
+- Teenager charged over alleged Melbourne CBD hit-and-run — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/teenager-charged-melbourne-hit-run/107254454
+  A 16-year-old is facing a slew of charges after allegedly hitting a woman with a stolen car in Melbourne's CBD on Sunday.
 - Running legend Kipchoge sets race record at Melbourne Marathon — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768
   Marathon legend Eliud Kipchoge has time to slow down and wave at the crowds at the MCG and still break the race record at the Melbourne Marathon.
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
-- Teenager charged over alleged Melbourne CBD hit-and-run — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/teenager-charged-melbourne-hit-run/107254454
-  A 16-year-old is facing a slew of charges after allegedly hitting a woman with a stolen car in Melbourne's CBD on Sunday.
 - Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia
   The offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in…
 - Isaias strengthens to become first Atlantic hurricane of 2026 season — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026
@@ -222,7 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a…
 - Supporters of Imran Khan start march on locked-down Islamabad — Guardian · 06 Oct · https://www.theguardian.com/world/2026/oct/05/jailed-imran-khan-march-on-islamabad-pakistan
   Pakistani authorities insist marchers calling for former PM to be released from jail will not reach the capital Imran Khan ’s supporters have begun a march to Islamabad to demand his release from…
-(+603 more not listed)
+(+611 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - CBA uses Atlassian tool to stay focused on $400m AI goal — iTnews · 12 Oct · https://www.itnews.com.au/news/cba-uses-atlassian-tool-to-stay-focused-on-400m-ai-goal-629566
@@ -442,6 +442,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+6 more not listed)
 
 ## Cars (CarExpert)
+- Avatr 06T: Sleek EV wagon confirmed for Australia in 2027 — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/avatr-06t-sleek-ev-wagon-confirmed-for-australia-in-2027
+  Changan's new Avatr premium EV brand is bringing the 06T electric sports wagon to take on the Zeekr 7GT and other mid-size estates from German luxury brands – it's due in the latter half of 2027.
+- Avatr Concept T09 previews production-ready Chinese SUV flagship for the world — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/avatr-concept-t09-previews-production-ready-chinese-suv-flagship-for-the-world
+  Chinese brand Avatr has previewed its near-production flagship three-row luxury SUV, debuting the Concept T09 in Paris ahead of a potential 2028 launch for export markets – and it could come to…
 - Polestar looks to LFP batteries to reach carbon-neutral car goal — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/polestar-looks-to-lfp-batteries-to-reach-carbon-neutral-car-goal
   "Lithium iron phosphate" are three magic words for Polestar's next step towards carbon neutrality, with the company's head of sustainability indicating LFP batteries are in the pipeline.
 - Jetour G700: Australia-bound LandCruiser rival updated as Chinese brand heads upmarket — CarExpert · 11 Oct · https://www.carexpert.com.au/car-news/jetour-g700-australia-bound-landcruiser-rival-updated-as-chinese-brand-heads-upmarket
@@ -540,6 +544,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The BMW X3 M50 xDrive performance SUV has received a power bump and a stealthy new Black Package option, with the wider range to receive interior enhancements.
 
 ## Science (Guardian, BBC)
+- 'Prepare for the unthinkable' warning over autumn flooding — BBC · 12 Oct · https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo
+  Those living in flood-hit areas say they are worried, and have started preparing.
 - Owners fear 'healthy' dog died due to orange substance exposure on contaminated land — BBC · 12 Oct · https://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo
   Donna and Pete O'Brien say Misty's health declined after a walk.
 - ‘A living hell’: how Los Angeles got taken over by mosquitoes — Guardian · 11 Oct · https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino
@@ -651,23 +657,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 12 Oct 07:26 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 12 Oct 07:26 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 12 Oct 07:26 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 12 Oct 07:26 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 12 Oct 07:26 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 12 Oct 07:26 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 12 Oct 07:26 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 12 Oct 07:26 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 12 Oct 07:26 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 12 Oct 07:26 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 12 Oct 07:26 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 12 Oct 07:26 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 12 Oct 07:26 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 12 Oct 07:26 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 12 Oct 07:26 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 12 Oct 07:26 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 12 Oct 07:26 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 12 Oct 07:26 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 12 Oct 09:27 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 12 Oct 09:27 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 12 Oct 09:27 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 12 Oct 09:27 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 12 Oct 09:27 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 12 Oct 09:27 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 12 Oct 09:27 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 12 Oct 09:27 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 12 Oct 09:27 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 12 Oct 09:27 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 12 Oct 09:27 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 12 Oct 09:27 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 12 Oct 09:27 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 12 Oct 09:27 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 12 Oct 09:27 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 12 Oct 09:27 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 12 Oct 09:27 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 12 Oct 09:27 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 27,304 tokens._
+_Approximate reading cost of this digest: 27,581 tokens._
