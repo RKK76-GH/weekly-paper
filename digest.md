@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sun 11 Oct 2026, 11:37 Sydney time. Stories from 04 Oct to 11 Oct. 942 stories held from 18 of 18 sources.
+Updated Sun 11 Oct 2026, 13:27 Sydney time. Stories from 04 Oct to 11 Oct. 952 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -30,10 +30,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Britain says its nearly 200-year-old consulate in Jerusalem will remain operating at a smaller scale after Israel ordered it shut in a dispute over sanctions on settlements.
 - Canadian poet and writer Anne Carson wins 2026 Nobel Prize in Literature — ABC +2 (BBC, Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/107245306
   The 76-year-old was honoured "for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature," the Swedish Academy said.
-- Powerful 7.7-magnitude earthquake hits off coast of Panama — ABC +2 (BBC, Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/earthquake-panama-tsunami-warning/107250814
-  The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
 - Twelve dead, flights cancelled after third attack on Saudi airport — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-twelve-dead/107252320
   At least 12 people are dead and more than 300 have been wounded after an attack on King Khalid International Airport in the Saudi capital.
+- Powerful 7.7-magnitude earthquake hits off coast of Panama — ABC +2 (BBC, Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/earthquake-panama-tsunami-warning/107250814
+  The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
 - At CPAC, Angus Taylor comes second to Pauline Hanson — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940
   Angus Taylor is the first Liberal leader to attend the Australian Conservative Political Action Conference, but Pauline Hanson is still the favourite.
 - US imposes new sanctions on international criminal court — Guardian +2 (BBC, SMH) · 10 Oct · https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump
@@ -76,17 +76,17 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   City of Sydney councillor Yvonne Weldon has revealed she is the now-adult complainant at the centre of Mick Mundine's historical child sexual assault charges.
 - Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
   South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
+- Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
+  Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
+- Hurricane Isaias kills at least four, leaves thousands without power in US — ABC +1 (BBC) · 11 Oct · https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334
+  Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
 - Man found dead by police after 'serious incident' in Perth's south — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536
   Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.
 - Woman, child found dead in car in dam — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026
   A woman, 36, and a child, 10, from Maryborough have been killed in a double fatal incident on Thursday afternoon.
-- US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
-  The US has banned a Chinese Fijian businessman accused of being a member of a criminal network with ties to the Chinese government.
-- Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
-  Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
-(+10 more not listed)
+(+13 more not listed)
 
 ## Australian politics and economy – other candidates
 - How the card surcharge ban could change our relationship with cash — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/card-surcharge-ban-cash-use-australia/107239200
@@ -107,16 +107,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
 - Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
   The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
+- Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb
+  Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Pauline Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast…
+- Albanese wants universal childcare to be his legacy. But paying for it isn’t as easy as ABC — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics
+  Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news…
 - Vegetarian buffet and a ‘free dental’ raffle prize: Greens launch bullish bid to ‘take our country back’ in Victoria — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/victoria-greens-2026-state-election-campaign-launch-david-shoebridge-ellen-sandell
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
 - How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
   Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
 - An average of 17 older Australians died each day last year waiting for home care — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
-- Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb
-  Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Pauline Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast…
-- Albanese wants universal childcare to be his legacy. But paying for it isn’t as easy as ABC — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics
-  Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news…
 - Opal Tower declared defect-free eight years after evacuations — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/opal-tower-olympic-park-defect-free-eight-years-after-evacuation/107251142
   A ribbon-cutting ceremony brings an end to a saga that involved a class action, two legal cases, ongoing rectification work, and relocations after cracks appeared on level 10 of the complex on…
 - As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
@@ -157,45 +157,51 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The foreign minister says the government does not have the power to direct the ATO to reverse its decision to stop accepting credit card payments. Follow live.
 - Mine backed by US, Australia and Gina Rinehart moves towards construction — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/arafura-nolans-rare-earths-mine-alice-springs-nt-ground-broken/107240942
   After decades in development, a $1.8 billion rare earths mining project has finally seen ground broken in remote Central Australia.
+- ‘We are talking billions’: Burke demands costings on Coalition deportation plan — SMH · 11 Oct · https://www.smh.com.au/politics/federal/we-are-talking-billions-burke-demands-costings-on-coalition-migration-plan-20261011-p614hq.html?ref=rss
+  As the government launched a new attack on Angus Taylor’s migration plan, Burke would not say whether Labor had made mistakes on migration management.
+- Ben Roberts-Smith joins 600 veterans as Albanese marks Australia’s 25 years in Afghanistan — SMH · 11 Oct · https://www.smh.com.au/politics/federal/ben-roberts-smith-joins-600-veterans-as-albanese-marks-australia-s-25-years-in-afghanistan-20261011-p614hr.html?ref=rss
+  The prime minister honoured those who served in Afghanistan, the 47 Australian personnel who died as a result of their service and the families who continue to live with their loss.
+- Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
+  Opposition Leader Angus Taylor says former Liberal treasurer Josh Frydenberg has a "role to play" and should be mobilised at the next election.
 - Deal or no deal? How the major parties are tackling the minority government risk — SMH · 10 Oct · https://www.smh.com.au/politics/victoria/deal-or-no-deal-how-the-major-parties-are-tackling-the-minority-government-risk-20261010-p6140z.html?ref=rss
   Victorians reckon the two-party system is a thing of the past. Ahead of the state election, Jess Wilson and Ben Carroll are trying to come to terms with what the future may hold.
 - Extremism is all the rage. But there’s a moment that will truly test Shoebridge and Hanson — SMH · 10 Oct · https://www.smh.com.au/politics/federal/extremism-is-all-the-rage-but-there-s-a-moment-that-will-truly-test-shoebridge-and-hanson-20261010-p613ye.html?ref=rss
   You don’t need to peer too far back into the past to be reminded how public sentiment can rearrange itself once an election is called.
 - ‘No one will comply’: Venue owners warn proposed noise caps will silence Northbridge — SMH · 10 Oct · https://www.smh.com.au/national/western-australia/no-one-will-comply-venue-owners-warn-proposed-noise-caps-will-silence-northbridge-20261010-p614az.html?ref=rss
   Proposed late-night sound caps of 79 decibels would “completely kill” entertainment in WA’s premier nightlife precinct, operators and council warn.
-- Albanese backflips on controversial disaster funding following backlash — SMH · 09 Oct · https://www.smh.com.au/national/queensland/albanese-backflips-on-controversial-disaster-funding-following-backlash-20261009-p6149d.html?ref=rss
-  Queensland Premier David Crisafulli was a vocal critique of the plan, describing the now ditched proposal as an “unmitigated disaster”.
-- Albanese talked up cheaper coffee, but Chalmers has to swallow his pride — SMH · 09 Oct · https://www.smh.com.au/politics/federal/albanese-talked-up-cheaper-coffee-but-chalmers-has-to-swallow-his-pride-20261009-p6144f.html?ref=rss
-  A plan to cut credit card surcharge fees for consumers turned, somehow, into a tale of government hypocrisy and an attack on small business.
-- Building resilience into the real-time economy — SMH · 09 Oct · https://www.smh.com.au/technology/building-resilience-into-the-real-time-economy-20261009-p613gz.html?ref=rss
-  More of Australia’s economy now depends on digital systems operating in real time.
-(+5 more not listed)
+(+8 more not listed)
 
 ## Other prominent general stories – one outlet
-- Hurricane Isaias kills at least four, leaves thousands without power in US — ABC +1 (BBC) · 11 Oct · https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334
-  Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
+- US sanctions Fijian businessman over alleged corruption tied with China — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/us-sanctions-fijian-businessman-alleged-corruption-china/107241542
+  The US has banned a Chinese Fijian businessman accused of being a member of a criminal network with ties to the Chinese government.
 - Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
   Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
-- Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
-  Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
 - Man dies after entering tiger enclosure at UK zoo — ABC +1 (Guardian) · 11 Oct · https://www.abc.net.au/news/2026-10-11/man-killed-by-tiger-at-uk-zoo/107252578
   A man has died after being attacked by a tiger at Yorkshire Wildlife Park, police say.
+- Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
+  Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
 - Andrew Mountbatten-Windsor handed compensation over Royal Lodge repair bill — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/andrew-receives-crown-estate-compensation/107250546
   The former prince was forced to surrender the lease on Royal Lodge after public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
 - Woman charged with attempted murder of two boys with 'noxious substance' — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
 - Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
   Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
+- Pregnant woman among eight killed in Pennsylvania shooting — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788
+  Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to…
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
+- Running legend Kipchoge sets race record at Melbourne Marathon — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768
+  Marathon legend Eliud Kipchoge has time to slow down and wave at the crowds at the MCG and still break the race record at the Melbourne Marathon.
+- Breaking: Police responding to CBD incident near Flinders Street Station — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/police-melbourne-cbd-incident-emergency/107252918
+  Emergency services are responding to an incident in Melbourne's city centre, with witnesses telling the ABC a car was driving erratically on Flinders and Elizabeth streets.
 - Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia
   The offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in…
-- OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
-  Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
-- Researchers find 180,000 giant tortoises living on island in Seychelles — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles
-  Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tortoise population…
 - How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia
   Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery…
+- Researchers find 180,000 giant tortoises living on island in Seychelles — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles
+  Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tortoise population…
+- OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
+  Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
 - Isaias strengthens to become first Atlantic hurricane of 2026 season — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026
   Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds…
 - High Court's coalmine emissions ruling says 'the quiet part out loud' — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132
@@ -212,17 +218,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our breaking news email , free app or daily news podcast The momentum behind Firmus Technologies’…
 - South Korea threatens legal action if fuel shipments to Russia found to have broken law — Guardian · 08 Oct · https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law
   Responding to a Guardian report that revealed thousands of tonnes of fuel was transported to Russia, Seoul said it was investigating the cases South Korea will take legal action if it finds that…
-- Residents airlifted to safety after flooding in central Chile — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ck5yn8jn677vo
-  The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.
 - Covid, Brexit and Liz Truss mini-budget led to lasting decline in mental health, study finds — Guardian · 08 Oct · https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study
   Researchers found five events, including Russia’s invasion of Ukraine, caused serious damage to mental wellbeing across UK Brexit, Liz Truss’s mini-budget and other “shocks” over the last 10 years…
 - Fired OpenAI researchers say they were let go for 'prioritising safety' — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo
   The AI firm instead claims the researchers were fired for mishandling sensitive information.
-- France's school protests: what lies behind the anger — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c6n9rgg80z94o
-  Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.
-- Why Elon Musk is taking on India's richest man over Starlink — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cvglw9ryjrylo
-  Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.
-(+474 more not listed)
+(+482 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Logitech Enterprise Products Reveal: 5 Things To Know — CRN · 10 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-enterprise-products-reveal-5-things-to-know
@@ -329,8 +329,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As part of Global Cybersecurity Week, we asked three cybersecurity partners about the trends in the market.
 - Colonial First State turns marketing automation into an always-on engagement engine — iTnews · 05 Oct · https://www.itnews.com.au/news/colonial-first-state-turns-marketing-automation-into-an-always-on-engagement-engine-629251
   Connecting members to their super.
-- NSW National Parks web app accessed by OpenAI agent — iTnews · 04 Oct · https://www.itnews.com.au/news/nsw-national-parks-web-app-accessed-by-openai-agent-629402
-  Incident classified as a "misalignment".
 
 ## Technology news (BBC, Guardian)
 - Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment — Guardian · 11 Oct · https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment
@@ -639,23 +637,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 11 Oct 11:37 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 11 Oct 11:37 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 11 Oct 11:37 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 11 Oct 11:37 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 11 Oct 11:37 | 32 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 11 Oct 11:37 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 11 Oct 11:37 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 11 Oct 11:37 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 11 Oct 11:37 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 11 Oct 11:37 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 11 Oct 11:37 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 11 Oct 11:37 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 11 Oct 11:37 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 11 Oct 11:37 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 11 Oct 11:37 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 11 Oct 11:37 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 11 Oct 11:37 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 11 Oct 11:37 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 11 Oct 13:27 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 11 Oct 13:27 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 11 Oct 13:27 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 11 Oct 13:27 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 11 Oct 13:27 | 32 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 11 Oct 13:27 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 11 Oct 13:27 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 11 Oct 13:27 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 11 Oct 13:27 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 11 Oct 13:27 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 11 Oct 13:27 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 11 Oct 13:27 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 11 Oct 13:27 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 11 Oct 13:27 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 11 Oct 13:27 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 11 Oct 13:27 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 11 Oct 13:27 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 11 Oct 13:27 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 26,842 tokens._
+_Approximate reading cost of this digest: 26,935 tokens._
