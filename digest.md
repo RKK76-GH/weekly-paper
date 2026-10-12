@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Tue 13 Oct 2026, 07:30 Sydney time. Stories from 06 Oct to 13 Oct. 1362 stories held from 18 of 18 sources.
+Updated Tue 13 Oct 2026, 09:28 Sydney time. Stories from 06 Oct to 13 Oct. 1381 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -54,6 +54,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
 - Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
   Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
+- Hundreds of French supermarkets' fridges hacked in large-scale attack — ABC +2 (BBC, Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724
+  Several major food retailers in France have been targeted by hackers who raised fridge temperatures up to 50 degrees Celsius causing fires and spoiling food.
 - Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90 — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software
   MIT computer scientist led development of software for moon mission and earned Presidential Medal of Freedom Margaret Hamilton, the computer pioneer whose software powered the first moon landing, has…
 - Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb
@@ -64,10 +66,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote…
 - Flydubai co-pilot began radicalisation in Australia, UAE prosecutors say — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/10/flydubai-co-pilot-radicalisation-australia-uae-prosecutors-ntwnfb
   Hammam al-Hammami’s shift towards extremism began while he was a student in Melbourne, according to Emirati attorney general Get our breaking news email , free app or daily news podcast The co-pilot…
-- Indonesian government faces wildfires lawsuit as haze blankets region — ABC +1 (Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412
-  Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
 - Hurricane Isaias makes landfall in Florida with severe effects expected across several states — Guardian +1 (BBC) · 10 Oct · https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall
   Governors of Mississippi, Alabama and Florida declared states of emergency as a downsized Fema faces first major test Hurricane Isaias made landfall near Destin, Florida, on Friday evening, sweeping…
+- Indonesian government faces wildfires lawsuit as haze blankets region — ABC +1 (Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412
+  Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
 - Adidas accuses Australian label White Fox of ‘trading off its reputation’ with use of four-stripe branding — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb
   Global sportswear brand is suing online retailer in the federal court for selling clothes featuring ‘deceptively similar’ design Global sportswear brand Adidas claims Australian label White Fox is…
 - 'Abhorrent' US plan to livestream execution amounts to torture, says UN — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/livestream-death-penalty-firing-squad-united-nation-/107250294
@@ -76,17 +78,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE )…
 - Man found dead by police after 'serious incident' in Perth's south — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536
   Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.
+- At least 139 migrants dead after boat from Djibouti to Yemen capsizes — ABC +1 (BBC) · 12 Oct · https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724
+  It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
 - Former Bachelor Sam Wood to fight for bail application on domestic violence charges — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sam-wood-supreme-court-bail-domestic-violence-charge/107247738
   The fitness influencer will launch a new fight for bail in Queensland's highest court after he was remanded in custody yesterday.
 - South Korea recalls ambassador as row with Ukraine escalates — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/south-korea-recalls-ambassador-to-ukraine/107245422
   Tensions between South Korea and Ukraine started escalating last month when Ukraine revealed it had transferred two North Korean soldiers to Seoul.
-- At least 139 migrants dead after boat from Djibouti to Yemen capsizes — ABC +1 (BBC) · 12 Oct · https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724
-  It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
 - Man arrested over weekend death of Melbourne woman — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/man-arrested-over-carlton-death/107258702
   Victoria Police say a 31-year-old Carlton man handed himself in in relation to the death of the 21-year-old woman in a block of flats.
-- Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
-  Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
-(+32 more not listed)
+(+33 more not listed)
 
 ## Australian politics and economy – other candidates
 - Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb
@@ -125,12 +125,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Death row inmate Christa Pike was still fighting for life in a Tennessee hospital when the US federal government revealed it was ready to conduct its own high profile execution.
 - As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
   International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
+- ‘BYD effect’: electric vehicle boom becomes unexpected tool to combat inflation — Guardian · 13 Oct · https://www.theguardian.com/environment/2026/oct/13/inflation-australia-petrol-prices-byd-electric-vehicle-economy
+  More and more Australian consumers are expected to ‘unplug themselves from the oil shock’ with at least five EVs priced around or below $30,000 Get our breaking news email , free app or daily news…
 - Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
   Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
 - Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
   The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
-- ‘BYD effect’: electric vehicle boom becomes unexpected tool to combat inflation — Guardian · 13 Oct · https://www.theguardian.com/environment/2026/oct/13/inflation-australia-petrol-prices-byd-electric-vehicle-economy
-  More and more Australian consumers are expected to ‘unplug themselves from the oil shock’ with at least five EVs priced around or below $30,000 Get our breaking news email , free app or daily news…
 - 'Up to our people': Zelenskyy responds to Trump's election call — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/ukraine-trump-zelenskyy-elections/107254072
   The US president has called for Ukraine to pick a new leader as he blames Volodymyr Zelenskyy and Ukrainian strikes on Russian refineries for high diesel prices.
 - Commemoration marks 25 years since Australia joined Afghanistan conflict — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770
@@ -169,19 +169,21 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As Darwin's largest short-stay accommodation centre closes its doors today, some medically at-risk residents say they are being moved to the replacement site an hour away despite government promises…
 - Live: Labor minister wants RBA to go further on card surcharges ban — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/federal-politics-live-blog-surcharges-parliament-duty-of-care/107249612
   Labor frontbencher Kristy McBain says the Reserve Bank should remove bank fees for businesses to use point-of-sale machines. Follow live.
-(+47 more not listed)
+(+49 more not listed)
 
 ## Other prominent general stories – one outlet
+- Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
+  Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
 - Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
   Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
 - Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' — BBC +1 (SMH) · 10 Oct · https://www.bbc.co.uk/news/articles/cm1dwgr666wno
   Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+- Why Moscow is staying tight-lipped on Trump's energy ceasefire — BBC +1 (SMH) · 13 Oct · https://www.bbc.co.uk/news/articles/cjx2359qekrdo
+  While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.
 - Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
   South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
   Three men accused of killing Australian brothers Jake and Callum Robinson in Mexico have been found guilty of the murders.
-- Why Moscow is staying tight-lipped on Trump's energy ceasefire — BBC +1 (SMH) · 13 Oct · https://www.bbc.co.uk/news/articles/cjx2359qekrdo
-  While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.
 - Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’ — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting
   Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs…
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
@@ -202,29 +204,29 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A man has died after being attacked by a tiger at Yorkshire Wildlife Park, police say.
 - Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
   Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
+- American professors Hall and Woodford win Nobel economics prize — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/hall-and-woodford-win-2026-nobel-economics-prize/107257982
+  The award was announced by the Royal Swedish Academy of Sciences in Stockholm, honouring Robert E Hall who is affiliated with Stanford University in California and Michael Woodford part of Columbia…
 - Total fire ban for Sydney, with 37C temperatures and risk of bushfires from ‘dry lightning’ — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c
   Thunderstorms coupled with hot and dry conditions mean ‘fire danger is going to be right up today’, Rural Fire Service says Follow our Australia politics live blog for latest updates Get our new…
 - Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
   Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
-- American professors Hall and Woodford win Nobel economics prize — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/hall-and-woodford-win-2026-nobel-economics-prize/107257982
-  The award was announced by the Royal Swedish Academy of Sciences in Stockholm, honouring Robert E Hall who is affiliated with Stanford University in California and Michael Woodford part of Columbia…
-- Cyber-attack defrosts refrigerators in two French supermarket chains — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u
-  An estimated 150-200 Intermarché shops were targeted, along with almost 100 Cooperative U outlets French supermarket chains Intermarché and Cooperative U have been hit by an “unprecedented”…
 - Man pushes cousin 42km in Melbourne Marathon, carries him over line — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/cousin-helps-toby-holt-complete-melbourne-marathon/107251188
   Toby Holt was diagnosed with juvenile Huntington's disease at 16 years old. The disease is taking away his ability to walk and talk but thanks to a push from his cousin, he has just completed a…
 - Teenager charged over alleged Melbourne CBD hit-and-run — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/teenager-charged-melbourne-hit-run/107254454
   A 16-year-old is facing a slew of charges after allegedly hitting a woman with a stolen car in Melbourne's CBD on Sunday.
 - Andrew Mountbatten-Windsor handed compensation over Royal Lodge repair bill — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/andrew-receives-crown-estate-compensation/107250546
   The former prince was forced to surrender the lease on Royal Lodge after public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
-- Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
-  Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
 - Judge warns jurors as Russell Brand prepares for rape trial in London — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736
   British actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.
+- Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
+  Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
-(+775 more not listed)
+(+789 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
+- Nexwave creates new director of cloud and AI role — CRN · 14 Oct · https://www.crn.com.au/news/2026/channel-news/nexwave-director-cloud-and-ai-role-lachlan-wright
+  The Microsoft consultancy hires Lachlan Wright as the inaugural director.
 - Ingram Micro brings TrustX Alliance to Australia — CRN · 13 Oct · https://www.crn.com.au/news/2026/distributor/ingram-micro-brings-trustx-alliance-to-australia
   The invite-only community aims to join partners with more than 500 companies worldwide.
 - Intel ‘Targeted’ Job Cuts Hit Channel Partners As Part Of CEO’s Efficiency Push — CRN · 13 Oct · https://www.crn.com.au/news-network/components-peripherals/2026/intel-targeted-job-cuts-hit-channel-partners-as-part-of-ce
@@ -343,9 +345,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After being unveiled back in 2024.
 - SUBCO eyes cable laying ship and survey drone — iTnews · 07 Oct · https://www.itnews.com.au/news/subco-eyes-cable-laying-ship-and-survey-drone-629451
   Would seek government investment in vessel.
-- Anthropic opens its most powerful AI models to more security teams — iTnews · 07 Oct · https://www.itnews.com.au/news/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams-629461
-  Multiple tiers of access unveiled.
-(+6 more not listed)
+(+7 more not listed)
 
 ## Technology news (BBC, Guardian)
 - Is Wikipedia ‘deeply biased’? Sandi Toksvig says it is – so she’s backing a rival — Guardian · 13 Oct · https://www.theguardian.com/technology/2026/oct/12/wikipedia-deeply-biased-sandi-toksvig-backing-rival
@@ -451,6 +451,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+8 more not listed)
 
 ## Cars (CarExpert)
+- Peugeot RCZ Vision coupe revealed with 500hp and solid-state battery — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/peugeot-rcz-vision-coupe-revealed-with-500hp-and-solid-state-battery
+  Peugeot has revived its RCZ coupe as a 373kW electric concept with solid-state battery tech, providing a claimed 600km range and ultra-fast charging.
+- Jetour T1, T2 spied in Australia as Chery brand nears local launch — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/jetour-t1-t2-spied-in-australia-as-chery-brand-nears-local-launch
+  Jetour will enter the crowded mid-size SUV segment in Australia with a pair of models brandishing chunky designs, and they're now being tested here.
+- Why Nissan chose the Navara name for its new Chinese-made hybrid ute — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/why-nissan-chose-the-navara-name-for-its-new-chinese-made-hybrid-ute
+  Nissan is banking on decades of brand recognition with its new plug-in hybrid dual-cab, even if that means two unrelated utes sharing the Navara name.
 - Peugeot E-T16 concept is a rally legend reborn, previews next E-208 — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/peugeot-e-t16-concept-is-a-rally-legend-reborn-previews-next-e-208
   The WRC-inspired Peugeot E-T16 produces over 800hp and is claimed to be the world's first 'hyperhatch', capable of hitting 300km/h in 16 seconds.
 - Smart #2: Electric successor to ForTwo revealed in full — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/smart-2-electric-successor-to-fortwo-revealed-in-full
@@ -461,8 +467,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The revived Holden Dealer Team plans to build performance cars in Bathurst, including a 'reimagined' version of its famous road-going Commodores.
 - Alfa Romeo Cuorerosso concept previews brand's future — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/alfa-romeo-cuorerosso-concept-previews-brands-future
   Alfa Romeo says its electrified future won't be devoid of passion or driver engagement, unveiling a striking 2+2 concept as proof.
-- Nissan Navara Pro PHEV could get hardcore Warrior treatment — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/nissan-navara-pro-phev-could-get-hardcore-warrior-treatment
-  The Navara Warrior could live on as a plug-in hybrid, with Nissan considering a tougher version of its upcoming Chinese-built ute.
 - Nissan takes aim at PHEV ute rivals with 'real truck' promise — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/nissan-takes-aim-at-phev-ute-rivals-with-real-truck-promise
   Nissan is promising big things from its plug-in hybrid Navara Pro PHEV ute, claiming it won't sacrifice capability in the name of electrification.
 - MG 4 EV Urban vs Geely EX2: Spec battle — CarExpert · 12 Oct · https://www.carexpert.com.au/car-comparisons/mg-4-ev-urban-vs-geely-ex2-spec-battle
@@ -563,14 +567,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Leapmotor has stolen BYD's thunder with a sharp base price for its new B03X, now Australia's cheapest electric SUV.
 - 2027 Mazda CX-6e review: Quick drive — CarExpert · 06 Oct · https://www.carexpert.com.au/car-reviews/2027-mazda-cx-6e-review-quick-drive
   Mazda's Chinese partnership has produced a second EV for Australia – this time an intriguing alternative to the best-selling Tesla Model Y.
-- More Melbourne streets to get 30km/h speed limits — CarExpert · 06 Oct · https://www.carexpert.com.au/car-news/more-melbourne-streets-to-get-30kmh-speed-limits
-  One of the most famous streets in Melbourne will get a 30km/h speed limit as part of an 18-month trial, with the local council calling for feedback on the move.
-- Nissan X-Trail Rock Creek e-Power: More rugged-looking hybrid SUV a possibility for Australia — CarExpert · 06 Oct · https://www.carexpert.com.au/car-news/nissan-x-trail-rock-creek-e-power-more-rugged-looking-hybrid-suv-a-possibility-for-australia
-  Nissan has launched the new X-Trail Rock Creek here only with petrol power to reduce complexity, but says it could bring a hybrid option.
-- 2027 BMW X3 M50 xDrive gets power bump, black pack treatment — CarExpert · 06 Oct · https://www.carexpert.com.au/car-news/2027-bmw-x3-m50-xdrive-gets-power-bump-black-pack-treatment
-  The BMW X3 M50 xDrive performance SUV has received a power bump and a stealthy new Black Package option, with the wider range to receive interior enhancements.
 
 ## Science (Guardian, BBC)
+- Crew searching for Amelia Earhart arrives at crab-infested island — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o
+  Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.
 - Stinky 'skunk' plant cleared from river — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/c6rrydykw44lo
   The plant is said to smell like "rotting meat" and is is native to swamps and other wetlands in the Pacific Northwest.
 - Appeal for major energy storage system rejected — BBC · 12 Oct · https://www.bbc.co.uk/news/articles/cwvgdej69m2ro
@@ -690,23 +690,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 13 Oct 07:30 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 13 Oct 07:30 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 13 Oct 07:30 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 13 Oct 07:30 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 13 Oct 07:30 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 13 Oct 07:30 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 13 Oct 07:30 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 13 Oct 07:30 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 13 Oct 07:30 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 13 Oct 07:30 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 13 Oct 07:30 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 13 Oct 07:30 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 13 Oct 07:30 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 13 Oct 07:30 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 13 Oct 07:30 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 13 Oct 07:30 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 13 Oct 07:30 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 13 Oct 07:30 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 13 Oct 09:28 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 13 Oct 09:28 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 13 Oct 09:28 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 13 Oct 09:28 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 13 Oct 09:28 | 30 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 13 Oct 09:28 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 13 Oct 09:28 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 13 Oct 09:28 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 13 Oct 09:28 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 13 Oct 09:28 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 13 Oct 09:28 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 13 Oct 09:28 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 13 Oct 09:28 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 13 Oct 09:28 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 13 Oct 09:28 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 13 Oct 09:28 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 13 Oct 09:28 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 13 Oct 09:28 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,830 tokens._
+_Approximate reading cost of this digest: 28,811 tokens._
