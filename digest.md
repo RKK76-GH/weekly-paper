@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Mon 12 Oct 2026, 17:39 Sydney time. Stories from 05 Oct to 12 Oct. 1233 stories held from 18 of 18 sources.
+Updated Mon 12 Oct 2026, 19:34 Sydney time. Stories from 05 Oct to 12 Oct. 1244 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
 - Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
   South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
-(+24 more not listed)
+(+25 more not listed)
 
 ## Australian politics and economy – other candidates
 - Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb
@@ -101,6 +101,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.
 - Greens push for right to sue big tech as Labor axes ministerial powers — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/greens-push-to-sue-big-tech-over-online-harm-safety-laws-labor/107253674
   The Greens outline demands for stronger protections and tougher penalties for tech giants, as Labor seeks a way through the Senate for its digital safety laws.
+- Teens at Sydney private religious school made to share beds with teachers, inquiry hears — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb
+  Former student says nothing untoward happened to her during stays but tells NSW parliamentary inquiry culture of Redeemer Baptist School left much to ‘untangle’ as an adult Get our breaking news…
 - Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato
   ‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji Wealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP…
 - Overseas, Albanese sees ‘the very definition of climate injustice’ – but at home, he still wants coal — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal
@@ -157,6 +159,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After furious backlash from small businesses, the electorate and some of his own colleagues, Treasurer Jim Chalmers has rapidly reversed two major government decisions. But is it enough?
 - Fiona Dhawunymurruwuy will be evicted on Sunday, along with 120 other First Nations people: ‘There’s no place for me’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/10/fiona-dhawunymurruwuy-will-be-evicted-on-sunday-along-with-120-other-first-nations-people-theres-no-place-for-me-ntwnfb
   The NT government turned down $6.5m to keep the Darwin emergency housing open, saying it’s a ‘waste of taxpayers’ hard-earned money’ Get our breaking news email , free app or daily news podcast Three…
+- Almost 80,000 older Australians expected to ditch private health over changes — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/private-health-insurance-changes-older-australians-dump-cover/107255436
+  The latest estimate is nearly double the 44,000 figure repeatedly cited by the federal government in defence of the policy.
 - Live: Labor minister wants RBA to go further on card surcharges ban — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/federal-politics-live-blog-surcharges-parliament-duty-of-care/107249612
   Labor frontbencher Kristy McBain says the Reserve Bank should remove bank fees for businesses to use point-of-sale machines. Follow live.
 - Live: ASX set to rise after strong sessions on Wall Street and Europe — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/asx-markets-business-live-news/107253878
@@ -165,11 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Labor and the Liberals are trying to appeal to disgruntled voters as the Victorian election looms. But voters seeking information from AI chatbots could find One Nation missing from the answer.
 - Fears migration changes may fuel coercive control, visa-related abuse — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/migration-changes-hands-power-to-domestic-abusers-expert-say/107180366
   A crackdown on overstayers is part of both federal government and opposition migration plans. But advocates against domestic and family violence warn it may worsen the situation for many.
-- Taylor thought he'd struck political gold, but Hanson has taken the mine — ABC · 09 Oct · https://www.abc.net.au/news/2026-10-09/michelle-grattan-migration-policy-liberal-party/107242754
-  In the furious debate about migration policy, figures and justifications get easily lost in a quagmire of vocal stakeholders, potential losers and outcomes that may not stand the test of the real…
-- Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine
-  High court judgment blocking Mount Pleasant mine expansion will not affect state regulation, NSW premier says Get our new political email , free app or daily news podcast Chris Minns says activists…
-(+38 more not listed)
+(+39 more not listed)
 
 ## Other prominent general stories – one outlet
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
@@ -194,18 +194,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Thunderstorms coupled with hot and dry conditions mean ‘fire danger is going to be right up today’, Rural Fire Service says Follow our Australia politics live blog for latest updates Get our new…
 - Pedestrian, police car struck after Sydney CBD carjacking — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sydney-cbd-carjacking-crash/107245966
   Police arrest a 36-year-old man after he allegedly committed a carjacking and struck a pedestrian and two cars, including a police vehicle, in Sydney's CBD.
+- Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021 — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison
+  Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app…
 - Man pushes cousin 42km in Melbourne Marathon, carries him over line — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/cousin-helps-toby-holt-complete-melbourne-marathon/107251188
   Toby Holt was diagnosed with juvenile Huntington's disease at 16 years old. The disease is taking away his ability to walk and talk but thanks to a push from his cousin, he has just completed a…
 - Teenager charged over alleged Melbourne CBD hit-and-run — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/teenager-charged-melbourne-hit-run/107254454
   A 16-year-old is facing a slew of charges after allegedly hitting a woman with a stolen car in Melbourne's CBD on Sunday.
 - Andrew Mountbatten-Windsor handed compensation over Royal Lodge repair bill — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/andrew-receives-crown-estate-compensation/107250546
   The former prince was forced to surrender the lease on Royal Lodge after public outcry over his relationship with convicted sex-offender Jeffrey Epstein.
-- Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021 — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison
-  Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app…
-- Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
-  Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
 - Behind Trump's war of words on Ukraine is a worrying threat — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500
   It is hard to see Donald Trump's shifting position on Ukraine as a clear strategic change, and not one driven principally by soaring fuel prices ahead of the US mid-term elections.
+- Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378
+  Prosecutors withdrew charges after conceding they could not prove the boy was criminally liable following the death of Sunshine man Van Viet Truong in August.
 - Heavily armed police unit set to hit Sydney's streets — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254
   The new long-arms carrying unit is expected to begin public training on Sydney's streets after months of secretive work behind the scenes.
 - Isaias strengthens to become first Atlantic hurricane of 2026 season — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026
@@ -218,11 +218,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Figure is highest ever recorded for species and confirms one of Indian Ocean’s greatest conservation success stories A landmark survey of the world’s largest free-roaming giant tortoise population…
 - High Court's coalmine emissions ruling says 'the quiet part out loud' — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/government-experts-respond-mt-pleasant-high-court-ruling/107242132
   Activists, politicians and the resources sector are fired up about a High Court ruling over a planning statute.
-- OpenAI used AI to help write email warning Australian government AI had hacked its websites — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites
-  Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our breaking news email , free app or daily news podcast…
 - ‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires
   Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam…
-(+679 more not listed)
+- Astronomers detect mysterious burst of energy from a galaxy far, far away — Guardian · 09 Oct · https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves
+  Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was…
+(+686 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Ingram Micro brings TrustX Alliance to Australia — CRN · 13 Oct · https://www.crn.com.au/news/2026/distributor/ingram-micro-brings-trustx-alliance-to-australia
@@ -348,10 +348,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+4 more not listed)
 
 ## Technology news (BBC, Guardian)
+- AI less regulated than milk, Microsoft president says in warning over safety — Guardian +1 (BBC) · 12 Oct · https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules
+  Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agents Business live – latest updates Artificial intelligence is less regulated…
 - iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone — Guardian · 12 Oct · https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone
   A giant screen, big battery, rapid chip and top cameras push the great iPhone 18 Pro to the max with a price tag to match Apple’s largest Pro iPhone gets its biggest battery upgrade yet to make it a…
-- AI is less regulated than milk, says Microsoft president — BBC · 12 Oct · https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo
-  Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.
 - Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment — Guardian · 11 Oct · https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment
   Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists Humans could become extinct by the year 2100 due to malicious use of…
 - Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’? — Guardian · 11 Oct · https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop
@@ -569,6 +569,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 ## Science (Guardian, BBC)
 - Can you solve it? The treacherous riddle of the round table — Guardian · 12 Oct · https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table
   A puzzle for the ages It’s made of wood, it’s in the shape of a circle, and it is the forum for many an important gathering. It is also the setting for today’s puzzle. Continue reading...
+- Starwatch: Mars signposts the beautiful Beehive cluster — Guardian · 12 Oct · https://www.theguardian.com/science/2026/oct/12/starwatch-mars-signposts-beautiful-beehive-star-cluster
+  From a dark location, the Beehive – or Praesepe – will appear as a faint, misty patch very close to the red planet The red planet, Mars, sails through the beautiful cluster of stars known as the…
 - American ranchers wrestle with soaring costs - and their loyalty to Trump — BBC · 12 Oct · https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o
   Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.
 - 'Prepare for the unthinkable' warning over autumn flooding — BBC · 12 Oct · https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo
@@ -684,23 +686,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 12 Oct 17:39 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 12 Oct 17:39 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 12 Oct 17:39 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 12 Oct 17:39 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 12 Oct 17:39 | 24 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 12 Oct 17:39 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 12 Oct 17:39 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 12 Oct 17:39 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 12 Oct 17:39 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 12 Oct 17:39 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 12 Oct 17:39 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 12 Oct 17:39 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 12 Oct 17:39 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 12 Oct 17:39 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 12 Oct 17:39 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 12 Oct 17:39 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 12 Oct 17:39 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 12 Oct 17:39 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 12 Oct 19:34 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 12 Oct 19:34 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 12 Oct 19:34 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 12 Oct 19:34 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 12 Oct 19:34 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 12 Oct 19:34 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 12 Oct 19:34 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 12 Oct 19:34 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 12 Oct 19:34 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 12 Oct 19:34 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 12 Oct 19:34 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 12 Oct 19:34 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 12 Oct 19:34 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 12 Oct 19:34 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 12 Oct 19:34 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 12 Oct 19:34 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 12 Oct 19:34 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 12 Oct 19:34 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,720 tokens._
+_Approximate reading cost of this digest: 28,835 tokens._
