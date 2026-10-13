@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Wed 14 Oct 2026, 07:43 Sydney time. Stories from 07 Oct to 14 Oct. 1627 stories held from 18 of 18 sources.
+Updated Wed 14 Oct 2026, 09:38 Sydney time. Stories from 07 Oct to 14 Oct. 1631 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -40,12 +40,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   At least 12 people are dead and more than 300 have been wounded after an attack on King Khalid International Airport in the Saudi capital.
 - Canadian poet and writer Anne Carson wins 2026 Nobel Prize in Literature — ABC +2 (BBC, Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/107245306
   The 76-year-old was honoured "for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature," the Swedish Academy said.
+- Woman charged with attempted murder of two boys with 'noxious substance' — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
+  Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
 - Missing Melbourne hiker Jordan Yap has died in Peru, authorities confirm — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872
   Australian man Jordan Yap has been found dead, weeks after he failed to return home from a solo hike in a remote region of Peru.
 - Powerful 7.7-magnitude earthquake hits off coast of Panama — ABC +2 (BBC, Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/earthquake-panama-tsunami-warning/107250814
   The tremor struck in the south, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks.
-- Woman charged with attempted murder of two boys with 'noxious substance' — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
-  Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
 - Man found dead by police after 'serious incident' in Perth's south — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/man-found-dead-by-police-after-serious-incident-in-orelia-perth/107246536
   Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.
 - At CPAC, Angus Taylor comes second to Pauline Hanson — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940
@@ -60,10 +60,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
 - Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
   Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
-- Judge warns jurors as Russell Brand prepares for rape trial in London — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736
-  British actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
   Decision about US ambassador to Greece announced by White House after Trump and Rubio were reportedly furious over allegations Kimberly Guilfoyle has been asked to step down as US ambassador to…
+- Judge warns jurors as Russell Brand prepares for rape trial in London — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736
+  British actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.
 - Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90 — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software
   MIT computer scientist led development of software for moon mission and earned Presidential Medal of Freedom Margaret Hamilton, the computer pioneer whose software powered the first moon landing, has…
 - Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.
 - At least 139 migrants dead after boat from Djibouti to Yemen capsizes — ABC +1 (BBC) · 12 Oct · https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724
   It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
-(+45 more not listed)
+(+46 more not listed)
 
 ## Australian politics and economy – other candidates
 - Lukewarm Liberal response to Josh Frydenberg's potential return — ABC +1 (Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/liberal-party-josh-frydenberg-politics-kooyong-return/107260102
@@ -133,10 +133,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
 - Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
   Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
-- Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
-  The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
 - Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business
   ‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email…
+- Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
+  The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
 - Molly Ticehurst's killer intends to appeal murder sentence — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/molly-ticehurst-killer-daniel-billings-murder-sentence-appeal/107257888
   Last month, Daniel Billings was sentenced to 28 years' jail over the murder of his ex-partner in central west NSW — a sentence he now plans to appeal.
 - Major parties defend AI inquiry after Pocock warns of 'stitch-up' — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612
@@ -149,12 +149,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
 - How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
   Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
+- Labor can't count on One Nation fading away, Chalmers warns — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318
+  Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
 - David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM — Guardian · 13 Oct · https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb
   Committee chair rejects criticism that letter was ‘pre-determined’ by the government Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news…
 - An average of 17 older Australians died each day last year waiting for home care — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
-- Labor can't count on One Nation fading away, Chalmers warns — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318
-  Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
 - Rent-tech platforms sidestepping credit card surcharge ban with new fees and paid ‘memberships’ — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/renters-credit-card-surcharge-ban-paid-memberships-online-property-management
   Tenants encouraged to seek free options after online property platforms respond to Reserve Bank’s credit card payment reform Get our breaking news email , free app or daily news podcast Online…
 - Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
@@ -169,13 +169,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   IMF’s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation An International Monetary Fund scenario where global oil prices jump to US$130 a barrel…
 - Labor MPs want to find a way to keep ATO credit card payments — SMH · 13 Oct · https://www.smh.com.au/politics/federal/labor-mps-want-to-find-a-way-to-keep-ato-credit-card-payments-20261013-p614sh.html?ref=rss
   The surcharge ban and the Tax Office’s resultant refusal to accept credit cards dominated the political brawl in Canberra on Tuesday.
-(+74 more not listed)
+(+75 more not listed)
 
 ## Other prominent general stories – one outlet
-- US man shoots off-duty ICE agent who allegedly attacked him and daughter — Guardian +1 (BBC) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty
-  ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE )…
+- Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government — Guardian +1 (BBC) · 12 Oct · https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government
+  Suspension of provincial government escalates standoff with Khan’s PTI party a week after his supporters began marching to demand his release Pakistan has declared a state of emergency in a province…
 - Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
   Mitte was best known for his role as the son of drug kingpin Walter White in the hit television series Breaking Bad.
+- US man shoots off-duty ICE agent who allegedly attacked him and daughter — Guardian +1 (BBC) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty
+  ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE )…
 - Man arrested over weekend death of Melbourne woman — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/man-arrested-over-carlton-death/107258702
   Victoria Police say a 31-year-old Carlton man handed himself in in relation to the death of the 21-year-old woman in a block of flats.
 - Former Bachelor Sam Wood to fight for bail application on domestic violence charges — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sam-wood-supreme-court-bail-domestic-violence-charge/107247738
@@ -184,12 +186,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Tensions between South Korea and Ukraine started escalating last month when Ukraine revealed it had transferred two North Korean soldiers to Seoul.
 - Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
   Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
+- One dead and more injured after incident on Six Flags rollercoaster in US — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster
+  Six Flags Over Georgia ‘deeply saddened’ by tragedy, reportedly occurring on Goliath coaster with 175ft drop One person has died and several others were injured in an incident involving a Six Flags…
 - Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
   Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
 - Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' — BBC +1 (SMH) · 10 Oct · https://www.bbc.co.uk/news/articles/cm1dwgr666wno
   Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
-- One dead and more injured after incident on Six Flags rollercoaster in US — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster
-  Six Flags Over Georgia ‘deeply saddened’ by tragedy, reportedly occurring on Goliath coaster with 175ft drop One person has died and several others were injured in an incident involving a Six Flags…
 - Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
   South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
@@ -202,6 +204,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs…
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
+- Sexual and family violence against children at 'crisis point', study finds — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/sexual-family-violence-against-children-increasing-study-sydney/107260580
+  Violence and sexual violence against children have increased sharply across Australia, research by the University of Sydney finds.
 - Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
   The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
 - Behind Trump's war of words on Ukraine is a worrying threat — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500
@@ -218,11 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The US has banned a Chinese Fijian businessman accused of being a member of a criminal network with ties to the Chinese government.
 - Man dies after entering tiger enclosure at UK zoo — ABC +1 (Guardian) · 11 Oct · https://www.abc.net.au/news/2026-10-11/man-killed-by-tiger-at-uk-zoo/107252578
   A man has died after being attacked by a tiger at Yorkshire Wildlife Park, police say.
-- Two more charged with murder over fatal house party attack — ABC +1 (SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732
-  Two more men have been charged with murder over the death of a 21-year-old man at a house party south of Brisbane, bringing the total number of people charged to 11.
-- American professors Hall and Woodford win Nobel economics prize — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/hall-and-woodford-win-2026-nobel-economics-prize/107257982
-  The award was announced by the Royal Swedish Academy of Sciences in Stockholm, honouring Robert E Hall who is affiliated with Stanford University in California and Michael Woodford part of Columbia…
-(+977 more not listed)
+(+982 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Logitech Wants Partners To Think Beyond Meeting Rooms, Channel Chief Says — CRN · 14 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-wants-partners-to-think-beyond-meeting-rooms
@@ -239,6 +239,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Central bank's chief economist says.
 - Investigators hunt French supermarket fridge hackers — iTnews · 14 Oct · https://www.itnews.com.au/news/investigators-hunt-french-supermarket-fridge-hackers-629623
   No claim of responsibility.
+- Macquarie Telecom extends Netskope partnership for SASE delivery — ARN · 14 Oct · https://www.arnnet.com.au/article/4234037/macquarie-telecom-extends-netskope-partnership-for-sase-delivery.html
+  Macquarie Technology Group’s Telecom division has extended its year-long partnership with Netskope to offer a unified, single-vendor secure access service edge (SASE) solution. The expanded agreement…
 - Zoom appoints Andrew Hindmarch as APAC channel head — ARN · 13 Oct · https://www.arnnet.com.au/article/4234055/zoom-appoints-andrew-hindmarch-as-apac-channel-head-2.html
   Zoom has appointed Andrew Hindmarch as head of channel for the Asia Pacific (APAC) region. Based in Singapore, Hindmarch will lead the company’s channel strategy across the region, working closely…
 - CrowdStrike, CyberCert expand MSSP opportunities with SMB certification — ARN · 13 Oct · https://www.arnnet.com.au/article/4234041/crowdstrike-cybercert-expand-mssp-opportunities-with-smb-cert.html
@@ -343,11 +345,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As it challenges Apple.
 - CSIRO finds permanent CISO — iTnews · 08 Oct · https://www.itnews.com.au/news/csiro-finds-permanent-ciso-629495
   To replace Jamie Rossato, who left earlier this year.
-- ClingSTUN botnet hijacks devices with years-old flaws — iTnews · 07 Oct · https://www.itnews.com.au/news/clingstun-botnet-hijacks-devices-with-years-old-flaws-629463
-  Linux malware exploits Ivanti gateway bugs ASD alerted on in 2024.
-(+12 more not listed)
+(+4 more not listed)
 
 ## Technology news (BBC, Guardian)
+- OpenAI employee arrested after recording device found in office — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device
+  Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred…
+- AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning
+  Researchers say ‘AI worms’ could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become…
 - Apple unveils new smart home devices that showcase upgraded Siri AI — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai
   New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an…
 - Companies rushed in on AI. Now some are pulling back — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout
@@ -444,13 +448,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Leaders worry OpenAI is not doing due diligence to vet results and that AI models aren’t accessible to broader field of mathematicians OpenAI has astounded mathematicians after releasing hundreds of…
 - Mumsnet denies using AI for content after prompt appears on message board — Guardian · 08 Oct · https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt
   Users reject site’s explanations after detailed instructions for writing response to post on popular forum were published Mumsnet has denied using AI to produce content after detailed instructions to…
-- What the £350 Grand Theft Auto ‘collector’s box’ says about the escalating cost of gaming — Guardian · 08 Oct · https://www.theguardian.com/games/2026/oct/07/what-the-350-grand-theft-auto-collectors-box-says-about-the-escalating-cost-of-gaming
-  The launch of a collector’s box hints at a new reality: the kinds of games I grew up with are becoming a luxury item, locked behind a forbidding spending barrier • Don’t get Pushing Buttons delivered…
-- The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg — Guardian · 08 Oct · https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison
-  Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who solemnly…
-(+9 more not listed)
+(+11 more not listed)
 
 ## Cars (CarExpert)
+- Honda hikes service prices by 40 per cent, but spares Super-One EV — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/honda-hikes-service-prices-by-40-per-cent-but-spares-super-one-ev
+  Honda has increased capped-price service costs for new petrol and hybrid vehicles purchased from this month, but not the Super-One electric hatch.
+- Toyota RAV4 tops CarExpert's most popular new cars in September 2026 — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/toyota-rav4-tops-carexperts-most-popular-new-cars-in-september-2026
+  Australia's favourite SUV returned to the top of CarExpert's new-car sales rankings last month, as Chinese brands continue to attract strong interest.
 - Ford F-150 Lariat Black Edition released – with a catch — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/ford-f-150-lariat-black-edition-released-with-a-catch
   The Black Edition treatment has been applied to older examples of the F-150 Lariat pickup to help move stock from Ford dealers across Australia.
 - Renault E-Space: Retro people mover concept unveiled in Paris — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/renault-e-space-retro-people-mover-concept-unveiled-in-paris
@@ -575,10 +579,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A five-star safety rating for Australia’s most popular SUV will increase RAV4 sales further, says Toyota's sales boss.
 - Toyota Australia targeting record sales finish in 2026 — CarExpert · 07 Oct · https://www.carexpert.com.au/car-news/toyota-australia-targeting-record-sales-finish-in-2026
   Despite lower sales so far in 2026, Australia's market leader expects fresh stock of its most popular models to help it post a record fourth quarter.
-- 2027 Mini Countryman Untamed Edition brings adventure-ready upgrades... with a catch — CarExpert · 07 Oct · https://www.carexpert.com.au/car-news/2027-mini-countryman-untamed-edition-brings-adventure-ready-upgrades-with-a-catch
-  The Mini Countryman has spawned a new special edition bringing a suspension lift, all-terrain tyres and other off-road goodies that may not come here.
 
 ## Science (Guardian, BBC)
+- More tea? How Scotland's crops of the future could be set to change — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo
+  Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.
 - Owls ringed to measure benefits of wildlife farming — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/ck1wvd3xyyjpo
   A barn owl and 15 chicks are ringed to see if conservation-focused farming is working.
 - Children asked to name Ealing's new beavers — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/c81dwrxkl0vyo
@@ -700,23 +704,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 14 Oct 07:43 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 14 Oct 07:43 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 14 Oct 07:43 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 14 Oct 07:43 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 14 Oct 07:43 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 14 Oct 07:43 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 14 Oct 07:43 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 14 Oct 07:43 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 14 Oct 07:43 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 14 Oct 07:43 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 14 Oct 07:43 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 14 Oct 07:43 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 14 Oct 07:43 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 14 Oct 07:43 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 14 Oct 07:43 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 14 Oct 07:43 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 14 Oct 07:43 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 14 Oct 07:43 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 14 Oct 09:38 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 14 Oct 09:38 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 14 Oct 09:38 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 14 Oct 09:38 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 14 Oct 09:38 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 14 Oct 09:38 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 14 Oct 09:38 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 14 Oct 09:38 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 14 Oct 09:38 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 14 Oct 09:38 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 14 Oct 09:38 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 14 Oct 09:38 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 14 Oct 09:38 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 14 Oct 09:38 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 14 Oct 09:38 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 14 Oct 09:38 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 14 Oct 09:38 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 14 Oct 09:38 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,041 tokens._
+_Approximate reading cost of this digest: 29,211 tokens._
