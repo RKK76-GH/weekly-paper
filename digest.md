@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Wed 14 Oct 2026, 15:42 Sydney time. Stories from 07 Oct to 14 Oct. 1705 stories held from 18 of 18 sources.
+Updated Wed 14 Oct 2026, 17:50 Sydney time. Stories from 07 Oct to 14 Oct. 1737 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -32,10 +32,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.
 - ATO credit card ban delay as government backs down after business backlash — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/credit-card-ban-ato-tax-small-business/107246990
   The federal government will temporarily cover credit card surcharges after businesses warned that losing the payment option would put them under pressure.
-- CCTV of Lamarre-Condon shows alleged killer's movements hours after deaths — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/beau-lamarre-condon-trial-cctv-shows-movements-after-deaths/107241544
-  A NSW court has released more CCTV compilations showing the movements of accused double murderer Beau Lamarre-Condon following the deaths of Sydney couple Jesse Baird and Luke Davies.
 - Woman charged with attempted murder of two boys with 'noxious substance' — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/woman-charged-attempted-domestic-violence-murder-boys/107244128
   Police allege the 47-year-old woman exposed two boys, aged 12 and 15, to a noxious substance at a home in Mitchelton on September 24.
+- CCTV of Lamarre-Condon shows alleged killer's movements hours after deaths — ABC +2 (Guardian, SMH) · 08 Oct · https://www.abc.net.au/news/2026-10-08/beau-lamarre-condon-trial-cctv-shows-movements-after-deaths/107241544
+  A NSW court has released more CCTV compilations showing the movements of accused double murderer Beau Lamarre-Condon following the deaths of Sydney couple Jesse Baird and Luke Davies.
 - UK to continue 'vital services' after Jerusalem consulate ends functions — ABC +2 (BBC, Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/british-diplomats-to-remain-at-renamed-jerusalem-consulate/107244832
   Britain says its nearly 200-year-old consulate in Jerusalem will remain operating at a smaller scale after Israel ordered it shut in a dispute over sanctions on settlements.
 - Twelve dead, flights cancelled after third attack on Saudi airport — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-twelve-dead/107252320
@@ -58,14 +58,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to…
 - Reports of bed bugs on a Qantas flight prompt warning from expert — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322
   An expert says there is virtually nothing passengers can do once they are aboard a bed bug infested flight but suggests places where to start looking for the critters.
-- US imposes new sanctions on international criminal court — Guardian +2 (BBC, SMH) · 10 Oct · https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump
-  Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
 - Court overturns heritage order that stalled $1b NSW gold mine — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/federal-court-overturns-commonwealth-gold-mine-decision/107260458
   The Federal Court rules that a Commonwealth decision that blocked a NSW gold mine was "made without authority".
-- Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
-  Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
+- US imposes new sanctions on international criminal court — Guardian +2 (BBC, SMH) · 10 Oct · https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump
+  Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
   Decision about US ambassador to Greece announced by White House after Trump and Rubio were reportedly furious over allegations Kimberly Guilfoyle has been asked to step down as US ambassador to…
+- Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
+  Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
 - Cornell University suspends fraternity parties after alleged gang rape — ABC +2 (BBC, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098
   The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
 - Judge warns jurors as Russell Brand prepares for rape trial in London — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
 - Adidas accuses Australian label White Fox of ‘trading off its reputation’ with use of four-stripe branding — Guardian +1 (BBC) · 09 Oct · https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb
   Global sportswear brand is suing online retailer in the federal court for selling clothes featuring ‘deceptively similar’ design Global sportswear brand Adidas claims Australian label White Fox is…
-(+53 more not listed)
+(+56 more not listed)
 
 ## Australian politics and economy – other candidates
 - Lukewarm Liberal response to Josh Frydenberg's potential return — ABC +1 (Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/liberal-party-josh-frydenberg-politics-kooyong-return/107260102
@@ -103,12 +103,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.
 - Teens at Sydney private religious school made to share beds with teachers, inquiry hears — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb
   Former student says nothing untoward happened to her during stays but tells NSW parliamentary inquiry culture of Redeemer Baptist School left much to ‘untangle’ as an adult Get our breaking news…
+- Live: Bank of America fined $US1.2 billion for anti-money laundering failures — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164
+  The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters…
 - Greens warn of private school fees loophole in Labor's trust tax — ABC +1 (SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/greens-warn-of-private-school-fees-loophole-in-trust-tax/107262122
   Treasurer Jim Chalmers is preparing to introduce legislation for a 30 per cent tax on discretionary trusts on Wednesday amid fierce business opposition, but has been presented with another obstacle…
 - Greens push for right to sue big tech as Labor axes ministerial powers — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/greens-push-to-sue-big-tech-over-online-harm-safety-laws-labor/107253674
   The Greens outline demands for stronger protections and tougher penalties for tech giants, as Labor seeks a way through the Senate for its digital safety laws.
-- Live: Bank of America fined $US1.2 billion for anti-money laundering failures — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164
-  The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters…
 - Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato
   ‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji Wealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP…
 - Overseas, Albanese sees ‘the very definition of climate injustice’ – but at home, he still wants coal — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal
@@ -153,14 +153,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
 - How do major parties’ migration policies compare - and are any actually achievable for Australia? — Guardian · 08 Oct · https://www.theguardian.com/australia-news/2026/oct/08/net-overseas-migration-how-do-policies-compare-labor-coalition-one-nation-ntwnfb
   Labor, the Coalition and One Nation are all planning to reduce net overseas migration – but their plans may not be realistic or beneficial, experts say Get our new political email , free app or daily…
+- More homes amid rising seas is the Gold Coast's dilemma — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574
+  The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
 - Labor can't count on One Nation fading away, Chalmers warns — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318
   Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
 - David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM — Guardian · 13 Oct · https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb
   Committee chair rejects criticism that letter was ‘pre-determined’ by the government Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news…
 - An average of 17 older Australians died each day last year waiting for home care — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
-- More homes amid rising seas is the Gold Coast's dilemma — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574
-  The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
 - Rent-tech platforms sidestepping credit card surcharge ban with new fees and paid ‘memberships’ — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/renters-credit-card-surcharge-ban-paid-memberships-online-property-management
   Tenants encouraged to seek free options after online property platforms respond to Reserve Bank’s credit card payment reform Get our breaking news email , free app or daily news podcast Online…
 - Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
@@ -169,7 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A ribbon-cutting ceremony brings an end to a saga that involved a class action, two legal cases, ongoing rectification work, and relocations after cracks appeared on level 10 of the complex on…
 - Angus Taylor tries to find his place on the migration middle road — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706
   As the three-cornered migration battle continues, Angus Taylor is trying to position his party in the middle of the government and One Nation.
-(+83 more not listed)
+(+92 more not listed)
 
 ## Other prominent general stories – one outlet
 - 'Abhorrent' US plan to livestream execution amounts to torture, says UN — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/livestream-death-penalty-firing-squad-united-nation-/107250294
@@ -222,7 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Emergency services are responding to an incident in Melbourne's city centre, with witnesses telling the ABC a car was driving erratically on Flinders and Elizabeth streets.
 - Woman, child found dead in car in dam — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/woman-and-child-dead-after-car-goes-into-dam/107246026
   A woman, 36, and a child, 10, from Maryborough have been killed in a double fatal incident on Thursday afternoon.
-(+1038 more not listed)
+(+1061 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Arctic Wolf CEO Nick Schneider On Frontier AI Guardrails: ‘Right Now They Don’t Have It Figured Out’ — CRN · 15 Oct · https://www.crn.com.au/news-network/cybersecurity/2026/arctic-wolf-ceo-nick-schneider-on-frontier-ai-guardrails-ri
@@ -231,6 +231,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   From new Silicon One-powered systems to an open optics architecture developed with Nvidia, Cisco's 2026 Open Compute Project (OCP) Global Summit announcements underscore the company's push to deliver…
 - HCLTech sets up Anthropic business unit, reports $3.3 billion in Q2 FY27 deal bookings — CRN · 14 Oct · https://www.crn.com.au/news-network/ai/2026/hcltech-sets-up-anthropic-business-unit
   The Global Premier Partnership includes a Centre of Excellence for enterprise Claude deployments, integrations into selected HCLSoftware products and the use of Claude and Claude Code in HCLTech’s AI…
+- TfNSW's 'Project Guardian' senses rail corridor, highway incursions — iTnews · 14 Oct · https://www.itnews.com.au/news/tfnsws-project-guardian-senses-rail-corridor-highway-incursions-629647
+  Trial uses technology sourced from multiple vendors.
+- Microsoft floats "risk cohorts" as patch load hits record size — iTnews · 14 Oct · https://www.itnews.com.au/news/microsoft-floats-risk-cohorts-as-patch-load-hits-record-size-629624
+  Tsunami of monthly fixes tops 1400 in October.
+- US raids 40 laptop farms for North Korean IT workers — iTnews · 14 Oct · https://www.itnews.com.au/news/us-raids-40-laptop-farms-for-north-korean-it-workers-629641
+  But researchers expect disruption of "Famous Chollima" to be short-lived.
 - How DXC has improved financial forecasting through Amazon Quick — CRN · 14 Oct · https://www.crn.com.au/news/2026/ai/dxc-amazon-quick-case-study
   Peter Swensen explains how the AI business intelligence platform has changed the way the company works.
 - Diversus founders reflect on two decades of growth — CRN · 14 Oct · https://www.crn.com.au/news/2026/partners/perth-based-diversus-celebrates-20-years-of-business
@@ -339,13 +345,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   AI is compressing sales timelines and making demand mapping a key partner capability.
 - ThreatLocker is sponsoring an F1 team, but not for the reason you think — CRN · 08 Oct · https://www.crn.com.au/news/2026/cybersecurity/danny-jenkins-ceo-threatlocker-interview-2026
   CEO Danny Jenkins tells CRN why he’s spending money on one of the world’s most lucrative sports.
-- Dicker Data sets its sights on Southeast Asia with Sektor acquisition — CRN · 08 Oct · https://www.crn.com.au/news/2026/distributor/dicker-data-sets-its-sights-on-southeast-asia-with-sektor-acquisition
-  The Aussie distie dropped over $111 million to acquire the company.
-- Telstra looks to support WA’s digital ambitions with Aura Network launch — ARN · 08 Oct · https://www.arnnet.com.au/article/4232253/telstra-looks-to-support-was-digital-ambitions-with-aura-network-launch.html
-  Telstra has outlined ambitions to turn Western Australia into a stronger digital gateway to international markets, with its Aura Network at the centre of the strategy. With the launch of its…
-- C4X Technology Architects supports Genea Biomedx with technology transformation — iTnews · 08 Oct · https://www.itnews.com.au/itnews-tv/c4x-technology-architects-supports-genea-biomedx-with-technology-transformation-629489
-  Highly Commended project in the Techpartner.news Impact Awards. Hear from Leo Raikhman, director and co-founder at C4X Technology Architects.
-(+10 more not listed)
+(+13 more not listed)
 
 ## Technology news (BBC, Guardian)
 - How long will humans be needed for translation? — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/c1wxdjx27ypo
@@ -448,7 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a common fear among people who work in Silicon Valley: snag one of the fast-growing…
 - Dyson, Breville, Apple: the 59 best Amazon Prime Day deals actually worth it, obsessively vetted by us — Guardian · 08 Oct · https://www.theguardian.com/thefilter-us/2026/oct/07/best-amazon-prime-day-deals-october
   From Ugg and Ninja to KitchenAid and Shark – we researched the best sales to get your hands on for Prime Day The best deals from Amazon’s rivals and sales on home essentials Sign up for the Filter US…
-(+10 more not listed)
+(+9 more not listed)
 
 ## Cars (CarExpert)
 - Avatr, Nevo could beat sister brand Deepal to PHEV/EREV tech in Australia — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/avatr-nevo-could-beat-sister-brand-deepal-to-pheverev-tech-in-australia
@@ -575,6 +575,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Q3 may be one of the most affordable Audis but it still offers an impressive level of polish in its dynamics and interior appointments.
 
 ## Science (Guardian, BBC)
+- New team to save Antarctic port from climate change — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/ck8dzgr780j8o
+  The mission aims to protect the base which is home to the world’s southernmost Post Office.
+- World's oldest shipwreck found off coast of Turkey — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/c6gr80rk1yyko
+  Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.
 - Gales and heavy rain to impact UK as yellow wind warning issued — BBC · 14 Oct · https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o
   The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.
 - Pictured: Winning entries for Wildlife Photographer of the Year 2026 — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o
@@ -659,10 +663,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Henri B Kagan and Kensō Soai awarded prize for discovery that has aided understanding of how medicines work in the body The Nobel prize in chemistry 2026 has been awarded to two scientists for…
 - Yorkshire Water admits sewage scheme falls short — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/cqvg070l39yro
   The firm says the scheme to reduce storm overflow discharges has not performed as expected.
-- Puffin island on cusp of closure as it runs out of water — BBC · 07 Oct · https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o
-  Lundy is in "real jeopardy" and could be evacuated if supplies run out, bosses say.
-- The generation raised on sugar rations – and what their health reveals 70 years later — Guardian · 07 Oct · https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing
-  From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on health They were born into a Britain still recovering from the hardships of…
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Browse fields is our last great gas reserve, yet report says we don't need it — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/accr-woodside-roger-cook-debate-browse-and-domestic-gas-supply/107255120
@@ -698,23 +698,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 14 Oct 15:42 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 14 Oct 15:42 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 14 Oct 15:42 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 14 Oct 15:42 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 14 Oct 15:42 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 14 Oct 15:42 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 14 Oct 15:42 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 14 Oct 15:42 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 14 Oct 15:42 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 14 Oct 15:42 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 14 Oct 15:42 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 14 Oct 15:42 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 14 Oct 15:42 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 14 Oct 15:42 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 14 Oct 15:42 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 14 Oct 15:42 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 14 Oct 15:42 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 14 Oct 15:42 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 14 Oct 17:50 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 14 Oct 17:50 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 14 Oct 17:50 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 14 Oct 17:50 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 14 Oct 17:50 | 24 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 14 Oct 17:50 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 14 Oct 17:50 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 14 Oct 17:50 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 14 Oct 17:50 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 14 Oct 17:50 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 14 Oct 17:50 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 14 Oct 17:50 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 14 Oct 17:50 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 14 Oct 17:50 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 14 Oct 17:50 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 14 Oct 17:50 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 14 Oct 17:50 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 14 Oct 17:50 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,001 tokens._
+_Approximate reading cost of this digest: 28,871 tokens._
