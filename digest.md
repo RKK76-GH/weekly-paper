@@ -1,13 +1,13 @@
 # Weekly paper – story digest
 
-Updated Thu 15 Oct 2026, 05:48 Sydney time. Stories from 08 Oct to 15 Oct. 1813 stories held from 18 of 18 sources.
+Updated Thu 15 Oct 2026, 07:38 Sydney time. Stories from 08 Oct to 15 Oct. 1826 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
 ## Big stories – covered by two or more outlets (Australia and world)
 Ranked by number of outlets, then by how long they stayed in the feeds.
-- Australian government warns not to fly to Saudi capital after three attacks on airports — ABC +3 (BBC, Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260
-  Flights have been suspended in and out of Riyadh, in Saudi Arabia, after three attacks on its main airport. Here's the latest travel advice for the Middle East.
+- As the Houthis escalate attacks, Saudi Arabia faces a 'huge problem' — ABC +3 (BBC, Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/houthi-saudi-arabia-conflict-and-problem-for-us-iran-war/107263724
+  The Houthis are trying to increase their leverage against Saudi Arabia while the kingdom is reportedly finding it harder to defend against attacks. It presents a "huge problem" in the conflict.
 - US sanctions 'rogue' ICC hours after former judge wins Nobel Peace Prize — ABC +3 (BBC, Guardian, SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/us-to-sanction-icc-after-trump-overlooked-for-peace-prize/107250264
   The US announces sanctions on the International Criminal Court, hours after one of its former judges is given the Nobel Peace Prize, which Donald Trump covets.
 - Russian attacks kill at least 12 in Ukraine after Trump-Putin diesel deal — ABC +3 (BBC, Guardian, SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886
@@ -50,14 +50,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Homicide detectives are investigating the death of a man at a house in Orelia, with a second man found at the property taken into custody.
 - Man arrested over weekend death of Melbourne woman — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/man-arrested-over-carlton-death/107258702
   Victoria Police say a 31-year-old Carlton man handed himself in in relation to the death of the 21-year-old woman in a block of flats.
-- At CPAC, Angus Taylor comes second to Pauline Hanson — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940
-  Angus Taylor is the first Liberal leader to attend the Australian Conservative Political Action Conference, but Pauline Hanson is still the favourite.
 - Court overturns heritage order that stalled $1b NSW gold mine — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/federal-court-overturns-commonwealth-gold-mine-decision/107260458
   The Federal Court rules that a Commonwealth decision that blocked a NSW gold mine was "made without authority".
+- At CPAC, Angus Taylor comes second to Pauline Hanson — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940
+  Angus Taylor is the first Liberal leader to attend the Australian Conservative Political Action Conference, but Pauline Hanson is still the favourite.
 - Hundreds of French supermarkets' fridges hacked in large-scale attack — ABC +2 (BBC, Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724
   Several major food retailers in France have been targeted by hackers who raised fridge temperatures up to 50 degrees Celsius causing fires and spoiling food.
 - Pregnant woman among eight killed in Pennsylvania shooting — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788
   Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to…
+- Russell Brand a 'ruthless, calculated sexual predator', court hears — ABC +2 (Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/russell-brand-a-ruthless-sexual-predator-court-hears/107267856
+  A prosecutor describes Russell Brand as a "ruthless calculated and manipulative sexual predator" in her opening address at the British entertainer's rape trial.
 - Reports of bed bugs on a Qantas flight prompt warning from expert — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322
   An expert says there is virtually nothing passengers can do once they are aboard a bed bug infested flight but suggests places where to start looking for the critters.
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
@@ -66,8 +68,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
 - Cornell University suspends fraternity parties after alleged gang rape — ABC +2 (BBC, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098
   The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
-- Russell Brand a 'ruthless, calculated sexual predator', court hears — ABC +2 (Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/russell-brand-a-ruthless-sexual-predator-court-hears/107267856
-  A prosecutor describes Russell Brand as a "ruthless calculated and manipulative sexual predator" in her opening address at the British entertainer's rape trial.
 - Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
   Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
 - Live: Bank of America fined $US1.2 billion for anti-money laundering failures — ABC +2 (BBC, Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hammam al-Hammami’s shift towards extremism began while he was a student in Melbourne, according to Emirati attorney general Get our breaking news email , free app or daily news podcast The co-pilot…
 - Indonesian government faces wildfires lawsuit as haze blankets region — ABC +1 (Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412
   Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
-(+57 more not listed)
+(+59 more not listed)
 
 ## Australian politics and economy – other candidates
 - Lukewarm Liberal response to Josh Frydenberg's potential return — ABC +1 (Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/liberal-party-josh-frydenberg-politics-kooyong-return/107260102
@@ -169,7 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Less than a year after Rex was sold with the aid of a federal government rescue package, the embattled airline has suspended services to Orange and Port Macquarie.
 - Rent-tech platforms sidestepping credit card surcharge ban with new fees and paid ‘memberships’ — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/renters-credit-card-surcharge-ban-paid-memberships-online-property-management
   Tenants encouraged to seek free options after online property platforms respond to Reserve Bank’s credit card payment reform Get our breaking news email , free app or daily news podcast Online…
-(+98 more not listed)
+(+100 more not listed)
 
 ## Other prominent general stories – one outlet
 - Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government — Guardian +1 (BBC) · 12 Oct · https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government
@@ -196,39 +196,41 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
 - Russia arrests Japanese journalist on allegations of spying — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying
   FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island…
+- Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines
+  Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the…
 - Sexual and family violence against children at 'crisis point', study finds — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/sexual-family-violence-against-children-increasing-study-sydney/107260580
   Violence and sexual violence against children have increased sharply across Australia, research by the University of Sydney finds.
 - Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
   Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
-- Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines
-  Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the…
 - Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
   South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
   Three men accused of killing Australian brothers Jake and Callum Robinson in Mexico have been found guilty of the murders.
+- Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update
+  Recovery marks a dramatic turnaround for Pike, who remains in hospital after a botched execution in Tennessee Christa Pike is “up and walking” in hospital, her lawyer said, just more than a week…
 - Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
   Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
 - Body found in cattle dip is identified as missing grandmother — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/body-found-in-cattle-dip-identified-missing-grandmother/107258984
   Grandmother Yvonne Whear had been missing since February. A police strike force has been formed to investigate her death.
 - Trump's new press secretary faces questions about her legal credentials — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/katie-zacharia-first-white-house-press-briefing-key-moments/107265334
   White House press secretary Katie Zacharia spent eight minutes reading from a script, answered only three questions and called her husband "my president" during her first briefing.
+- What we know about the man who died falling from a Six Flags rollercoaster — BBC +1 (SMH) · 14 Oct · https://www.bbc.co.uk/news/articles/cke8r4nmy36qo
+  Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.
 - Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
   The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
 - Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’ — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting
   Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs…
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
-- What we know about the man who died falling from a Six Flags rollercoaster — BBC +1 (SMH) · 14 Oct · https://www.bbc.co.uk/news/articles/cke8r4nmy36qo
-  Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.
-- Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
-  The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
-(+1131 more not listed)
+(+1140 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Arctic Wolf CEO Nick Schneider On Frontier AI Guardrails: ‘Right Now They Don’t Have It Figured Out’ — CRN · 15 Oct · https://www.crn.com.au/news-network/cybersecurity/2026/arctic-wolf-ceo-nick-schneider-on-frontier-ai-guardrails-ri
   The recent series of autonomous attacks resulting from testing by the developers of frontier models themselves, such as OpenAI and Anthropic, suggests there are in fact major questions to be resolved…
 - OCP 2026: Cisco Expands AI Networking Stack With New Silicon One And Nvidia Optics Push — CRN · 15 Oct · https://www.crn.com.au/news-network/networking/2026/ocp-2026-cisco-expands-ai-networking-stack-with-new-silicon
   From new Silicon One-powered systems to an open optics architecture developed with Nvidia, Cisco's 2026 Open Compute Project (OCP) Global Summit announcements underscore the company's push to deliver…
+- ASD’s Essential Eight replacement moves away from maturity ladder — iTnews · 15 Oct · https://www.itnews.com.au/news/asds-essential-eight-replacement-moves-away-from-maturity-ladder-629637
+  Organisations will report security area by area.
 - Legacy systems and AI are reshaping the cyber recovery challenge — ARN · 14 Oct · https://www.arnnet.com.au/article/4235178/legacy-systems-and-ai-are-reshaping-the-cyber-recovery-challenge.html
   Organisations can prepare for and recover from cyber incidents by modernising legacy systems, protecting critical identity and data assets, adopting an assumed-breach mindset, and investing in…
 - TfNSW's 'Project Guardian' senses rail corridor, highway incursions — iTnews · 14 Oct · https://www.itnews.com.au/news/tfnsws-project-guardian-senses-rail-corridor-highway-incursions-629647
@@ -343,11 +345,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Clues found through analysis of AI coding-tool sessions.
 - Attackers hijack ccTLDs to fake certs for Google — iTnews · 08 Oct · https://www.itnews.com.au/news/attackers-hijack-cctlds-to-fake-certs-for-google-629504
   Reported by Google Security.
-- Partner Content: Why demand mapping is now as important as partner certifications — CRN · 08 Oct · https://www.crn.com.au/sponsored/partner-content-why-demand-mapping-is-now-as-important-as-partner-certifications
-  AI is compressing sales timelines and making demand mapping a key partner capability.
-(+12 more not listed)
+(+13 more not listed)
 
 ## Technology news (BBC, Guardian)
+- OpenAI accuses employee who left for Apple of leaking plans for unreleased device — Guardian · 15 Oct · https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit
+  Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown An ⁠ OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about…
+- Eight states accuse OpenAI of coaching children to harm themselves in lawsuit — Guardian · 15 Oct · https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit
+  US states sue ChatGPT maker and seek to force the company to change how its products work for young users Eight US states sued OpenAI Wednesday, alleging the ChatGPT maker is harming children en…
 - Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story — Guardian · 15 Oct · https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story
   Article in the Atlantic claims The Blue Fighter was artificially generated, just days after it won Caine prize The Zimbabwean author Simbarashe Kundizeza has denied using AI to write a prize-winning…
 - Could AI ‘change the stakes’ in the development of bioweapons? — Guardian · 15 Oct · https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons
@@ -444,13 +448,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond "basic contact details"
 - ‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance — Guardian · 08 Oct · https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance
   Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive The Co-op has become the latest employer to place workers under AI surveillance with an automated…
-- Why Arturo Béjar left Meta – and blew the whistle: ‘I don’t recall Mark ever being empathetic’ — Guardian · 08 Oct · https://www.theguardian.com/media/2026/oct/08/arturo-bejar-interview-whistleblower-facebook-meta-mark-zuckerberg
-  Béjar’s daughter was 14 when she told him Instagram was failing to keep her safe. So when he became part of Meta’s ‘wellbeing team’, he knew he had to speak out – and his testimony cost it billions…
-- ‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay — Guardian · 08 Oct · https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya
-  Refugee gig workers for tech companies don’t know how much they’ll be paid – if AI hasn’t already taken their jobs In a portable building in Kakuma, a refugee camp near Kenya ’s northern border with…
-(+6 more not listed)
+(+5 more not listed)
 
 ## Cars (CarExpert)
+- The IM5 offers serious value for money — CarExpert · 15 Oct · https://www.carexpert.com.au/car-news/the-im5-offers-serious-value-for-money
+  SPONSORED: Why the IM5 electric sedan from IM Motors is a must-drive if you’re in the market for a Tesla Model 3 or BYD Seal.
+- Hemi V8 returning to the Dodge Charger in 2027 – report — CarExpert · 15 Oct · https://www.carexpert.com.au/car-news/hemi-v8-returning-to-the-dodge-charger-in-2027-report
+  Dodge is reportedly stuffing a supercharged Hellcat V8 back into the Charger, and it will debut some time in 2027.
 - 2027 GWM Ora 5 Ultra review: Long-term introduction — CarExpert · 15 Oct · https://www.carexpert.com.au/car-reviews/2027-gwm-ora-5-ultra-review-long-term-introduction
   It’s cute, it's cheerful and it’s ours for three months, but is the Ora 5 a serious electric SUV contender and can it cut the mustard day-to-day?
 - Avatr, Nevo could beat sister brand Deepal to PHEV/EREV tech in Australia — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/avatr-nevo-could-beat-sister-brand-deepal-to-pheverev-tech-in-australia
@@ -569,12 +573,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Diesel power is back in LDV's seven-seat off-road SUV lineup, along with a new flagship and $4500 discounts across the range in October.
 - Marginal new-car sales growth attributed to just two Chinese brands — CarExpert · 08 Oct · https://www.carexpert.com.au/car-news/marginal-new-car-sales-growth-attributed-to-just-two-chinese-brands
   The rapid growth of BYD and Geely is skewing sales reporting to the upside, masking a weakening Australian auto market.
-- Subaru Crosstrek gets limited-edition surfing makeover in Aussie collab — CarExpert · 08 Oct · https://www.carexpert.com.au/car-news/subaru-crosstrek-gets-limited-edition-surfing-makeover-in-aussie-collab
-  Subaru is bringing a special new surf-inspired small SUV to local showrooms, built in collaboration with iconic Australian brand Rip Curl.
-- Chinese vehicles outsell those from Japan and Thailand combined — CarExpert · 08 Oct · https://www.carexpert.com.au/car-news/chinese-vehicles-outsell-those-from-japan-and-thailand-combined
-  Australians are embracing Chinese-built cars and last month they preferred them to those made in Japan and Thailand – by a significant margin.
 
 ## Science (Guardian, BBC)
+- Why is Starlink internet so important on the battlefield in Ukraine? — BBC · 15 Oct · https://www.bbc.co.uk/news/articles/cqkgk4zg54reo
+  It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.
 - Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly' — BBC · 15 Oct · https://www.bbc.co.uk/news/articles/c92031m6knljo
   Conservative leader Kemi Badenoch has urged the prime minister to stop "faffing about" with the North Sea oil and gas fields.
 - New team to save Antarctic port from climate change — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/ck8dzgr780j8o
@@ -675,8 +677,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero The Ministry of Defence has objected to at least four planned windfarms in the past year…
 - World must change way it produces food to avoid biodiversity collapse, says WWF — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/08/world-must-change-food-avoid-biodiversity-collapse-wwf
   Recovery of tigers, tuna and green sea turtles show nature loss can be reversed when action taken, charity says Conservation comebacks for wild tigers, tuna and green​ sea turtles prove that global…
-- Was pre-COP a flop? Questions loom over the Australian government — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/was-pre-cop-a-failure-analysis/107239270
-  The Pacific Islands climate summit held ahead of the official COP31 in Türkiye had its disappointments from the start, but the blame for falling short of climate targets rests with many.
 
 ## QPR match reports (Loft For Words)
 - King Charles’ flying form foils West Ham – Report — Loft For Words · 11 Oct · https://www.fansnetwork.co.uk/news/66996/king-charles’-flying-form-foils-west-ham-–-report
@@ -686,23 +686,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 15 Oct 05:48 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 15 Oct 05:48 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 15 Oct 05:48 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 15 Oct 05:48 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 15 Oct 05:48 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 15 Oct 05:48 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 15 Oct 05:48 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 15 Oct 05:48 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 15 Oct 05:48 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 15 Oct 05:48 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 15 Oct 05:48 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 15 Oct 05:48 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 15 Oct 05:48 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 15 Oct 05:48 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 15 Oct 05:48 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 15 Oct 05:48 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 15 Oct 05:48 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 15 Oct 05:48 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 15 Oct 07:38 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 15 Oct 07:38 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 15 Oct 07:38 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 15 Oct 07:38 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 15 Oct 07:38 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 15 Oct 07:38 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 15 Oct 07:38 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 15 Oct 07:38 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 15 Oct 07:38 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 15 Oct 07:38 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 15 Oct 07:38 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 15 Oct 07:38 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 15 Oct 07:38 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 15 Oct 07:38 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 15 Oct 07:38 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 15 Oct 07:38 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 15 Oct 07:38 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 15 Oct 07:38 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,613 tokens._
+_Approximate reading cost of this digest: 28,543 tokens._
