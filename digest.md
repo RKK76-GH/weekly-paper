@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Wed 14 Oct 2026, 19:42 Sydney time. Stories from 07 Oct to 14 Oct. 1757 stories held from 18 of 18 sources.
+Updated Wed 14 Oct 2026, 21:41 Sydney time. Stories from 07 Oct to 14 Oct. 1773 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -64,10 +64,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal…
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
   Decision about US ambassador to Greece announced by White House after Trump and Rubio were reportedly furious over allegations Kimberly Guilfoyle has been asked to step down as US ambassador to…
-- Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
-  Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
 - Cornell University suspends fraternity parties after alleged gang rape — ABC +2 (BBC, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098
   The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
+- Breaking: Andrew Mountbatten-Windsor wins court battle to have police search warrants quashed — ABC +2 (Guardian, SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/warrants-used-to-search-mountbatten-windsor-homes-ruled-unlawful/107241214
+  Police have been forced to accept warrants used to search Andrew Mountbatten-Windsor's homes earlier this year were unlawful, in a London court.
 - Judge warns jurors as Russell Brand prepares for rape trial in London — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736
   British actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.
 - Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90 — Guardian +1 (BBC) · 08 Oct · https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software
@@ -137,10 +137,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   ‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email…
 - Constitutional expert labels Albanese government’s golf club grant ‘grey corruption’ — Guardian · 07 Oct · https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb
   Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email , free app or daily news podcast A leading…
-- Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
-  The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
 - More homes amid rising seas is the Gold Coast's dilemma — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574
   The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
+- Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
+  The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
 - Molly Ticehurst's killer intends to appeal murder sentence — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/molly-ticehurst-killer-daniel-billings-murder-sentence-appeal/107257888
   Last month, Daniel Billings was sentenced to 28 years' jail over the murder of his ex-partner in central west NSW — a sentence he now plans to appeal.
 - Major parties defend AI inquiry after Pocock warns of 'stitch-up' — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612
@@ -169,21 +169,21 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As the three-cornered migration battle continues, Angus Taylor is trying to position his party in the middle of the government and One Nation.
 - ‘Clear and present danger’: fuel prices could rise by 30c a litre across Australia under IMF scenario — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates
   IMF’s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation An International Monetary Fund scenario where global oil prices jump to US$130 a barrel…
-(+95 more not listed)
+(+96 more not listed)
 
 ## Other prominent general stories – one outlet
-- 'Abhorrent' US plan to livestream execution amounts to torture, says UN — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/livestream-death-penalty-firing-squad-united-nation-/107250294
-  The announcement by US Defense Secretary Pete Hegseth has drawn sharp condemnation from human rights groups and politicians, while Donald Trump has yet to comment.
 - Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government — Guardian +1 (BBC) · 12 Oct · https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government
   Suspension of provincial government escalates standoff with Khan’s PTI party a week after his supporters began marching to demand his release Pakistan has declared a state of emergency in a province…
+- 'Abhorrent' US plan to livestream execution amounts to torture, says UN — ABC +1 (Guardian) · 10 Oct · https://www.abc.net.au/news/2026-10-10/livestream-death-penalty-firing-squad-united-nation-/107250294
+  The announcement by US Defense Secretary Pete Hegseth has drawn sharp condemnation from human rights groups and politicians, while Donald Trump has yet to comment.
 - Why Moscow is staying tight-lipped on Trump's energy ceasefire — BBC +1 (SMH) · 13 Oct · https://www.bbc.co.uk/news/articles/cjx2359qekrdo
   While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.
 - At least 139 migrants dead after boat from Djibouti to Yemen capsizes — ABC +1 (BBC) · 12 Oct · https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724
   It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
-- Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
-  Mitte was best known for his role as the son of drug kingpin Walter White in the hit television series Breaking Bad.
 - Man who died in Six Flags rollercoaster fall in Georgia was a father and educator — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death
   Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia…
+- Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
+  Mitte was best known for his role as the son of drug kingpin Walter White in the hit television series Breaking Bad.
 - US man shoots off-duty ICE agent who allegedly attacked him and daughter — Guardian +1 (BBC) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty
   ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE )…
 - Former Bachelor Sam Wood to fight for bail application on domestic violence charges — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/sam-wood-supreme-court-bail-domestic-violence-charge/107247738
@@ -204,14 +204,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Three men accused of killing Australian brothers Jake and Callum Robinson in Mexico have been found guilty of the murders.
 - Body found in cattle dip is identified as missing grandmother — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/body-found-in-cattle-dip-identified-missing-grandmother/107258984
   Grandmother Yvonne Whear had been missing since February. A police strike force has been formed to investigate her death.
+- Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
+  Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
 - Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
   The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
 - Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’ — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting
   Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs…
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
-- Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
-  Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
 - Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
   The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
 - Behind Trump's war of words on Ukraine is a worrying threat — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500
@@ -222,7 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The club has confirmed Lachie Cowan and Will Hayward have been admitted to hospital under separate circumstances.
 - Breaking: Police responding to CBD incident near Flinders Street Station — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/police-melbourne-cbd-incident-emergency/107252918
   Emergency services are responding to an incident in Melbourne's city centre, with witnesses telling the ABC a car was driving erratically on Flinders and Elizabeth streets.
-(+1080 more not listed)
+(+1095 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Arctic Wolf CEO Nick Schneider On Frontier AI Guardrails: ‘Right Now They Don’t Have It Figured Out’ — CRN · 15 Oct · https://www.crn.com.au/news-network/cybersecurity/2026/arctic-wolf-ceo-nick-schneider-on-frontier-ai-guardrails-ri
@@ -345,9 +345,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   AI is compressing sales timelines and making demand mapping a key partner capability.
 - ThreatLocker is sponsoring an F1 team, but not for the reason you think — CRN · 08 Oct · https://www.crn.com.au/news/2026/cybersecurity/danny-jenkins-ceo-threatlocker-interview-2026
   CEO Danny Jenkins tells CRN why he’s spending money on one of the world’s most lucrative sports.
-(+12 more not listed)
+(+11 more not listed)
 
 ## Technology news (BBC, Guardian)
+- Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism — Guardian · 14 Oct · https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism
+  From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats In May 2025, a 25-year-old man…
 - How long will humans be needed for translation? — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/c1wxdjx27ypo
   AI dominates the translation business, but for high-stakes work, humans are still needed.
 - Is it OK for jobseekers or employers to use AI? — BBC · 14 Oct · https://www.bbc.co.uk/news/articles/c623dnkn8pkyo
@@ -446,8 +448,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Lithuania and Canada were also pressured to withdraw, and days before #Disinfo2026, logos were wiped off website The Trump administration pressured multiple countries to withdraw their sponsorship of…
 - The AI industry is booming. Women are getting left behind — Guardian · 08 Oct · https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality
   Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a common fear among people who work in Silicon Valley: snag one of the fast-growing…
-- Dyson, Breville, Apple: the 59 best Amazon Prime Day deals actually worth it, obsessively vetted by us — Guardian · 08 Oct · https://www.theguardian.com/thefilter-us/2026/oct/07/best-amazon-prime-day-deals-october
-  From Ugg and Ninja to KitchenAid and Shark – we researched the best sales to get your hands on for Prime Day The best deals from Amazon’s rivals and sales on home essentials Sign up for the Filter US…
 (+7 more not listed)
 
 ## Cars (CarExpert)
@@ -698,23 +698,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 14 Oct 19:42 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 14 Oct 19:42 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 14 Oct 19:42 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 14 Oct 19:42 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 14 Oct 19:42 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 14 Oct 19:42 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 14 Oct 19:42 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 14 Oct 19:42 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 14 Oct 19:42 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 14 Oct 19:42 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 14 Oct 19:42 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 14 Oct 19:42 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 14 Oct 19:42 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 14 Oct 19:42 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 14 Oct 19:42 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 14 Oct 19:42 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 14 Oct 19:42 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 14 Oct 19:42 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 14 Oct 21:41 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 14 Oct 21:41 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 14 Oct 21:41 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 14 Oct 21:41 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 14 Oct 21:41 | 24 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 14 Oct 21:41 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 14 Oct 21:41 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 14 Oct 21:41 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 14 Oct 21:41 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 14 Oct 21:41 | 32 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 14 Oct 21:41 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 14 Oct 21:41 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 14 Oct 21:41 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 14 Oct 21:41 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 14 Oct 21:41 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 14 Oct 21:41 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 14 Oct 21:41 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 14 Oct 21:41 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,905 tokens._
+_Approximate reading cost of this digest: 28,904 tokens._
