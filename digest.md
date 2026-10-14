@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Thu 15 Oct 2026, 01:40 Sydney time. Stories from 08 Oct to 15 Oct. 1792 stories held from 18 of 18 sources.
+Updated Thu 15 Oct 2026, 03:43 Sydney time. Stories from 08 Oct to 15 Oct. 1799 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hammam al-Hammami’s shift towards extremism began while he was a student in Melbourne, according to Emirati attorney general Get our breaking news email , free app or daily news podcast The co-pilot…
 - Indonesian government faces wildfires lawsuit as haze blankets region — ABC +1 (Guardian) · 08 Oct · https://www.abc.net.au/news/2026-10-08/indonesian-government-sued-over-worsening-wildfire/107237412
   Civil society organisations in West Kalimantan province are suing the Indonesian government alleging negligence in their handling of the region's wildfires.
-(+56 more not listed)
+(+58 more not listed)
 
 ## Australian politics and economy – other candidates
 - Lukewarm Liberal response to Josh Frydenberg's potential return — ABC +1 (Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/liberal-party-josh-frydenberg-politics-kooyong-return/107260102
@@ -125,18 +125,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Climate Council says coal and gas mines are using a "loophole" to expand operations and add new emissions while avoiding stricter emissions laws for new coal and gas.
 - Albanese wants universal childcare to be his legacy. But paying for it isn’t as easy as ABC — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics
   Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news…
-- The number of US executions had dwindled. Last year, that all changed — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/death-penalty-opinion-us-politics/107248172
-  Death row inmate Christa Pike was still fighting for life in a Tennessee hospital when the US federal government revealed it was ready to conduct its own high profile execution.
 - More homes amid rising seas is the Gold Coast's dilemma — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574
   The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
+- The number of US executions had dwindled. Last year, that all changed — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/death-penalty-opinion-us-politics/107248172
+  Death row inmate Christa Pike was still fighting for life in a Tennessee hospital when the US federal government revealed it was ready to conduct its own high profile execution.
 - As federal politicians vow to cut immigration, regional Queensland businesses need ‘every hand we can get’ — Guardian · 10 Oct · https://www.theguardian.com/australia-news/2026/oct/09/as-federal-politicians-vow-to-cut-immigration-regional-queensland-businesses-need-every-hand-we-can-get
   International working holidaymakers make up over 60% of the staff in some regional hospitality companies Get our breaking news email , free app or daily news podcast A working holiday visa changed…
+- Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out — Guardian · 14 Oct · https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out
+  Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposal Get our breaking news email , free app or daily news podcast Labor’s bid…
 - Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business
   ‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email…
 - Australia wants to regulate AI like banks and airlines — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674
   The federal government is looking to banking and aviation regulation as it develops laws that would make AI companies demonstrate they can identify and manage risks.
-- Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out — Guardian · 14 Oct · https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out
-  Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposal Get our breaking news email , free app or daily news podcast Labor’s bid…
 - Molly Ticehurst's killer intends to appeal murder sentence — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/molly-ticehurst-killer-daniel-billings-murder-sentence-appeal/107257888
   Last month, Daniel Billings was sentenced to 28 years' jail over the murder of his ex-partner in central west NSW — a sentence he now plans to appeal.
 - Major parties defend AI inquiry after Pocock warns of 'stitch-up' — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612
@@ -147,28 +147,28 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   At a ceremony in Canberra, Prime Minister Anthony Albanese quotes John Howard as he speaks of what motivated Australia to join the Afghanistan conflict after the September 11 terrorist attacks in…
 - Vegetarian buffet and a ‘free dental’ raffle prize: Greens launch bullish bid to ‘take our country back’ in Victoria — Guardian · 09 Oct · https://www.theguardian.com/australia-news/2026/oct/09/victoria-greens-2026-state-election-campaign-launch-david-shoebridge-ellen-sandell
   New federal leader David Shoebridge says November’s poll will herald the start of an ‘extraordinary moment’ as Greens hope for best-ever state result Get our breaking news email , free app or daily…
+- Government says perpetrators of financial abuse will be pursued in court — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/government-perpetrators-of-financial-abuse-to-be-chased-in-court/107265100
+  Perpetrators of financial abuse who use the tax and social security systems to create debts as a form of coercive control could soon be held liable.
 - Labor can't count on One Nation fading away, Chalmers warns — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318
   Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
 - David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM — Guardian · 13 Oct · https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb
   Committee chair rejects criticism that letter was ‘pre-determined’ by the government Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news…
 - An average of 17 older Australians died each day last year waiting for home care — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522
   More than 6,400 older Australians died while waiting to receive home care last year, an increase of more than a third on the previous year.
-- Government says perpetrators of financial abuse will be pursued in court — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/government-perpetrators-of-financial-abuse-to-be-chased-in-court/107265100
-  Perpetrators of financial abuse who use the tax and social security systems to create debts as a form of coercive control could soon be held liable.
-- Rent-tech platforms sidestepping credit card surcharge ban with new fees and paid ‘memberships’ — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/renters-credit-card-surcharge-ban-paid-memberships-online-property-management
-  Tenants encouraged to seek free options after online property platforms respond to Reserve Bank’s credit card payment reform Get our breaking news email , free app or daily news podcast Online…
-- Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
-  Opposition Leader Angus Taylor says former Liberal treasurer Josh Frydenberg has a "role to play" and should be mobilised at the next election.
-- Opal Tower declared defect-free eight years after evacuations — ABC · 10 Oct · https://www.abc.net.au/news/2026-10-10/opal-tower-olympic-park-defect-free-eight-years-after-evacuation/107251142
-  A ribbon-cutting ceremony brings an end to a saga that involved a class action, two legal cases, ongoing rectification work, and relocations after cracks appeared on level 10 of the complex on…
-- Angus Taylor tries to find his place on the migration middle road — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706
-  As the three-cornered migration battle continues, Angus Taylor is trying to position his party in the middle of the government and One Nation.
 - Beleaguered private health bill on ice as government fails to secure support — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/private-health-bill-canned/107265242
   Controversial private health insurance changes affecting older Australians are now on life support, after the legislation was effectively thrown out of parliament by the Coalition and crossbench.
 - Hospitality bosses warn of empty cafes and kitchens under migration cuts — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/hospitality-industry-warns-shortages-migrant-workers/107266454
   The latest pushback on sweeping migration cuts has come from the hospitality industry in a social media campaign focused on the consequences for everyday Australians if crucial jobs are left vacant.
 - Rare earths company could be nationalised as China-linked investors fail to divest — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/federal-politics-resources-minister-open-nationalising-company/107266624
   Resources Minister Madeleine King has left open the door to nationalising a Perth-based critical minerals company as several China-linked investors are defying federal government orders to divest…
+- Forcing gas producers to sell to Australia won't 'crash' prices, King says — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/gas-reservation-wholesale-gas-prices-madeleine-king/107265038
+  Burned once before on energy bill promises, the resources minister won't say what new gas reservation laws will do to wholesale gas prices, but promises they will cause downward pressure without…
+- Rex grounds two routes 10 months after $60m rescue package — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/rex-suspends-orange-port-macquarie-services/107260016
+  Less than a year after Rex was sold with the aid of a federal government rescue package, the embattled airline has suspended services to Orange and Port Macquarie.
+- Rent-tech platforms sidestepping credit card surcharge ban with new fees and paid ‘memberships’ — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/renters-credit-card-surcharge-ban-paid-memberships-online-property-management
+  Tenants encouraged to seek free options after online property platforms respond to Reserve Bank’s credit card payment reform Get our breaking news email , free app or daily news podcast Online…
+- Taylor says he would welcome return of Frydenberg to politics — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724
+  Opposition Leader Angus Taylor says former Liberal treasurer Josh Frydenberg has a "role to play" and should be mobilised at the next election.
 (+94 more not listed)
 
 ## Other prominent general stories – one outlet
@@ -200,16 +200,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania…
 - Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' — BBC +1 (SMH) · 10 Oct · https://www.bbc.co.uk/news/articles/cm1dwgr666wno
   Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+- Russia arrests Japanese journalist on allegations of spying — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying
+  FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island…
 - Police investigating unexplained infant death at Adelaide motel — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/police-investigating-infant-death-at-freeway-motel/107251674
   South Australian Police have established a crime scene as they investigate the unexplained death of an infant at Tollgate Motel.
 - Mexican men guilty of murdering brothers Jake and Callum Robinson — ABC +1 (SMH) · 10 Oct · https://www.abc.net.au/news/2026-10-10/jake-callum-robinson-mexico-murder-trial-verdict/107231538
   Three men accused of killing Australian brothers Jake and Callum Robinson in Mexico have been found guilty of the murders.
-- Russia arrests Japanese journalist on allegations of spying — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying
-  FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island…
-- Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
-  Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
 - Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines
   Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the…
+- Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
+  Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
 - Body found in cattle dip is identified as missing grandmother — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/body-found-in-cattle-dip-identified-missing-grandmother/107258984
   Grandmother Yvonne Whear had been missing since February. A police strike force has been formed to investigate her death.
 - Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
@@ -218,11 +218,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs…
 - Man who allegedly crashed into Newcastle Knights fans granted bail — ABC +1 (SMH) · 09 Oct · https://www.abc.net.au/news/2026-10-09/newcastle-knights-car-crash-bail/107242008
   An 18-year-old P-plater who was allegedly behind the wheel of a car that crashed into 10 Newcastle Knights fans has been granted bail after a review hearing.
+- Trump's new press secretary faces questions about her legal credentials — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/katie-zacharia-first-white-house-press-briefing-key-moments/107265334
+  White House press secretary Katie Zacharia spent eight minutes reading from a script, answered only three questions and called her husband "my president" during her first briefing.
 - Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
   The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
-- Behind Trump's war of words on Ukraine is a worrying threat — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500
-  It is hard to see Donald Trump's shifting position on Ukraine as a clear strategic change, and not one driven principally by soaring fuel prices ahead of the US mid-term elections.
-(+1112 more not listed)
+(+1118 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Arctic Wolf CEO Nick Schneider On Frontier AI Guardrails: ‘Right Now They Don’t Have It Figured Out’ — CRN · 15 Oct · https://www.crn.com.au/news-network/cybersecurity/2026/arctic-wolf-ceo-nick-schneider-on-frontier-ai-guardrails-ri
@@ -348,6 +348,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+12 more not listed)
 
 ## Technology news (BBC, Guardian)
+- The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster — Guardian · 15 Oct · https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban
+  Jason O’Connell’s suspected use of the specs to aid his speech in Senedd reignites debate over AI-enabled devices It was a flowing speech packed full of precise statistics – but Jason O’Connell, a…
+- Was this Mark Zuckerberg’s first – and last – taste of Guinness? — Guardian · 15 Oct · https://www.theguardian.com/food/2026/oct/14/mark-zuckerberg-guinness
+  The Meta boss looked traumatised when he sipped stout on the Cheeky Pint podcast. An hour later, his glass was still half full Name: Guinness. Age: Arthur Guinness began brewing porter in the 1770s…
 - Ready player one? Why the games arcade is having a rebirth — Guardian · 15 Oct · https://www.theguardian.com/games/2026/oct/14/ready-player-one-why-the-games-arcade-is-having-a-rebirth
   After years of sprawling ‘forever’ games, players are rediscovering the pleasures of more focused experiences. Could a new wave of independent arcades bring back the social side of gaming? • Don’t…
 - The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era — Guardian · 15 Oct · https://www.theguardian.com/games/2026/oct/14/the-legend-of-zelda-ocarina-of-time-preview-4k-era-switch-2-remake
@@ -444,11 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   In ad to be shown before The Social Reckoning, Ian Russell will say ‘too little has changed’ since death of Molly, 14 The father of Molly Russell will tell UK cinemagoers “Instagram helped kill my…
 - AI chip boom pushes Samsung profits to record $80bn — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c687z8127302o
   The tech giant is also expected to get a boost from its latest folding devices that were launched in August.
-- Fuel prices added to Google Maps as petrol and diesel costs soar — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo
-  A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.
-- OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o
-  The research found that important guardrails for teens using ChatGPT often failed.
-(+4 more not listed)
+(+5 more not listed)
 
 ## Cars (CarExpert)
 - 2027 GWM Ora 5 Ultra review: Long-term introduction — CarExpert · 15 Oct · https://www.carexpert.com.au/car-reviews/2027-gwm-ora-5-ultra-review-long-term-introduction
@@ -655,12 +655,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Optogenetic therapy, based on Nobel prize-winning science, involves turning nerve cells on and off using light A type of gene therapy based on Nobel prize-winning science is safe and can partly…
 - Jonathan the giant tortoise, 194, offers up insight into secrets of longevity — Guardian · 08 Oct · https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity
   DNA analysis of oldest living land animal reveal patterns on genes that appear to protect functioning of mitochondria The ancient quest to extend human lifespan has received a boost after scientists…
-- Blue Planet III ventures into darkest depths of ocean — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/c5pvgzvlepr1o
-  Sir David says the series uncovers marine life that is "even more precious than we ever realised".
-- Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026 — BBC · 08 Oct · https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o
-  El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.
-- World's largest penguin colony hit by 'alarming' decline in numbers — BBC · 08 Oct · https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o
-  Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Browse fields is our last great gas reserve, yet report says we don't need it — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/accr-woodside-roger-cook-debate-browse-and-domestic-gas-supply/107255120
@@ -685,8 +679,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Recovery of tigers, tuna and green sea turtles show nature loss can be reversed when action taken, charity says Conservation comebacks for wild tigers, tuna and green​ sea turtles prove that global…
 - Was pre-COP a flop? Questions loom over the Australian government — ABC · 08 Oct · https://www.abc.net.au/news/2026-10-08/was-pre-cop-a-failure-analysis/107239270
   The Pacific Islands climate summit held ahead of the official COP31 in Türkiye had its disappointments from the start, but the blame for falling short of climate targets rests with many.
-- World’s largest penguin colony suffers ‘enormous population crash’ — Guardian · 08 Oct · https://www.theguardian.com/environment/2026/oct/07/penguin-colony-population-crash-zavodovski-island-antarctica
-  Chinstrap penguins on Zavodovski Island in Antarctica down by two-thirds since 2011, probably due to climate crisis The world’s largest penguin colony has declined by two-thirds since 2011, most…
 
 ## QPR match reports (Loft For Words)
 - King Charles’ flying form foils West Ham – Report — Loft For Words · 11 Oct · https://www.fansnetwork.co.uk/news/66996/king-charles’-flying-form-foils-west-ham-–-report
@@ -696,23 +688,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 15 Oct 01:40 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 15 Oct 01:40 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 15 Oct 01:40 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 15 Oct 01:40 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 15 Oct 01:40 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 15 Oct 01:40 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 15 Oct 01:40 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 15 Oct 01:40 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 15 Oct 01:40 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 15 Oct 01:40 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 15 Oct 01:40 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 15 Oct 01:40 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 15 Oct 01:40 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 15 Oct 01:40 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 15 Oct 01:40 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 15 Oct 01:40 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 15 Oct 01:40 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 15 Oct 01:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 15 Oct 03:43 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 15 Oct 03:43 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 15 Oct 03:43 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 15 Oct 03:43 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 15 Oct 03:43 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 15 Oct 03:43 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 15 Oct 03:43 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 15 Oct 03:43 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 15 Oct 03:43 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 15 Oct 03:43 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 15 Oct 03:43 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 15 Oct 03:43 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 15 Oct 03:43 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 15 Oct 03:43 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 15 Oct 03:43 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 15 Oct 03:43 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 15 Oct 03:43 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 15 Oct 03:43 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,856 tokens._
+_Approximate reading cost of this digest: 28,661 tokens._
