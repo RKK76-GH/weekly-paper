@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Fri 16 Oct 2026, 13:39 Sydney time. Stories from 09 Oct to 16 Oct. 1832 stories held from 18 of 18 sources.
+Updated Fri 16 Oct 2026, 15:40 Sydney time. Stories from 09 Oct to 16 Oct. 1837 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island…
 - Ukraine's pleas over Starlink have now reached Elon Musk — ABC +1 (BBC) · 15 Oct · https://www.abc.net.au/news/2026-10-15/zelenskyy-warns-of-starlink-slowdown-in-ukraine/107269352
   Ukraine says people will die as a result of throttled Starlink services in the country. Here's how its armed forces rely on the crucial satellite service.
-(+57 more not listed)
+(+55 more not listed)
 
 ## Australian politics and economy – other candidates
 - Lukewarm Liberal response to Josh Frydenberg's potential return — ABC +1 (Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/liberal-party-josh-frydenberg-politics-kooyong-return/107260102
@@ -103,12 +103,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.
 - Teens at Sydney private religious school made to share beds with teachers, inquiry hears — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb
   Former student says nothing untoward happened to her during stays but tells NSW parliamentary inquiry culture of Redeemer Baptist School left much to ‘untangle’ as an adult Get our breaking news…
+- Church faces inquiry over claims members paid neo-Nazi associates to harass PM — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-bruce-hales-neo-nazis-federal-election-inquiry/107269380
+  Church leaders have denied organising members during the 2025 campaign, while at the same time acknowledging they clearly were coordinated.
 - Greens warn of private school fees loophole in Labor's trust tax — ABC +1 (SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/greens-warn-of-private-school-fees-loophole-in-trust-tax/107262122
   Treasurer Jim Chalmers is preparing to introduce legislation for a 30 per cent tax on discretionary trusts on Wednesday amid fierce business opposition, but has been presented with another obstacle…
 - Greens push for right to sue big tech as Labor axes ministerial powers — ABC +1 (SMH) · 12 Oct · https://www.abc.net.au/news/2026-10-12/greens-push-to-sue-big-tech-over-online-harm-safety-laws-labor/107253674
   The Greens outline demands for stronger protections and tougher penalties for tech giants, as Labor seeks a way through the Senate for its digital safety laws.
-- Church faces inquiry over claims members paid neo-Nazi associates to harass PM — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-bruce-hales-neo-nazis-federal-election-inquiry/107269380
-  Church leaders have denied organising members during the 2025 campaign, while at the same time acknowledging they clearly were coordinated.
 - Youth crime advocate charged with drug offences, stripped of funding — ABC +1 (SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/brodie-germaine-aboriginal-youth-crime-drug-offences/107259766
   Mount Isa man Brodie Germaine, known for his advocacy in preventing youth crime, has been charged with multiple drug offences, as the state government terminates a $280,000 grant.
 - Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence — Guardian · 09 Oct · https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato
@@ -169,7 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Controversial private health insurance changes affecting older Australians are now on life support, after the legislation was effectively thrown out of parliament by the Coalition and crossbench.
 - Hospitality bosses warn of empty cafes and kitchens under migration cuts — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/hospitality-industry-warns-shortages-migrant-workers/107266454
   The latest pushback on sweeping migration cuts has come from the hospitality industry in a social media campaign focused on the consequences for everyday Australians if crucial jobs are left vacant.
-(+122 more not listed)
+(+123 more not listed)
 
 ## Other prominent general stories – one outlet
 - Container ship sinks near strait of Hormuz amid surge in Iranian attacks — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections
@@ -180,22 +180,22 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
 - Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
   Mitte was best known for his role as the son of drug kingpin Walter White in the hit television series Breaking Bad.
-- Texas prosecutor considering felony charges for ICE agent who ran over man — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge
-  A conviction on the possible charge of aggravated assault with a deadly weapon could mean up to 20 years in prison A Texas prosecutor said he was considering felony assault charges for an Immigration…
 - Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines
   Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the…
 - Archbishop of US military condemns Pentagon plans to livestream execution — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution
   Timothy Broglio says Catholics on army firing squad should ask to be excused since it clashes with church teachings The archbishop who oversees the spiritual care of Catholics serving in the US…
-- What we know about the man who died falling from a Six Flags rollercoaster — BBC +1 (SMH) · 14 Oct · https://www.bbc.co.uk/news/articles/cke8r4nmy36qo
-  Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.
+- Russia and Ukraine resume energy strikes despite Trump warnings — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses
+  Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries Europe live – latest updates The White House’s…
 - Indonesia to deploy dry ice to reduce thick haze from fires — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748
   The haze caused by intense fires has drifted into neighbouring Singapore, Malaysia and East Timor.
+- What we know about the man who died falling from a Six Flags rollercoaster — BBC +1 (SMH) · 14 Oct · https://www.bbc.co.uk/news/articles/cke8r4nmy36qo
+  Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.
 - Breaking: Michelin Guide dishes out first Australian stars to array of SA restaurants — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/michelin-star-ceremony-sa-restaurants/107266846
   A spread of South Australian restaurants has achieved distinguished culinary honours by becoming the first in the nation to receive stars from world-renowned guide Michelin.
 - Two stolen Renoir paintings found, six arrested — ABC +1 (BBC) · 09 Oct · https://www.abc.net.au/news/2026-10-09/stolen-renoirs-found-french-museum-six-arrested/107250236
   Two Renoir paintings stolen from a museum in southern France last month have been found, and six people arrested, local authorities said.
-- Russia and Ukraine resume energy strikes despite Trump warnings — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses
-  Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries Europe live – latest updates The White House’s…
+- Lawyers for man shot by ICE in New York City say agent did not identify himself — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/us-news/2026/oct/14/ice-shooting-new-york-city-oscar-belgal
+  Account by Oscar Belgal differs sharply from that of DHS agents, who fired into vehicle with young boy in back seat Lawyers for a man wounded by an immigration officer while driving with his young…
 - Sexual and family violence against children at 'crisis point', study finds — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/sexual-family-violence-against-children-increasing-study-sydney/107260580
   Violence and sexual violence against children have increased sharply across Australia, research by the University of Sydney finds.
 - Nine people, including children, dead after mass shooting in Pennsylvania — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania
@@ -208,10 +208,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   An IBAC investigation has found senior public officers failed to warn the minister that hundreds of millions of dollars in business support grants were being paid to ineligible businesses during the…
 - Body found in cattle dip is identified as missing grandmother — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/body-found-in-cattle-dip-identified-missing-grandmother/107258984
   Grandmother Yvonne Whear had been missing since February. A police strike force has been formed to investigate her death.
+- Nicolás Maduro tells New York court new torture allegations are ‘false’ — Guardian +1 (BBC) · 16 Oct · https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores
+  Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture…
 - Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
   The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
-- Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’ — Guardian +1 (BBC) · 13 Oct · https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting
-  Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs…
+- FBI investigates letters with ‘unknown substance’ sent to US election officials — Guardian +1 (BBC) · 16 Oct · https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election
+  Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and…
 - Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
   The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
 - Behind Trump's war of words on Ukraine is a worrying threat — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500
@@ -220,9 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app…
 - Breaking: Two Carlton AFL players hospitalised in Melbourne — ABC +1 (SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/afl-carlton-football-club-players-hospitalised-melbourne/107253326
   The club has confirmed Lachie Cowan and Will Hayward have been admitted to hospital under separate circumstances.
-- Several injured, flights cancelled after second attack on Saudi airport — ABC +1 (BBC) · 11 Oct · https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-second-time/107252320
-  Multiple people are wounded and flights grounded after a second attack on King Khalid International Airport in the Saudi capital.
-(+1168 more not listed)
+(+1174 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Ctrl:cyber continues growth plans, acquires Razilio — CRN · 17 Oct · https://www.crn.com.au/news/2026/cybersecurity/ctrl-cyber-razilio-acquisition
@@ -446,10 +446,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   PlayStation 5 (version played), Xbox, PC; Epic Games Publishing This fetchingly presented horror game brings style and scares, but overextends itself with repetition A small band of soldiers enters…
 - 'Careless use of AI is the real threat - not the ghost stories' — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o
   Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.
-- Nvidia-backed AI data centre firm scraps mega listing due to market volatility — BBC · 09 Oct · https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po
-  Firmus said it had made the decision due to "recent market volatility and prevailing market conditions".
 
 ## Cars (CarExpert)
+- Tesla Roadster revealed with flying tech, 0.8sec 0-100km/h sprint time — CarExpert · 16 Oct · https://www.carexpert.com.au/car-news/tesla-roadster-revealed-with-flying-tech-08sec-0-100kmh-sprint-time
+  Tesla has demonstrated the sub-one-second claimed 0-100mph acceleration time of its new Roadster, which it promises will enter production in 2028.
 - Your Holden is one in a million! Data reveals Aussie brand’s shrinking numbers — CarExpert · 16 Oct · https://www.carexpert.com.au/car-news/your-holden-is-one-in-a-million-data-reveals-aussie-brands-shrinking-numbers
   The declining number of registered Holdens on Australian roads has been quantified in the latest government data, with brands like Ford and Jeep also shrinking here.
 - 2027 Mazda CX-60 update brings more suspension tweaks, CX-80 also gets changes — CarExpert · 16 Oct · https://www.carexpert.com.au/car-news/2027-mazda-cx-60-update-brings-more-suspension-tweaks-cx-80-also-gets-changes
@@ -693,23 +693,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 16 Oct 13:39 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 16 Oct 13:39 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 16 Oct 13:39 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 16 Oct 13:39 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 16 Oct 13:39 | 34 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 16 Oct 13:39 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 16 Oct 13:39 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 16 Oct 13:39 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 16 Oct 13:39 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 16 Oct 13:39 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 16 Oct 13:39 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 16 Oct 13:39 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 16 Oct 13:39 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 16 Oct 13:39 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 16 Oct 13:39 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 16 Oct 13:39 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 16 Oct 13:39 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 16 Oct 13:39 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 16 Oct 15:40 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 16 Oct 15:40 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 16 Oct 15:40 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 16 Oct 15:40 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 16 Oct 15:40 | 34 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 16 Oct 15:40 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 16 Oct 15:40 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 16 Oct 15:40 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 16 Oct 15:40 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 16 Oct 15:40 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 16 Oct 15:40 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 16 Oct 15:40 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 16 Oct 15:40 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 16 Oct 15:40 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 16 Oct 15:40 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 16 Oct 15:40 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 16 Oct 15:40 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 16 Oct 15:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,928 tokens._
+_Approximate reading cost of this digest: 28,979 tokens._
