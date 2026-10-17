@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sun 18 Oct 2026, 07:36 Sydney time. Stories from 11 Oct to 18 Oct. 1809 stories held from 18 of 18 sources.
+Updated Sun 18 Oct 2026, 09:33 Sydney time. Stories from 11 Oct to 18 Oct. 1812 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -26,6 +26,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Federal Court rules that a Commonwealth decision that blocked a NSW gold mine was "made without authority".
 - Inside Russell Brand's trial, where he was called a 'maniac' and 'predator' — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668
   The world-famous actor and comedian appeared calm and almost zen-like as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
+- Israeli settlers attack European diplomats in West Bank — ABC +2 (BBC, Guardian) · 18 Oct · https://www.abc.net.au/news/2026-10-18/israeli-settler-attack-palestinians-european-diplomats-west-bank/107280242
+  The attack on Palestinian civilians, European diplomats and a French mayor in the occupied West Bank comes a day after settlers beat an American photojournalist.
 - Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb
   Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily…
 - Missing Melbourne hiker Jordan Yap has died in Peru, authorities confirm — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872
@@ -44,8 +46,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The bodies of Jesse Baird and Luke Davies were found near a monastery at Bungonia, south of Sydney, in surfboard bags eight days later after the alleged murders.
 - Family of US man who died on Six Flags ride question if death was preventable — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death
   Hassan Jihad Ibn Kariem died after reportedly ‘passing out’ and falling off Goliath rollercoaster in Georgia The family of a man who was ejected from a rollercoaster at a Six Flags amusement park in…
-- Pregnant woman among eight killed in Pennsylvania shooting — ABC +2 (Guardian, SMH) · 11 Oct · https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788
-  Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to…
 - Man arrested over weekend death of Melbourne woman — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/man-arrested-over-carlton-death/107258702
   Victoria Police say a 31-year-old Carlton man handed himself in in relation to the death of the 21-year-old woman in a block of flats.
 - Reports of bed bugs on a Qantas flight prompt warning from expert — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322
@@ -68,8 +68,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture…
 - Indonesia to deploy dry ice to reduce thick haze from fires — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748
   The haze caused by intense fires has drifted into neighbouring Singapore, Malaysia and East Timor.
-- Masked settlers attack European diplomats in occupied West Bank — Guardian +1 (BBC) · 18 Oct · https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank
-  Belgian foreign minister urges further EU sanctions and links attack to Israel’s ‘illegal settlement policy’ Masked settlers attacked a group of European diplomats during a visit to the occupied West…
 - Ukraine's pleas over Starlink have now reached Elon Musk — ABC +1 (BBC) · 15 Oct · https://www.abc.net.au/news/2026-10-15/zelenskyy-warns-of-starlink-slowdown-in-ukraine/107269352
   Ukraine says people will die as a result of throttled Starlink services in the country. Here's how its armed forces rely on the crucial satellite service.
 - Russia arrests Japanese journalist on allegations of spying — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying
@@ -86,11 +84,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia…
 - At least 139 migrants dead after boat from Djibouti to Yemen capsizes — ABC +1 (BBC) · 12 Oct · https://www.abc.net.au/news/2026-10-12/migrant-boat-from-djibouti-to-yemen-capsizes/107254724
   It is one of the deadliest incidents yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.
+- Brethren church says it is 'not a cult', denies coordinated election campaign — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448
+  Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
 (+50 more not listed)
 
 ## Australian politics and economy – other candidates
-- Brethren church says it is 'not a cult', denies coordinated election campaign — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448
-  Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
 - Live: ASX to open lower following losses on Wall Street as US inflation data is released — ABC +1 (SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/asx-markets-business-news-live-updates-thursday-15-october/107268248
   ASX to open lower following a sea of red on Wall Street as US inflation data comes in hotter than expected. Follow the day's events and insights from our business reporters on the ABC News live…
 - Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan — Guardian +1 (SMH) · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb
@@ -117,18 +115,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
 - Donations to major parties and an ex-premier as a lobbyist: how datacentres play the political game in Australia — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/donations-lobbyists-how-datacentres-play-the-political-game-in-australia
   As governments face community backlash for fast-tracking developments, big tech’s financial contributions face renewed scrutiny Get our new political email , free app or daily news podcast On 14 June…
-- Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous? — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous
-  Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Get our new political email , free app or daily news podcast Australia is flirting with the idea…
 - As One Nation rises, Victorian Labor has promised to make abortions free. Is the timing pure politics? — Guardian · 15 Oct · https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb
   Facing the prospect of election defeat, Labor is hoping to make abortion a defining issue as the Liberals attempt to stave off claims they would oversee a rollback Follow our Australian politics live…
+- Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous? — Guardian · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous
+  Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Get our new political email , free app or daily news podcast Australia is flirting with the idea…
 - A Trump impersonator and opera singers: CPAC was a spectacle, but the right still can’t agree how to take down Labor — Guardian · 11 Oct · https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb
   Preferences proved the sticking point at the conference as conservatives face the prospect of a third successive election defeat Get our new political email , free app or daily news podcast Many…
+- Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns — Guardian · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb
+  Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s…
 - Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them? — Guardian · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs
   As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property…
 - EVs are holding value better than expected – and it has a lot to do with Australia’s cost of living — Guardian · 17 Oct · https://www.theguardian.com/environment/2026/oct/17/second-hand-electric-vehicles-ev-value-australia-petrol-prices
   The appeal of electric vehicles is financial as much as environmental for many drivers Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The electric vehicles…
-- Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns — Guardian · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb
-  Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s…
 - Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out — Guardian · 14 Oct · https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out
   Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposal Get our breaking news email , free app or daily news podcast Labor’s bid…
 - If the economic narrative doesn’t improve, things could get ugly for Labor — ABC · 17 Oct · https://www.abc.net.au/news/2026-10-17/labor-government-struggles-in-senate-and-polls/107276864
@@ -151,6 +149,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The US president has called for Ukraine to pick a new leader as he blames Volodymyr Zelenskyy and Ukrainian strikes on Russian refineries for high diesel prices.
 - Commemoration marks 25 years since Australia joined Afghanistan conflict — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770
   At a ceremony in Canberra, Prime Minister Anthony Albanese quotes John Howard as he speaks of what motivated Australia to join the Afghanistan conflict after the September 11 terrorist attacks in…
+- Jim Chalmers’ bad week: an economic dumpster fire and Labor squabbling — Guardian · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/jim-chalmers-anthony-albanese-labor-disunity-australia-politics
+  The treasurer is feeling the heat on several fiscal fronts, and some within Labor are questioning the government’s political strategy Get our new political email , free app or daily news podcast Jim…
 - Reserve Bank governor paid $1.2 million as RBA workers fight real wage cuts — ABC · 16 Oct · https://www.abc.net.au/news/2026-10-16/rba-governor-million-dollar-salary-annual-report-2026/107274072
   RBA governor Michele Bullock received total remuneration of $1.22 million in 2025-26.
 - Coalition and Greens unite to be a thorn in the government’s side — ABC · 15 Oct · https://www.abc.net.au/news/2026-10-15/politics-newsletter-jonno-duniam-one-nation-coalition-greens/107261102
@@ -169,7 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Burned once before on energy bill promises, the resources minister won't say what new gas reservation laws will do to wholesale gas prices, but promises they will cause downward pressure without…
 - Labor can't count on One Nation fading away, Chalmers warns — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318
   Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
-(+124 more not listed)
+(+121 more not listed)
 
 ## Other prominent general stories – one outlet
 - Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
@@ -186,6 +186,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Yemen's Houthis fire missiles at the presidential palace complex in the southern city of Aden killing five people, the government says.
 - Student protests in Albania turn violent as demonstrators clash with police — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes
   Government building and two banks set on fire as tens of thousands take to streets over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian…
+- Pregnant woman among eight killed in Pennsylvania shooting — ABC +1 (Guardian) · 11 Oct · https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788
+  Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to…
 - Breaking: Michelin Guide dishes out first Australian stars to array of SA restaurants — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/michelin-star-ceremony-sa-restaurants/107266846
   A spread of South Australian restaurants has achieved distinguished culinary honours by becoming the first in the nation to receive stars from world-renowned guide Michelin.
 - Australian government warns not to fly to Saudi capital after three attacks on airports — ABC +1 (BBC) · 11 Oct · https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260
@@ -204,6 +206,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A person is rushed to hospital and another is in custody after a police pursuit through Perth's southern suburbs ends in a serious crash.
 - Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
   Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
+- Trump waives several Russia sanctions as new US law takes effect — BBC +1 (SMH) · 17 Oct · https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o
+  Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
 - Live: Children among dead in shooting at an elementary school in Oregon — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/children-among-dead-at-school-shooting-in-oregon/107274068
   Three children and one adult have been killed in a shooting at an elementary school in Bend, Oregon, CNN and CBS News reported.
 - COVID-19 grants paid to 9,000 ineligible Victorian businesses — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/vic-covid-business-grants-corruption-report/107268816
@@ -212,17 +216,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Grandmother Yvonne Whear had been missing since February. A police strike force has been formed to investigate her death.
 - Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire
   Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure US politics – live updates Donald Trump has…
-- Trump waives several Russia sanctions as new US law takes effect — BBC +1 (SMH) · 17 Oct · https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o
-  Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
 - Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
   The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
 - Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
   The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
 - Behind Trump's war of words on Ukraine is a worrying threat — ABC +1 (Guardian) · 12 Oct · https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500
   It is hard to see Donald Trump's shifting position on Ukraine as a clear strategic change, and not one driven principally by soaring fuel prices ahead of the US mid-term elections.
-- Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021 — Guardian +1 (SMH) · 12 Oct · https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison
-  Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app…
-(+1178 more not listed)
+(+1181 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Ctrl:cyber continues growth plans, acquires Razilio — CRN · 17 Oct · https://www.crn.com.au/news/2026/cybersecurity/ctrl-cyber-razilio-acquisition
@@ -451,6 +451,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+3 more not listed)
 
 ## Cars (CarExpert)
+- Holden Dealer Team revival: What should the next ‘Brock Commodore’ look like? — CarExpert · 18 Oct · https://www.carexpert.com.au/opinion/holden-dealer-team-revival-what-should-the-next-brock-commodore-look-like
+  ‘We build excitement’ was the slogan for the hottest Holdens on sale in the 1980s, but with no Brock, no Commodore and no Holden, what should a reborn HDT road car look like today?
+- BMW celebrates one million M cars as petrol and EV M3s prepare to coexist — CarExpert · 18 Oct · https://www.carexpert.com.au/car-news/bmw-celebrates-one-million-m-cars-as-petrol-and-ev-m3s-prepare-to-coexist
+  BMW has built its one-millionth M car, marking a major milestone for its performance division as it prepares to enter the electric era.
 - Mercedes-AMG GT SUV revealed as brand embraces EVs — CarExpert · 18 Oct · https://www.carexpert.com.au/car-news/mercedes-amg-gt-suv-revealed-as-brand-embraces-evs
   Compared to the GT 4-Door Coupe, the all-electric Mercedes-Benz GT SUV trades a bit of performance and range for a dash extra space and practicality.
 - 2027 Honda Civic Type R review — CarExpert · 18 Oct · https://www.carexpert.com.au/car-reviews/2027-honda-civic-type-r-review
@@ -563,8 +567,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Chinese brand Avatr has previewed its near-production flagship three-row luxury SUV, debuting the Concept T09 in Paris ahead of a potential 2028 launch for export markets – and it could come to…
 - Polestar looks to LFP batteries to reach carbon-neutral car goal — CarExpert · 12 Oct · https://www.carexpert.com.au/car-news/polestar-looks-to-lfp-batteries-to-reach-carbon-neutral-car-goal
   "Lithium iron phosphate" are three magic words for Polestar's next step towards carbon neutrality, with the company's head of sustainability indicating LFP batteries are in the pipeline.
-- Jetour G700: Australia-bound LandCruiser rival updated as Chinese brand heads upmarket — CarExpert · 11 Oct · https://www.carexpert.com.au/car-news/jetour-g700-australia-bound-landcruiser-rival-updated-as-chinese-brand-heads-upmarket
-  The burly Chinese luxury SUV that crossed the Yangtze River has received an elegant makeover just a year after launch, and prior to its Australian debut.
 
 ## Science (Guardian, BBC)
 - Avian flu and costs among reasons for loss of captive birds at Castle Espie — BBC · 17 Oct · https://www.bbc.co.uk/news/articles/c6m24e1ln130o
@@ -669,8 +671,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat…
 - The punks trying to reclaim the internet from 'big tech' — ABC · 12 Oct · https://www.abc.net.au/news/2026-10-12/reclaiming-the-internet-from-big-tech/106726208
   This might be a (raspberry) pie in the sky plan, but it's part of a global movement searching for answers to digital sovereignty and tech resilience.
-- Drying wetlands create genetic risk for southern Australia's brolgas — ABC · 11 Oct · https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286
-  The brolga holds an important place in Gunditjmara culture and is an indicator of wetland health, but their numbers are under threat.
 
 ## QPR match reports (Loft For Words)
 - Rampant Rangers rout wretched Rams (again) – Report — Loft For Words · 16 Oct · https://www.fansnetwork.co.uk/news/67034/rampant-rangers-rout-wretched-rams-(again)-–-report
@@ -680,23 +680,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 18 Oct 07:36 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 18 Oct 07:36 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 18 Oct 07:36 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 18 Oct 07:36 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 18 Oct 07:36 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 18 Oct 07:36 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 18 Oct 07:36 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 18 Oct 07:36 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 18 Oct 07:36 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 18 Oct 07:36 | 35 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 18 Oct 07:36 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 18 Oct 07:36 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 18 Oct 07:36 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 18 Oct 07:36 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 18 Oct 07:36 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 18 Oct 07:36 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 18 Oct 07:36 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 18 Oct 07:36 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 18 Oct 09:33 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 18 Oct 09:33 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 18 Oct 09:33 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 18 Oct 09:33 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 18 Oct 09:33 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 18 Oct 09:33 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 18 Oct 09:33 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 18 Oct 09:33 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 18 Oct 09:33 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 18 Oct 09:33 | 35 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 18 Oct 09:33 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 18 Oct 09:33 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 18 Oct 09:33 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 18 Oct 09:33 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 18 Oct 09:33 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 18 Oct 09:33 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 18 Oct 09:33 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 18 Oct 09:33 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,685 tokens._
+_Approximate reading cost of this digest: 28,676 tokens._
