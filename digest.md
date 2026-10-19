@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Tue 20 Oct 2026, 03:43 Sydney time. Stories from 13 Oct to 20 Oct. 1878 stories held from 18 of 18 sources.
+Updated Tue 20 Oct 2026, 05:48 Sydney time. Stories from 13 Oct to 20 Oct. 1878 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -14,10 +14,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   White House press secretary Katie Zacharia spent eight minutes reading from a script, answered only three questions and called her husband "my president" during her first briefing.
 - Shoebridge insists Steele-John should take leave as Greens 'binfire' deepens — ABC +3 (BBC, Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/shoebridge-insists-steele-john-should-take-leave/107282442
   Greens leader David Shoebridge has insisted that Senator Jordon Steele-John should take personal leave, after the WA senator denied he had offered or agreed to step back while allegations against him…
-- Woman charged after allegedly poisoning colleague's curry with snail pellets — ABC +3 (BBC, Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/perth-woman-charged-after-allegedly-poisoning-colleagues-curry/107270322
-  The Perth woman is due to face court accused of adding the pellets to the curry in an apparent attempt to poison another woman with whom she was in a "personal relationship".
 - Fatalities as 'serious incident' causes fire at Canadian military base — ABC +3 (BBC, Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694
   People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.
+- Woman charged after allegedly poisoning colleague's curry with snail pellets — ABC +3 (BBC, Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/perth-woman-charged-after-allegedly-poisoning-colleagues-curry/107270322
+  The Perth woman is due to face court accused of adding the pellets to the curry in an apparent attempt to poison another woman with whom she was in a "personal relationship".
 - Live: Indi MP Helen Haines critically injured in 'attack' outside office, PM says — ABC +3 (BBC, Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/live-blog-victoria-indi-mp-helen-haines-injured-wangaratta/107285046
   Anthony Albanese says counter-terrorism police are investigating and a man has been arrested after Ms Haines was "attacked" near her electorate office in Victoria's north-east. Follow the latest in…
 - India's 'cockroach' movement leaders detained for five days — ABC +2 (BBC, Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/-cockroach-movement-leaders-jail-5-days-after-scaling-barricade/107267584
@@ -44,12 +44,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The bodies of Jesse Baird and Luke Davies were found near a monastery at Bungonia, south of Sydney, in surfboard bags eight days later after the alleged murders.
 - Family of US man who died on Six Flags ride question if death was preventable — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death
   Hassan Jihad Ibn Kariem died after reportedly ‘passing out’ and falling off Goliath rollercoaster in Georgia The family of a man who was ejected from a rollercoaster at a Six Flags amusement park in…
+- UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
+  Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
 - Labor pledges $30 toll cap as Coalition targets gas ban — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500
   Victoria's premier and opposition leader have announced duelling pledges on public transport fares and gas installations in the latest round of campaigning ahead of next month's state election.
 - Patient allegedly set on fire, two others doused in accelerant at Sydney hospital — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/patient-allegedly-set-on-fire-sydneys-prince-of-wales-hospital/107267510
   A man has been charged with two counts of attempted murder after allegedly pouring accelerant on three patients and setting one of them on fire.
-- UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
-  Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
   Decision about US ambassador to Greece announced by White House after Trump and Rubio were reportedly furious over allegations Kimberly Guilfoyle has been asked to step down as US ambassador to…
 - Inside Russell Brand's trial, where he was called a 'maniac' and 'predator' — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
 - Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
   Mitte was best known for his role as the son of drug kingpin Walter White in the hit television series Breaking Bad.
-(+50 more not listed)
+(+48 more not listed)
 
 ## Australian politics and economy – other candidates
 - Jacqui Lambie slams 'nasty' One Nation cartoon mocking vaginal prolapse — ABC +1 (Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/federal-politics-jacqui-lambie-one-nation-cartoon-pauline-hanson/107281792
@@ -105,8 +105,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Mount Isa man Brodie Germaine, known for his advocacy in preventing youth crime, has been charged with multiple drug offences, as the state government terminates a $280,000 grant.
 - Trump endorses 'great warrior' Netanyahu ahead of Israeli election — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646
   Donald Trump issues a glowing endorsement of Benjamin Netanyahu just months after an expletive-laden tirade in which he accused the Israeli prime minister of trying to undermine a deal with Iran.
-- Loophole allowing new coal and gas to avoid stricter climate laws — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/safeguard-mechanism-loophole-coal-expansions/107246600
-  The Climate Council says coal and gas mines are using a "loophole" to expand operations and add new emissions while avoiding stricter emissions laws for new coal and gas.
 - More homes amid rising seas is the Gold Coast's dilemma — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574
   The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
 - As One Nation rises, Victorian Labor has promised to make abortions free. Is the timing pure politics? — Guardian · 15 Oct · https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb
@@ -141,6 +139,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Perpetrators of financial abuse who use the tax and social security systems to create debts as a form of coercive control could soon be held liable.
 - Major parties defend AI inquiry after Pocock warns of 'stitch-up' — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/ai-inquiry-independent-safety-watchdogs/107258612
   Labor and the Coalition have rejected concerns about undue interference in a parliamentary AI inquiry after the prime minister's office reviewed draft recommendations.
+- Ghost Sharks to be armed with aerial drones and advanced sea mines — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/ghost-shark-fleet-aerial-drones-sea-mines-defence/107283746
+  Australian-made autonomous submarines will be able to set sea mines and launch armed aerial drones, according to newly declassified details.
 - Buildings burn and tear gas thrown during French education and cost of living rallies — ABC · 18 Oct · https://www.abc.net.au/news/2026-10-18/france-protests-education-cost-of-living/107279688
   The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.
 - Reserve Bank governor paid $1.2 million as RBA workers fight real wage cuts — ABC · 16 Oct · https://www.abc.net.au/news/2026-10-16/rba-governor-million-dollar-salary-annual-report-2026/107274072
@@ -161,14 +161,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
 - David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM — Guardian · 13 Oct · https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb
   Committee chair rejects criticism that letter was ‘pre-determined’ by the government Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news…
-- Ghost Sharks to be armed with aerial drones and advanced sea mines — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/ghost-shark-fleet-aerial-drones-sea-mines-defence/107283746
-  Australian-made autonomous submarines will be able to set sea mines and launch armed aerial drones, according to newly declassified details.
+- Massive whale carcass leaves council with $180k bill, budget headache — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/city-beach-whale-removal-costs-180k/107284720
+  The cost of removing a massive humpback whale that washed up on a popular Perth beach last month cost almost $180,000, with the local council fretting about how to pay for it.
+- Problem NT public housing tenants to be evicted after 'three strikes' — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/nt-public-housing-policy-three-strikes-evicted-karama-malak/107283852
+  Under a new three strikes policy for Northern Territory public housing tenants, "minor" anti-social behaviour breaches attract one strike, "moderate" breaches two and three strikes can be handed down…
 - Major lender in Bathla development sells debts — ABC · 17 Oct · https://www.abc.net.au/news/2026-10-17/major-lender-in-bathla-development-sells-debts/107269278
   Private credit firms are striking deals to recover their money following the $3.4 billion collapse of property giant Bathla Group, with one major lender selling most of its exposure to a Sydney…
 - Morning Mail: Men allege abuse at ACT youth detention centre; renters eye housing drop; Trump cancels US livestream — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/morning-mail-friday-ntwnfb
   Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Politics, really newsletter . Morning everyone. Our top story is a harrowing but…
-- ‘Are they going to fall enough?’ The renters waiting for the house price downturn to change their fortunes — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/renters-home-ownership-hope-house-price-downturn-property-slump-australia
-  As property values fall across Australia, would-be home buyers share hope and scepticism that the soft market might be their big chance Australian renters had little reason for hope until a prolonged…
 (+119 more not listed)
 
 ## Other prominent general stories – one outlet
@@ -198,8 +198,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A spread of South Australian restaurants has achieved distinguished culinary honours by becoming the first in the nation to receive stars from world-renowned guide Michelin.
 - Sexual and family violence against children at 'crisis point', study finds — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/sexual-family-violence-against-children-increasing-study-sydney/107260580
   Violence and sexual violence against children have increased sharply across Australia, research by the University of Sydney finds.
-- Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says — BBC +1 (SMH) · 13 Oct · https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo
-  Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
 - 'Investors freaking out' about Wall Street big tech as warning bell rings — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/investors-bracing-for-big-tech-collapse-as-debt-levels-soar/107274648
   The cost of insuring against a debt default by Wall Street's tech titans has hit record levels. Soaring debt and rising interest rates have investors fretting about a potential collapse.
 - Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
@@ -222,7 +220,9 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Ukraine has struck a Russian oil refinery after President Zelenskyy said he was "done" supporting a US-orchestrated ceasefire on energy targets which Moscow did not obey.
 - Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
   The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
-(+1231 more not listed)
+- French police arrest 1,800 after violent clashes and looting mar protests — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138
+  France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested
+(+1232 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Nutanix CEO On VMware Alienating Partners, ‘Embracing Public Cloud’ And Hardware Shortages Continuing — CRN · 20 Oct · https://www.crn.com.au/news-network/channel-news/2026/nutanix-ceo-on-vmware-alienating-partners
@@ -348,6 +348,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+6 more not listed)
 
 ## Technology news (BBC, Guardian)
+- US bans DeepSeek AI from government use as tech tension with China continues — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo
+  DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.
 - Uber wins bid to throw out £340m black cab claims — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o
   Claims that Uber misled TfL over its licence were thrown out because they were brought too late.
 - AI firm Anthropic to commit 5% of shares to fund for ‘public good’ — Guardian · 19 Oct · https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good
@@ -446,9 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an…
 - Companies rushed in on AI. Now some are pulling back — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout
   Rapid AI adoption left workers cleaning up a flood of errors and low-quality work Employers around the globe are grappling with the fallout from rushing to adopt fast-changing artificial intelligence…
-- AFL tells Sportsbet to stop using players in AI generated content — Guardian · 14 Oct · https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content
-  Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’ Get our breaking news…
-(+8 more not listed)
+(+9 more not listed)
 
 ## Cars (CarExpert)
 - 2027 Mazda 6e Atenza review — CarExpert · 20 Oct · https://www.carexpert.com.au/car-reviews/2027-mazda-6e-atenza-review
@@ -696,23 +696,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 20 Oct 03:43 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 20 Oct 03:43 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 20 Oct 03:43 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 20 Oct 03:43 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 20 Oct 03:43 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 20 Oct 03:43 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 20 Oct 03:43 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 20 Oct 03:43 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 20 Oct 03:43 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 20 Oct 03:43 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 20 Oct 03:43 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 20 Oct 03:43 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 20 Oct 03:43 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 20 Oct 03:43 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 20 Oct 03:43 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 20 Oct 03:43 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 20 Oct 03:43 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 20 Oct 03:43 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 20 Oct 05:48 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 20 Oct 05:48 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 20 Oct 05:48 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 20 Oct 05:48 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 20 Oct 05:48 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 20 Oct 05:48 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 20 Oct 05:48 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 20 Oct 05:48 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 20 Oct 05:48 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 20 Oct 05:48 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 20 Oct 05:48 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 20 Oct 05:48 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 20 Oct 05:48 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 20 Oct 05:48 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 20 Oct 05:48 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 20 Oct 05:48 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 20 Oct 05:48 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 20 Oct 05:48 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,133 tokens._
+_Approximate reading cost of this digest: 29,082 tokens._
