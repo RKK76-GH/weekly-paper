@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Tue 20 Oct 2026, 07:40 Sydney time. Stories from 13 Oct to 20 Oct. 1875 stories held from 18 of 18 sources.
+Updated Tue 20 Oct 2026, 09:38 Sydney time. Stories from 13 Oct to 20 Oct. 1880 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -28,10 +28,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Federal Court rules that a Commonwealth decision that blocked a NSW gold mine was "made without authority".
 - Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb
   Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily…
-- Yagera woman Jayda Allen Bonner remembered at Melbourne vigil — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/jayda-allen-bonner-remembered-with-melbourne-vigil/107279066
-  Hundreds have gathered in Melbourne to pay tribute to a young Indigenous woman killed at an inner-suburban apartment complex last weekend.
 - Canberra man with 17yo 'girlfriend' charged over alleged child abuse material — ABC +2 (Guardian, SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254
   A 42-year-old Canberra man is denied bail after Australian Border Force officers allegedly found child exploitation images on his electronic devices when he returned to the country from Europe.
+- Breaking: Charges laid after baby found dead at Adelaide motel — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/charges-laid-after-baby-found-dead-at-tollgate-motel-adelaide/107259740
+  South Australia's police minister says charges have been laid following the death of an infant, who was found by police at the Tollgate Motel on Saturday.
 - Inside Russell Brand's trial, where he was called a 'maniac' and 'predator' — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668
   The world-famous actor and comedian appeared calm and almost zen-like as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
 - Assistant treasurer knew about ATO's credit card ban plans months ago — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382
@@ -42,24 +42,24 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A prosecutor describes Russell Brand as a "ruthless calculated and manipulative sexual predator" in her opening address at the British entertainer's rape trial.
 - At least three killed by Russian drones in Ukraine which cut power to 370,000 — ABC +2 (BBC, Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218
   At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.
-- Lamarre-Condon visited farm where he allegedly tried to sink bodies, jury told — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/beau-lamarre-condon-visited-farm-allegedly-tried-to-sink-bodies/107265170
-  The bodies of Jesse Baird and Luke Davies were found near a monastery at Bungonia, south of Sydney, in surfboard bags eight days later after the alleged murders.
 - UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
   Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
+- Lamarre-Condon visited farm where he allegedly tried to sink bodies, jury told — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/beau-lamarre-condon-visited-farm-allegedly-tried-to-sink-bodies/107265170
+  The bodies of Jesse Baird and Luke Davies were found near a monastery at Bungonia, south of Sydney, in surfboard bags eight days later after the alleged murders.
 - Family of US man who died on Six Flags ride question if death was preventable — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death
   Hassan Jihad Ibn Kariem died after reportedly ‘passing out’ and falling off Goliath rollercoaster in Georgia The family of a man who was ejected from a rollercoaster at a Six Flags amusement park in…
 - Labor pledges $30 toll cap as Coalition targets gas ban — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500
   Victoria's premier and opposition leader have announced duelling pledges on public transport fares and gas installations in the latest round of campaigning ahead of next month's state election.
 - Patient allegedly set on fire, two others doused in accelerant at Sydney hospital — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/patient-allegedly-set-on-fire-sydneys-prince-of-wales-hospital/107267510
   A man has been charged with two counts of attempted murder after allegedly pouring accelerant on three patients and setting one of them on fire.
+- Man arrested after gunman sparked Dulwich Hill lockdown in Sydney — ABC +2 (Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/man-arrested-investigation-gunman-sydney-dulwich-hill-lockdown/107281586
+  A 32-year-old man has been arrested in Sydney's inner west after allegedly attempting to evade police.
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
   Decision about US ambassador to Greece announced by White House after Trump and Rubio were reportedly furious over allegations Kimberly Guilfoyle has been asked to step down as US ambassador to…
 - Sally Rooney pulls books from UK over her support for Palestine Action — ABC +2 (BBC, Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/sally-rooney-books-palestine-action-uk-removed/107268120
   The Irish author of Normal People and Conversations with Friends says her support for Palestine Action means her books cannot be sold in the UK.
 - Cornell University suspends fraternity parties after alleged gang rape — ABC +2 (BBC, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098
   The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
-- Breaking: Charges laid after baby found dead at Adelaide motel — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/charges-laid-after-baby-found-dead-at-tollgate-motel-adelaide/107259740
-  South Australia's police minister says charges have been laid following the death of an infant, who was found by police at the Tollgate Motel on Saturday.
 - Live: Bank of America fined $US1.2 billion for anti-money laundering failures — ABC +2 (BBC, Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164
   The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters…
 - Indonesia to deploy dry ice to reduce thick haze from fires — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia…
 - Brethren church says it is 'not a cult', denies coordinated election campaign — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448
   Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
-(+47 more not listed)
+(+46 more not listed)
 
 ## Australian politics and economy – other candidates
 - Jacqui Lambie slams 'nasty' One Nation cartoon mocking vaginal prolapse — ABC +1 (Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/federal-politics-jacqui-lambie-one-nation-cartoon-pauline-hanson/107281792
@@ -169,11 +169,9 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Politics, really newsletter . Morning everyone. Our top story is a harrowing but…
 - ‘Are they going to fall enough?’ The renters waiting for the house price downturn to change their fortunes — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/renters-home-ownership-hope-house-price-downturn-property-slump-australia
   As property values fall across Australia, would-be home buyers share hope and scepticism that the soft market might be their big chance Australian renters had little reason for hope until a prolonged…
-(+120 more not listed)
+(+119 more not listed)
 
 ## Other prominent general stories – one outlet
-- Breaking Bad star RJ Mitte dies age 34 — ABC +1 (BBC) · 13 Oct · https://www.abc.net.au/news/2026-10-13/breaking-bad-star-rj-mitte-dies-aged-34/107258894
-  Mitte was best known for his role as the son of drug kingpin Walter White in the hit television series Breaking Bad.
 - Starlink access still not fully restored for Ukraine’s military, says Zelenskyy — Guardian +1 (BBC) · 17 Oct · https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy
   Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said…
 - Stampede kills at least 17 people at religious festival in India — ABC +1 (BBC) · 18 Oct · https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156
@@ -204,8 +202,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
 - Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326
   American supermodel Cindy Crawford has posted a tribute on social media to her son Presley Gerber, who recently died aged 27.
-- Qantas flight grounded after bedbug outbreak — BBC +1 (SMH) · 13 Oct · https://www.bbc.co.uk/news/articles/cr62yzypnw7no
-  The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.
 - Live: Children among dead in shooting at an elementary school in Oregon — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/children-among-dead-at-school-shooting-in-oregon/107274068
   Three children and one adult have been killed in a shooting at an elementary school in Bend, Oregon, CNN and CBS News reported.
 - COVID-19 grants paid to 9,000 ineligible Victorian businesses — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/vic-covid-business-grants-corruption-report/107268816
@@ -222,9 +218,19 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested
 - Dogs captured after attack on Brisbane man — ABC +1 (SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/dogs-captured-after-attacking-man-chermside/107279188
   Emergency services were called to Kittyhawk Drive in Chermside just after 6pm on Friday following reports a man had been attacked by dogs.
-(+1234 more not listed)
+- Reports of bed bugs on a Qantas flight prompt warning from expert — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322
+  An expert says there is virtually nothing passengers can do once they are aboard a bed bug infested flight but suggests places where to start looking for the critters.
+- Victorian firefighters' union threatens legal action against own members — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/united-firefighters-union-threat-legal-action-members/107260454
+  The Victorian firefighters' union is threatening legal action against its own members for not paying a levy to cover its hefty legal costs.
+(+1235 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
+- ConnectWise CTO Sees ‘Light At End Of Tunnel’ In Bid To Restore ConnectWise Cloud Backup Microsoft 365 Access — CRN · 21 Oct · https://www.crn.com.au/news-network/security/2026/connectwise-cto-sees-light-at-end-of-tunnel-in-bid-to-rest
+  ConnectWise CTO David Raissipour says the company has made “significant progress” in its bid to restore ConnectWise Cloud Backup access for Microsoft 365 to more than several thousand MSPs.
+- 1Password CTO Nancy Wang: Identity Security Must Adapt To ‘New World’ Of AI Agents — CRN · 21 Oct · https://www.crn.com.au/news-network/security/2026/1password-cto-nancy-wang-identity-security-must-adapt-to-ne
+  As AI agents begin to work across a variety of browsers and IT systems, a massive challenge is arising for businesses whose identity security controls were designed around humans, 1Password CTO Nancy…
+- Horizon3 CEO: Channel key to cracking the APJ cybersecurity market — CRN · 20 Oct · https://www.crn.com.au/news-network/cybersecurity/2026/horizon3-ceo-channel-key-to-cracking-the-apj-cybersecurity-m
+  Singapore is expected to serve as the hub for the ASEAN region following new investments from EDBI and its parent SG Growth Capital.
 - Nutanix CEO On VMware Alienating Partners, ‘Embracing Public Cloud’ And Hardware Shortages Continuing — CRN · 20 Oct · https://www.crn.com.au/news-network/channel-news/2026/nutanix-ceo-on-vmware-alienating-partners
   Nutanix CEO on migrating VMware customers, Broadcom deauthorizing Insight Enterprises, IT hardware shortages, embracing public cloud providers and Nutanix’s partner strategy.
 - Workday Channel Chief: Partners Are Key To AI And ‘Defining The Future Of Work’ — CRN · 20 Oct · https://www.crn.com.au/news-network/channel-news/2026/workday-channel-chief-partners-are-key-to-ai-and-defining-t
@@ -233,10 +239,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   From new AI trends to views on the competitive landscape, here’s a roundup of some of the most prescient ideas shared at The Channel Company’s 2026 XChange Best of Breed conference.
 - Edith Cowan University is building AI into its admissions process — iTnews · 20 Oct · https://www.itnews.com.au/news/edith-cowan-university-is-building-ai-into-its-admissions-process-629668
   Could lead to automated offers being sent to prospective students.
-- Ex-OpenAI employee accused of planting device appears to have Saudi backing — iTnews · 20 Oct · https://www.itnews.com.au/news/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-629760
-  US prosecutors say.
 - Top hyperscalers likely to have more AI-linked debt than now known — iTnews · 20 Oct · https://www.itnews.com.au/news/top-hyperscalers-likely-to-have-more-ai-linked-debt-than-now-known-629761
   S&P Global warns.
+- Ex-OpenAI employee accused of planting device appears to have Saudi backing — iTnews · 20 Oct · https://www.itnews.com.au/news/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-629760
+  US prosecutors say.
 - SUBCO brings in joint CIO and CISO — iTnews · 20 Oct · https://www.itnews.com.au/news/subco-brings-in-joint-cio-and-ciso-629759
   Preparing IT and security functions for the "next phase of growth".
 - How Island is using the channel to scale up its business in APAC — CRN · 19 Oct · https://www.crn.com.au/news/2026/software/island-is-moving-to-a-100-percent-channel-model
@@ -339,15 +345,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Central bank's chief economist says.
 - Investigators hunt French supermarket fridge hackers — iTnews · 14 Oct · https://www.itnews.com.au/news/investigators-hunt-french-supermarket-fridge-hackers-629623
   No claim of responsibility.
-- Macquarie Telecom extends Netskope partnership for SASE delivery — ARN · 14 Oct · https://www.arnnet.com.au/article/4234037/macquarie-telecom-extends-netskope-partnership-for-sase-delivery.html
-  Macquarie Technology Group’s Telecom division has extended its year-long partnership with Netskope to offer a unified, single-vendor secure access service edge (SASE) solution. The expanded agreement…
-- Zoom appoints Andrew Hindmarch as APAC channel head — ARN · 13 Oct · https://www.arnnet.com.au/article/4234055/zoom-appoints-andrew-hindmarch-as-apac-channel-head-2.html
-  Zoom has appointed Andrew Hindmarch as head of channel for the Asia Pacific (APAC) region. Based in Singapore, Hindmarch will lead the company’s channel strategy across the region, working closely…
-- CrowdStrike, CyberCert expand MSSP opportunities with SMB certification — ARN · 13 Oct · https://www.arnnet.com.au/article/4234041/crowdstrike-cybercert-expand-mssp-opportunities-with-smb-cert.html
-  CrowdStrike and CyberCert have joined forces to help small and medium-sized businesses (SMB) across Australia and New Zealand, strengthening cyber security readiness for SMB1001 certification. By…
-(+7 more not listed)
+(+9 more not listed)
 
 ## Technology news (BBC, Guardian)
+- New AI tool can predict cancer survival by a single patient selfie, study suggests — Guardian · 20 Oct · https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie
+  System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer…
 - US bans DeepSeek AI from government use as tech tension with China continues — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo
   DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.
 - Uber wins bid to throw out £340m black cab claims — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o
@@ -446,11 +448,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Researchers say ‘AI worms’ could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become…
 - Apple unveils new smart home devices that showcase upgraded Siri AI — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai
   New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an…
-- Companies rushed in on AI. Now some are pulling back — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout
-  Rapid AI adoption left workers cleaning up a flood of errors and low-quality work Employers around the globe are grappling with the fallout from rushing to adopt fast-changing artificial intelligence…
-(+9 more not listed)
+(+10 more not listed)
 
 ## Cars (CarExpert)
+- Volvo EX30 recalled — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/volvo-ex30-recalled-1
+  The head restraints in over 4000 Volvo EX30 small SUVs may move or detach entirely in a collision, triggering a recall.
 - 2027 Toyota Fortuner spied again in Thailand — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/2027-toyota-fortuner-spied-again-in-thailand
   The new Toyota Fortuner sports new styling at the front and back, but carries over today's platform.
 - 2027 Mazda 6e Atenza review — CarExpert · 20 Oct · https://www.carexpert.com.au/car-reviews/2027-mazda-6e-atenza-review
@@ -567,10 +569,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Chinese giant Geely will rely on in-house expertise rather than local input for new models.
 - 2027 Geely Starray EM-i AWD review — CarExpert · 13 Oct · https://www.carexpert.com.au/car-reviews/2027-geely-starray-em-i-review
   Geely has added a more powerful all-wheel drive version of its plug-in hybrid mid-size SUV – and it’s amazing value.
-- Peugeot RCZ Vision coupe revealed with 500hp and solid-state battery — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/peugeot-rcz-vision-coupe-revealed-with-500hp-and-solid-state-battery
-  Peugeot has revived its RCZ coupe as a 373kW electric concept with solid-state battery tech, providing a claimed 600km range and ultra-fast charging.
-- Jetour T1, T2 spied in Australia as Chery brand nears local launch — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/jetour-t1-t2-spied-in-australia-as-chery-brand-nears-local-launch
-  Jetour will enter the crowded mid-size SUV segment in Australia with a pair of models brandishing chunky designs, and they're now being tested here.
 
 ## Science (Guardian, BBC)
 - Capybara pups at Manx zoo draw record crowds — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cw7vplvjd3elo
@@ -665,8 +663,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Cornwall Council introduces new penalties after recording 17,500 incidents in five years.
 - Red squirrel project opens £250k community grant — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/cr86zp8qn0w5o
   Groups from around northern England and southern Scotland can bid for funding to help the creatures.
-- Crew searching for Amelia Earhart arrives at crab-infested island — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o
-  Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests — Guardian · 18 Oct · https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study
@@ -692,23 +688,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 20 Oct 07:40 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 20 Oct 07:40 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 20 Oct 07:40 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 20 Oct 07:40 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 20 Oct 07:40 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 20 Oct 07:40 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 20 Oct 07:40 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 20 Oct 07:40 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 20 Oct 07:40 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 20 Oct 07:40 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 20 Oct 07:40 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 20 Oct 07:40 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 20 Oct 07:40 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 20 Oct 07:40 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 20 Oct 07:40 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 20 Oct 07:40 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 20 Oct 07:40 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 20 Oct 07:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 20 Oct 09:38 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 20 Oct 09:38 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 20 Oct 09:38 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 20 Oct 09:38 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 20 Oct 09:38 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 20 Oct 09:38 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 20 Oct 09:38 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 20 Oct 09:38 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 20 Oct 09:38 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 20 Oct 09:38 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 20 Oct 09:38 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 20 Oct 09:38 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 20 Oct 09:38 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 20 Oct 09:38 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 20 Oct 09:38 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 20 Oct 09:38 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 20 Oct 09:38 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 20 Oct 09:38 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,751 tokens._
+_Approximate reading cost of this digest: 28,607 tokens._
