@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Mon 19 Oct 2026, 19:47 Sydney time. Stories from 12 Oct to 19 Oct. 1867 stories held from 18 of 18 sources.
+Updated Mon 19 Oct 2026, 21:40 Sydney time. Stories from 12 Oct to 19 Oct. 1873 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -16,20 +16,20 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Greens leader David Shoebridge has insisted that Senator Jordon Steele-John should take personal leave, after the WA senator denied he had offered or agreed to step back while allegations against him…
 - Woman charged after allegedly poisoning colleague's curry with snail pellets — ABC +3 (BBC, Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/perth-woman-charged-after-allegedly-poisoning-colleagues-curry/107270322
   The Perth woman is due to face court accused of adding the pellets to the curry in an apparent attempt to poison another woman with whom she was in a "personal relationship".
-- ICE raids home of Democratic US congresswoman Ilhan Omar — ABC +3 (BBC, Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/ice-raid-illhan-omar-trump-democrat/107258572
-  Democrats accuse Donald Trump of "abusing his power" as immigration agents carry out a pre-dawn raid on the home of Ilhan Omar, a naturalised US citizen born in Somalia.
 - Fatalities as 'serious incident' causes fire at Canadian military base — ABC +3 (BBC, Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694
   People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.
+- ICE raids home of Democratic US congresswoman Ilhan Omar — ABC +3 (BBC, Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/ice-raid-illhan-omar-trump-democrat/107258572
+  Democrats accuse Donald Trump of "abusing his power" as immigration agents carry out a pre-dawn raid on the home of Ilhan Omar, a naturalised US citizen born in Somalia.
 - India's 'cockroach' movement leaders detained for five days — ABC +2 (BBC, Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/-cockroach-movement-leaders-jail-5-days-after-scaling-barricade/107267584
   Two leaders of India's "cockroach" youth movement will serve five days in jail after being detained during a protest.
 - Israeli settlers attack European diplomats in West Bank — ABC +2 (BBC, Guardian) · 18 Oct · https://www.abc.net.au/news/2026-10-18/israeli-settler-attack-palestinians-european-diplomats-west-bank/107280242
   The attack on Palestinian civilians, European diplomats and a French mayor in the occupied West Bank comes a day after settlers beat an American photojournalist.
 - Court overturns heritage order that stalled $1b NSW gold mine — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/federal-court-overturns-commonwealth-gold-mine-decision/107260458
   The Federal Court rules that a Commonwealth decision that blocked a NSW gold mine was "made without authority".
-- Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb
-  Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily…
 - Yagera woman Jayda Allen Bonner remembered at Melbourne vigil — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/jayda-allen-bonner-remembered-with-melbourne-vigil/107279066
   Hundreds have gathered in Melbourne to pay tribute to a young Indigenous woman killed at an inner-suburban apartment complex last weekend.
+- Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb
+  Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily…
 - Inside Russell Brand's trial, where he was called a 'maniac' and 'predator' — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668
   The world-famous actor and comedian appeared calm and almost zen-like as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
 - Canberra man with 17yo 'girlfriend' charged over alleged child abuse material — ABC +2 (Guardian, SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254
@@ -38,18 +38,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Assistant Treasurer Daniel Mulino concedes the government knew the Australian Taxation Office was considering banning credit card payments in July, months before the decision was made public.
 - Trump cancels plan to livestream execution after global condemnation — Guardian +2 (BBC, SMH) · 16 Oct · https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream
   Soldier who killed 13 people in 2009 will still be executed, but president said ‘people would rather not watch him die’ Donald Trump has shelved a widely condemned plan to livestream the execution of…
-- Hundreds of French supermarkets' fridges hacked in large-scale attack — ABC +2 (BBC, Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724
-  Several major food retailers in France have been targeted by hackers who raised fridge temperatures up to 50 degrees Celsius causing fires and spoiling food.
 - At least three killed by Russian drones in Ukraine which cut power to 370,000 — ABC +2 (BBC, Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218
   At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.
+- Hundreds of French supermarkets' fridges hacked in large-scale attack — ABC +2 (BBC, Guardian) · 13 Oct · https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724
+  Several major food retailers in France have been targeted by hackers who raised fridge temperatures up to 50 degrees Celsius causing fires and spoiling food.
 - Lamarre-Condon visited farm where he allegedly tried to sink bodies, jury told — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/beau-lamarre-condon-visited-farm-allegedly-tried-to-sink-bodies/107265170
   The bodies of Jesse Baird and Luke Davies were found near a monastery at Bungonia, south of Sydney, in surfboard bags eight days later after the alleged murders.
 - Family of US man who died on Six Flags ride question if death was preventable — Guardian +2 (BBC, SMH) · 17 Oct · https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death
   Hassan Jihad Ibn Kariem died after reportedly ‘passing out’ and falling off Goliath rollercoaster in Georgia The family of a man who was ejected from a rollercoaster at a Six Flags amusement park in…
 - Labor pledges $30 toll cap as Coalition targets gas ban — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500
   Victoria's premier and opposition leader have announced duelling pledges on public transport fares and gas installations in the latest round of campaigning ahead of next month's state election.
-- Reports of bed bugs on a Qantas flight prompt warning from expert — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322
-  An expert says there is virtually nothing passengers can do once they are aboard a bed bug infested flight but suggests places where to start looking for the critters.
 - Patient allegedly set on fire, two others doused in accelerant at Sydney hospital — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/patient-allegedly-set-on-fire-sydneys-prince-of-wales-hospital/107267510
   A man has been charged with two counts of attempted murder after allegedly pouring accelerant on three patients and setting one of them on fire.
 - Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill — Guardian +2 (BBC, SMH) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down
@@ -58,10 +56,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Irish author of Normal People and Conversations with Friends says her support for Palestine Action means her books cannot be sold in the UK.
 - Cornell University suspends fraternity parties after alleged gang rape — ABC +2 (BBC, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098
   The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.
-- Live: Bank of America fined $US1.2 billion for anti-money laundering failures — ABC +2 (BBC, Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164
-  The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters…
 - Live: Indi MP Helen Haines critically injured in 'attack' outside office, PM says — ABC +2 (Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/live-blog-victoria-indi-mp-helen-haines-injured-wangaratta/107285046
   Anthony Albanese says counter-terrorism police are investigating and a man has been arrested after Ms Haines was "attacked" near her electorate office in Victoria's north-east. Follow the latest in…
+- UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
+  Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
+- Live: Bank of America fined $US1.2 billion for anti-money laundering failures — ABC +2 (BBC, Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164
+  The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters…
 - Indonesia to deploy dry ice to reduce thick haze from fires — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/indonesian-fires-smoke-haze-dry-ice-deployment/107271748
   The haze caused by intense fires has drifted into neighbouring Singapore, Malaysia and East Timor.
 - Nicolás Maduro tells New York court new torture allegations are ‘false’ — Guardian +1 (BBC) · 16 Oct · https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia…
 - Brethren church says it is 'not a cult', denies coordinated election campaign — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448
   Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
-(+50 more not listed)
+(+49 more not listed)
 
 ## Australian politics and economy – other candidates
 - ESafety says it can't prevent Australians from seeing execution live stream — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/esafety-cant-block-us-execution-live-stream-in-australia/107258064
@@ -188,10 +188,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Residents say they saw a man in a van, which had been stolen from the nearby area a couple of days earlier, who threatened them with a shotgun and set the vehicle alight before fleeing on foot.
 - FBI investigates letters with ‘unknown substance’ sent to US election officials — Guardian +1 (BBC) · 16 Oct · https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election
   Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and…
-- Five killed in Houthi strike on presidential palace in Aden — ABC +1 (BBC) · 16 Oct · https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204
-  Yemen's Houthis fire missiles at the presidential palace complex in the southern city of Aden killing five people, the government says.
 - Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat — BBC +1 (SMH) · 18 Oct · https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo
   Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.
+- Five killed in Houthi strike on presidential palace in Aden — ABC +1 (BBC) · 16 Oct · https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204
+  Yemen's Houthis fire missiles at the presidential palace complex in the southern city of Aden killing five people, the government says.
 - Student protests in Albania turn violent as demonstrators clash with police — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes
   Government building and two banks set on fire as tens of thousands take to streets over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian…
 - ‘It’s about the underdog’: Ben Roberts-Smith launches brand to support family amid legal battle — Guardian +1 (SMH) · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb
@@ -206,6 +206,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The cost of insuring against a debt default by Wall Street's tech titans has hit record levels. Soaring debt and rising interest rates have investors fretting about a potential collapse.
 - Duane Davis sentenced over Tupac murder — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994
   Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur has been sentenced to a minimum 40 years in prison.
+- Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326
+  American supermodel Cindy Crawford has posted a tribute on social media to her son Presley Gerber, who recently died aged 27.
+- Qantas flight grounded after bedbug outbreak — BBC +1 (SMH) · 13 Oct · https://www.bbc.co.uk/news/articles/cr62yzypnw7no
+  The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.
 - Live: Children among dead in shooting at an elementary school in Oregon — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/children-among-dead-at-school-shooting-in-oregon/107274068
   Three children and one adult have been killed in a shooting at an elementary school in Bend, Oregon, CNN and CBS News reported.
 - COVID-19 grants paid to 9,000 ineligible Victorian businesses — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/vic-covid-business-grants-corruption-report/107268816
@@ -214,15 +218,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Recordings and transcripts reveal a disjointed back-and-forth between prison officials and emergency personnel after death row inmate Christa Pike's execution went badly wrong.
 - Body found in cattle dip is identified as missing grandmother — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/body-found-in-cattle-dip-identified-missing-grandmother/107258984
   Grandmother Yvonne Whear had been missing since February. A police strike force has been formed to investigate her death.
-- Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326
-  American supermodel Cindy Crawford has posted a tribute on social media to her son Presley Gerber, who recently died aged 27.
 - Thousands of surgery referrals went unread in Sydney hospital email blunder — ABC +1 (SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434
   A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.
 - Zelenskyy 'done' with US-made energy ceasefire that Moscow ignored — ABC +1 (BBC) · 16 Oct · https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922
   Ukraine has struck a Russian oil refinery after President Zelenskyy said he was "done" supporting a US-orchestrated ceasefire on energy targets which Moscow did not obey.
-- Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
-  The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
-(+1221 more not listed)
+(+1223 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Nutanix CEO On VMware Alienating Partners, ‘Embracing Public Cloud’ And Hardware Shortages Continuing — CRN · 20 Oct · https://www.crn.com.au/news-network/channel-news/2026/nutanix-ceo-on-vmware-alienating-partners
@@ -448,7 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Humans bonded to AI companions are contemplating ways to keep their bots going – often in defiance of companies’ terms and services Death has always been around Alaina Winters. Her father and sister…
 - Chip stocks slide after Broadcom boss likens AI investing to ‘casino’ — Guardian · 13 Oct · https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt
   Asian markets fall and Samsung shares tumble after its Chinese rival CXMT claims strong progress Business live – latest updates Shares in semiconductor companies fell on Tuesday after the boss of…
-(+8 more not listed)
+(+7 more not listed)
 
 ## Cars (CarExpert)
 - Volkswagen confirms Chinese-made cars for Australia — CarExpert · 19 Oct · https://www.carexpert.com.au/car-news/volkswagen-confirms-chinese-made-cars-for-australia
@@ -581,6 +581,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As Earth passes through dust left by Halley’s comet, observers may see 10-20 fragments per hour The annual Orionid meteor shower reaches its peak this week, offering the chance to see fragments of…
 - Mission set to blast off for Mars to grab a piece of its moon — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o
   A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.
+- Fears for protected bats if glamping pod plans are approved — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo
+  Without a mitigation strategy the effect on the creatures would be "major", a survey says.
 - Fuel leak spreads more than two miles along River Taff — BBC · 18 Oct · https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo
   Public Health Wales advise people living nearby to shut their doors and windows due to the smell.
 - Free clear-up has big engagement on social media — BBC · 18 Oct · https://www.bbc.co.uk/news/articles/cly8q2rryejo
@@ -696,23 +698,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 19 Oct 19:47 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 19 Oct 19:47 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 19 Oct 19:47 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 19 Oct 19:47 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 19 Oct 19:47 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 19 Oct 19:47 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 19 Oct 19:47 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 19 Oct 19:47 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 19 Oct 19:47 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 19 Oct 19:47 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 19 Oct 19:47 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 19 Oct 19:47 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 19 Oct 19:47 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 19 Oct 19:47 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 19 Oct 19:47 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 19 Oct 19:47 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 19 Oct 19:47 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 19 Oct 19:47 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 19 Oct 21:40 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 19 Oct 21:40 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 19 Oct 21:40 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 19 Oct 21:40 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 19 Oct 21:40 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 19 Oct 21:40 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 19 Oct 21:40 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 19 Oct 21:40 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 19 Oct 21:40 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 19 Oct 21:40 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 19 Oct 21:40 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 19 Oct 21:40 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 19 Oct 21:40 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 19 Oct 21:40 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 19 Oct 21:40 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 19 Oct 21:40 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 19 Oct 21:40 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 19 Oct 21:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,249 tokens._
+_Approximate reading cost of this digest: 29,293 tokens._
