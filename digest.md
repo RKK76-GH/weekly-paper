@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Tue 20 Oct 2026, 15:39 Sydney time. Stories from 13 Oct to 20 Oct. 1876 stories held from 18 of 18 sources.
+Updated Tue 20 Oct 2026, 17:48 Sydney time. Stories from 13 Oct to 20 Oct. 1890 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -30,10 +30,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily…
 - Canberra man with 17yo 'girlfriend' charged over alleged child abuse material — ABC +2 (Guardian, SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254
   A 42-year-old Canberra man is denied bail after Australian Border Force officers allegedly found child exploitation images on his electronic devices when he returned to the country from Europe.
-- Man charged with 16yo girl's murder in remote NT community — ABC +2 (Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/ashton-chungaloo-charged-murder-teen-girl-nt/107271322
-  A 26-year-old man faces court over the alleged murder of a 16-year-old girl in the remote Northern Territory community of Alpurrurulam.
 - Inside Russell Brand's trial, where he was called a 'maniac' and 'predator' — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668
   The world-famous actor and comedian appeared calm and almost zen-like as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
+- Man charged with 16yo girl's murder in remote NT community — ABC +2 (Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/ashton-chungaloo-charged-murder-teen-girl-nt/107271322
+  A 26-year-old man faces court over the alleged murder of a 16-year-old girl in the remote Northern Territory community of Alpurrurulam.
 - UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
   Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
 - Assistant treasurer knew about ATO's credit card ban plans months ago — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382
@@ -84,8 +84,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia…
 - Starlink access still not fully restored for Ukraine’s military, says Zelenskyy — Guardian +1 (BBC) · 17 Oct · https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy
   Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said…
-- Jacqui Lambie slams 'nasty' One Nation cartoon mocking vaginal prolapse — ABC +1 (Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/federal-politics-jacqui-lambie-one-nation-cartoon-pauline-hanson/107281792
-  The independent senator criticises a new One Nation cartoon, which ridiculed the outspoken veteran and used her medical condition as a punchline.
+- Hanson apologises for cartoon mocking Lambie's vaginal prolapse — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/hanson-apologises-for-one-nation-cartoon-mocking-lambie/107288602
+  The One Nation leader says she was not aware of the cartoon's content before it went up but has committed to "taking a closer look" in the future.
 (+44 more not listed)
 
 ## Australian politics and economy – other candidates
@@ -93,10 +93,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   ASX to open lower following a sea of red on Wall Street as US inflation data comes in hotter than expected. Follow the day's events and insights from our business reporters on the ABC News live…
 - PM says government trying to stop 'abhorrent' US execution live stream — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/anthony-albanese-us-execution-live-stream-social-media/107261442
   Anthony Albanese says the government is exploring all options to prevent the potential live streaming of a US execution from being seen in Australia.
-- Breaking: Kumanjayi Little Baby review finds extensive failings — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/kumanjayi-little-baby-independent-review-nt-child-protection/107285266
-  An independent review into the NT child protection department's conduct surrounding Kumanjayi Little Baby before her alleged murder has revealed extensive failings, with the department rating her…
 - ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM — Guardian +1 (SMH) · 20 Oct · https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb
   Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is…
+- Breaking: Kumanjayi Little Baby review finds extensive failings — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/kumanjayi-little-baby-independent-review-nt-child-protection/107285266
+  An independent review into the NT child protection department's conduct surrounding Kumanjayi Little Baby before her alleged murder has revealed extensive failings, with the department rating her…
 - Church faces inquiry over claims members paid neo-Nazi associates to harass PM — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-bruce-hales-neo-nazis-federal-election-inquiry/107269380
   Church leaders have denied organising members during the 2025 campaign, while at the same time acknowledging they clearly were coordinated.
 - Greens warn of private school fees loophole in Labor's trust tax — ABC +1 (SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/greens-warn-of-private-school-fees-loophole-in-trust-tax/107262122
@@ -131,8 +131,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who wins November election as Jess Wilson says Liberals and Nationals ‘will not allow Labor to play politics on this…
 - Jim Chalmers denies Anthony Albanese rolled him over credit card payments for tax bills — Guardian · 14 Oct · https://www.theguardian.com/australia-news/2026/oct/14/jim-chalmers-denies-anthony-albanese-rolled-him-over-credit-card-payments-for-tax-bills
   Treasurer’s comments come after prime minister revealed he intervened to delay a controversial ban on such payments to the ATO Follow our Australian politics live blog for latest updates Get our new…
-- Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say — Guardian · 13 Oct · https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business
-  ‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email…
 - ‘Not our friends’: Victorian Coalition warns Advance’s ‘bizarre’ campaign may cost it majority government — Guardian · 19 Oct · https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb
   Exclusive: Rightwing lobby group, which says state poll is trial run for next federal election, accused of undermining Victorian Liberal messaging Get our new political email , free app or daily news…
 - Jim Chalmers’ bad week: an economic dumpster fire and Labor squabbling — Guardian · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/jim-chalmers-anthony-albanese-labor-disunity-australia-politics
@@ -159,6 +157,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Burned once before on energy bill promises, the resources minister won't say what new gas reservation laws will do to wholesale gas prices, but promises they will cause downward pressure without…
 - Labor can't count on One Nation fading away, Chalmers warns — ABC · 13 Oct · https://www.abc.net.au/news/2026-10-13/labor-confronts-one-nations-growing-appeal/107262318
   Labor is projecting confidence it can defeat One Nation despite the minor party's sustained polling strength and growing voter frustration.
+- Stamp duty is hundreds of years old and removing it could boost home ownership — ABC · 20 Oct · https://www.abc.net.au/news/2026-10-20/removing-stamp-duty-could-improve-home-ownership/107276324
+  Some experts suggests shifting away from the more than 300-year-old tax on property transactions could ease housing affordability.
 - Massive whale carcass leaves council with $180k bill, budget headache — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/city-beach-whale-removal-costs-180k/107284720
   The cost of removing a massive humpback whale that washed up on a popular Perth beach last month cost almost $180,000, with the local council fretting about how to pay for it.
 - Problem NT public housing tenants to be evicted after 'three strikes' — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/nt-public-housing-policy-three-strikes-evicted-karama-malak/107283852
@@ -178,6 +178,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.
 - Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines
   Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the…
+- Suspected Amelia Earhart plane wreckage identified as washed up trees — ABC +1 (BBC) · 20 Oct · https://www.abc.net.au/news/2026-10-20/suspected-amelia-earhart-plane-wreckage-trees-debris/107287840
+  Researchers hoping to solve one of the 20th century's great mysteries say the expedition was still worthwhile despite coming up empty-handed.
 - Inside the Chinese city with an open secret about North Korea — ABC +1 (BBC) · 18 Oct · https://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378
   I was on a tourist boat as it passed into North Korean waters, just 100 metres from the shoreline of the hermit kingdom. The tourists around me were all asking one question.
 - FBI investigates letters with ‘unknown substance’ sent to US election officials — Guardian +1 (BBC) · 16 Oct · https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election
@@ -206,29 +208,29 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   An IBAC investigation has found senior public officers failed to warn the minister that hundreds of millions of dollars in business support grants were being paid to ineligible businesses during the…
 - Thousands of surgery referrals went unread in Sydney hospital email blunder — ABC +1 (SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434
   A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.
-- Toyah Cordingley's killer appeals murder conviction — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/qld-rajwinder-singh-murder-conviction-appeal/107261696
-  The man who murdered Toyah Cordingley has had an appeal against his conviction and sentence heard in a Brisbane court.
 - French police arrest 1,800 after violent clashes and looting mar protests — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138
   France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested
 - Dogs captured after attack on Brisbane man — ABC +1 (SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/dogs-captured-after-attacking-man-chermside/107279188
   Emergency services were called to Kittyhawk Drive in Chermside just after 6pm on Friday following reports a man had been attacked by dogs.
 - Reports of bed bugs on a Qantas flight prompt warning from expert — ABC +1 (SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/bed-bugs-on-plane-explainer/107259322
   An expert says there is virtually nothing passengers can do once they are aboard a bed bug infested flight but suggests places where to start looking for the critters.
-- Sailors missing as two ships set ablaze in Romanian Black Sea — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/two-ships-ablaze-romanian-black-sea-sailors-missing/107272674
-  Rescuers were searching for seven missing crew members from one of two chemical tankers that caught fire in Romanian territorial waters.
-- Footage shows panic as 4WD tears through Melbourne shopping centre — ABC +1 (SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/giriwa-may-sentenced-northland-shopping-centre-car-rampage/107270260
-  Giriwa May has been sentenced to more than four years behind bars after driving a stolen Landcruiser through a shopping centre in Melbourne's north in June last year.
 - Kenyan death cult leader found guilty of 191 murder charges — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/kenyan-starvation-cult-leader-paul-mackenzie-guilty/107286796
   A Kenyan pastor used religious reachings to enforce a "deadly fasting" on his followers and their children after setting up a community in a forest.
 - Airman who died in rappelling accident at Texas college football game identified — Guardian +1 (BBC) · 19 Oct · https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game
   US military says Tech Sgt Ian Patterson was killed after he fell from rafters at University of Texas at San Antonio game The US military has identified the air force officer who died after he fell…
-(+1241 more not listed)
+- Sailors missing as two ships set ablaze in Romanian Black Sea — ABC +1 (Guardian) · 15 Oct · https://www.abc.net.au/news/2026-10-15/two-ships-ablaze-romanian-black-sea-sailors-missing/107272674
+  Rescuers were searching for seven missing crew members from one of two chemical tankers that caught fire in Romanian territorial waters.
+- Footage shows panic as 4WD tears through Melbourne shopping centre — ABC +1 (SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/giriwa-may-sentenced-northland-shopping-centre-car-rampage/107270260
+  Giriwa May has been sentenced to more than four years behind bars after driving a stolen Landcruiser through a shopping centre in Melbourne's north in June last year.
+(+1246 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - ConnectWise CTO Sees ‘Light At End Of Tunnel’ In Bid To Restore ConnectWise Cloud Backup Microsoft 365 Access — CRN · 21 Oct · https://www.crn.com.au/news-network/security/2026/connectwise-cto-sees-light-at-end-of-tunnel-in-bid-to-rest
   ConnectWise CTO David Raissipour says the company has made “significant progress” in its bid to restore ConnectWise Cloud Backup access for Microsoft 365 to more than several thousand MSPs.
 - 1Password CTO Nancy Wang: Identity Security Must Adapt To ‘New World’ Of AI Agents — CRN · 21 Oct · https://www.crn.com.au/news-network/security/2026/1password-cto-nancy-wang-identity-security-must-adapt-to-ne
   As AI agents begin to work across a variety of browsers and IT systems, a massive challenge is arising for businesses whose identity security controls were designed around humans, 1Password CTO Nancy…
+- SoftwareOne positions partners for a services-led future — ARN · 20 Oct · https://www.arnnet.com.au/article/4237460/softwareone-positions-partners-for-a-services-led-future.html
+  As customer environments become more complex, SMB-focused MSPs increasingly require distributors that can provide specialist expertise, enablement and services support. That’s where the newly…
 - How one hacker used AI agents and a few thousand dollars to break into scores of sites — iTnews · 20 Oct · https://www.itnews.com.au/news/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-629764
   Ecommerce sites in Australia, Canada, US and Japan targeted.
 - Goodbye Crayon, Hello SoftwareOne: What the integration of the brands means for partners — CRN · 20 Oct · https://www.crn.com.au/news/2026/distributor/crayon-officially-becomes-softwareone
@@ -343,11 +345,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   When it comes to running a business today, technology is rarely the constraint for managed service providers (MSP), with sustainable growth coming from operational maturity, repeatable sales…
 - Motorola Solutions streamlining crime fighting in Tasmania through tip portal — ARN · 14 Oct · https://www.arnnet.com.au/article/4234769/motorola-solutions-streamlining-crime-fighting-in-tasmania-through-tip-portal.html
   Motorola Solutions has played a role in making Tasmania a safer place over the last four years after providing the foundation for the state’s Crime Stoppers’ online crime reporting portal. Following…
-- Logitech Wants Partners To Think Beyond Meeting Rooms, Channel Chief Says — CRN · 14 Oct · https://www.crn.com.au/news-network/ai/2026/logitech-wants-partners-to-think-beyond-meeting-rooms
-  Logitech Channel Chief Crystal Ferreira says the fuller Logitech product portfolio opens ways for solution providers to become more strategic, trusted advisers around the full workplace experience…
-(+8 more not listed)
+(+9 more not listed)
 
 ## Technology news (BBC, Guardian)
+- Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars? — Guardian · 20 Oct · https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood
+  As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line…
+- Googlebook review: Google’s new laptops are woefully underbaked — Guardian · 20 Oct · https://www.theguardian.com/technology/2026/oct/20/googlebook-review-google-laptops-chromeos-android
+  Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is…
 - New AI tool can predict cancer survival by a single patient selfie, study suggests — Guardian · 20 Oct · https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie
   System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer…
 - US bans DeepSeek AI from government use as tech tension with China continues — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo
@@ -444,13 +448,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.
 - OpenAI employee arrested after recording device found in office — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device
   Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred…
-- AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning
-  Researchers say ‘AI worms’ could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become…
-- Apple unveils new smart home devices that showcase upgraded Siri AI — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai
-  New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an…
-(+9 more not listed)
+(+10 more not listed)
 
 ## Cars (CarExpert)
+- Freelander 8 engineer claims development testing goes beyond that of other luxury SUVs — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/freelander-8-engineer-claims-development-testing-goes-beyond-that-of-other-luxury-suvs
+  The Freelander 8's chief engineer claims 2.15 million kilometres of all-terrain testing – matching or bettering luxury SUVs he previously worked on.
+- Freelander's Australian push backed by $630 million factory overhaul — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/freelanders-australian-push-backed-by-dollar630-million-factory-overhaul
+  A US$440 million upgrade to the Chery-JLR factory in China supports Freelander's global rollout, with Australia on the launch list.
+- 2027 Audi A6 allroad returns to Australia with PHEV, diesel options — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/2027-audi-a6-allroad-returns-to-australia-with-phev-diesel-options
+  A new generation of Audi's high-riding wagon is headed to Australia in the first half of next year, featuring more standard equipment as well as the option of diesel or plug-in hybrid power for the…
 - Subaru previews it first EV developed without Toyota — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/subaru-previews-it-first-ev-developed-without-toyota
   After working with Toyota on its first three electric vehicles, Subaru has revealed its first in-house EV platform under the body of an Outback wagon.
 - Freelander 8 detailed as JLR-Chery brand prepares for Australia — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/freelander-8-detailed-as-jlr-chery-brand-prepares-for-australia
@@ -571,6 +577,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Polestar says natural leathers are here to stay in the brand's cabins as 'vegan' trim isn't as sustainable as one might think, given their reliance on fossil fuels in their production.
 
 ## Science (Guardian, BBC)
+- Starwatch: Catch the Orionid meteor shower streak across the night sky — Guardian +1 (BBC) · 19 Oct · https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch
+  As Earth passes through dust left by Halley’s comet, observers may see 10-20 fragments per hour The annual Orionid meteor shower reaches its peak this week, offering the chance to see fragments of…
+- The British island where red squirrels are thriving — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo
+  Conservationists say that, with red squirrels dwindling in the UK, Jersey is an "important refuge".
+- Northern Ireland needs 'courage and leadership' to tackle climate change — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo
+  The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.
 - ‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos — Guardian · 20 Oct · https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks
   Scientists hope Martian material collected will shed light on the origins of the solar system and life on Earth Japan has successfully launched a spacecraft on an unprecedented mission to bring back…
 - Capybara pups at Manx zoo draw record crowds — BBC · 20 Oct · https://www.bbc.co.uk/news/articles/cw7vplvjd3elo
@@ -579,8 +591,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Tower mustard has suffered steep decline in London but has been successfully grown and replanted.
 - Volunteers plant 109,000 trees in new woodlands — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/cxp8gdzj606zo
   In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted.
-- Starwatch: Catch the Orionid meteor shower streak across the night sky — Guardian +1 (BBC) · 19 Oct · https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch
-  As Earth passes through dust left by Halley’s comet, observers may see 10-20 fragments per hour The annual Orionid meteor shower reaches its peak this week, offering the chance to see fragments of…
 - Mission set to blast off for Mars to grab a piece of its moon — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o
   A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.
 - Fears for protected bats if glamping pod plans are approved — BBC · 19 Oct · https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo
@@ -659,10 +669,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Londoners aged four to 18 can suggest names for the kits, born at Paradise Fields, until 7 December.
 - Trill seekers: can scientists use AI and tutors to help birds remember lost songs? — Guardian · 13 Oct · https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe
   When populations fall, fledglings can struggle to learn the right notes to attract mates. But research on how birds communicate offers hope for species’ survival Listening to birdsong is one of…
-- Fly-tippers face £5k fine in new crackdown — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/cqn064027d2xo
-  Cornwall Council introduces new penalties after recording 17,500 incidents in five years.
-- Red squirrel project opens £250k community grant — BBC · 13 Oct · https://www.bbc.co.uk/news/articles/cr86zp8qn0w5o
-  Groups from around northern England and southern Scotland can bid for funding to help the creatures.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests — Guardian · 18 Oct · https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study
@@ -688,23 +694,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 20 Oct 15:39 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 20 Oct 15:39 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 20 Oct 15:39 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 20 Oct 15:39 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 20 Oct 15:39 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 20 Oct 15:39 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 20 Oct 15:39 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 20 Oct 15:39 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 20 Oct 15:39 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 20 Oct 15:39 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 20 Oct 15:39 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 20 Oct 15:39 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 20 Oct 15:39 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 20 Oct 15:39 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 20 Oct 15:39 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 20 Oct 15:39 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 20 Oct 15:39 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 20 Oct 15:39 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 20 Oct 17:48 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 20 Oct 17:48 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 20 Oct 17:48 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 20 Oct 17:48 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 20 Oct 17:48 | 31 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 20 Oct 17:48 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 20 Oct 17:48 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 20 Oct 17:48 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 20 Oct 17:48 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 20 Oct 17:48 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 20 Oct 17:48 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 20 Oct 17:48 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 20 Oct 17:48 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 20 Oct 17:48 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 20 Oct 17:48 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 20 Oct 17:48 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 20 Oct 17:48 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 20 Oct 17:48 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,753 tokens._
+_Approximate reading cost of this digest: 29,031 tokens._
