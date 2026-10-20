@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Tue 20 Oct 2026, 11:52 Sydney time. Stories from 13 Oct to 20 Oct. 1868 stories held from 18 of 18 sources.
+Updated Tue 20 Oct 2026, 13:39 Sydney time. Stories from 13 Oct to 20 Oct. 1865 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -12,10 +12,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Vatican says Pope Leo's surgery has confirmed that he has lung cancer and that the lower lobe of his right lung has been removed.
 - Trump's new press secretary faces questions about her legal credentials — ABC +3 (BBC, Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/katie-zacharia-first-white-house-press-briefing-key-moments/107265334
   White House press secretary Katie Zacharia spent eight minutes reading from a script, answered only three questions and called her husband "my president" during her first briefing.
-- Shoebridge insists Steele-John should take leave as Greens 'binfire' deepens — ABC +3 (BBC, Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/shoebridge-insists-steele-john-should-take-leave/107282442
-  Greens leader David Shoebridge has insisted that Senator Jordon Steele-John should take personal leave, after the WA senator denied he had offered or agreed to step back while allegations against him…
 - Live: Helen Haines remains critical after surgery following 'attack', PM says — ABC +3 (BBC, Guardian, SMH) · 20 Oct · https://www.abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252
   Anthony Albanese says counter-terrorism police are investigating and a man has been arrested after Indi MP Helen Haines was "attacked" near her electorate office in Victoria's north-east. Follow the…
+- Shoebridge insists Steele-John should take leave as Greens 'binfire' deepens — ABC +3 (BBC, Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/shoebridge-insists-steele-john-should-take-leave/107282442
+  Greens leader David Shoebridge has insisted that Senator Jordon Steele-John should take personal leave, after the WA senator denied he had offered or agreed to step back while allegations against him…
 - Fatalities as 'serious incident' causes fire at Canadian military base — ABC +3 (BBC, Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694
   People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.
 - Woman charged after allegedly poisoning colleague's curry with snail pellets — ABC +3 (BBC, Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/perth-woman-charged-after-allegedly-poisoning-colleagues-curry/107270322
@@ -30,18 +30,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily…
 - Canberra man with 17yo 'girlfriend' charged over alleged child abuse material — ABC +2 (Guardian, SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254
   A 42-year-old Canberra man is denied bail after Australian Border Force officers allegedly found child exploitation images on his electronic devices when he returned to the country from Europe.
-- Breaking: Charges laid after baby found dead at Adelaide motel — ABC +2 (Guardian, SMH) · 13 Oct · https://www.abc.net.au/news/2026-10-13/charges-laid-after-baby-found-dead-at-tollgate-motel-adelaide/107259740
-  South Australia's police minister says charges have been laid following the death of an infant, who was found by police at the Tollgate Motel on Saturday.
+- Man charged with 16yo girl's murder in remote NT community — ABC +2 (Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/ashton-chungaloo-charged-murder-teen-girl-nt/107271322
+  A 26-year-old man faces court over the alleged murder of a 16-year-old girl in the remote Northern Territory community of Alpurrurulam.
 - Inside Russell Brand's trial, where he was called a 'maniac' and 'predator' — ABC +2 (Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/russell-brand-trial-week-one-heard-he-was-maniac-and-predator/107272668
   The world-famous actor and comedian appeared calm and almost zen-like as he sat in the dock at Southwark Crown Court, and the prosecution began unfolding its case against him.
 - Assistant treasurer knew about ATO's credit card ban plans months ago — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382
   Assistant Treasurer Daniel Mulino concedes the government knew the Australian Taxation Office was considering banning credit card payments in July, months before the decision was made public.
+- UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
+  Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
 - Trump cancels plan to livestream execution after global condemnation — Guardian +2 (BBC, SMH) · 16 Oct · https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream
   Soldier who killed 13 people in 2009 will still be executed, but president said ‘people would rather not watch him die’ Donald Trump has shelved a widely condemned plan to livestream the execution of…
 - Russell Brand a 'ruthless, calculated sexual predator', court hears — ABC +2 (Guardian, SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/russell-brand-a-ruthless-sexual-predator-court-hears/107267856
   A prosecutor describes Russell Brand as a "ruthless calculated and manipulative sexual predator" in her opening address at the British entertainer's rape trial.
-- UN World Food Programme slashes Gaza assistance amid funding shortfall — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322
-  Half a million people will lose access to food assistance in Gaza due to United Nations funding cuts, according to the World Food Programme.
 - At least three killed by Russian drones in Ukraine which cut power to 370,000 — ABC +2 (BBC, Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218
   At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.
 - Lamarre-Condon visited farm where he allegedly tried to sink bodies, jury told — ABC +2 (Guardian, SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/beau-lamarre-condon-visited-farm-allegedly-tried-to-sink-bodies/107265170
@@ -66,8 +66,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture…
 - Trump waives several Russia sanctions as new US law takes effect — BBC +1 (SMH) · 17 Oct · https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o
   Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
-- Family of US man who died on Six Flags ride question if death was preventable — Guardian +1 (BBC) · 17 Oct · https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death
-  Hassan Jihad Ibn Kariem died after reportedly ‘passing out’ and falling off Goliath rollercoaster in Georgia The family of a man who was ejected from a rollercoaster at a Six Flags amusement park in…
 - Ukraine's pleas over Starlink have now reached Elon Musk — ABC +1 (BBC) · 15 Oct · https://www.abc.net.au/news/2026-10-15/zelenskyy-warns-of-starlink-slowdown-in-ukraine/107269352
   Ukraine says people will die as a result of throttled Starlink services in the country. Here's how its armed forces rely on the crucial satellite service.
 - Russia arrests Japanese journalist on allegations of spying — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying
@@ -84,9 +82,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The former treasurer has teased a return to politics, as his former colleague Barnaby Joyce called for him to "cut the BS" and be up-front about his leadership ambitions.
 - Brethren church says it is 'not a cult', denies coordinated election campaign — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448
   Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
+- Man who died in Six Flags rollercoaster fall in Georgia was a father and educator — Guardian +1 (BBC) · 14 Oct · https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death
+  Hassan Jihad Ibn Kariem was a father of 10-year-old daughter, and overcame two bouts of cancer, his family says Police on Tuesday identified the victim of the fatal accident at Six Flags Over Georgia…
 - Starlink access still not fully restored for Ukraine’s military, says Zelenskyy — Guardian +1 (BBC) · 17 Oct · https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy
   Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said…
-(+42 more not listed)
+(+43 more not listed)
 
 ## Australian politics and economy – other candidates
 - Jacqui Lambie slams 'nasty' One Nation cartoon mocking vaginal prolapse — ABC +1 (Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/federal-politics-jacqui-lambie-one-nation-cartoon-pauline-hanson/107281792
@@ -99,14 +99,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Church leaders have denied organising members during the 2025 campaign, while at the same time acknowledging they clearly were coordinated.
 - Greens warn of private school fees loophole in Labor's trust tax — ABC +1 (SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/greens-warn-of-private-school-fees-loophole-in-trust-tax/107262122
   Treasurer Jim Chalmers is preparing to introduce legislation for a 30 per cent tax on discretionary trusts on Wednesday amid fierce business opposition, but has been presented with another obstacle…
+- ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM — Guardian +1 (SMH) · 20 Oct · https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb
+  Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is…
 - Minns accused of bypassing high court ruling with laws to allow NSW mine to increase coal production by 32% — Guardian +1 (SMH) · 19 Oct · https://www.theguardian.com/australia-news/2026/oct/19/chris-minns-bill-expansion-mount-pleasant-coalmine-high-court-decision
   Bill to authorise production expansion at Mount Pleasant coalmine, subject to a landmark high court decision, criticised as ‘legislative overreach’ Get our breaking news email , free app or daily…
 - Youth crime advocate charged with drug offences, stripped of funding — ABC +1 (SMH) · 15 Oct · https://www.abc.net.au/news/2026-10-15/brodie-germaine-aboriginal-youth-crime-drug-offences/107259766
   Mount Isa man Brodie Germaine, known for his advocacy in preventing youth crime, has been charged with multiple drug offences, as the state government terminates a $280,000 grant.
+- Breaking: Kumanjayi Little Baby review finds extensive failings — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/kumanjayi-little-baby-independent-review-nt-child-protection/107285266
+  An independent review into the NT child protection department's conduct surrounding Kumanjayi Little Baby before her alleged murder has revealed extensive failings, with the department rating her…
 - Trump endorses 'great warrior' Netanyahu ahead of Israeli election — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646
   Donald Trump issues a glowing endorsement of Benjamin Netanyahu just months after an expletive-laden tirade in which he accused the Israeli prime minister of trying to undermine a deal with Iran.
-- ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM — Guardian +1 (SMH) · 20 Oct · https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb
-  Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is…
 - More homes amid rising seas is the Gold Coast's dilemma — ABC · 14 Oct · https://www.abc.net.au/news/2026-10-14/climate-risks-pose-new-gold-coast-housing-pains/107243574
   The Gold Coast's push for more housing faces growing climate risks, with urban planners warning rising seas and worsening flooding will force up premiums and push people out of some suburbs.
 - As One Nation rises, Victorian Labor has promised to make abortions free. Is the timing pure politics? — Guardian · 15 Oct · https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb
@@ -167,9 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Private credit firms are striking deals to recover their money following the $3.4 billion collapse of property giant Bathla Group, with one major lender selling most of its exposure to a Sydney…
 - Morning Mail: Men allege abuse at ACT youth detention centre; renters eye housing drop; Trump cancels US livestream — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/morning-mail-friday-ntwnfb
   Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Politics, really newsletter . Morning everyone. Our top story is a harrowing but…
-- ‘Are they going to fall enough?’ The renters waiting for the house price downturn to change their fortunes — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/renters-home-ownership-hope-house-price-downturn-property-slump-australia
-  As property values fall across Australia, would-be home buyers share hope and scepticism that the soft market might be their big chance Australian renters had little reason for hope until a prolonged…
-(+118 more not listed)
+(+115 more not listed)
 
 ## Other prominent general stories – one outlet
 - Stampede kills at least 17 people at religious festival in India — ABC +1 (BBC) · 18 Oct · https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156
@@ -184,14 +184,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and…
 - Five killed in Houthi strike on presidential palace in Aden — ABC +1 (BBC) · 16 Oct · https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204
   Yemen's Houthis fire missiles at the presidential palace complex in the southern city of Aden killing five people, the government says.
-- Hunt continues for man with shotgun who sparked lockdown in Sydney's inner west — ABC +1 (SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/nsw-dulwich-hill-armed-man-lockdown-search-shotgun/107278846
-  Residents say they saw a man in a van, which had been stolen from the nearby area a couple of days earlier, who threatened them with a shotgun and set the vehicle alight before fleeing on foot.
 - Student protests in Albania turn violent as demonstrators clash with police — Guardian +1 (BBC) · 15 Oct · https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes
   Government building and two banks set on fire as tens of thousands take to streets over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian…
 - ‘It’s about the underdog’: Ben Roberts-Smith launches brand to support family amid legal battle — Guardian +1 (SMH) · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb
   Accused war criminal announces venture with video on Instagram of him walking along beach and working out Get our breaking news email , free app or daily news podcast Accused war criminal Ben…
 - 'Investors freaking out' about Wall Street big tech as warning bell rings — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/investors-bracing-for-big-tech-collapse-as-debt-levels-soar/107274648
   The cost of insuring against a debt default by Wall Street's tech titans has hit record levels. Soaring debt and rising interest rates have investors fretting about a potential collapse.
+- Hunt continues for man with shotgun who sparked lockdown in Sydney's inner west — ABC +1 (SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/nsw-dulwich-hill-armed-man-lockdown-search-shotgun/107278846
+  Residents say they saw a man in a van, which had been stolen from the nearby area a couple of days earlier, who threatened them with a shotgun and set the vehicle alight before fleeing on foot.
 - Breaking: Michelin Guide dishes out first Australian stars to array of SA restaurants — ABC +1 (BBC) · 14 Oct · https://www.abc.net.au/news/2026-10-14/michelin-star-ceremony-sa-restaurants/107266846
   A spread of South Australian restaurants has achieved distinguished culinary honours by becoming the first in the nation to receive stars from world-renowned guide Michelin.
 - Sexual and family violence against children at 'crisis point', study finds — ABC +1 (Guardian) · 14 Oct · https://www.abc.net.au/news/2026-10-14/sexual-family-violence-against-children-increasing-study-sydney/107260580
@@ -222,13 +222,17 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Fares for domestic and international flights out of Sydney’s newest airport are still comparable with Kingsford Smith airport – but at least the parking’s cheaper Get our breaking news email , free…
 - Warning signs missed before Melbourne girl’s death in ED, coroner finds — ABC +1 (SMH) · 14 Oct · https://www.abc.net.au/news/2026-10-14/victoria-amrita-lanka-coroner-inquest-findings/107263414
   The Victorian coroner says doctors at Monash Medical Centre missed opportunities to save the life of 8-year-old Amrita Lanka in 2022.
-(+1233 more not listed)
+(+1230 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - ConnectWise CTO Sees ‘Light At End Of Tunnel’ In Bid To Restore ConnectWise Cloud Backup Microsoft 365 Access — CRN · 21 Oct · https://www.crn.com.au/news-network/security/2026/connectwise-cto-sees-light-at-end-of-tunnel-in-bid-to-rest
   ConnectWise CTO David Raissipour says the company has made “significant progress” in its bid to restore ConnectWise Cloud Backup access for Microsoft 365 to more than several thousand MSPs.
 - 1Password CTO Nancy Wang: Identity Security Must Adapt To ‘New World’ Of AI Agents — CRN · 21 Oct · https://www.crn.com.au/news-network/security/2026/1password-cto-nancy-wang-identity-security-must-adapt-to-ne
   As AI agents begin to work across a variety of browsers and IT systems, a massive challenge is arising for businesses whose identity security controls were designed around humans, 1Password CTO Nancy…
+- Momentum Energy picks Gentrack for billing software contract — ARN · 20 Oct · https://www.arnnet.com.au/article/4237404/momentum-energy-picks-gentrack-for-billing-software-contract.html
+  Listed utility software developer Gentrack Group has secured a contract with gas and electricity retailer Momentum Energy for its cloud-based g2 billing offering. In a statement released to both the…
+- “It’s behind us”: DXC strike reportedly over — CRN · 20 Oct · https://www.crn.com.au/news/2026/partners/dxc-strike-reportedly-over
+  APJ president Robert Le Busque tells CRN the status of the worker’s strike.
 - Excite scores $2.9M tech supply contract for govt regulator amid growth momentum — ARN · 20 Oct · https://www.arnnet.com.au/article/4237334/excite-scores-2-9m-tech-supply-contract-for-govt-regulator.html
   Excite Technology Services has won a contract with a federal government regulator valued at $2.9 million over 24 months, as the service provider sees one of its strongest quarters on record…
 - Kinetic IT strengthens cyber security with DXC Technology’s Pierre Tagle — ARN · 20 Oct · https://www.arnnet.com.au/article/4237325/kinetic-it-strengthens-cyber-security-with-dxc-technologys-pierre-tagle.html
@@ -341,11 +345,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   AWS is betting on OpenAI and Anthropic for AI model choice for AWS AI products and Amazon Bedrock as customers seek openness, AWS leader Ruba Borno explains.
 - Adactin takes 2026 Census back to paper in test program — ARN · 14 Oct · https://www.arnnet.com.au/article/4234732/adactin-takes-2026-census-back-to-paper-in-test-program.html
   Adactin has wrapped up a testing program for the Australian Bureau of Statistics (ABS) that gave Australians the option to request a paper form during the 2026 Census. The ABS Paper Form Request…
-- Nexwave creates new director of cloud and AI role — CRN · 14 Oct · https://www.crn.com.au/news/2026/channel-news/nexwave-director-cloud-and-ai-role-lachlan-wright
-  The Microsoft consultancy hires Lachlan Wright as the inaugural director.
-- Attackers chain three Ivanti VPN zero-days for root access — iTnews · 14 Oct · https://www.itnews.com.au/news/attackers-chain-three-ivanti-vpn-zero-days-for-root-access-629621
-  One of the flaws awaits fix.
-(+8 more not listed)
+(+7 more not listed)
 
 ## Technology news (BBC, Guardian)
 - New AI tool can predict cancer survival by a single patient selfie, study suggests — Guardian · 20 Oct · https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie
@@ -448,9 +448,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Researchers say ‘AI worms’ could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become…
 - Apple unveils new smart home devices that showcase upgraded Siri AI — Guardian · 14 Oct · https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai
   New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an…
-(+10 more not listed)
+(+9 more not listed)
 
 ## Cars (CarExpert)
+- Subaru previews it first EV developed without Toyota — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/subaru-previews-it-first-ev-developed-without-toyota
+  After working with Toyota on its first three electric vehicles, Subaru has revealed its first in-house EV platform under the body of an Outback wagon.
 - Freelander 8 detailed as JLR-Chery brand prepares for Australia — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/freelander-8-detailed-as-jlr-chery-brand-prepares-for-australia
   Freelander has detailed its first SUV's plug-in hybrid powertrain, cabin and off-road hardware ahead of an Australian launch during 2027.
 - Why Mitsubishi chose Foxtron for its new EV over Nissan, Renault — CarExpert · 20 Oct · https://www.carexpert.com.au/car-news/why-mitsubishi-chose-foxtron-for-its-new-ev-over-nissan-renault
@@ -567,8 +569,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   VW's former design chief, who now is the chief executive advisor for China's Changan, says its brands can't do heritage-inspired designs like legacy automakers as they're still building theirs.
 - Polestar: 'Vegan' doesn't mean 'sustainable' when it comes to interior design — CarExpert · 14 Oct · https://www.carexpert.com.au/car-news/polestar-vegan-doesnt-mean-sustainable-when-it-comes-to-interior-design
   Polestar says natural leathers are here to stay in the brand's cabins as 'vegan' trim isn't as sustainable as one might think, given their reliance on fossil fuels in their production.
-- Toyota agrees to $750 million HiLux, Prado DPF class action settlement — CarExpert · 13 Oct · https://www.carexpert.com.au/car-news/toyota-agrees-to-dollar750-million-hilux-prado-dpf-class-action-settlement
-  The Japanese auto giant has apologised to affected HiLux, Prado and Fortuner owners after agreeing to a settlement, subject to Federal Court approval.
 
 ## Science (Guardian, BBC)
 - ‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos — Guardian · 20 Oct · https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks
@@ -688,23 +688,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 20 Oct 11:52 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 20 Oct 11:52 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 20 Oct 11:52 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 20 Oct 11:52 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 20 Oct 11:52 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 20 Oct 11:52 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 20 Oct 11:52 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 20 Oct 11:52 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 20 Oct 11:52 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 20 Oct 11:52 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 20 Oct 11:52 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 20 Oct 11:52 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 20 Oct 11:52 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 20 Oct 11:52 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 20 Oct 11:52 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 20 Oct 11:52 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 20 Oct 11:52 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 20 Oct 11:52 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 20 Oct 13:39 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 20 Oct 13:39 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 20 Oct 13:39 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 20 Oct 13:39 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 20 Oct 13:39 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 20 Oct 13:39 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 20 Oct 13:39 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 20 Oct 13:39 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 20 Oct 13:39 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 20 Oct 13:39 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 20 Oct 13:39 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 20 Oct 13:39 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 20 Oct 13:39 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 20 Oct 13:39 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 20 Oct 13:39 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 20 Oct 13:39 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 20 Oct 13:39 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 20 Oct 13:39 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,787 tokens._
+_Approximate reading cost of this digest: 28,788 tokens._
