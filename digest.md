@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Thu 22 Oct 2026, 23:49 Sydney time. Stories from 15 Oct to 22 Oct. 1930 stories held from 18 of 18 sources.
+Updated Fri 23 Oct 2026, 01:43 Sydney time. Stories from 16 Oct to 23 Oct. 1931 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -16,8 +16,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Pope Leo has returned to the Vatican from hospital following surgery for lung cancer four days ago.
 - Breaking: White House press secretary Katie Zacharia leaves after just days in role — ABC +3 (BBC, Guardian, SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/katie-zacharia-let-go-white-house/107278730
   White House press secretary Katie Zacharia has been "let go" after just five days in the job, an official has told news agency Reuters.
-- Donald Trump calls off planned live stream of firing squad execution — ABC +3 (BBC, Guardian, SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/trump-cancels-livestream-execution-fort-hood/107273194
-  The decision comes after intense backlash in the US and globally, with bipartisan condemnation in Australia.
 - Live: Children among dead in shooting at an elementary school in Oregon — ABC +3 (BBC, Guardian, SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/children-among-dead-at-school-shooting-in-oregon/107274068
   Three children and one adult have been killed in a shooting at an elementary school in Bend, Oregon, CNN and CBS News reported.
 - Macron calls Trump's comments on French riots 'stupid' — ABC +3 (BBC, Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/macron-calls-trump-riot-comments-stupid/107294810
@@ -40,10 +38,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A Kenyan pastor used religious reachings to enforce a "deadly fasting" on his followers and their children after setting up a community in a forest.
 - Shoebridge insists Steele-John should take leave as Greens 'binfire' deepens — ABC +2 (Guardian, SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/shoebridge-insists-steele-john-should-take-leave/107282442
   Greens leader David Shoebridge has insisted that Senator Jordon Steele-John should take personal leave, after the WA senator denied he had offered or agreed to step back while allegations against him…
-- Assistant treasurer knew about ATO's credit card ban plans months ago — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382
-  Assistant Treasurer Daniel Mulino concedes the government knew the Australian Taxation Office was considering banning credit card payments in July, months before the decision was made public.
 - US orders diplomats to leave Saudi Arabia amid Houthi strikes — ABC +2 (BBC, Guardian) · 22 Oct · https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684
   The United States has ordered non-essential US embassy staff and their families to leave Saudi Arabia, as the kingdom comes under sustained deadly attacks by Yemen's Houthis.
+- Assistant treasurer knew about ATO's credit card ban plans months ago — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382
+  Assistant Treasurer Daniel Mulino concedes the government knew the Australian Taxation Office was considering banning credit card payments in July, months before the decision was made public.
 - Police lay three charges against Brendan Nugent over Haines attack — ABC +2 (Guardian, SMH) · 20 Oct · https://www.abc.net.au/news/2026-10-20/brendan-nugent-charged-over-attack-against-helen-haines/107288126
   Detectives charge the 43-year-old with dangerous driving causing serious injury, intentionally causing serious injury and harming a Commonwealth official after he allegedly struck independent MP…
 - Eastern Sydney beaches close after whale carcass washes up — ABC +2 (Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/sydney-beaches-close-after-whale-carcass-found/107295288
@@ -70,23 +68,25 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The One Nation leader says she was not aware of the cartoon's content before it went up but has committed to "taking a closer look" in the future.
 - Kindergarten owner and staff jailed for poisoning 200 children in China — ABC +1 (BBC) · 17 Oct · https://www.abc.net.au/news/2026-10-17/kindergarten-staff-jailed-over-lead-poisoning-in-china/107278660
   The operator of a kindergarten and several staff have been jailed for serving tainted food that caused lead poisoning in more than 200 students in China.
-- Brand assaulted woman at radio station in 'frenzied' attack, court told — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/russell-brand-trial-hears-more-evidence-in-week-two/107290296
-  Russell Brand's fourth accuser has told a London court the entertainer sexually assaulted her at the radio station where she worked in front of his entourage, who did nothing.
 - Dead man found north of Melbourne may have been targeted — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/vic-suspicious-death-wollert/107273436
   The man was found at a property in Wollert and his death is being investigated by Homicide detectives.
-- Live: ASX to open higher as Wall Street surges — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020
-  The Aussie share market is set to open higher after Wall Street surges. Meta raises the lower end of its spending forecast to fund its AI expansion. Follow the latest on our live markets blog.
 - Australian politicians say they are paying thousands for their own security upgrades amid rising threats — Guardian +1 (BBC) · 22 Oct · https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb
   Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or…
+- Live: ASX to open higher as Wall Street surges — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020
+  The Aussie share market is set to open higher after Wall Street surges. Meta raises the lower end of its spending forecast to fund its AI expansion. Follow the latest on our live markets blog.
 - Airman who died in rappelling accident at Texas college football game identified — Guardian +1 (BBC) · 19 Oct · https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game
   US military says Tech Sgt Ian Patterson was killed after he fell from rafters at University of Texas at San Antonio game The US military has identified the air force officer who died after he fell…
 - Brethren church says it is 'not a cult', denies coordinated election campaign — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-inquiry-leader-denies-liberal-campaign/107276448
   Plymouth Brethren Christian Church leaders face a fiery line of questioning over their involvement in the 2025 federal election campaign, including allegations of a plot to harass and target MPs and…
 - Sudanese drone strike on market kills more than 150 — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466
   Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
+- Nigeria confirms Ebola case as outbreak spreads into western Africa — Guardian +1 (BBC) · 21 Oct · https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest
+  Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested…
 - Stampede kills at least 17 people at religious festival in India — ABC +1 (BBC) · 18 Oct · https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156
   A police official says an announcement outside a pavilion after it started raining resulted in the crowd "rushing forward" and people falling on the ground.
-(+44 more not listed)
+- Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat — BBC +1 (SMH) · 18 Oct · https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo
+  Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.
+(+49 more not listed)
 
 ## Australian politics and economy – other candidates
 - ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM — Guardian +1 (SMH) · 20 Oct · https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb
@@ -95,10 +95,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Australian Federal Police warns that "rapid" radicalisation of young people online could spill over into real-world violence by young people who feel disenfranchised. Follow live.
 - Review of system that failed Kumanjayi Little Baby falls short, advocates say — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/webb-shanahan-independent-review-nt-child-protection/107288844
   The authors of the report that found extensive failings in the NT child protection system say recommendations should be acted on within six months, but some Indigenous advocates say their views have…
-- Church faces inquiry over claims members paid neo-Nazi associates to harass PM — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-bruce-hales-neo-nazis-federal-election-inquiry/107269380
-  Church leaders have denied organising members during the 2025 campaign, while at the same time acknowledging they clearly were coordinated.
 - Snowy 2.0 to cost 12 times more than initial budget with further delays — ABC +1 (Guardian) · 22 Oct · https://www.abc.net.au/news/2026-10-22/cost-of-snowy-hydro-expansion-doubles/107276162
   Australia's biggest renewable energy project, which has faced financial and timeline challenges since its inception, could now cost $25 billion and is expected to be delivered in late 2029.
+- Church faces inquiry over claims members paid neo-Nazi associates to harass PM — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/brethren-church-bruce-hales-neo-nazis-federal-election-inquiry/107269380
+  Church leaders have denied organising members during the 2025 campaign, while at the same time acknowledging they clearly were coordinated.
 - Minns accused of bypassing high court ruling with laws to allow NSW mine to increase coal production by 32% — Guardian +1 (SMH) · 19 Oct · https://www.theguardian.com/australia-news/2026/oct/19/chris-minns-bill-expansion-mount-pleasant-coalmine-high-court-decision
   Bill to authorise production expansion at Mount Pleasant coalmine, subject to a landmark high court decision, criticised as ‘legislative overreach’ Get our breaking news email , free app or daily…
 - Trump endorses 'great warrior' Netanyahu ahead of Israeli election — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646
@@ -137,6 +137,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.
 - Reserve Bank governor paid $1.2 million as RBA workers fight real wage cuts — ABC · 16 Oct · https://www.abc.net.au/news/2026-10-16/rba-governor-million-dollar-salary-annual-report-2026/107274072
   RBA governor Michele Bullock received total remuneration of $1.22 million in 2025-26.
+- The Trump about-turn that might have even surprised Putin — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366
+  The US president stuns even some of his own Republican colleagues by giving his Russian counterpart his biggest economic and propaganda victory since the invasion of Ukraine in 2022.
 - Hundreds rally at parliament against proposed university merger — ABC · 21 Oct · https://www.abc.net.au/news/2026-10-21/hundreds-march-parliament-to-protest-wa-university-merger-/107292936
   More than 300 university students and staff march on Parliament House to protest a controversial plan to merge three of Western Australia's four public universities.
 - ‘Prosperity and security’: Labor offers election sweetener for first-home buyers — SMH · 21 Oct · https://www.smh.com.au/national/victoria/prosperity-and-security-labor-offers-election-sweetener-for-first-home-buyers-20261021-p6176b.html?ref=rss
@@ -151,10 +153,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Private credit firms are striking deals to recover their money following the $3.4 billion collapse of property giant Bathla Group, with one major lender selling most of its exposure to a Sydney…
 - Morning Mail: Men allege abuse at ACT youth detention centre; renters eye housing drop; Trump cancels US livestream — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/morning-mail-friday-ntwnfb
   Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Politics, really newsletter . Morning everyone. Our top story is a harrowing but…
-- ‘Are they going to fall enough?’ The renters waiting for the house price downturn to change their fortunes — Guardian · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/renters-home-ownership-hope-house-price-downturn-property-slump-australia
-  As property values fall across Australia, would-be home buyers share hope and scepticism that the soft market might be their big chance Australian renters had little reason for hope until a prolonged…
-- The Trump about-turn that might have even surprised Putin — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366
-  The US president stuns even some of his own Republican colleagues by giving his Russian counterpart his biggest economic and propaganda victory since the invasion of Ukraine in 2022.
+- KPMG ban on government work extended after 'serious ethical failings' — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/audit-leaks-scandal-kpmg-ban-on-government-work-extends-to-2027/107297484
+  The federal government extends its ban on KPMG bidding for new government work until at least the end of February, following allegations its audit partners misused client data then mishandled a…
 - House prices falling in every Australian capital city for first time in 15 years — Guardian · 22 Oct · https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin
   House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report Get our breaking news email , free app or daily news podcast House…
 - Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook ‘worsening’ — Guardian · 21 Oct · https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening
@@ -169,23 +169,25 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Since the March 2023 election, NSW has approved 14 coal mine expansions or extensions and refused none. Another 17 are in the pipeline.
 - Operation Matryoshka: The Russian bot army pushing fake US election videos — SMH · 19 Oct · https://www.smh.com.au/world/europe/operation-matryoshka-the-russian-bot-army-pushing-fake-us-election-videos-20261019-p616jy.html?ref=rss
   AI-fabricated video clips of well-known actors and musicians – including Robert De Niro, Julia Roberts and Taylor Swift – attacking Democrats began appearing on X in early September.
-(+97 more not listed)
+(+98 more not listed)
 
 ## Other prominent general stories – one outlet
-- Nigeria confirms Ebola case as outbreak spreads into western Africa — Guardian +1 (BBC) · 21 Oct · https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest
-  Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested…
-- Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat — BBC +1 (SMH) · 18 Oct · https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo
-  Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.
 - FBI investigates letters with ‘unknown substance’ sent to US election officials — Guardian +1 (BBC) · 16 Oct · https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election
   Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and…
+- Brand assaulted woman at radio station in 'frenzied' attack, court told — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/russell-brand-trial-hears-more-evidence-in-week-two/107290296
+  Russell Brand's fourth accuser has told a London court the entertainer sexually assaulted her at the radio station where she worked in front of his entourage, who did nothing.
 - Five killed in Houthi strike on presidential palace in Aden — ABC +1 (BBC) · 16 Oct · https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204
   Yemen's Houthis fire missiles at the presidential palace complex in the southern city of Aden killing five people, the government says.
 - Hunt continues for man with shotgun who sparked lockdown in Sydney's inner west — ABC +1 (SMH) · 17 Oct · https://www.abc.net.au/news/2026-10-17/nsw-dulwich-hill-armed-man-lockdown-search-shotgun/107278846
   Residents say they saw a man in a van, which had been stolen from the nearby area a couple of days earlier, who threatened them with a shotgun and set the vehicle alight before fleeing on foot.
+- Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position — ABC +1 (Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146
+  Russia pounded Kyiv with ballistic missiles and Ukraine sent hundreds of drones towards Moscow overnight despite the latest US push to end the conflict.
 - Court shown photos of Russell Brand shirtless in hotel before alleged rape — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/russell-brand-rape-trial-continues-court-shown-photos-from-1999/107272908
   English entertainer Russell Brand asked a woman to take photos of him "prancing" in "horrible budgie smugglers", shortly before he raped her, a London court has heard.
 - ‘It’s about the underdog’: Ben Roberts-Smith launches brand to support family amid legal battle — Guardian +1 (SMH) · 16 Oct · https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb
   Accused war criminal announces venture with video on Instagram of him walking along beach and working out Get our breaking news email , free app or daily news podcast Accused war criminal Ben…
+- Pope Leo will not need further cancer treatment, doctors say — ABC +1 (BBC) · 22 Oct · https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358
+  Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.
 - One in four people with severe depression may have a dysregulated body clock — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/health/2026-10-21/circadian-depression-clinical-genetic-implications/107261644
   A new study suggests one in four people with severe, recurrent or persistent depression have a proposed subset called "circadian depression", where people often report waking up very tired and being…
 - Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326
@@ -194,8 +196,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.
 - Father of two identified as cyclist killed in hit-and-run as police hunt driver — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/joseph-paratore-identified-as-man-killed-bibra-lake-hit-run/107292274
   Joseph Paratore's friends describe him as a "larger-than-life character" who was adored by the cycling community, as police confirm they are still looking for the driver.
-- Pope Leo will not need further cancer treatment, doctors say — ABC +1 (BBC) · 22 Oct · https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358
-  Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.
 - At least three killed by Russian drones in Ukraine which cut power to 370,000 — ABC +1 (Guardian) · 16 Oct · https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218
   At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.
 - Thousands of surgery referrals went unread in Sydney hospital email blunder — ABC +1 (SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434
@@ -214,15 +214,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A senior executive at Andrew Forrest's Fortescue Metals Group has been sacked following an investigation into allegations of sexual harassment and bullying at the iron ore miner.
 - Mississippi attorney general rules fatal police shooting of one-year-old as ‘justified’ — Guardian +1 (SMH) · 20 Oct · https://www.theguardian.com/us-news/2026/oct/19/mississippi-attorney-general-kohen-wiley-killing-justified
   Officers responding to an alleged shoplifting call fired into the vehicle of Vellesiya Wiley, killing her son, Kohen On Monday, the office of the Mississippi attorney general, Lynn Fitch, announced…
+- Donald Trump calls off planned live stream of firing squad execution — ABC +1 (SMH) · 16 Oct · https://www.abc.net.au/news/2026-10-16/trump-cancels-livestream-execution-fort-hood/107273194
+  The decision comes after intense backlash in the US and globally, with bipartisan condemnation in Australia.
 - Breaking: Man shot by police in Sydney's south-west — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024
   A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.
+- New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes — BBC +1 (SMH) · 22 Oct · https://www.bbc.co.uk/news/articles/cqx287g8714lo
+  Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as "categorically false".
 - Prince Harry expresses hope of reconciling with family — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/prince-harry-wants-to-reconcile-with-family/107290562
   In an interview with GQ magazine, the Duke of Sussex said he hopes to bridge the massive rupture within the British royal family.
-- Elizabeth Struhs's mother trusted God would 'heal' 8yo, inquest hears — ABC +1 (Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/elizabeth-struhs-inquest/107282646
-  A coroners court has heard details of Kerrie Struhs's meeting with a probation officer less than a month before her daughter Elizabeth died of untreated diabetes in 2022.
-- Deadly fire breaks out at Canada military base — BBC +1 (SMH) · 18 Oct · https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo
-  Defence Minister David McGuinty says there are casualties in what the prime minister called a "serious incident".
-(+1271 more not listed)
+(+1273 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Zoom Channel Chief Nick Tidd On Going ‘Channel-First,’ AI Monetization And The Partner Opportunity — CRN · 23 Oct · https://www.crn.com.au/news-network/networking/2026/zoom-channel-chief-nick-tidd-on-going-channel-first
@@ -345,9 +345,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Former Datto CEO Austin McChord becomes interim Slide CEO amid the company’s partner momentum.
 - Nutanix CEO: Broad Vendor Ecosystem Opens Opportunities For Channel Partners — CRN · 16 Oct · https://www.crn.com.au/news-network/storage/2026/nutanix-ceo-broad-vendor-ecosystem-opens-opportunities-for-c
   Nutanix’s partnerships with Dell, Everpure and soon NetApp, as well as its hyperscaler capabilities, go far to expand channel partners’ total addressable market, Ramaswami said.
-(+3 more not listed)
+(+2 more not listed)
 
 ## Technology news (BBC, Guardian)
+- ‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show — Guardian · 22 Oct · https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment
+  The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonathan Glatzer…
 - How tech became the villain of the US midterms — Guardian · 22 Oct · https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai
   Datacenters, AI and distaste for the billionaires developing it has soured Americans on big tech The campaign ad begins with a clear, idyllic stream that suddenly turns sludge-brown as two concrete…
 - ‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre — Guardian · 22 Oct · https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre
@@ -446,8 +448,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz 1 Which classic of political theory was dedicated to Lorenzo de…
 - Palantir patient data tech rejected by many NHS trusts in England — Guardian · 17 Oct · https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england
   Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in use NHS organisations that care for millions of people in England are rejecting…
-- Russian man linked to deadly London hospitals hack arrested — BBC · 17 Oct · https://www.bbc.co.uk/news/articles/c9vgr61kml3mo
-  The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.
 (+12 more not listed)
 
 ## Cars (CarExpert)
@@ -581,10 +581,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Stuttgart has ditched hybrid and electric power for old-fashioned internal combustion for its new hypercar to belatedly replace the 918 Spyder.
 - Alpine A310 Vision pays homage to 1970s coupe — CarExpert · 16 Oct · https://www.carexpert.com.au/car-news/alpine-a310-vision-pays-homage-to-1970s-coupe
   Although it's officially a concept only, the A310 Vision teases what an Alpine supercar might look like.
-- 2027 Ford Ranger review — CarExpert · 16 Oct · https://www.carexpert.com.au/car-reviews/2027-ford-ranger-review
-  The Ford Ranger remains Australia's favourite ute – and the nation's top-selling model overall – for good reasons, and the Wildtrak V6 is one of them.
 
 ## Science (Guardian, BBC)
+- Activists celebrate as land given protected status — BBC · 23 Oct · https://www.bbc.co.uk/news/articles/ck5ynl3yj2q9o
+  Volunteers say they have been campaigning for 30 years to keep a wild space free from development.
+- Have scientists finally found a way to save the banana from disaster? — Guardian · 23 Oct · https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster
+  With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future…
 - Storm Austen to bring severe gales to UK as weather warning issued — BBC · 20 Oct · https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo
   The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.
 - Project aims to protect rare arctic-alpine plants — BBC · 22 Oct · https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro
@@ -681,11 +683,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron…
 - Suspected fly tippers shamed with online photos — BBC · 16 Oct · https://www.bbc.co.uk/news/articles/cqgm0jepyl01o
   Hillingdon Council has shared social media posts showing people allegedly dumping rubbish illegally.
-- How an accelerating Earth led experts to adopt the leap hour — Guardian · 16 Oct · https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour
-  International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years After decades of discussion, quibbling and worrying about clocks in…
-- Severe drought declared and hosepipe bans in force - is your area affected? — BBC · 16 Oct · https://www.bbc.co.uk/news/articles/crk661074ejo
-  Parts of southern England have entered "severe drought", while about 30 million people are under hosepipe ban.
-(+4 more not listed)
+(+5 more not listed)
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill — Guardian · 22 Oct · https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life
@@ -725,23 +723,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 22 Oct 23:49 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 22 Oct 23:49 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 22 Oct 23:49 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 22 Oct 23:49 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 22 Oct 23:49 | 38 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 22 Oct 23:49 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 22 Oct 23:49 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 22 Oct 23:49 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 22 Oct 23:49 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 22 Oct 23:49 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 22 Oct 23:49 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 22 Oct 23:49 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 22 Oct 23:49 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 22 Oct 23:49 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 22 Oct 23:49 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 22 Oct 23:49 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 22 Oct 23:49 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 22 Oct 23:49 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 23 Oct 01:43 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 23 Oct 01:43 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 23 Oct 01:43 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 23 Oct 01:43 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 23 Oct 01:43 | 38 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 23 Oct 01:43 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 23 Oct 01:43 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 23 Oct 01:43 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 23 Oct 01:43 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 23 Oct 01:43 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 23 Oct 01:43 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 23 Oct 01:43 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 23 Oct 01:43 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 23 Oct 01:43 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 23 Oct 01:43 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 23 Oct 01:43 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 23 Oct 01:43 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 23 Oct 01:43 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 30,245 tokens._
+_Approximate reading cost of this digest: 30,219 tokens._
