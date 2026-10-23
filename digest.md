@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Fri 23 Oct 2026, 19:43 Sydney time. Stories from 16 Oct to 23 Oct. 1933 stories held from 18 of 18 sources.
+Updated Fri 23 Oct 2026, 21:38 Sydney time. Stories from 16 Oct to 23 Oct. 1932 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -62,12 +62,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
 - Five ways El Niño is affecting the weather around the world — BBC +1 (SMH) · 20 Oct · https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo
   As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.
+- Meta strikes deal with Zuckerberg to protect him from California wealth tax — Guardian +1 (BBC) · 22 Oct · https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax
+  Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to…
 - Suspected Amelia Earhart plane wreckage identified as washed up trees — ABC +1 (BBC) · 20 Oct · https://www.abc.net.au/news/2026-10-20/suspected-amelia-earhart-plane-wreckage-trees-debris/107287840
   Researchers hoping to solve one of the 20th century's great mysteries say the expedition was still worthwhile despite coming up empty-handed.
 - Nigeria confirms Ebola case as outbreak spreads into western Africa — Guardian +1 (BBC) · 21 Oct · https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest
   Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested…
-- Meta strikes deal with Zuckerberg to protect him from California wealth tax — Guardian +1 (BBC) · 22 Oct · https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax
-  Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to…
 - Hanson apologises for cartoon mocking Lambie's vaginal prolapse — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/hanson-apologises-for-one-nation-cartoon-mocking-lambie/107288602
   The One Nation leader says she was not aware of the cartoon's content before it went up but has committed to "taking a closer look" in the future.
 - Australian politicians say they are paying thousands for their own security upgrades amid rising threats — Guardian +1 (BBC) · 22 Oct · https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
 - Stampede kills at least 17 people at religious festival in India — ABC +1 (BBC) · 18 Oct · https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156
   A police official says an announcement outside a pavilion after it started raining resulted in the crowd "rushing forward" and people falling on the ground.
-(+45 more not listed)
+(+47 more not listed)
 
 ## Australian politics and economy – other candidates
 - Live: ASX to open higher as Wall Street surges — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020
@@ -101,10 +101,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The authors of the report that found extensive failings in the NT child protection system say recommendations should be acted on within six months, but some Indigenous advocates say their views have…
 - Minns accused of bypassing high court ruling with laws to allow NSW mine to increase coal production by 32% — Guardian +1 (SMH) · 19 Oct · https://www.theguardian.com/australia-news/2026/oct/19/chris-minns-bill-expansion-mount-pleasant-coalmine-high-court-decision
   Bill to authorise production expansion at Mount Pleasant coalmine, subject to a landmark high court decision, criticised as ‘legislative overreach’ Get our breaking news email , free app or daily…
-- Trump endorses 'great warrior' Netanyahu ahead of Israeli election — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646
-  Donald Trump issues a glowing endorsement of Benjamin Netanyahu just months after an expletive-laden tirade in which he accused the Israeli prime minister of trying to undermine a deal with Iran.
 - Commonwealth makes offer to send Australian of the Year to space — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/australia-makes-offer-to-send-australian-of-the-year-to-space/107300194
   The federal government has submitted an offer to the European Space Agency (ESA) to send Australian of the Year Katherine Bennell-Pegg to the International Space Station.
+- Trump endorses 'great warrior' Netanyahu ahead of Israeli election — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646
+  Donald Trump issues a glowing endorsement of Benjamin Netanyahu just months after an expletive-laden tirade in which he accused the Israeli prime minister of trying to undermine a deal with Iran.
 - Victorian premier settles bill after forgetting to pay at petrol station — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/vic-premier-ben-carroll-forgot-to-pay-for-fuel/107291426
   Ben Carroll says he was running errands on Monday night when he forgot to pay for fuel at a Melbourne petrol station.
 - Qld's breach bail laws set to pass parliament next week — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/queensland-breach-bail-go-to-jail-laws-crisafulli/107289694
@@ -119,20 +119,20 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property…
 - Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life — Guardian · 20 Oct · https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb
   Australia’s politicians have been facing increasing threats and abuse. It can no longer be dismissed as social media noise or harmless comment Follow our live blog for latest updates Politicians…
-- Labor and the Coalition need the Indian diaspora vote, but the immigration debate has many feeling bruised — Guardian · 18 Oct · https://www.theguardian.com/australia-news/2026/oct/18/indian-australians-vote-victorian-state-election-immigration-debate-ntwnfb
-  While Victorian Labor holds a marginal lead with Australia’s largest migrant group, many feel politicians only offer platitudes Get our new political email , free app or daily news podcast…
 - Sexualised, violent threats: female Victorian MPs fear for their safety as they fight more than just next month’s election — Guardian · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/victorian-mps-women-high-alert-safety-state-election-helen-haines-ntwnfb
   Hostility from constituents is not new for the state’s politicians, including its premiers. But the alleged attack on Helen Haines has sent a chill down the collective spine Get our new political…
+- Labor and the Coalition need the Indian diaspora vote, but the immigration debate has many feeling bruised — Guardian · 18 Oct · https://www.theguardian.com/australia-news/2026/oct/18/indian-australians-vote-victorian-state-election-immigration-debate-ntwnfb
+  While Victorian Labor holds a marginal lead with Australia’s largest migrant group, many feel politicians only offer platitudes Get our new political email , free app or daily news podcast…
 - Patience of Labor MPs is beginning to wear thin as mid-term blues bite — ABC · 18 Oct · https://www.abc.net.au/news/2026-10-18/albanese-labor-mps-mid-term-blues/107272392
   Albanese's MPs have largely kept their complaints private and trusted the PM’s judgement. But political loyalty is easier to maintain when a government is winning.
 - If the economic narrative doesn’t improve, things could get ugly for Labor — ABC · 17 Oct · https://www.abc.net.au/news/2026-10-17/labor-government-struggles-in-senate-and-polls/107276864
   If polls are right then voters are increasingly in a mood to light the match of a political conflagration. Many Labor backbenchers would become oncers.
 - Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals — Guardian · 22 Oct · https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation
   Treasury is revising all the numbers for the mid-year update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed…
-- The Trump about-turn that might have even surprised Putin — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366
-  The US president stuns even some of his own Republican colleagues by giving his Russian counterpart his biggest economic and propaganda victory since the invasion of Ukraine in 2022.
 - Raiding super to pay medical bills leaves trail of 'financial damage' — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/superannuation-early-withdrawals-record-high/107295652
   Australians withdrew more than $1.4 billion from their superannuation last financial year for medical reasons, prompting regulators to sound the alarm.
+- The Trump about-turn that might have even surprised Putin — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366
+  The US president stuns even some of his own Republican colleagues by giving his Russian counterpart his biggest economic and propaganda victory since the invasion of Ukraine in 2022.
 - Warning inflation outlook 'materially worse' ahead of next RBA meeting — ABC · 21 Oct · https://www.abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574
   As markets put the chance of a rate hike in November at 42 per cent, Reserve Bank deputy governor Andrew Hauser warns of a "central banker's nightmare".
 - ‘Not our friends’: Victorian Coalition warns Advance’s ‘bizarre’ campaign may cost it majority government — Guardian · 19 Oct · https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb
@@ -145,6 +145,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australian-made autonomous submarines will be able to set sea mines and launch armed aerial drones, according to newly declassified details.
 - Buildings burn and tear gas thrown during French education and cost of living rallies — ABC · 18 Oct · https://www.abc.net.au/news/2026-10-18/france-protests-education-cost-of-living/107279688
   The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.
+- Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight — Guardian · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb
+  David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms More than a week after allegations that Greens senator Jordon Steele-John…
+- Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse — Guardian · 23 Oct · https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment
+  High inflation, low growth and rising unemployment can be added to the federal treasurer’s wall of worries Get our new political email , free app or daily news podcast Jim Chalmers in a speech last…
 - Promised a better life, New Zealand voters are asking what went wrong — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/new-zealand-election-communities-november/107232890
   Families living in campervans, workers losing their house deposits, and communities watching loved ones leave in their thousands for Australia. These are the everyday stakes of New Zealand’s election.
 - Chalmers says investors feel good about Australia despite gloom at home — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/chalmers-hails-boom-in-business-investment/107298274
@@ -165,10 +169,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Under a new three strikes policy for Northern Territory public housing tenants, "minor" anti-social behaviour breaches attract one strike, "moderate" breaches two and three strikes can be handed down…
 - Major lender in Bathla development sells debts — ABC · 17 Oct · https://www.abc.net.au/news/2026-10-17/major-lender-in-bathla-development-sells-debts/107269278
   Private credit firms are striking deals to recover their money following the $3.4 billion collapse of property giant Bathla Group, with one major lender selling most of its exposure to a Sydney…
-- ‘I can’t sleep at night’: international students forced to navigate the impact of Labor’s sudden visa changes — Guardian · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/international-students-forced-to-navigate-labor-visa-changes-immigration-ntwnfb
-  Master’s student Fatima Bonna says her visa runs out before the end date of her course. She feels overwhelmed by the uncertainty Get our breaking news email , free app or daily news podcast Fatima…
-- House prices falling in every Australian capital city for first time in 15 years — Guardian · 22 Oct · https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin
-  House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report Get our breaking news email , free app or daily news podcast House…
 (+97 more not listed)
 
 ## Other prominent general stories – one outlet
@@ -210,8 +210,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as "categorically false".
 - Fortescue senior executive sacked after sexual harassment probe — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/fortescue-executive-sacked-sexual-harassment-bullying/107293046
   A senior executive at Andrew Forrest's Fortescue Metals Group has been sacked following an investigation into allegations of sexual harassment and bullying at the iron ore miner.
-- Man faces court after allegedly strangling 15-year-old girl — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/canberra-man-charged-allegedly-kicking-strangling-teenage-girl/107282686
-  A 41-year-old man has faced court after he allegedly kicked and strangled a 15-year-old girl during an incident in a north Canberra home.
+- Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy
+  World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead…
+- Former Bachelor Sam Wood loses bid to block media from court files — ABC +1 (Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/qld-sam-wood-application-for-non-publication-order-denied/107299502
+  On October 4, the fitness entrepreneur was charged with assault occasioning bodily harm and strangulation in a domestic setting, relating to an incident alleged to have taken place at a luxury…
 - Accused High Country killer applies for bail claiming he has been attacked in jail — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/greg-lynn-bail-hearing-high-country-death/107296052
   Accused High Country killer Greg Lynn tells a court he has had been attacked with faeces and bodily fluids during his time in custody, as he seeks bail ahead of a trial next year.
 - Breaking: Man shot by police in Sydney's south-west — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024
@@ -220,9 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   In an interview with GQ magazine, the Duke of Sussex said he hopes to bridge the massive rupture within the British royal family.
 - Elizabeth Struhs's mother trusted God would 'heal' 8yo, inquest hears — ABC +1 (Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/elizabeth-struhs-inquest/107282646
   A coroners court has heard details of Kerrie Struhs's meeting with a probation officer less than a month before her daughter Elizabeth died of untreated diabetes in 2022.
-- Deadly fire breaks out at Canada military base — BBC +1 (SMH) · 18 Oct · https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo
-  Defence Minister David McGuinty says there are casualties in what the prime minister called a "serious incident".
-(+1271 more not listed)
+(+1269 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Ex-Red Hat Garry Gray to lead LogicMonitor A/NZ — ARN +1 (CRN) · 21 Oct · https://www.arnnet.com.au/article/4238117/ex-red-hat-garry-gray-to-lead-logicmonitor-a-nz.html
@@ -448,7 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors “I have this sense that, within a few months, AI is going to be all…
 - Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline — Guardian · 17 Oct · https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline
   How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had…
-(+9 more not listed)
+(+8 more not listed)
 
 ## Cars (CarExpert)
 - Tesla Cybertruck cancelled for Australia, deposits to be refunded — CarExpert · 23 Oct · https://www.carexpert.com.au/car-news/tesla-cybertruck-cancelled-for-australia-deposits-to-be-refunded
@@ -591,6 +591,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Lamborghini's mission to defy physics continues with the Urus SE Performante, a premium family SUV with an appetite for racetracks.
 
 ## Science (Guardian, BBC)
+- Fund to help businesses switch to green vehicles — BBC · 23 Oct · https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo
+  Council leader Stephen Place says it will help businesses counter the rising cost of fuel.
 - 'Shock' of first England farmer hit by bird flu this season — BBC · 23 Oct · https://www.bbc.co.uk/news/articles/crpdg235g76no
   The first farmer in England hit by bird flu this season tells of the "emotional roller coaster" of losing 32,000 hens.
 - How citizen science is tracking changes in shorelines around the world — Guardian · 23 Oct · https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world
@@ -689,8 +691,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.
 - Brazil sees record fall in Amazon deforestation as key election looms — BBC · 17 Oct · https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o
   The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.
-- Why hasn't the UK had any named storms yet? — BBC · 17 Oct · https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo
-  So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?
 (+3 more not listed)
 
 ## Green economy (ABC, Guardian, Carbon Brief)
@@ -725,23 +725,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 23 Oct 19:43 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 23 Oct 19:43 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 23 Oct 19:43 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 23 Oct 19:43 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 23 Oct 19:43 | 26 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 23 Oct 19:43 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 23 Oct 19:43 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 23 Oct 19:43 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 23 Oct 19:43 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 23 Oct 19:43 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 23 Oct 19:43 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 23 Oct 19:43 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 23 Oct 19:43 | 40 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 23 Oct 19:43 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 23 Oct 19:43 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 23 Oct 19:43 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 23 Oct 19:43 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 23 Oct 19:43 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 23 Oct 21:38 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 23 Oct 21:38 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 23 Oct 21:38 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 23 Oct 21:38 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 23 Oct 21:38 | 30 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 23 Oct 21:38 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 23 Oct 21:38 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 23 Oct 21:38 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 23 Oct 21:38 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 23 Oct 21:38 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 23 Oct 21:38 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 23 Oct 21:38 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 23 Oct 21:38 | 40 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 23 Oct 21:38 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 23 Oct 21:38 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 23 Oct 21:38 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 23 Oct 21:38 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 23 Oct 21:38 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 30,104 tokens._
+_Approximate reading cost of this digest: 30,151 tokens._
