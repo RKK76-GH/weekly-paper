@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sat 24 Oct 2026, 23:45 Sydney time. Stories from 17 Oct to 24 Oct. 1943 stories held from 18 of 18 sources.
+Updated Sun 25 Oct 2026, 01:37 Sydney time. Stories from 18 Oct to 25 Oct. 1943 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -12,12 +12,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The final moments of a 24-year-old allegedly hacked to death in a pack attack in Melbourne's south-west are revealed in court as three boys and four men face charges almost two years after the ambush.
 - Fatalities as 'serious incident' causes fire at Canadian military base — ABC +3 (BBC, Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694
   People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.
+- Magnitude-7 earthquake hits China's Tibet region, killing 16 people — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584
+  A magnitude-7 earthquake has struck China's south-western region of Tibet, killing 16 people and injuring 32 others, state news agency Xinhua has reported.
 - Putin agrees to resume peace talks with Ukraine and US — ABC +3 (BBC, Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994
   Russian President Vladimir Putin agrees to resume US-mediated peace talks with Ukraine as soon as next month, following a meeting with US envoy Steve Witkoff.
 - Macron calls Trump's comments on French riots 'stupid' — ABC +3 (BBC, Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/macron-calls-trump-riot-comments-stupid/107294810
   The French president said foreign leaders trying to win votes at home have exploited France's riots for their own political agenda.
-- Magnitude-7 earthquake hits China's Tibet region, killing 16 people — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584
-  A magnitude-7 earthquake has struck China's south-western region of Tibet, killing 16 people and injuring 32 others, state news agency Xinhua has reported.
 - One dead, four injured in Paris shooting as police probe terror link — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/france-investigating-possible-terror-link-paris-shooting/107303752
   One person has been killed and at least four others injured in a Paris shooting being investigated for possible terror links.
 - Influencer 'Clavicular' pleads not guilty to rape allegation — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/clavicular-pleads-not-guilty-to-rape/107299308
@@ -42,20 +42,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The US president is suing the British broadcaster, alleging it defamed him by splicing together two pieces of his speech made to supporters before they stormed the US Capitol on January 6, 2021.
 - Meta fined $25b in US for deceiving users about Facebook privacy — ABC +2 (BBC, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964
   A judge orders Meta to pay New Mexico $US25 billion after a jury found the company liable for deceiving users about privacy on Facebook.
-- Eastern Sydney beaches close after whale carcass washes up — ABC +2 (Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/sydney-beaches-close-after-whale-carcass-found/107295288
-  A dead whale washes up on rocky shoreline in Sydney's east, prompting Randwick Council to close two popular beaches.
 - Taiwan shuts down and grounds flights ahead of Typhoon Champi — ABC +2 (BBC, Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576
   Taiwan shut down schools and grounded hundreds of flights as Typhoon Champi hit the island.
+- Eastern Sydney beaches close after whale carcass washes up — ABC +2 (Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/sydney-beaches-close-after-whale-carcass-found/107295288
+  A dead whale washes up on rocky shoreline in Sydney's east, prompting Randwick Council to close two popular beaches.
 - Labor pledges $30 toll cap as Coalition targets gas ban — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500
   Victoria's premier and opposition leader have announced duelling pledges on public transport fares and gas installations in the latest round of campaigning ahead of next month's state election.
-- Pope Leo leaves hospital for Vatican four days after lung cancer surgery — ABC +2 (Guardian, SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/pope-leo-leaves-hospital-after-surgery/107279894
-  Pope Leo has returned to the Vatican from hospital following surgery for lung cancer four days ago.
-- Meghan Markle says she learned of 'disturbing' allegations about father in 2018 — ABC +2 (Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754
-  Meghan the Duchess of Sussex has revealed she was informed of "disturbing allegations" involving her estranged father in 2018.
-- French police arrest 1,800 after violent clashes and looting mar protests — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138
-  France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested
+- Met Police received letter about Meghan Markle's father in 2019 — ABC +2 (Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/met-police-received-letter-about-meghan-markles-father/107305284
+  It comes after Meghan, Duchess of Sussex revealed on Friday she was informed in 2018 about "disturbing allegations" against her father, Thomas Markle, which prompted her to keep her children away…
 - Fire breaks out at Hitler's mountain retreat, suspect arrested — ABC +2 (BBC, Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190
   Around 200 firefighters were deployed to tackle the blaze at the Eagle's Nest, in Bavaria, which Nazi dictator Adolf Hitler used as a retreat to host foreign dignitaries in its mountaintop teahouse.
+- French police arrest 1,800 after violent clashes and looting mar protests — ABC +2 (BBC, Guardian) · 19 Oct · https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138
+  France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested
 - NSW reveals opening date of long-awaited Southwest Metro line — ABC +2 (Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-south-west-metro-opening-date-october-30/107294482
   Commuters will be able to cut down on travel time, with the service connecting the south-western suburbs to the Sydney CBD, north-Sydney and the north-western suburbs.
 - Alberta voters reject move to separate from Canada — ABC +1 (Guardian) · 20 Oct · https://www.abc.net.au/news/2026-10-20/alberta-votes-to-remain-part-of-canada/107289816
@@ -82,10 +80,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with…
 - Airman who died in rappelling accident at Texas college football game identified — Guardian +1 (BBC) · 19 Oct · https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game
   US military says Tech Sgt Ian Patterson was killed after he fell from rafters at University of Texas at San Antonio game The US military has identified the air force officer who died after he fell…
-- ABC reporter saves man from sinking car in floodwaters north of Brisbane — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/qld-abc-reporter-will-murray-rescues-man-from-floodwater/107296246
-  ABC reporter Will Murray and another man swam out to the car and pulled the driver out of the vehicle.
 - Friday briefing: How a leaderless student group is challenging power in Serbia — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia
   In today’s newsletter: ​Born from the fury surrounding the deadly Novi Sad station collapse, Serbia’s Student List has taken its protests all the way to the elections in an unprecedented grassroots…
+- ABC reporter saves man from sinking car in floodwaters north of Brisbane — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/qld-abc-reporter-will-murray-rescues-man-from-floodwater/107296246
+  ABC reporter Will Murray and another man swam out to the car and pulled the driver out of the vehicle.
+- Sudanese drone strike on market kills more than 150 — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466
+  Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
 (+54 more not listed)
 
 ## Australian politics and economy – other candidates
@@ -129,10 +129,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   While Victorian Labor holds a marginal lead with Australia’s largest migrant group, many feel politicians only offer platitudes Get our new political email , free app or daily news podcast…
 - Patience of Labor MPs is beginning to wear thin as mid-term blues bite — ABC · 18 Oct · https://www.abc.net.au/news/2026-10-18/albanese-labor-mps-mid-term-blues/107272392
   Albanese's MPs have largely kept their complaints private and trusted the PM’s judgement. But political loyalty is easier to maintain when a government is winning.
-- Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals — Guardian · 22 Oct · https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation
-  Treasury is revising all the numbers for the mid-year update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed…
 - When it comes to new technology, being first can come at a cost — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/the-case-to-go-slow-on-ai-is-growing-louder/107303128
   The federal government thinks it's on a winner by aggressively driving the country towards AI, but it may have a big job ahead convincing voters of the benefits.
+- Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals — Guardian · 22 Oct · https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation
+  Treasury is revising all the numbers for the mid-year update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed…
 - The high-rise housing battleground with wide political consequences — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/victoria-high-rise-housing-fight-key-election-battleground/107293212
   Leafy streets filled with homes are a common visage in the outer suburbs of Melbourne but newly implemented planning regulations may change all that.
 - Raiding super to pay medical bills leaves trail of 'financial damage' — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/superannuation-early-withdrawals-record-high/107295652
@@ -145,14 +145,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As markets put the chance of a rate hike in November at 42 per cent, Reserve Bank deputy governor Andrew Hauser warns of a "central banker's nightmare".
 - ‘Not our friends’: Victorian Coalition warns Advance’s ‘bizarre’ campaign may cost it majority government — Guardian · 19 Oct · https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb
   Exclusive: Rightwing lobby group, which says state poll is trial run for next federal election, accused of undermining Victorian Liberal messaging Get our new political email , free app or daily news…
+- Pauline Hanson's right-hand man weighs up Capricornia run — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/james-ashby-considers-one-nation-run-for-seat-of-capricornia/107304534
+  With One Nation support surging, national director James Ashby is considering entering the race for a seat that could become a major political battleground.
 - Tree protesters asked to pay $150k in government legal fees — ABC · 20 Oct · https://www.abc.net.au/news/2026-10-20/sa-golf-course-redevelopment-legal-fees/107288118
   The two protesters who lost a bid to stop the felling of almost 600 trees, as part of the North Adelaide golf course redevelopment, have been asked to pay $150,000 of the state government's legal…
 - Ghost Sharks to be armed with aerial drones and advanced sea mines — ABC · 19 Oct · https://www.abc.net.au/news/2026-10-19/ghost-shark-fleet-aerial-drones-sea-mines-defence/107283746
   Australian-made autonomous submarines will be able to set sea mines and launch armed aerial drones, according to newly declassified details.
-- Buildings burn and tear gas thrown during French education and cost of living rallies — ABC · 18 Oct · https://www.abc.net.au/news/2026-10-18/france-protests-education-cost-of-living/107279688
-  The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.
-- Pauline Hanson's right-hand man weighs up Capricornia run — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/james-ashby-considers-one-nation-run-for-seat-of-capricornia/107304534
-  With One Nation support surging, national director James Ashby is considering entering the race for a seat that could become a major political battleground.
+- Years of conflict splits voters in former Netanyahu stronghold — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178
+  Israelis are headed to an election that will have a profound impact on the country after years of conflict and social upheaval. But can Benjamin Netanyahu survive?
 - 'Safe air' bill passes NT parliament following Inpex, Santos scandals — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/nt-safe-air-bill-monitoring-darwin-harbour-inpex-santos/107300842
   A scheme to monitor and publicly report toxic air pollutants around Darwin Harbour can now be set up.
 - Promised a better life, New Zealand voters are asking what went wrong — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/new-zealand-election-communities-november/107232890
@@ -169,11 +169,9 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Premier Ben Carroll will announce 25,000 new homes will be built for first-time buyers, with the proposed sites spanning Melbourne, Geelong, Ballarat, Bendigo and Latrobe.
 - Stamp duty is hundreds of years old and removing it could boost home ownership — ABC · 20 Oct · https://www.abc.net.au/news/2026-10-20/removing-stamp-duty-could-improve-home-ownership/107276324
   Some experts suggests shifting away from the more than 300-year-old tax on property transactions could ease housing affordability.
-(+103 more not listed)
+(+102 more not listed)
 
 ## Other prominent general stories – one outlet
-- Sudanese drone strike on market kills more than 150 — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466
-  Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
 - Stampede kills at least 17 people at religious festival in India — ABC +1 (BBC) · 18 Oct · https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156
   A police official says an announcement outside a pavilion after it started raining resulted in the crowd "rushing forward" and people falling on the ground.
 - Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat — BBC +1 (SMH) · 18 Oct · https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo
@@ -198,31 +196,33 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A new study suggests one in four people with severe, recurrent or persistent depression have a proposed subset called "circadian depression", where people often report waking up very tired and being…
 - Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326
   American supermodel Cindy Crawford has posted a tribute on social media to her son Presley Gerber, who recently died aged 27.
+- Ukraine troops report ongoing problems with Starlink satellite network — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network
+  Communications system still faces speed restrictions despite Trump claim that Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces…
 - Father of two identified as cyclist killed in hit-and-run as police hunt driver — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/joseph-paratore-identified-as-man-killed-bibra-lake-hit-run/107292274
   Joseph Paratore's friends describe him as a "larger-than-life character" who was adored by the cycling community, as police confirm they are still looking for the driver.
 - Thousands of surgery referrals went unread in Sydney hospital email blunder — ABC +1 (SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434
   A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.
-- Ukraine troops report ongoing problems with Starlink satellite network — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network
-  Communications system still faces speed restrictions despite Trump claim that Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces…
 - Breaking: Man shot by police in Sydney's south-west — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024
   A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.
 - Teacher wounded in Oregon school shooting played dead after she was shot — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead
   Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school…
+- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out
+  Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last…
 - Sydney's second airport is 80 years in the making — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/western-sydney-international-airport-80-years-of-protests-debate/107298012
   The first flight from Sydney to the Gold Coast may take an hour and 20 minutes, but passengers embarking on that voyage will be completing a journey that began 80 years ago.
 - Ilhan Omar says she plans to move out of Washington home after federal raid — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump
   Democratic lawmaker says family’s safety is at risk amid death threats and raid making apartment’s address public Our reporters answer your questions about ICE, immigration and the midterms Minnesota…
 - Tech giant shares plunge 40pc after delays to Melbourne data centre — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/west-footscray-data-centre-delays-nextdc-value-asx-vic/107291744
   Community opposition to one of Victoria's largest data centres has seen the value of shares in NextDC plummet.
-- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out
-  Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last…
+- Pope Leo leaves hospital for Vatican four days after lung cancer surgery — ABC +1 (SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/pope-leo-leaves-hospital-after-surgery/107279894
+  Pope Leo has returned to the Vatican from hospital following surgery for lung cancer four days ago.
 - Department of Justice opens criminal investigation into Corey Lewandowski — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation
   Ex-Trump adviser and former top aide for homeland security alleged to have profited off government role Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department…
 - Man allegedly bragged about having 'killed someone' after hit-and-run — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/aaron-kemp-denied-bail-alleged-hit-and-run-man-57-alice-springs/107301366
   A Port Augusta man who allegedly bragged about having "killed someone" has faced court for the first time after returning to Alice Springs to "hand himself in".
 - Rebel Wilson wins second court case with company awarded $10 — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/rebel-wilson-awarded-359-000-in-legal-win-the-deb-co-producers/107303226
   UK production firm, AI Film, has lost its legal bid to sue actor Rebel Wilson in the Supreme Court for $15 million.
-(+1268 more not listed)
+(+1270 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Partner Content: Why demand mapping is now as important as partner certifications — CRN · 24 Oct · https://www.crn.com.au/sponsored/partner-content-why-demand-mapping-is-now-as-important-as-partner-certifications
@@ -451,6 +451,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+3 more not listed)
 
 ## Cars (CarExpert)
+- 2027 Freelander 8 review: Quick drive — CarExpert · 22 Oct · https://www.carexpert.com.au/car-reviews/2027-freelander-8-review-quick-drive
+  We liked the Freelander 8’s roomy cabin, comfortable seats and smooth power delivery. A short drive of a pre-production car also exposed a few things that need fixing.
 - One brand versus many: Which Chinese automaker’s strategy makes the most sense for Australia? — CarExpert · 24 Oct · https://www.carexpert.com.au/opinion/one-brand-versus-many-which-chinese-automakers-strategy-makes-the-most-sense-for-australia
   Chery is more than tripling the number of brands it has in Australia over the next year, while other Chinese automakers are following a very different strategy.
 - Chery says slow-moving luxury brands give Chinese rivals a chance — CarExpert · 24 Oct · https://www.carexpert.com.au/car-news/chery-says-slow-moving-luxury-brands-give-chinese-rivals-a-chance
@@ -459,8 +461,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Despite an estimated 100 different tyre brands on sale in Australia, just 16 companies contribute to an association dedicated to sustainability.
 - Chery still working on one-tonne payload for Stockman diesel PHEV ute — CarExpert · 22 Oct · https://www.carexpert.com.au/car-news/chery-still-working-on-one-tonne-payload-for-stockman-diesel-phev-ute
   Chery’s product chief says work continues on the Stockman’s payload, with preliminary figures putting the diesel hybrid ute 235kg short of its original 1000kg claim.
-- 2027 Freelander 8 review: Quick drive — CarExpert · 22 Oct · https://www.carexpert.com.au/car-reviews/2027-freelander-8-review-quick-drive
-  We liked the Freelander 8’s roomy cabin, comfortable seats and smooth power delivery. A short drive of a pre-production car also exposed a few things that need fixing.
 - Tesla Cybertruck cancelled for Australia, deposits to be refunded — CarExpert · 23 Oct · https://www.carexpert.com.au/car-news/tesla-cybertruck-cancelled-for-australia-deposits-to-be-refunded
   Hopes for the Cybertruck’s official local launch have been dashed, with the automaker returning deposits and offering a complimentary FSD subscription with purchases of other models instead.
 - Chery defends enormous brand expansion in Australia, says some won’t chase big sales — CarExpert · 23 Oct · https://www.carexpert.com.au/car-news/chery-defends-enormous-brand-expansion-in-australia-says-some-wont-chase-big-sales
@@ -587,8 +587,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   BMW has built its one-millionth M car, marking a major milestone for its performance division as it prepares to enter the electric era.
 - Mercedes-AMG GT SUV revealed as brand embraces EVs — CarExpert · 18 Oct · https://www.carexpert.com.au/car-news/mercedes-amg-gt-suv-revealed-as-brand-embraces-evs
   Compared to the GT 4-Door Coupe, the all-electric Mercedes-Benz GT SUV trades a bit of performance and range for a dash extra space and practicality.
-- 2027 Honda Civic Type R review — CarExpert · 18 Oct · https://www.carexpert.com.au/car-reviews/2027-honda-civic-type-r-review
-  You can't buy it new at the moment, and it's become very expensive – but here's why you should still want one of the world's finest hot hatches.
 
 ## Science (Guardian, BBC)
 - Project to restore rare native trees with DNA testing — BBC · 24 Oct · https://www.bbc.co.uk/news/articles/cw240ln41mq2o
@@ -725,23 +723,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 24 Oct 23:45 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 24 Oct 23:45 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 24 Oct 23:45 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 24 Oct 23:45 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 24 Oct 23:45 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 24 Oct 23:45 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 24 Oct 23:45 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 24 Oct 23:45 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 24 Oct 23:45 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 24 Oct 23:45 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 24 Oct 23:45 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 24 Oct 23:45 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 24 Oct 23:45 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 24 Oct 23:45 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 24 Oct 23:45 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 24 Oct 23:45 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 24 Oct 23:45 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 24 Oct 23:45 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 25 Oct 01:37 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 25 Oct 01:37 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 25 Oct 01:37 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 25 Oct 01:37 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 25 Oct 01:37 | 29 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 25 Oct 01:37 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 25 Oct 01:37 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 25 Oct 01:37 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 25 Oct 01:37 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 25 Oct 01:37 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 25 Oct 01:37 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 25 Oct 01:37 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 25 Oct 01:37 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 25 Oct 01:37 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 25 Oct 01:37 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 25 Oct 01:37 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 25 Oct 01:37 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 25 Oct 01:37 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 30,053 tokens._
+_Approximate reading cost of this digest: 30,002 tokens._
