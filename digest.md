@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sat 24 Oct 2026, 09:38 Sydney time. Stories from 17 Oct to 24 Oct. 1941 stories held from 18 of 18 sources.
+Updated Sat 24 Oct 2026, 11:56 Sydney time. Stories from 17 Oct to 24 Oct. 1941 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -86,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   ABC reporter Will Murray and another man swam out to the car and pulled the driver out of the vehicle.
 - Sudanese drone strike on market kills more than 150 — ABC +1 (Guardian) · 21 Oct · https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466
   Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.
-(+46 more not listed)
+(+48 more not listed)
 
 ## Australian politics and economy – other candidates
 - Live: ASX to open higher as Wall Street surges — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020
@@ -103,6 +103,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Bill to authorise production expansion at Mount Pleasant coalmine, subject to a landmark high court decision, criticised as ‘legislative overreach’ Get our breaking news email , free app or daily…
 - Trump endorses 'great warrior' Netanyahu ahead of Israeli election — ABC +1 (SMH) · 19 Oct · https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646
   Donald Trump issues a glowing endorsement of Benjamin Netanyahu just months after an expletive-laden tirade in which he accused the Israeli prime minister of trying to undermine a deal with Iran.
+- WA Greens senator to miss parliament amid allegations — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/wa-greens-senator-jordon-steele-john-will-not-attend-parliament/107304512
+  Jordon Steele-John says he will not attend parliament next week, as he releases a copy of a letter detailing allegations of misconduct against him.
 - Victorian premier settles bill after forgetting to pay at petrol station — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/vic-premier-ben-carroll-forgot-to-pay-for-fuel/107291426
   Ben Carroll says he was running errands on Monday night when he forgot to pay for fuel at a Melbourne petrol station.
 - Qld's breach bail laws set to pass parliament next week — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/queensland-breach-bail-go-to-jail-laws-crisafulli/107289694
@@ -113,14 +115,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s…
 - Sexualised, violent threats: female Victorian MPs fear for their safety as they fight more than just next month’s election — Guardian · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/victorian-mps-women-high-alert-safety-state-election-helen-haines-ntwnfb
   Hostility from constituents is not new for the state’s politicians, including its premiers. But the alleged attack on Helen Haines has sent a chill down the collective spine Get our new political…
-- Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them? — Guardian · 17 Oct · https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs
-  As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property…
 - Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life — Guardian · 20 Oct · https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb
   Australia’s politicians have been facing increasing threats and abuse. It can no longer be dismissed as social media noise or harmless comment Follow our live blog for latest updates Politicians…
-- Labor and the Coalition need the Indian diaspora vote, but the immigration debate has many feeling bruised — Guardian · 18 Oct · https://www.theguardian.com/australia-news/2026/oct/18/indian-australians-vote-victorian-state-election-immigration-debate-ntwnfb
-  While Victorian Labor holds a marginal lead with Australia’s largest migrant group, many feel politicians only offer platitudes Get our new political email , free app or daily news podcast…
 - Israel's election could be a turning point for the entire Middle East — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/israel-election-netanyahu-laura-tingle/107302248
   In a region struggling through conflict on many fronts, there is a fear that the upcoming Israeli election could have enormous flow-on effects for the entire Middle East.
+- Labor and the Coalition need the Indian diaspora vote, but the immigration debate has many feeling bruised — Guardian · 18 Oct · https://www.theguardian.com/australia-news/2026/oct/18/indian-australians-vote-victorian-state-election-immigration-debate-ntwnfb
+  While Victorian Labor holds a marginal lead with Australia’s largest migrant group, many feel politicians only offer platitudes Get our new political email , free app or daily news podcast…
 - Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight — Guardian · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb
   David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms More than a week after allegations that Greens senator Jordon Steele-John…
 - Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse — Guardian · 23 Oct · https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment
@@ -184,6 +184,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Russia pounded Kyiv with ballistic missiles and Ukraine sent hundreds of drones towards Moscow overnight despite the latest US push to end the conflict.
 - Police investigating death of woman and child in Melbourne's east — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/woman-and-child-dead-box-hill/107298964
   Detectives are investigating the circumstances around the death of a woman and a child in Melbourne's east.
+- Breaking: Perth grandmother jailed in Japan returns to Australia in prisoner transfer — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/donna-nelson-returns-to-perth-to-serve-out-sentence/107303550
+  Perth grandmother Donna Nelson, convicted of attempting to smuggle drugs into Japan, is back in Australia, according to official Japanese sources.
 - Pope Leo will not need further cancer treatment, doctors say — ABC +1 (BBC) · 22 Oct · https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358
   Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.
 - Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy
@@ -196,16 +198,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A new study suggests one in four people with severe, recurrent or persistent depression have a proposed subset called "circadian depression", where people often report waking up very tired and being…
 - Cindy Crawford 'beyond heartbroken' to lose son Presley Gerber — ABC +1 (BBC) · 19 Oct · https://www.abc.net.au/news/2026-10-19/cindy-crawford-son-presley-walker-gerber-statement/107282326
   American supermodel Cindy Crawford has posted a tribute on social media to her son Presley Gerber, who recently died aged 27.
-- Breaking: Perth grandmother jailed in Japan returns to Australia in prisoner transfer — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/donna-nelson-returns-to-perth-to-serve-out-sentence/107303550
-  Perth grandmother Donna Nelson, convicted of attempting to smuggle drugs into Japan, is back in Australia, according to official Japanese sources.
 - Father of two identified as cyclist killed in hit-and-run as police hunt driver — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/joseph-paratore-identified-as-man-killed-bibra-lake-hit-run/107292274
   Joseph Paratore's friends describe him as a "larger-than-life character" who was adored by the cycling community, as police confirm they are still looking for the driver.
 - Thousands of surgery referrals went unread in Sydney hospital email blunder — ABC +1 (SMH) · 18 Oct · https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434
   A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.
-- Teacher wounded in Oregon school shooting played dead after she was shot — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead
-  Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school…
 - Breaking: Man shot by police in Sydney's south-west — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024
   A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.
+- Teacher wounded in Oregon school shooting played dead after she was shot — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead
+  Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school…
+- Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says — BBC +1 (SMH) · 24 Oct · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo
+  Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.
 - Ilhan Omar says she plans to move out of Washington home after federal raid — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump
   Democratic lawmaker says family’s safety is at risk amid death threats and raid making apartment’s address public Our reporters answer your questions about ICE, immigration and the midterms Minnesota…
 - Tech giant shares plunge 40pc after delays to Melbourne data centre — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/west-footscray-data-centre-delays-nextdc-value-asx-vic/107291744
@@ -220,9 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as "categorically false".
 - Fortescue senior executive sacked after sexual harassment probe — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/fortescue-executive-sacked-sexual-harassment-bullying/107293046
   A senior executive at Andrew Forrest's Fortescue Metals Group has been sacked following an investigation into allegations of sexual harassment and bullying at the iron ore miner.
-- Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says — BBC +1 (SMH) · 24 Oct · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo
-  Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.
-(+1274 more not listed)
+(+1270 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Ex-Red Hat Garry Gray to lead LogicMonitor A/NZ — ARN +1 (CRN) · 21 Oct · https://www.arnnet.com.au/article/4238117/ex-red-hat-garry-gray-to-lead-logicmonitor-a-nz.html
@@ -345,9 +345,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Less than three months into her new role, Everpure Australia and New Zealand (A/NZ) partner leader, Alison McQuarrie is setting her sights on managed service providers (MSP) and data sovereignty…
 - Flight Centre Global Leisure deploys AI agent to help build holidays — iTnews · 19 Oct · https://www.itnews.com.au/news/flight-centre-global-leisure-deploys-ai-agent-to-help-build-holidays-629579
   As well as to improve support options for customers.
-(+2 more not listed)
+(+1 more not listed)
 
 ## Technology news (BBC, Guardian)
+- UK to invest £100m in 'world first' AI Biosecurity Lab — BBC · 24 Oct · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo
+  The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
 - Experts cast doubt on Anthropic report detailing how AI has altered work at the company — Guardian · 24 Oct · https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts
   Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the vision Last year, Anthropic CEO Dario Amodei warned that artificial intelligence could…
 - 'It's been relentless' say IT workers on frontline of PHP cyber-security scramble — BBC · 23 Oct · https://www.bbc.co.uk/news/articles/cxnv025d8qpmo
@@ -446,9 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might…
 - World Bank says ‘small AI’ could transform developing countries — Guardian · 18 Oct · https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies
   Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI”…
-- No further action against government adviser's wife over Palestine Action post, police say — BBC · 18 Oct · https://www.bbc.co.uk/news/articles/cv8ez40yz950o
-  Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.
-(+6 more not listed)
+(+7 more not listed)
 
 ## Cars (CarExpert)
 - One brand versus many: Which Chinese automaker’s strategy makes the most sense for Australia? — CarExpert · 24 Oct · https://www.carexpert.com.au/opinion/one-brand-versus-many-which-chinese-automakers-strategy-makes-the-most-sense-for-australia
@@ -725,23 +725,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 24 Oct 09:38 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 24 Oct 09:38 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 24 Oct 09:38 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 24 Oct 09:38 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 24 Oct 09:38 | 21 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 24 Oct 09:38 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 24 Oct 09:38 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 24 Oct 09:38 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 24 Oct 09:38 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 24 Oct 09:38 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 24 Oct 09:38 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 24 Oct 09:38 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 24 Oct 09:38 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 24 Oct 09:38 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 24 Oct 09:38 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 24 Oct 09:38 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 24 Oct 09:38 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 24 Oct 09:38 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 24 Oct 11:56 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 24 Oct 11:56 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 24 Oct 11:56 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 24 Oct 11:56 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 24 Oct 11:56 | 21 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 24 Oct 11:56 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 24 Oct 11:56 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 24 Oct 11:56 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 24 Oct 11:56 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 24 Oct 11:56 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 24 Oct 11:56 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 24 Oct 11:56 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 24 Oct 11:56 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 24 Oct 11:56 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 24 Oct 11:56 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 24 Oct 11:56 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 24 Oct 11:56 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 24 Oct 11:56 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 30,122 tokens._
+_Approximate reading cost of this digest: 30,088 tokens._
