@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Mon 26 Oct 2026, 17:52 Sydney time. Stories from 19 Oct to 26 Oct. 1902 stories held from 18 of 18 sources.
+Updated Mon 26 Oct 2026, 19:51 Sydney time. Stories from 19 Oct to 26 Oct. 1884 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -8,10 +8,10 @@ Format: headline — lead outlet (+ other outlets covering it) · date · link, 
 Ranked by number of outlets, then by how long they stayed in the feeds.
 - Seven people charged over deadly alleged pack attack in Melbourne's west — ABC +3 (BBC, Guardian, SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/lino-atem-wyndham-vale-court-stabbing/107294288
   The final moments of a 24-year-old allegedly hacked to death in a pack attack in Melbourne's south-west are revealed in court as three boys and four men face charges almost two years after the ambush.
-- Magnitude-7 earthquake hits China's Tibet region, killing 16 people — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584
-  A magnitude-7 earthquake has struck China's south-western region of Tibet, killing 16 people and injuring 32 others, state news agency Xinhua has reported.
 - One dead, four injured in Paris shooting as police probe terror link — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/france-investigating-possible-terror-link-paris-shooting/107303752
   One person has been killed and at least four others injured in a Paris shooting being investigated for possible terror links.
+- Magnitude-7 earthquake hits China's Tibet region, killing 16 people — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584
+  A magnitude-7 earthquake has struck China's south-western region of Tibet, killing 16 people and injuring 32 others, state news agency Xinhua has reported.
 - Almost 1,000 arrests in protests across France — ABC +3 (BBC, Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/1000-arrested-in-france-protests/107305868
   Police use tear gas and water cannons in cities across France as hundreds of thousands of people take to the streets.
 - Putin agrees to resume peace talks with Ukraine and US — ABC +3 (BBC, Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994
@@ -24,10 +24,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Police arrest a man after he reportedly made verbal threats while armed with "nunchucks" at state MP Hannah Beazley's electoral office in the inner-city Perth suburb of Victoria Park.
 - Fire breaks out at Hitler's mountain retreat, suspect arrested — ABC +2 (BBC, Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190
   Around 200 firefighters were deployed to tackle the blaze at the Eagle's Nest, in Bavaria, which Nazi dictator Adolf Hitler used as a retreat to host foreign dignitaries in its mountaintop teahouse.
-- US orders diplomats to leave Saudi Arabia amid Houthi strikes — ABC +2 (BBC, Guardian) · 22 Oct · https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684
-  The United States has ordered non-essential US embassy staff and their families to leave Saudi Arabia, as the kingdom comes under sustained deadly attacks by Yemen's Houthis.
 - Lamarre-Condon double murder trial shown five hours of CCTV — ABC +2 (Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-beau-lamarre-condon-double-murder-trial-cctv/107294348
   The footage shows Mr Lamarre-Condon change from various vehicles including a hired white van which he allegedly used to transport the bodies of Jesse Baird and Luke Davies.
+- US orders diplomats to leave Saudi Arabia amid Houthi strikes — ABC +2 (BBC, Guardian) · 22 Oct · https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684
+  The United States has ordered non-essential US embassy staff and their families to leave Saudi Arabia, as the kingdom comes under sustained deadly attacks by Yemen's Houthis.
 - Four injured in drive-by shooting south of Brisbane — ABC +2 (Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/four-injured-in-logan-drive-by-shooting/107305464
   A shooting in the Logan suburb of Loganholme on Saturday night has left four people injured, police say.
 - Taiwan shuts down and grounds flights ahead of Typhoon Champi — ABC +2 (BBC, Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576
@@ -74,19 +74,19 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a…
 - Thunderstorms, heavy rain and flash flooding predicted for much of Australia — Guardian +1 (SMH) · 24 Oct · https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia
   Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe…
+- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out
+  Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last…
 - Russell Brand sits motionless as third woman tells court how star raped her — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/russell-brand-trial-week-two-evidence/107299066
   A 2009 performance by the comedian at London's Hammersmith Apollo theatre, and what allegedly happened in the days that followed, has been the subject of much evidence at his rape trial this week.
 - Australian politicians say they are paying thousands for their own security upgrades amid rising threats — Guardian +1 (BBC) · 22 Oct · https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb
   Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or…
-- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out
-  Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last…
-- Israeli soldiers raze neighbourhood in Hebron, driving families from homes — Guardian +1 (BBC) · 25 Oct · https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes
-  PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in…
-- Shamonda virus detected in human for first time in France — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france
-  Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with…
+- ‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes — Guardian +1 (BBC) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes
+  Families forced to flee as Netanyahu tries to prove security credentials after two Israeli soldiers killed days before election Hebron, the biggest city in the West Bank, had paid little attention to…
 - Kim Jong Un crosses new bridge into China as trade ties warm — ABC +1 (Guardian) · 25 Oct · https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932
   The North Korean leader visits the border city of Dandong, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang's push to expand trade ties.
-(+54 more not listed)
+- Shamonda virus detected in human for first time in France — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france
+  Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with…
+(+56 more not listed)
 
 ## Australian politics and economy – other candidates
 - 'Full picture' missing from Kumanjayi Little Baby review, advocates say — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/advocates-react-to-kumanjayi-little-baby-report-findings/107301294
@@ -97,22 +97,22 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is…
 - Live: AFP expects to see increase in youth radicalisation — ABC +1 (Guardian) · 22 Oct · https://www.abc.net.au/news/2026-10-22/federal-politics-live-blog-helen-haines/107294950
   The Australian Federal Police warns that "rapid" radicalisation of young people online could spill over into real-world violence by young people who feel disenfranchised. Follow live.
+- Parliament grieves as cardboard cockatoo serves as Helen Haines tribute — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/helen-haines-tributes-in-federal-parliament/107307826
+  As parliament suspended business to offer messages of support for attack victim MP Helen Haines, an orange cockatoo was poignantly perched in her empty seat in the House of Reps.
 - Live: Wall Street retreats as oil prices continue to rise, ASX set to slip — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820
   Oil prices have jumped, putting downward pressure on global stock markets, including the ASX. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
 - Victorian Liberals to ban 'globalise the intifada' chant if elected — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/victorian-liberals-to-ban-globalise-the-intifada-state-election/107308178
   Opposition Leader Jess Wilson says the phrase will be outlawed under incitement to violence laws if her party wins government.
-- Live: MPs raise safety fears as parliament resumes without Helen Haines — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/federal-politics-live-blog-october-26/107307606
-  As parliament returns without Helen Haines, federal MPs are being encouraged to sign a civility pledge that the independent MP backed. Follow live.
 - Commonwealth makes offer to send Australian of the Year to space — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/australia-makes-offer-to-send-australian-of-the-year-to-space/107300194
   The federal government has submitted an offer to the European Space Agency (ESA) to send Australian of the Year Katherine Bennell-Pegg to the International Space Station.
 - Serbian president concedes defeat to student-led movement in election — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808
   Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.
 - Breaking: Amanda Camm to step down as Qld child safety and domestic violence minister — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/qld-government-amanda-camm-steps-down/107299642
   The ABC understands Ms Camm's resignation will trigger a mini reshuffle in the Queensland cabinet, the first movement in the frontbench since David Crisafulli came to power in 2024.
-- Victorian premier settles bill after forgetting to pay at petrol station — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/vic-premier-ben-carroll-forgot-to-pay-for-fuel/107291426
-  Ben Carroll says he was running errands on Monday night when he forgot to pay for fuel at a Melbourne petrol station.
 - Rapper Nicki Minaj joins Trump onstage at Michigan rally — BBC +1 (SMH) · 26 Oct · https://www.bbc.co.uk/news/articles/cqrmyl1mljppo
   The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.
+- Victorian premier settles bill after forgetting to pay at petrol station — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/vic-premier-ben-carroll-forgot-to-pay-for-fuel/107291426
+  Ben Carroll says he was running errands on Monday night when he forgot to pay for fuel at a Melbourne petrol station.
 - Qld's breach bail laws set to pass parliament next week — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/queensland-breach-bail-go-to-jail-laws-crisafulli/107289694
   In an address at the Queensland Press Club, David Crisafulli spruiked his government's measures aimed at cracking down on youth crime as the LNP approaches two years in office.
 - Victorian election to decide future of Melbourne wholesale market — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/melbourne-wholesale-market-epping-coalition-election-pledge/107291632
@@ -155,12 +155,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Here's a breakdown of Israel's upcoming general election and its complicated coalition structures.
 - Warning inflation outlook 'materially worse' ahead of next RBA meeting — ABC · 21 Oct · https://www.abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574
   As markets put the chance of a rate hike in November at 42 per cent, Reserve Bank deputy governor Andrew Hauser warns of a "central banker's nightmare".
-- Tree protesters asked to pay $150k in government legal fees — ABC · 20 Oct · https://www.abc.net.au/news/2026-10-20/sa-golf-course-redevelopment-legal-fees/107288118
-  The two protesters who lost a bid to stop the felling of almost 600 trees, as part of the North Adelaide golf course redevelopment, have been asked to pay $150,000 of the state government's legal…
 - Albanese faces stark choice if Trump escalates Iran war — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/albanese-quiet-on-iran-war-as-uncertainty-grows/107306234
   Everyone grows up, grows older and learns in Canberra that the politics of passion give way to the business of governing and pragmatism.
 - The economic outlook for 2027 is stark. Ordinary workers will wear the costs — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778
   Right now, some of our largest and most visible institutions are trimming or fighting with employees, in an economy that's powered by the build-out of job-changing technology that is both gargantuan…
+- Tree protesters asked to pay $150k in government legal fees — ABC · 20 Oct · https://www.abc.net.au/news/2026-10-20/sa-golf-course-redevelopment-legal-fees/107288118
+  The two protesters who lost a bid to stop the felling of almost 600 trees, as part of the North Adelaide golf course redevelopment, have been asked to pay $150,000 of the state government's legal…
 - Dirt cheap: welcome to the delightful Queensland town that can’t seem to give land away — Guardian · 26 Oct · https://www.theguardian.com/australia-news/ng-interactive/2026/oct/26/dirt-cheap-welcome-to-the-delightful-queensland-town-that-cant-seem-to-give-land-away
   Australia is in the grips of a housing crisis, but in the heart of the outback, the opal town of Quilpie is looking to expand its tiny population by giving away land and housing grants Sign up for a…
 - WA premier confronted by South Hedland community members — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/wa-premier-roger-cook-port-hedland-after-pressure/107292620
@@ -169,7 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A scheme to monitor and publicly report toxic air pollutants around Darwin Harbour can now be set up.
 - Promised a better life, New Zealand voters are asking what went wrong — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/new-zealand-election-communities-november/107232890
   Families living in campervans, workers losing their house deposits, and communities watching loved ones leave in their thousands for Australia. These are the everyday stakes of New Zealand’s election.
-(+115 more not listed)
+(+111 more not listed)
 
 ## Other prominent general stories – one outlet
 - Airman who died in rappelling accident at Texas college football game identified — Guardian +1 (BBC) · 19 Oct · https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game
@@ -188,14 +188,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially…
 - 'Eyes moving west': Sydney's new airport opens to passengers today — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784
   "Eyes are moving west" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.
+- Sydney's second airport is 80 years in the making — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/western-sydney-international-airport-80-years-of-protests-debate/107298012
+  The first flight from Sydney to the Gold Coast may take an hour and 20 minutes, but passengers embarking on that voyage will be completing a journey that began 80 years ago.
 - Police investigating death of woman and child in Melbourne's east — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/woman-and-child-dead-box-hill/107298964
   Detectives are investigating the circumstances around the death of a woman and a child in Melbourne's east.
 - ABC reporter saves man from sinking car in floodwaters north of Brisbane — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/qld-abc-reporter-will-murray-rescues-man-from-floodwater/107296246
   ABC reporter Will Murray and another man swam out to the car and pulled the driver out of the vehicle.
 - Police investigate bullet inscribed with 'RAT' found on Victorian MP's car — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762
   Emergency Services Minister Paul Edbrooke, a former firefighter, found the bullet on his car on Saturday.
-- Sydney's second airport is 80 years in the making — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/western-sydney-international-airport-80-years-of-protests-debate/107298012
-  The first flight from Sydney to the Gold Coast may take an hour and 20 minutes, but passengers embarking on that voyage will be completing a journey that began 80 years ago.
 - Breaking: Perth grandmother jailed in Japan returns to Australia in prisoner transfer — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/donna-nelson-returns-to-perth-to-serve-out-sentence/107303550
   Perth grandmother Donna Nelson, convicted of attempting to smuggle drugs into Japan, is back in Australia, according to official Japanese sources.
 - Pope Leo will not need further cancer treatment, doctors say — ABC +1 (BBC) · 22 Oct · https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358
@@ -222,7 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The MotoGP race at Phillip Island has been cancelled due to heavy rain and poor visibility.
 - Department of Justice opens criminal investigation into Corey Lewandowski — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation
   Ex-Trump adviser and former top aide for homeland security alleged to have profited off government role Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department…
-(+1231 more not listed)
+(+1213 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Exclusive: Cisco To Raise Prices On Software, Select Hardware In Portfolio ‘Rebalancing’ — CRN · 27 Oct · https://www.crn.com.au/news-network/networking/2026/exclusive-cisco-to-raise-prices-on-software
@@ -299,6 +299,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After flaws trigger global alarm.
 - GTIA launches Managed Intelligence Alliance to help MSPs deliver AI — CRN · 22 Oct · https://www.crn.com.au/news/2026/channel-news/gtia-managed-intelligence-alliance-to-help-msps-deliver-ai
   Vendor-neutral initiative helped to help address GTIA member’s concerns around AI.
+- SoftwareOne’s APAC Rebrand Promises More Scale Without Less Partner Focus — CRN · 22 Oct · https://www.crn.com.au/sponsored/softwareone-s-apac-rebrand-promises-more-scale-without-less-partner-focus
+  This article explores how SoftwareOne’s integration with Crayon strengthens its APAC channel by combining global scale, broader capabilities and local expertise, while keeping trusted partner and…
 - Equinix creates EPIC path to AI challenge — ARN · 22 Oct · https://www.arnnet.com.au/article/4238810/equinix-creates-epic-path-to-ai-challenge.html
   Data centre operator Equinix is looking to help enterprises move their AI projects to production with the launch of its Equinix Enhanced Performance Innovation Centres (EPIC). In these centres, now…
 - Murdoch Webster brings in Tom Allan as CEO — ARN +1 (CRN) · 21 Oct · https://www.arnnet.com.au/article/4237432/murdoch-webster-brings-in-tom-allan-as-ceo.html
@@ -343,9 +345,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Listed utility software developer Gentrack Group has secured a contract with gas and electricity retailer Momentum Energy for its cloud-based g2 billing offering. In a statement released to both the…
 - “It’s behind us”: DXC strike reportedly over — CRN · 20 Oct · https://www.crn.com.au/news/2026/partners/dxc-strike-reportedly-over
   APJ president Robert Le Busque tells CRN the status of the worker’s strike.
-- Excite scores $2.9M tech supply contract for govt regulator amid growth momentum — ARN · 20 Oct · https://www.arnnet.com.au/article/4237334/excite-scores-2-9m-tech-supply-contract-for-govt-regulator.html
-  Excite Technology Services has won a contract with a federal government regulator valued at $2.9 million over 24 months, as the service provider sees one of its strongest quarters on record…
-(+10 more not listed)
+(+11 more not listed)
 
 ## Technology news (BBC, Guardian)
 - Data centre debate heats up ahead of US midterms - here's what you need to know — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo
@@ -584,6 +584,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Mazda's return to the Australian electric vehicle market is an impressive one, thanks to the help of its Chinese partner.
 
 ## Science (Guardian, BBC)
+- Second storm to hit UK with more wind and rain as thousands remain without power — BBC · 24 Oct · https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo
+  An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.
+- Can you solve it? A magical melody from the Mozart of math — Guardian · 26 Oct · https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math
+  Terence Tao teaser time Today’s puzzle is set by Terence Tao, who may be the world’s most famous mathematician. Tao, aged 51, has been a global phenomenon since the age of ten, when he became the…
 - Plans to create a wildflower meadow take shape — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/c8vgx5qyrl45o
   Fairstead Recreation Ground is being planted with wildflowers to benefit insects and pollinators.
 - Fed-up driver builds AI litter tracker — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o
@@ -606,8 +610,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   More than 500 homes are without power and flooding and felled trees have been reported on roads.
 - The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster — BBC · 25 Oct · https://www.bbc.co.uk/news/articles/c6dxwklr409eo
   George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.
-- Second storm to hit UK with more wind and rain as thousands remain without power — BBC · 24 Oct · https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo
-  An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.
 - Seabirds and sewage among UNESCO status challenges — BBC · 25 Oct · https://www.bbc.co.uk/news/articles/cwzrd1e364jlo
   A report marking 10 years of the Isle of Man as a UNESCO Biosphere highlights the scheme's progress.
 - ‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass — Guardian · 25 Oct · https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass
@@ -682,9 +684,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.
 - Massive wasps' nest in wildlife office dismantled — BBC · 21 Oct · https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo
   The insects lived in a nature reserve office for four months.
-- Estate records 'abundance' of wildlife despite drought — BBC · 21 Oct · https://www.bbc.co.uk/news/articles/crgqw4lg3y83o
-  Wimpole's "long-term approach to nature recovery" has seen more than 5,000 species recorded.
-(+12 more not listed)
+(+13 more not listed)
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Cabinet split emerges over controversial Rosebank oilfield decision — Guardian · 26 Oct · https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision
@@ -720,23 +720,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 26 Oct 17:52 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 26 Oct 17:52 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 26 Oct 17:52 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 26 Oct 17:52 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 26 Oct 17:52 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 26 Oct 17:52 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 26 Oct 17:52 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 26 Oct 17:52 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 26 Oct 17:52 | 20 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 26 Oct 17:52 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 26 Oct 17:52 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 26 Oct 17:52 | 26 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 26 Oct 17:52 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 26 Oct 17:52 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 26 Oct 17:52 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 26 Oct 17:52 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 26 Oct 17:52 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 26 Oct 17:52 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 26 Oct 19:51 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 26 Oct 19:51 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 26 Oct 19:51 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 26 Oct 19:51 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 26 Oct 19:51 | 36 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 26 Oct 19:51 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 26 Oct 19:51 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 26 Oct 19:51 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 26 Oct 19:51 | 20 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 26 Oct 19:51 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 26 Oct 19:51 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 26 Oct 19:51 | 26 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 26 Oct 19:51 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 26 Oct 19:51 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 26 Oct 19:51 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 26 Oct 19:51 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 26 Oct 19:51 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 26 Oct 19:51 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,907 tokens._
+_Approximate reading cost of this digest: 29,971 tokens._
