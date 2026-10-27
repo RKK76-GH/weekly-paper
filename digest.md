@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Wed 28 Oct 2026, 07:42 Sydney time. Stories from 21 Oct to 28 Oct. 1872 stories held from 18 of 18 sources.
+Updated Wed 28 Oct 2026, 09:41 Sydney time. Stories from 21 Oct to 28 Oct. 1878 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -86,15 +86,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with…
 - Breaking: Man found dead in Queensland floodwaters — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850
   Emergency services were called to Smothering Creek at Boompa Road on the Fraser Coast just after 11am.
-(+63 more not listed)
+(+66 more not listed)
 
 ## Australian politics and economy – other candidates
+- Flavio Bolsonaro has passports cancelled as whereabouts unclear — ABC +1 (Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/flavio-bolsonaro-passport-brazil-presidential-election/107316922
+  The senator lost a presidential election earlier this week to incumbent Luiz Inácio Lula da Silva, and was later ordered to hand in his passport to authorities in relation to a money laundering probe.
 - Department sinks PM's claim $6m golf club grant was to fix sewage issues — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346
   Infrastructure Department officials categorically rejected the prime minister's claim regarding the Marrickville Golf Club grant at a Senate estimates hearing last night.
 - Live: Wall Street retreats as oil prices continue to rise, ASX set to slip — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820
   Oil prices have jumped, putting downward pressure on global stock markets, including the ASX. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
-- Flavio Bolsonaro has passports cancelled as whereabouts unclear — ABC +1 (Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/flavio-bolsonaro-passport-brazil-presidential-election/107316922
-  The senator lost a presidential election earlier this week to incumbent Luiz Inácio Lula da Silva, and was later ordered to hand in his passport to authorities in relation to a money laundering probe.
 - How WhatsApp 'army' flipped Brazil election and halted Trumpian trend — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/brazil-election-lulas-army-whatsapp-group-flipped-result/107313166
   Twenty-one days and an "army" of voters is all it took for a social media movement to grow so vocal it delivered Luiz Inácio Lula da Silva an historic fourth presidential term.
 - ‘Like a stone in our hearts’: PM leads Helen Haines tributes as parliament pauses to praise ‘fighter’ — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb
@@ -115,8 +115,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The ABC understands Ms Camm's resignation will trigger a mini reshuffle in the Queensland cabinet, the first movement in the frontbench since David Crisafulli came to power in 2024.
 - ‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win
   Leaders and governments worldwide congratulate Lula on dramatic comeback seen as an important signal to rest of Latin America Lula supporters celebrate election victory – in pictures Luiz Inácio Lula…
-- Victorian premier settles bill after forgetting to pay at petrol station — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/vic-premier-ben-carroll-forgot-to-pay-for-fuel/107291426
-  Ben Carroll says he was running errands on Monday night when he forgot to pay for fuel at a Melbourne petrol station.
 - Qld's breach bail laws set to pass parliament next week — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/queensland-breach-bail-go-to-jail-laws-crisafulli/107289694
   In an address at the Queensland Press Club, David Crisafulli spruiked his government's measures aimed at cracking down on youth crime as the LNP approaches two years in office.
 - Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight — Guardian · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb
@@ -137,10 +135,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   First Nations advocates say the Webb review into Kumanjayi Little Baby's case does not capture the "full picture" of health, housing and justice failures. Now they're urging the NT government to work…
 - When it comes to new technology, being first can come at a cost — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/the-case-to-go-slow-on-ai-is-growing-louder/107303128
   The federal government thinks it's on a winner by aggressively driving the country towards AI, but it may have a big job ahead convincing voters of the benefits.
-- Federal police chief links threats against MPs directly to political debate — ABC · 25 Oct · https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080
-  AFP Commissioner Krissy Barrett says there is an "immediate" and "direct connection" between heated moments of political discourse and the number of threats reported against politicians.
 - Huge gas-fired power station plan quietly revealed amid renewables fanfare — ABC · 27 Oct · https://www.abc.net.au/news/2026-10-27/bid-to-double-wa-renewable-energy-output-amid-price-rise-warning/107313754
   WA's environmental watchdog releases for public comment a plan for a mega gas-fired power plant on the same day the state government trumpets an ambitious plan to almost double renewable energy…
+- Federal police chief links threats against MPs directly to political debate — ABC · 25 Oct · https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080
+  AFP Commissioner Krissy Barrett says there is an "immediate" and "direct connection" between heated moments of political discourse and the number of threats reported against politicians.
+- Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb
+  The prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Get our daily political email , free app or daily news podcast One…
 - Thousands rally in Tel Aviv against Netanyahu ahead of vote — ABC · 25 Oct · https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000
   Tens of thousands of people have gathered in a final pre-election protest against Israel's prime minister and his government.
 - Pauline Hanson's right-hand man weighs up Capricornia run — ABC · 24 Oct · https://www.abc.net.au/news/2026-10-24/james-ashby-considers-one-nation-run-for-seat-of-capricornia/107304534
@@ -163,13 +163,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australians withdrew more than $1.4 billion from their superannuation last financial year for medical reasons, prompting regulators to sound the alarm.
 - The Trump about-turn that might have even surprised Putin — ABC · 22 Oct · https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366
   The US president stuns even some of his own Republican colleagues by giving his Russian counterpart his biggest economic and propaganda victory since the invasion of Ukraine in 2022.
-- Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb
-  The prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Get our daily political email , free app or daily news podcast One…
 - 'Get a reality check': Cartoon maker refuses to apologise to Jacqui Lambie — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/one-nation-cartoon-political-jacqui-lambie-pauline-hanson/107308528
   Senator Jacqui Lambie is calling on the One Nation candidate and creator of the party's 'Please Explain' cartoons to drop out of the race for an upper house seat in next month's Victorian election.
 - Israelis are heading to the polls in their most seismic election in decades — ABC · 23 Oct · https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156
   Here's a breakdown of Israel's upcoming general election and its complicated coalition structures.
-(+132 more not listed)
+- Warning inflation outlook 'materially worse' ahead of next RBA meeting — ABC · 21 Oct · https://www.abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574
+  As markets put the chance of a rate hike in November at 42 per cent, Reserve Bank deputy governor Andrew Hauser warns of a "central banker's nightmare".
+(+133 more not listed)
 
 ## Other prominent general stories – one outlet
 - AFP boss says politicians’ heated rhetoric is fuelling threats against MPs — Guardian +1 (SMH) · 25 Oct · https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb
@@ -184,10 +184,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva…
 - Father of two identified as cyclist killed in hit-and-run as police hunt driver — ABC +1 (SMH) · 21 Oct · https://www.abc.net.au/news/2026-10-21/joseph-paratore-identified-as-man-killed-bibra-lake-hit-run/107292274
   Joseph Paratore's friends describe him as a "larger-than-life character" who was adored by the cycling community, as police confirm they are still looking for the driver.
-- Russell Brand sits motionless as third woman tells court how star raped her — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/russell-brand-trial-week-two-evidence/107299066
-  A 2009 performance by the comedian at London's Hammersmith Apollo theatre, and what allegedly happened in the days that followed, has been the subject of much evidence at his rape trial this week.
 - Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
   Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
+- Russell Brand sits motionless as third woman tells court how star raped her — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/russell-brand-trial-week-two-evidence/107299066
+  A 2009 performance by the comedian at London's Hammersmith Apollo theatre, and what allegedly happened in the days that followed, has been the subject of much evidence at his rape trial this week.
 - 'Eyes moving west': Sydney's new airport opens to passengers today — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784
   "Eyes are moving west" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.
 - iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
@@ -202,6 +202,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Perth grandmother Donna Nelson, convicted of attempting to smuggle drugs into Japan, is back in Australia, according to official Japanese sources.
 - Pope Leo will not need further cancer treatment, doctors say — ABC +1 (BBC) · 22 Oct · https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358
   Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.
+- Rare Nanotyrannus skeleton sells for $47.3m at New York auction — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction
+  Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus…
 - Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy
   World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead…
 - Former Bachelor Sam Wood loses bid to block media from court files — ABC +1 (Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/qld-sam-wood-application-for-non-publication-order-denied/107299502
@@ -220,15 +222,17 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.
 - Teacher wounded in Oregon school shooting played dead after she was shot — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead
   Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school…
-- Anthropic files to list on stock market in potential $US1.5tn float — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/anthropic-claude-ipo-filing/107312096
-  The company behind Claude could be floated on the Nasdaq as soon as next month, despite making a $114 billion loss in the first half of 2026.
-(+1238 more not listed)
+(+1247 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
+- DEEP DIVE: The talent shortage isn’t technical, it’s cultural — CRN · 29 Oct · https://www.crn.com.au/news/2026/partners/deep-dive-talent-shortage
+  Partners explain what they’re doing to find the perfect hire in the age of AI.
 - SentinelOne CEO Tomer Weingarten On Autonomous SOC AI: ‘We’re Well Ahead’ — CRN · 28 Oct · https://www.crn.com.au/news-network/security/2026/sentinelone-ceo-tomer-weingarten-on-autonomous-soc-ai-we-re
   SentinelOne’s progress in bringing autonomous, AI-powered security operations to thousands of customers is giving the company a major ‘technology edge’ over competitors—and is proving the real-world…
 - Anthropic Spends US$2.7 Billion On Channel Partners Ahead Of IPO — CRN · 28 Oct · https://www.crn.com.au/news-network/ai/2026/anthropic-spends-2-7-billions-on-channel-partners
   Anthropic spent $2.7 billion on channel partners in the first half of 2026 as sales, marketing and partnership costs surged ahead of its blockbuster IPO.
+- Cisco adapting its business for the AI era — ARN · 28 Oct · https://www.arnnet.com.au/article/4241338/cisco-adapting-its-business-for-the-ai-era.html
+  Over the past 12 months, Cisco has been reshaping its own business to help partners grow in the artificial intelligence (AI) era, with changes spanning its go-to-market model, incentives, platforms…
 - OpenAI seeks global approach to AI incident reporting — CRN · 28 Oct · https://www.crn.com.au/news-network/cybersecurity/2026/openai-seeks-global-approach-to-ai-incident-reporting
   “You could certainly see a world where those different AI safety institutes begin to work together to implement, execute, enforce, impose and support those standards,” says Chris Lehane, Chief Global…
 - Fashion's AI era: face swaps and digital clones — iTnews · 27 Oct · https://www.itnews.com.au/news/fashions-ai-era-face-swaps-and-digital-clones-629941
@@ -341,10 +345,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Zoom is updating its partner program over the next several months with a streamlined structure and new incentives for improved partner enablement and a deeper focus on AI-powered offerings. Announced…
 - Evergreen co-founder Ramsey Sahyoun credits Warren Buffett for business model — ARN · 22 Oct · https://www.arnnet.com.au/article/4238183/evergreen-co-founder-ramsey-sahyoun-credits-warren-buffett-for-business-model.html
   Since its entry into the Australian and New Zealand (A/NZ) market, Evergreen has made its mark on the surging mergers and acquisitions (M&A) landscape through the purchase of A/NZ MSPs via a…
-- Cohesity appoints Matthew Johnston as APJ senior partner sales director — ARN · 22 Oct · https://www.arnnet.com.au/article/4238739/cohesity-appoints-matthew-johnston-as-apj-senior-partner-sales-director-2.html
-  Security vendor Cohesity has appointed Matthew Johnston as senior director of partner sales for Asia Pacific and Japan (APJ) to lead its partner and channel go-to-market strategy across the region…
-- Two critical PHP flaws put the web on alert as emergency patches arrive — ARN · 22 Oct · https://www.arnnet.com.au/article/4238806/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-4.html
-  Organisations are scrambling to protect themselves following the disclosure of two critical vulnerabilities in commonly used code that powers much of the internet. The flaws discovered in the PHP…
 (+7 more not listed)
 
 ## Technology news (BBC, Guardian)
@@ -442,6 +442,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.
 
 ## Cars (CarExpert)
+- 2027 Renault Megane E-Tech price and specs: Facelifted small EV gets more tech, more range — CarExpert · 28 Oct · https://www.carexpert.com.au/car-news/2027-renault-megane-e-tech-price-and-specs-facelifted-small-ev-gets-more-tech-more-range
+  Renault's small electric SUV has received a major specification upgrade in Australia, coinciding with a facelift and a modest price increase.
 - Chinese brand says rivals are bringing cars to Australia to clear excess volume — CarExpert · 28 Oct · https://www.carexpert.com.au/car-news/chinese-brand-says-rivals-are-bringing-cars-to-australia-to-clear-excess-volume
   Leapmotor says Australian buyers are clever enough to spot when rival brands are simply trying to offload excess supply in our market.
 - Europe inches closer to watering down its 2035 ban on new petrol and diesel cars — CarExpert · 28 Oct · https://www.carexpert.com.au/car-news/europe-inches-closer-to-watering-down-its-2035-ban-on-new-petrol-and-diesel-cars
@@ -562,16 +564,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Freelander's Australian boss has left open the possibility of a range-extender joining the plug-in hybrid, with the full local model range yet to be settled.
 - Chery’s iCaur has no diesel or ute planned, looks beyond boxy styling — CarExpert · 21 Oct · https://www.carexpert.com.au/car-news/cherys-icaur-has-no-diesel-or-ute-planned-looks-beyond-boxy-styling
   iCaur says diesel engines and utes aren’t in its current plans, while its leadership wants future SUVs to share more than the boxy styling of today’s lineup.
-- No pre-orders placed for cheapest Polestar 5 as buyers favour range-topper — CarExpert · 21 Oct · https://www.carexpert.com.au/car-news/no-pre-orders-placed-for-cheapest-polestar-5-as-buyers-favour-range-topper
-  The extra-fast Polestar 5 is the one Australian buyers want, according to the company’s boss – but there won’t be any price or lineup changes.
-- 2027 Polestar 5 Performance review — CarExpert · 21 Oct · https://www.carexpert.com.au/car-reviews/2027-polestar-5-performance-review
-  The Polestar 5 is the halo model for the Volvo offshoot – and the electric GT has Porsche and Audi firmly in its crosshairs.
-- Petrol, diesel drivers should pay road-user tax plus fuel excise in Australia, says one auto brand — CarExpert · 21 Oct · https://www.carexpert.com.au/car-news/petrol-diesel-drivers-should-pay-road-user-tax-plus-fuel-excise-in-australia-says-one-auto-brand
-  Polestar is lobbying for taxation changes that encourage a switch to electric vehicles, including a universal road-user charge to join the existing fuel excise.
-- GWM sponsors Parramatta Eels in push for top-five Australian sales — CarExpert · 21 Oct · https://www.carexpert.com.au/car-news/gwm-sponsors-parramatta-eels-in-push-for-top-five-australian-sales
-  GWM wants to kick more goals in western Sydney, with its new Parramatta Eels sponsorship aimed at strengthening its presence in the region.
-- Leapmotor Australia wants to one-up rivals with three-row electric SUVs — CarExpert · 21 Oct · https://www.carexpert.com.au/car-news/leapmotor-australia-wants-to-one-up-rivals-with-three-row-electric-suvs
-  Leapmotor is keen to introduce a six- or seven-seat SUV in Australia, and it has a couple of options it's looking at.
 
 ## Science (Guardian, BBC)
 - Will a new strategy help protect Northern Ireland's nature? — BBC · 28 Oct · https://www.bbc.co.uk/news/articles/cq0megg87n3po
@@ -716,23 +708,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 28 Oct 07:42 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 28 Oct 07:42 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 28 Oct 07:42 | 18 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 28 Oct 07:42 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 28 Oct 07:42 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 28 Oct 07:42 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 28 Oct 07:42 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 28 Oct 07:42 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 28 Oct 07:42 | 20 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 28 Oct 07:42 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 28 Oct 07:42 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 28 Oct 07:42 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 28 Oct 07:42 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 28 Oct 07:42 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 28 Oct 07:42 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 28 Oct 07:42 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 28 Oct 07:42 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 28 Oct 07:42 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 28 Oct 09:41 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 28 Oct 09:41 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 28 Oct 09:41 | 18 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 28 Oct 09:41 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 28 Oct 09:41 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 28 Oct 09:41 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 28 Oct 09:41 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 28 Oct 09:41 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 28 Oct 09:41 | 20 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 28 Oct 09:41 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 28 Oct 09:41 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 28 Oct 09:41 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 28 Oct 09:41 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 28 Oct 09:41 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 28 Oct 09:41 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 28 Oct 09:41 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 28 Oct 09:41 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 28 Oct 09:41 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,967 tokens._
+_Approximate reading cost of this digest: 29,604 tokens._
