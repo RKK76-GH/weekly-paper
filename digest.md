@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Thu 29 Oct 2026, 09:46 Sydney time. Stories from 22 Oct to 29 Oct. 1837 stories held from 18 of 18 sources.
+Updated Thu 29 Oct 2026, 12:01 Sydney time. Stories from 22 Oct to 29 Oct. 1837 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -14,10 +14,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   One person has been killed and at least four others injured in a Paris shooting being investigated for possible terror links.
 - Magnitude-7 earthquake hits China's Tibet region, killing 16 people — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584
   A magnitude-7 earthquake has struck China's south-western region of Tibet, killing 16 people and injuring 32 others, state news agency Xinhua has reported.
-- Almost 1,000 arrests in protests across France — ABC +3 (BBC, Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/1000-arrested-in-france-protests/107305868
-  Police use tear gas and water cannons in cities across France as hundreds of thousands of people take to the streets.
 - Breaking: At least 30 dead as high-speed trains collide in Spain — ABC +3 (BBC, Guardian, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/deadly-high-speed-train-collision-spain/107320916
   Spanish officials warn the death toll is "very likely" to rise after two trains collide, killing at least 30.
+- Almost 1,000 arrests in protests across France — ABC +3 (BBC, Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/1000-arrested-in-france-protests/107305868
+  Police use tear gas and water cannons in cities across France as hundreds of thousands of people take to the streets.
 - Hundreds stranded as 'cruise for life' operator goes bust over fuel costs — ABC +3 (BBC, Guardian, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/cruise-passengers-stranded-after-fuel-prices-tanks-operator/107320706
   A US-based cruise operator marketing its voyages as permanent holidays for retirees blames the ongoing fuel crisis for abruptly forcing passengers to disembark in Cambodia.
 - Influencer 'Clavicular' pleads not guilty to rape allegation — ABC +3 (BBC, Guardian, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/clavicular-pleads-not-guilty-to-rape/107299308
@@ -32,14 +32,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Nobel Peace Prize recipient's decision comes after US forces captured long-time president Nicolás Maduro in January this year, with the Trump administration leading efforts to open up the…
 - Taiwan shuts down and grounds flights ahead of Typhoon Champi — ABC +2 (BBC, Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576
   Taiwan shut down schools and grounded hundreds of flights as Typhoon Champi hit the island.
-- Jordan arrests three relatives over deadly church attack — ABC +2 (BBC, Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848
-  Two brothers and their brother-in-law suspected of attacking a church have been arrested following a shootout with Jordanian security forces.
-- US orders diplomats to leave Saudi Arabia amid Houthi strikes — ABC +2 (BBC, Guardian) · 22 Oct · https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684
-  The United States has ordered non-essential US embassy staff and their families to leave Saudi Arabia, as the kingdom comes under sustained deadly attacks by Yemen's Houthis.
 - Nordic leaders press Putin to end Ukraine war in rare phone call — ABC +2 (BBC, Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/putin-nordic-prime-ministers-phone-call-ukraine/107316960
   The move breaks with a longstanding practice among Western European leaders of shunning direct contact with the Kremlin.
-- Lamarre-Condon double murder trial shown five hours of CCTV — ABC +2 (Guardian, SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-beau-lamarre-condon-double-murder-trial-cctv/107294348
-  The footage shows Mr Lamarre-Condon change from various vehicles including a hired white van which he allegedly used to transport the bodies of Jesse Baird and Luke Davies.
+- Jordan arrests three relatives over deadly church attack — ABC +2 (BBC, Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848
+  Two brothers and their brother-in-law suspected of attacking a church have been arrested following a shootout with Jordanian security forces.
 - Trump ordered to sit for deposition in his $14bn BBC lawsuit — ABC +2 (BBC, SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/trump-bbc-deposition-lawsuit-defamation/107299258
   The US president is suing the British broadcaster, alleging it defamed him by splicing together two pieces of his speech made to supporters before they stormed the US Capitol on January 6, 2021.
 - Met Police received letter about Meghan Markle's father in 2019 — ABC +2 (Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/met-police-received-letter-about-meghan-markles-father/107305284
@@ -86,7 +82,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last…
 - Shamonda virus detected in human for first time in France — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france
   Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with…
-(+65 more not listed)
+- Breaking: Man found dead in Queensland floodwaters — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850
+  Emergency services were called to Smothering Creek at Boompa Road on the Fraser Coast just after 11am.
+- AFP boss says politicians’ heated rhetoric is fuelling threats against MPs — Guardian +1 (SMH) · 25 Oct · https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb
+  Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law…
+(+64 more not listed)
 
 ## Australian politics and economy – other candidates
 - Live: Wall Street retreats as oil prices continue to rise, ASX set to slip — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/asx-markets-business-live-news-october-26/107306820
@@ -125,10 +125,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes Get our daily political email , free app or daily news podcast The explosion of…
 - Huge gas-fired power station plan quietly revealed amid renewables fanfare — ABC · 27 Oct · https://www.abc.net.au/news/2026-10-27/bid-to-double-wa-renewable-energy-output-amid-price-rise-warning/107313754
   WA's environmental watchdog releases for public comment a plan for a mega gas-fired power plant on the same day the state government trumpets an ambitious plan to almost double renewable energy…
-- Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians — Guardian · 27 Oct · https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb
-  Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app…
 - ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics
   Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news…
+- Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians — Guardian · 27 Oct · https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb
+  Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app…
 - ‘The worst thing we could do is pick one over the other’: an Australian economist on why US-China competition is ‘a gift’ — Guardian · 25 Oct · https://www.theguardian.com/australia-news/2026/oct/25/australia-us-china-economy-john-edwards-interview
   John Edwards reflects on a changing world, economic statecraft and an AI-led manufacturing revival Get our new political email , free app or daily news podcast John Edwards wants us to chill out…
 - Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it
@@ -169,23 +169,25 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Follow along as we bring you the latest live news updates from an election widely seen as a referendum on Benjamin Netanyahu’s almost two decades in power.
 - 'Get a reality check': Cartoon maker refuses to apologise to Jacqui Lambie — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/one-nation-cartoon-political-jacqui-lambie-pauline-hanson/107308528
   Senator Jacqui Lambie is calling on the One Nation candidate and creator of the party's 'Please Explain' cartoons to drop out of the race for an upper house seat in next month's Victorian election.
-(+130 more not listed)
+(+131 more not listed)
 
 ## Other prominent general stories – one outlet
-- Breaking: Man found dead in Queensland floodwaters — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850
-  Emergency services were called to Smothering Creek at Boompa Road on the Fraser Coast just after 11am.
-- AFP boss says politicians’ heated rhetoric is fuelling threats against MPs — Guardian +1 (SMH) · 25 Oct · https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb
-  Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law…
 - Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says — BBC +1 (SMH) · 24 Oct · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo
   Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.
 - Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
   Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
-- Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro — Guardian +1 (BBC) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election
-  Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva…
+- Lamarre-Condon joked about weight of bodies, trial hears — ABC +1 (Guardian) · 23 Oct · https://www.abc.net.au/news/2026-10-23/beau-lamarre-condon-trial-ex-cop-joked-about-shooting/107299482
+  Former Sydney police officer Beau Lamarre-Condon told a friend he had shot two people, and asked for help cleaning up his "mess", a jury has heard.
 - WA set to become first state to legalise plug-in solar panels, batteries — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/western-australia-to-lift-ban-on-balcony-solar/107316134
   WA is set to be the first Australian state to unlock access to the technology, commonly known as "balcony solar", which is already used by millions of people in Europe and the UK.
+- Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro — Guardian +1 (BBC) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election
+  Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva…
 - 'Eyes moving west': Sydney's new airport opens to passengers today — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784
   "Eyes are moving west" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.
+- ‘I’ve killed someone’: Beau Lamarre-Condon allegedly confessed to friend and asked for help moving bodies, court told — Guardian +1 (SMH) · 23 Oct · https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb
+  Friend tells jury Lamarre-Condon told him in early 2024 ‘I shot the first one through the head and the second one through the door’ Get our breaking news email , free app or daily news podcast Beau…
+- Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb
+  Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of…
 - iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
   Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple…
 - US south-west braces for more flooding after stretch of heavy rain and storms — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms
@@ -194,8 +196,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Detectives are investigating the circumstances around the death of a woman and a child in Melbourne's east.
 - ABC reporter saves man from sinking car in floodwaters north of Brisbane — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/qld-abc-reporter-will-murray-rescues-man-from-floodwater/107296246
   ABC reporter Will Murray and another man swam out to the car and pulled the driver out of the vehicle.
-- Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb
-  Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of…
 - Police investigate bullet inscribed with 'RAT' found on Victorian MP's car — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762
   Emergency Services Minister Paul Edbrooke, a former firefighter, found the bullet on his car on Saturday.
 - Breaking: Perth grandmother jailed in Japan returns to Australia in prisoner transfer — ABC +1 (SMH) · 23 Oct · https://www.abc.net.au/news/2026-10-23/donna-nelson-returns-to-perth-to-serve-out-sentence/107303550
@@ -214,17 +214,25 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The family of Donna Nelson, who was jailed in Japan for drug smuggling after being duped in a love scam, say they are ecstatic to have her back in Western Australia.
 - ‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up — Guardian +1 (SMH) · 22 Oct · https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass
   Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ removal of remains Get our breaking news email , free app or daily news podcast Coogee and Maroubra beaches…
+- Trump expands hunt for voter fraud ahead of midterms — ABC +1 (BBC) · 29 Oct · https://www.abc.net.au/news/2026-10-29/us-midterms-daily-news-briefing-trump-obama/107318004
+  The Trump administration demands records on tens of thousands of voters as it ramps up efforts to uncover evidence of voter fraud. Meanwhile, a new twist in the dual Dan Sullivan duel emerges.
 - Maurene Comey was illegally fired as federal prosecutor, judge rules — Guardian +1 (BBC) · 27 Oct · https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling
   Daughter of ex-FBI director James Comey, a Trump foe, was dismissed in 2025 despite her work being widely praised Maurene Comey, the daughter of the former FBI director James Comey, was unlawfully…
 - Breaking: Man shot by police in Sydney's south-west — ABC +1 (SMH) · 22 Oct · https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024
   A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.
 - Teacher wounded in Oregon school shooting played dead after she was shot — Guardian +1 (BBC) · 23 Oct · https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead
   Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school…
-- Trump expands hunt for voter fraud ahead of midterms — ABC +1 (BBC) · 29 Oct · https://www.abc.net.au/news/2026-10-29/us-midterms-daily-news-briefing-trump-obama/107318004
-  The Trump administration demands records on tens of thousands of voters as it ramps up efforts to uncover evidence of voter fraud. Meanwhile, a new twist in the dual Dan Sullivan duel emerges.
 (+1231 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
+- Cisco’s Centoni: Cisco IQ Will Turn ‘One-And-Done’ Deals Into Recurring Partner Business — CRN · 29 Oct · https://www.crn.com.au/news-network/networking/2026/cisco-s-centoni-cisco-iq-will-turn-one-and-done-deals-into
+  Cisco is putting Cisco IQ directly into partners’ hands with white-label capabilities, deeper customer insight and AI-powered risk intelligence designed to help them build managed services and drive…
+- SpaceX Launches Grok AI Partner Program: Here’s What To Know — CRN · 29 Oct · https://www.crn.com.au/news-network/ai/2026/spacex-launches-grok-ai-partner-program-here-s-what-to-know
+  SpaceX is bringing Grok AI to the channel with a new partner network for integrators, consultants, services firms and ISVs.
+- Hitachi Vantara expands local channel investment with new incentives — ARN · 29 Oct · https://www.arnnet.com.au/article/4241890/hitachi-vantara-expands-local-channel-investment-with-new-incentives.html
+  Hitachi Vantara is set to invest more into the Australian channel with more incentives particularly around new customers. The data storage, infrastructure and hybrid cloud management vendor has…
+- Partners urged to prepare customers for quantum “Q-Day” threat — CRN · 29 Oct · https://www.crn.com.au/news/2026/cybersecurity/partners-urged-to-prepare-customers-for-quantum-q-day-threat
+  The Q-Day goal posts could change — so the time to get started is now.
 - Cisco’s Liz Centoni To Partners: ‘IQ Is Your New Profit Engine’ In The AI Era — CRN · 29 Oct · https://www.crn.com.au/news-network/networking/2026/cisco-s-liz-centoni-to-partners-iq-is-your-new-profit-engin
   Just in time for Partner Summit 2026, Liz Centoni explains how Cisco IQ is helping partners create high-margin, recurring services, what enterprises are getting wrong about AI adoption, and why…
 - DEEP DIVE: The talent shortage isn’t technical, it’s cultural — CRN · 29 Oct · https://www.crn.com.au/news/2026/partners/deep-dive-talent-shortage
@@ -233,6 +241,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Abandoning long-held aversion.
 - Apple rains on MIE-bypassing iPhone jailbreak parade with iOS update — iTnews · 29 Oct · https://www.itnews.com.au/news/apple-rains-on-mie-bypassing-iphone-jailbreak-parade-with-ios-update-629978
   Researchers get past anti-spyware memory protection.
+- NinjaOne CEO: We’re Hiring 1,000 Employees, Doubling Channel Spend In 2027 — CRN · 29 Oct · https://www.crn.com.au/news-network/channel-news/2026/ninjaone-ceo-we-re-hiring-1000-employees-doubling-channel-spend-in-2027
+  Sal Sferlazza, NinjaOne CEO, talks road map, AI and where the smartest MSPs will win.
 - Pax8 CEO: ‘There is a new industry forming’ — CRN · 28 Oct · https://www.crn.com.au/news-network/distributor/2026/pax8-ceo-there-is-a-new-industry-forming-for-msps
   Speaking to CRN at Pax8 Beyond EMEA, CEO Scott Chasin discussed the evolution of the MSP, the shortcomings of enterprise-first AI and the opportunities emerging around agentic services
 - Winners unveiled at twentieth ARN Innovation Awards 2026 — ARN · 28 Oct · https://www.arnnet.com.au/article/4240565/winners-unveiled-at-twentieth-arn-innovation-awards-2026.html
@@ -335,19 +345,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Zoom is putting partners at the center of its AI and platform growth strategy. Ahead of Zoom Partner Connect 2026, channel chief Nick Tidd broke down the opportunities ahead and the company’s push to…
 - ConnectWise CTO On Cloud Backup Cyberattack, M365 Update And Helping Thousands Of Partners — CRN · 23 Oct · https://www.crn.com.au/news-network/cloud/2026/connectwise-cto-on-cloud-backup-cyberattack
   ConnectWise CTO explains the Cloud Backup cyberattack, impact on thousands of ConnectWise partners and efforts to secure Microsoft 365.
-- ThreatLocker CEO On Launch Of New AI Agent Controls: ‘Massive Opportunities For MSPs’ — CRN · 23 Oct · https://www.crn.com.au/news-network/security/2026/threatlocker-ceo-on-launch-of-new-ai-agent-controls-massive
-  ThreatLocker announced a new offering Tuesday that aims to make enabling secure AI adoption a bigger opportunity for MSPs, with new capabilities that bring a zero-trust approach to controlling what…
-- New Acronis CEO: ‘We’re Making Sure We’re Investing Enough In What MSPs Love About Acronis’ — CRN · 23 Oct · https://www.crn.com.au/news-network/storage/2026/new-acronis-ceo-we-re-making-sure-we-re-investing-enough-in-what-msps-love-about-acronis
-  Prakash Panjwani, who just this month was appointed CEO of Acronis, talks with CRN about his take on the company and its role in data protection and cybersecurity.
-- Telstra enterprise experiences ordering and fulfilment issues — ARN · 23 Oct · https://www.arnnet.com.au/article/4239307/telstra-enterprise-experiences-ordering-and-fulfilment-issues.html
-  Telecommunications service provider Telstra is experiencing issues with its Telstra Order Exchange platform for enterprise customers. It is understood by ARN that this could be impacting business…
-- blueAPACHE lays out its redesign of managed services in the AI era — ARN · 23 Oct · https://www.arnnet.com.au/article/4239304/blueapache-lays-out-its-redesign-of-managed-services-in-the-ai-era.html
-  blueAPACHE has redesigned the way it delivers managed and professional services as demands of AI, cyber security, compliance and digital transformation continue to put constraints on its customers…
-- Relationships Australia SA uses AI agent to assess at-risk clients — iTnews · 23 Oct · https://www.itnews.com.au/news/relationships-australia-sa-uses-ai-agent-to-assess-at-risk-clients-629612
-  While they wait for an appointment.
-(+9 more not listed)
+(+11 more not listed)
 
 ## Technology news (BBC, Guardian)
+- Microsoft posts $36.6bn profit after offering buyouts to one in four workers — BBC · 29 Oct · https://www.bbc.co.uk/news/articles/c6m24klyjr8no
+  The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.
 - Details of thousands of US immigration agents leaked in major hack — BBC · 29 Oct · https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo
   A group called the Department of Peace released information on more than 41,000 DHS staff.
 - Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss — BBC · 29 Oct · https://www.bbc.co.uk/news/articles/c63djl148n3eo
@@ -356,6 +358,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny? After consulting dermatologists and putting them to the test, we have crowned a brand new number one • The…
 - Social media is full of weird video game mashups. Where are they all coming from? — Guardian · 29 Oct · https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from
   AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to…
+- Castle Walls review – Prime’s first fully AI-generated show is here, and it’s a Vaseline-smeared mess — Guardian · 29 Oct · https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show
+  Billed as the first end-to-end AI-created series on a major streaming service, this Turkish show looks like the result of the prompt ‘make it cinematic’ Just as the world reels from Elon Musk’s…
 - ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise — Guardian · 28 Oct · https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi
   Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby…
 - ‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity — Guardian · 28 Oct · https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity
@@ -416,8 +420,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Apple’s…
 - Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game — Guardian · 23 Oct · https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game
   Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything…
-- Flaw in PHP computer language leads to shutdown of websites around world — Guardian · 22 Oct · https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world
-  Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in…
+- Websites across world hit by millions of attempts to exploit PHP code flaw — Guardian · 23 Oct · https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw
+  Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad…
 - ‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show — Guardian · 22 Oct · https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment
   The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonathan Glatzer…
 - How tech became the villain of the US midterms — Guardian · 22 Oct · https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai
@@ -434,12 +438,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.
 - Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI — Guardian · 22 Oct · https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai
   Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who…
-- Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case — Guardian · 22 Oct · https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case
-  Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury…
 
 ## Cars (CarExpert)
-- 2027 Freelander 8 review: Quick drive — CarExpert · 22 Oct · https://www.carexpert.com.au/car-reviews/2027-freelander-8-review-quick-drive
-  We liked the Freelander 8’s roomy cabin, comfortable seats and smooth power delivery. A short drive of a pre-production car also exposed a few things that need fixing.
+- Purple cars on the rise in Australia as Chinese brand launches new shade for special-edition EV — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/purple-cars-on-the-rise-in-australia-as-chinese-brand-launches-new-shade-for-special-edition-ev
+  Lovers of lavender and lilac – and electric SUVs with 4.0-second 0-100km/h times – now have a special-edition Leapmotor to put on their shopping list.
+- "Zero" risk of confusion between Chery's many brands, says exec — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/zero-risk-of-confusion-between-cherys-many-brands-says-exec
+  Lepas is one of the eight brands Chery will have in Australia by 2028, but executives don't expect you to confuse them.
+- Lepas says it'll be around "forever" as it rolls out a separate dealer network in Australia — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/lepas-says-itll-be-around-forever-as-it-rolls-out-a-separate-dealer-network-in-australia
+  Lepas is establishing a separate dealer network to Chery in Australia, but it will share a lot behind the scenes as it pledges to live "forever".
+- Chery thinks there aren't enough electric SUVs in Australia — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/chery-thinks-there-arent-enough-electric-suvs-in-australia
+  Chery's new Lepas brand is landing in some of Australia's most competitive vehicle segments, and it's banking on its "bold" vehicles to help stand out.
+- 2027 Rolls-Royce Spectre II: Quick drive — CarExpert · 25 Oct · https://www.carexpert.com.au/car-reviews/2027-rolls-royce-spectre-ii-quick-drive
+  The Rolls-Royce Spectre has been overhauled and the big ultra-luxury electric coupe now offers more comfort, technology and performance – for a price.
 - Holden brake supplier Bendix enters voluntary administration — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/holden-brake-supplier-bendix-enters-voluntary-administration
   The Australian company behind Bendix, a former supplier to Holden, Ford and other local carmakers, has entered voluntary administration after more than 70 years of manufacturing.
 - Aston Martin Valhalla Spider unveiled as brand's fastest open-top car — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/aston-martin-valhalla-spider-unveiled-as-brands-fastest-open-top-car
@@ -554,12 +564,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   General Motors is expanding its 30-year-old OnStar service with an in-car AI assistant trained on its own vehicles, and merging all of its brand apps into one.
 - Chery's Luxeed confirmed for Australia, luxury people mover due in 2027 — CarExpert · 22 Oct · https://www.carexpert.com.au/car-news/cherys-luxeed-confirmed-for-australia-luxury-people-mover-due-in-2027
   Luxeed is the second Chery brand confirmed this month for a local launch, and is due here in the second quarter of 2027 with a luxury people mover.
-- 2027 Mercedes-Benz CLA Shooting Brake price and specs: German brand returns to Aussie wagon market — CarExpert · 22 Oct · https://www.carexpert.com.au/car-news/2027-mercedes-benz-cla-shooting-brake-price-and-specs-german-brand-returns-to-aussie-wagon-market
-  The Mercedes-Benz CLA Shooting Brake will join its four-door ‘coupe’ sibling here early in 2027, but offer a smaller lineup.
-- GM's next-gen 'brain' coming to petrol SUVs and utes – and it'll get new chips every two years — CarExpert · 22 Oct · https://www.carexpert.com.au/car-news/gms-next-gen-brain-coming-to-petrol-suvs-and-utes-and-itll-get-new-chips-every-two-years
-  GM's new centralised computer won't just be for electric Cadillacs, with pickups and more SUVs confirmed – plus a smartphone-style hardware refresh cycle.
 
 ## Science (Guardian, BBC)
+- Building boom puts 300,000 people in the path of potential Himalayan disasters — BBC · 29 Oct · https://www.bbc.co.uk/news/articles/c574pj3zljvjo
+  The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.
 - How rising seas transformed dry land into Venice lagoon — Guardian · 28 Oct · https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon
   Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern Adriatic Venice is famed for being a floating city, but research shows the land it sits on once lay…
 - A bust-up between mathematicians is fuelling fears that AI could undermine science — BBC · 28 Oct · https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo
@@ -658,9 +666,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Crews and control centre staff say the fires were relentless with many firefighters still off work injured.
 - Activists celebrate as land given protected status — BBC · 23 Oct · https://www.bbc.co.uk/news/articles/ck5ynl3yj2q9o
   Volunteers say they have been campaigning for 30 years to keep a wild space free from development.
-- Have scientists finally found a way to save the banana from disaster? — Guardian · 23 Oct · https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster
-  With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future…
-(+4 more not listed)
+(+5 more not listed)
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - UK budget 2026: Key climate and energy announcements — Carbon Brief · 29 Oct · https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements
@@ -700,23 +706,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 29 Oct 09:46 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 29 Oct 09:46 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 29 Oct 09:46 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 29 Oct 09:46 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 29 Oct 09:46 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 29 Oct 09:46 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 29 Oct 09:46 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 29 Oct 09:46 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 29 Oct 09:46 | 20 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 29 Oct 09:46 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 29 Oct 09:46 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 29 Oct 09:46 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 29 Oct 09:46 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 29 Oct 09:46 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 29 Oct 09:46 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 29 Oct 09:46 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 29 Oct 09:46 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 29 Oct 09:46 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 29 Oct 12:01 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 29 Oct 12:01 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 29 Oct 12:01 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 29 Oct 12:01 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 29 Oct 12:01 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 29 Oct 12:01 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 29 Oct 12:01 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 29 Oct 12:01 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 29 Oct 12:01 | 20 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 29 Oct 12:01 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 29 Oct 12:01 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 29 Oct 12:01 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 29 Oct 12:01 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 29 Oct 12:01 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 29 Oct 12:01 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 29 Oct 12:01 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 29 Oct 12:01 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 29 Oct 12:01 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,516 tokens._
+_Approximate reading cost of this digest: 29,693 tokens._
