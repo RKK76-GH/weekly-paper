@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sun 01 Nov 2026, 07:42 Sydney time. Stories from 25 Oct to 01 Nov. 1820 stories held from 18 of 18 sources.
+Updated Sun 01 Nov 2026, 09:40 Sydney time. Stories from 25 Oct to 01 Nov. 1815 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -18,10 +18,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A US-based cruise operator marketing its voyages as permanent holidays for retirees blames the ongoing fuel crisis for abruptly forcing passengers to disembark in Cambodia.
 - Live: Erin Patterson awaits appeal decision on mushroom murder convictions — ABC +2 (Guardian, SMH) · 30 Oct · https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086
   Three judges from Victoria's Court of Appeal will hand down their judgment on Erin Patterson's appeal against her murder convictions and on the prosecution's appeal over her sentence.
-- Teen still in a critical condition after drive-by shooting south of Brisbane — ABC +2 (Guardian, SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/fitzys-logan-drive-by-shooting-victim-identified/107311120
-  The 19-year-old is fighting for her life in intensive care after being gunned down by two masked men outside Fitzys Loganholme on Saturday night.
 - Opposition leader Maria Corina Machado returns to Venezuela — ABC +2 (BBC, Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/venezuelan-opposition-leader-maria-corina-machado-returns/107307444
   The Nobel Peace Prize recipient's decision comes after US forces captured long-time president Nicolás Maduro in January this year, with the Trump administration leading efforts to open up the…
+- Teen still in a critical condition after drive-by shooting south of Brisbane — ABC +2 (Guardian, SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/fitzys-logan-drive-by-shooting-victim-identified/107311120
+  The 19-year-old is fighting for her life in intensive care after being gunned down by two masked men outside Fitzys Loganholme on Saturday night.
 - Nordic leaders press Putin to end Ukraine war in rare phone call — ABC +2 (BBC, Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/putin-nordic-prime-ministers-phone-call-ukraine/107316960
   The move breaks with a longstanding practice among Western European leaders of shunning direct contact with the Kremlin.
 - Federal police chief links threats against MPs directly to political debate — ABC +2 (Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080
@@ -62,10 +62,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australian authorities are working to confirm the wellbeing of two Australians after the deadly train crash in Spain earlier this week.
 - Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’ — Guardian +1 (BBC) · 30 Oct · https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close
   Independent outlet, whose former editor won Nobel peace prize, says Russian authorities have forced it to shut Europe live – latest updates The Russian independent newspaper Novaya Gazeta has…
-- Netanyahu and opposition on equal footing in Israeli election with no clear winner — ABC +1 (BBC) · 28 Oct · https://www.abc.net.au/news/2026-10-28/israel-elections-netanyahu-eisenkot-deadlock/107317018
-  Early exit polling and results show incumbent Prime Minister Benjamin Netanyahu's bloc is likely to secure more seats than the opposition, but will still fall short of the majority required to form…
 - Canada hoping to become EU’s first 'associate member' in deal — ABC +1 (Guardian) · 31 Oct · https://www.abc.net.au/news/2026-10-31/canada-eyeing-eu-associate-membership-by-june/107332384
   Canadian Prime Minister Mark Carney says he expects to conclude negotiations on the unprecedented deal by June.
+- Netanyahu and opposition on equal footing in Israeli election with no clear winner — ABC +1 (BBC) · 28 Oct · https://www.abc.net.au/news/2026-10-28/israel-elections-netanyahu-eisenkot-deadlock/107317018
+  Early exit polling and results show incumbent Prime Minister Benjamin Netanyahu's bloc is likely to secure more seats than the opposition, but will still fall short of the majority required to form…
 - Hello Kitty company cuts ties with Japanese spy show after China outcry — Guardian +1 (BBC) · 29 Oct · https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry
   Sanrio ends association with TV drama Vivant after China says portrayal of ruthless Chinese agents is ‘deliberate smear’ The company behind the successful Hello Kitty franchise has apologised and…
 - Breaking: Man found dead in Queensland floodwaters — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850
@@ -74,19 +74,19 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of…
 - Department sinks PM's claim $6m golf club grant was to fix sewage issues — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346
   Infrastructure Department officials categorically rejected the prime minister's claim regarding the Marrickville Golf Club grant at a Senate estimates hearing last night.
+- Riot police deployed to Poland’s constitutional court after judge suspended — Guardian +1 (BBC) · 31 Oct · https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended
+  President Karol Nawrocki seen struggling to gain entry to court building in Warsaw amid long-running row over the court’s legitimacy Riot police were locked in a tense standoff with protesters…
 - One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer — Guardian +1 (SMH) · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb
   Pauline Hanson says Anthony Albanese made ‘unsolicited’ offer of adviser with $200,000 salary to one of her MPs Get our daily political email , free app or daily news podcast The prime minister…
 - Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
   Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
 - Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb
   Zali Steggall and Monique Ryan say Coalition leader was wrong to deny link between parliamentary debate and political violence Angus Taylor has been criticised for his response to the alleged attack…
-- Almost 1,000 arrested as clashes follow another day of mass protests across France — BBC +1 (SMH) · 25 Oct · https://www.bbc.co.uk/news/articles/c95ynd587ynzo
-  Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.
-- Riot police deployed to Poland’s constitutional court after judge suspended — Guardian +1 (BBC) · 31 Oct · https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended
-  President Karol Nawrocki seen struggling to gain entry to court building in Warsaw amid long-running row over the court’s legitimacy Riot police were locked in a tense standoff with protesters…
 - Russian drone strike on Ukrainian train platform kills 14 — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816
   A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
-(+51 more not listed)
+- Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
+  A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
+(+50 more not listed)
 
 ## Australian politics and economy – other candidates
 - How WhatsApp 'army' flipped Brazil election and halted Trumpian trend — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/brazil-election-lulas-army-whatsapp-group-flipped-result/107313166
@@ -172,8 +172,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+128 more not listed)
 
 ## Other prominent general stories – one outlet
-- Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
-  A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
 - US approves $3 billion Patriot missile sale to Ukraine — ABC +1 (BBC) · 31 Oct · https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652
   The move is one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration.
 - Man charged over allegedly false Bondi terror attack injury claim — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/nsw-man-charged-over-bondi-terror-attack-injury-claim/107317020
@@ -186,10 +184,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva…
 - US south-west braces for more flooding after stretch of heavy rain and storms — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms
   More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially…
-- iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
-  Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple…
 - More than 50m Americans cast ballots in early voting with three days to go before midterms — Guardian +1 (BBC) · 01 Nov · https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms
   Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions…
+- iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
+  Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple…
 - Evacuation begins from ravaged Russian-controlled Ukrainian city — ABC +1 (Guardian) · 30 Oct · https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652
   Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
 - Police investigate bullet inscribed with 'RAT' found on Victorian MP's car — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762
@@ -222,7 +220,9 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A 59-year-old man is charged after over the alleged assault of Amanda Dow's husband on Sunday.
 - Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb
   Robert John Crawford on trial after wife found near ride-on lawnmower on their Toowoomba property Get our breaking news email , free app or daily news podcast A former RAAF pilot was a “love rat” and…
-(+1228 more not listed)
+- Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
+  Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of…
+(+1225 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - SpaceX Launches Grok AI Partner Program: Here’s What To Know — CRN · 29 Oct · https://www.crn.com.au/news-network/ai/2026/spacex-launches-grok-ai-partner-program-here-s-what-to-know
@@ -446,6 +446,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   ‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make…
 
 ## Cars (CarExpert)
+- Alfa Romeo Giulia Quadrifoglio prices slashed by up to $15,000 — CarExpert · 01 Nov · https://www.carexpert.com.au/car-news/alfa-romeo-giulia-quadrifoglio-prices-slashed-by-up-to-dollar15000
+  An end-of-year offer on Alfa Romeo's high-performance sports sedan will see Giulia QV buyers save between $7500 and $15,000 until December 31, 2026.
 - Maserati: 100 years of racing passion, Italian genius and the art of performance — CarExpert · 01 Nov · https://www.carexpert.com.au/car-news/maserati-100-years-of-racing-passion-italian-genius-and-the-art-of-performance
   SPONSORED: From the Tipo 26 to the MC20 and Grecale Trofeo, Maserati has spent a century proving there's more to performance than outright speed.
 - 2027 Zeekr 7X update: More power, same price — CarExpert · 01 Nov · https://www.carexpert.com.au/car-news/2027-zeekr-7x-update-more-power-same-price
@@ -558,10 +560,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The next-generation CX-3 will replace the Mazda 2 as Mazda's entry-level model in Asian markets from 2027, but the 2 will remain on sale here for now.
 - 2027 Isuzu D-Max, MU-X facelift debuts new twin-turbo diesel — CarExpert · 26 Oct · https://www.carexpert.com.au/car-news/2027-isuzu-d-max-mu-x-facelift-debuts-new-twin-turbo-diesel
   While the visual updates are quite minor, the Isuzu D-Max and MU-X are now available in Thailand with a new 2.2-litre bi-turbo diesel engine.
-- Expert Insights: Q&A with Continental Tyres managing director Mitchell Golledge — CarExpert · 25 Oct · https://www.carexpert.com.au/car-news/expert-insights-qanda-with-continental-tyres-managing-director-mitchell-golledge
-  The boss of Continental tyres in Australia joins us to discuss road safety, Chinese rivals, EU lawmakers, and new challenges born from electric cars.
 
 ## Science (Guardian, BBC)
+- 'Fascinating' rare beetle found in Wales again after 60 years — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/cry8317pdp5yo
+  It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys
 - Bute House protested by environmental campaigners — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o
   A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.
 - From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe — Guardian · 31 Oct · https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter
@@ -690,8 +692,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   One dead and 527 injured as winds of up to 185mph hit Taiwan and southern Japan, while Greece issues flood alerts Typhoon Champi was declared the strongest storm of the year so far after recording…
 - Cabinet split emerges over controversial Rosebank oilfield decision — Guardian · 26 Oct · https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision
   Chancellor is in favour the North Sea project, but energy secretary has said she is leaning towards rejecting it A cabinet split has emerged over whether to approve drilling at the Rosebank oilfield…
-- 1,000 native trees planted to turn school playground into tiny forest — ABC · 25 Oct · https://www.abc.net.au/news/2026-10-25/microforest-planted-with-1000-native-trees-at-broulee-school/107292384
-  Students on the NSW Far South Coast dig deep to research, design and plant a microforest.
 
 ## QPR match reports (Loft For Words)
 - C'était formidable – Report — Loft For Words · 26 Oct · https://www.fansnetwork.co.uk/news/67116/cétait-formidable-–-report
@@ -701,23 +701,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 01 Nov 07:42 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 01 Nov 07:42 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 01 Nov 07:42 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 01 Nov 07:42 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 01 Nov 07:42 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 01 Nov 07:42 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 01 Nov 07:42 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 01 Nov 07:42 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 01 Nov 07:42 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 01 Nov 07:42 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 01 Nov 07:42 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 01 Nov 07:42 | 29 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 01 Nov 07:42 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 01 Nov 07:42 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 01 Nov 07:42 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 01 Nov 07:42 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 01 Nov 07:42 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 01 Nov 07:42 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 01 Nov 09:40 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 01 Nov 09:40 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 01 Nov 09:40 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 01 Nov 09:40 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 01 Nov 09:40 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 01 Nov 09:40 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 01 Nov 09:40 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 01 Nov 09:40 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 01 Nov 09:40 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 01 Nov 09:40 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 01 Nov 09:40 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 01 Nov 09:40 | 29 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 01 Nov 09:40 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 01 Nov 09:40 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 01 Nov 09:40 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 01 Nov 09:40 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 01 Nov 09:40 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 01 Nov 09:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,468 tokens._
+_Approximate reading cost of this digest: 29,473 tokens._
