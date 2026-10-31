@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sat 31 Oct 2026, 09:44 Sydney time. Stories from 24 Oct to 31 Oct. 1805 stories held from 18 of 18 sources.
+Updated Sat 31 Oct 2026, 12:02 Sydney time. Stories from 24 Oct to 31 Oct. 1798 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -16,6 +16,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A US-based cruise operator marketing its voyages as permanent holidays for retirees blames the ongoing fuel crisis for abruptly forcing passengers to disembark in Cambodia.
 - Christa Pike speaks of constant pain after botched execution — ABC +3 (BBC, Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/christa-pike-first-statement-constant-pain/107331034
   The 50-year-old survived two doses of pentobarbital as the state tried to execute her for the 1995 stabbing death of 19-year-old classmate Colleen Slemmer.
+- G20 foreign ministers skip 'family' photo amid objections over Russia — ABC +3 (BBC, Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/g20-family-photo-skipped-over-russia/107331466
+  Foreign ministers skip a traditional group photo ahead of their meeting, after European and Australian representatives object to the presence of Russia.
 - Teen still in a critical condition after drive-by shooting south of Brisbane — ABC +2 (Guardian, SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/fitzys-logan-drive-by-shooting-victim-identified/107311120
   The 19-year-old is fighting for her life in intensive care after being gunned down by two masked men outside Fitzys Loganholme on Saturday night.
 - Live: Erin Patterson awaits appeal decision on mushroom murder convictions — ABC +2 (Guardian, SMH) · 30 Oct · https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086
@@ -24,12 +26,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Nobel Peace Prize recipient's decision comes after US forces captured long-time president Nicolás Maduro in January this year, with the Trump administration leading efforts to open up the…
 - Fire breaks out at Hitler's mountain retreat, suspect arrested — ABC +2 (BBC, Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190
   Around 200 firefighters were deployed to tackle the blaze at the Eagle's Nest, in Bavaria, which Nazi dictator Adolf Hitler used as a retreat to host foreign dignitaries in its mountaintop teahouse.
+- Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines — Guardian +2 (BBC, SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb
+  Zali Steggall and Monique Ryan say Coalition leader was wrong to deny link between parliamentary debate and political violence Angus Taylor has been criticised for his response to the alleged attack…
 - Nordic leaders press Putin to end Ukraine war in rare phone call — ABC +2 (BBC, Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/putin-nordic-prime-ministers-phone-call-ukraine/107316960
   The move breaks with a longstanding practice among Western European leaders of shunning direct contact with the Kremlin.
 - Federal police chief links threats against MPs directly to political debate — ABC +2 (Guardian, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080
   AFP Commissioner Krissy Barrett says there is an "immediate" and "direct connection" between heated moments of political discourse and the number of threats reported against politicians.
 - Jordan arrests three relatives over deadly church attack — ABC +2 (BBC, Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848
   Two brothers and their brother-in-law suspected of attacking a church have been arrested following a shootout with Jordanian security forces.
+- Serbian president concedes defeat to student-led movement in election — ABC +2 (BBC, Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808
+  Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.
 - Childcare paedophile Ashley Paul Griffith extradited to NSW — ABC +2 (Guardian, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/qld-ashley-paul-griffith-extradited-to-nsw/107318786
   The former childcare worker is currently serving life in jail in Queensland after admitting to offences against 69 girls at early learning centres in Brisbane and Italy over two decades.
 - Israel election: what we know so far — Guardian +2 (BBC, SMH) · 29 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb
@@ -52,14 +58,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Victoria's country roads are shaping up to be a major issue in next month's state election, with both major parties ramping up promises of funding to win over fed-up regional voters.
 - Rare Nanotyrannus skeleton sells for $47.3m at New York auction — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction
   Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus…
-- Helen Haines’s condition improves days after losing both legs from alleged attack — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb
-  Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email , free app or daily news podcast Independent MP Helen Haines’s condition has…
-- WA Greens senator to miss parliament amid allegations — ABC +1 (Guardian) · 24 Oct · https://www.abc.net.au/news/2026-10-24/wa-greens-senator-jordon-steele-john-will-not-attend-parliament/107304512
-  Jordon Steele-John says he will not attend parliament next week, as he releases a copy of a letter detailing allegations of misconduct against him.
 - ‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes — Guardian +1 (BBC) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes
   Families forced to flee as Netanyahu tries to prove security credentials after two Israeli soldiers killed days before election Hebron, the biggest city in the West Bank, had paid little attention to…
-- US south-west braces for more flooding after stretch of heavy rain and storms — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms
-  More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially…
 - WA set to become first state to legalise plug-in solar panels, batteries — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/western-australia-to-lift-ban-on-balcony-solar/107316134
   WA is set to be the first Australian state to unlock access to the technology, commonly known as "balcony solar", which is already used by millions of people in Europe and the UK.
 - Kim Jong Un crosses new bridge into China as trade ties warm — ABC +1 (Guardian) · 25 Oct · https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932
@@ -68,10 +68,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Oil prices have jumped, putting downward pressure on global stock markets, including the ASX. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
 - British woman dies trying to save sons on Bahamas snorkelling trip — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip
   Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a…
-- Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb
-  Zali Steggall and Monique Ryan say Coalition leader was wrong to deny link between parliamentary debate and political violence Angus Taylor has been criticised for his response to the alleged attack…
-- Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ — Guardian +1 (BBC) · 24 Oct · https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out
-  Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last…
 - China expels a record number from Communist party amid Xi’s intensified purges of top officials — Guardian +1 (BBC) · 30 Oct · https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum
   The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from…
 - Netanyahu and opposition on equal footing in Israeli election with no clear winner — ABC +1 (BBC) · 28 Oct · https://www.abc.net.au/news/2026-10-28/israel-elections-netanyahu-eisenkot-deadlock/107317018
@@ -84,13 +80,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of…
 - Ukraine’s military says Starlink satellite connection stable after recent restrictions — Guardian +1 (BBC) · 25 Oct · https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions
   Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’ Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government has…
+- Two Australians unaccounted for after Spain rail disaster — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/dfat-confirming-welfare-of-2-australians-in-spain/107330458
+  Australian authorities are working to confirm the wellbeing of two Australians after the deadly train crash in Spain earlier this week.
 - Department sinks PM's claim $6m golf club grant was to fix sewage issues — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346
   Infrastructure Department officials categorically rejected the prime minister's claim regarding the Marrickville Golf Club grant at a Senate estimates hearing last night.
-(+56 more not listed)
-
-## Australian politics and economy – other candidates
 - One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer — Guardian +1 (SMH) · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb
   Pauline Hanson says Anthony Albanese made ‘unsolicited’ offer of adviser with $200,000 salary to one of her MPs Get our daily political email , free app or daily news podcast The prime minister…
+(+53 more not listed)
+
+## Australian politics and economy – other candidates
 - How WhatsApp 'army' flipped Brazil election and halted Trumpian trend — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/brazil-election-lulas-army-whatsapp-group-flipped-result/107313166
   Twenty-one days and an "army" of voters is all it took for a social media movement to grow so vocal it delivered Luiz Inácio Lula da Silva an historic fourth presidential term.
 - ‘Like a stone in our hearts’: PM leads Helen Haines tributes as parliament pauses to praise ‘fighter’ — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb
@@ -99,8 +97,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   In an episode of Pauline Hanson's Please Explain series released in 2024, Bluey and former Victorian premier Daniel Andrews were depicted running over each other.
 - Parliament grieves as cardboard cockatoo serves as Helen Haines tribute — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/helen-haines-tributes-in-federal-parliament/107307826
   As parliament suspended business to offer messages of support for attack victim MP Helen Haines, an orange cockatoo was poignantly perched in her empty seat in the House of Reps.
-- Serbian president concedes defeat to student-led movement in election — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808
-  Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.
 - Albanese has a sewerage problem and the Coalition loves the stench — ABC +1 (SMH) · 29 Oct · https://www.abc.net.au/news/2026-10-29/politics-albanese-courtney-gould/107313486
   Questions over a golf club grant were just the beginning of a tough week in parliament for Anthony Albanese and his government.
 - Businesses hoping for 'salvation' from Sydney's new metro line — ABC +1 (SMH) · 29 Oct · https://www.abc.net.au/news/2026-10-29/sydney-marrickville-businesses-southwest-metro-construction/107324256
@@ -113,10 +109,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.
 - ‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win
   Leaders and governments worldwide congratulate Lula on dramatic comeback seen as an important signal to rest of Latin America Lula supporters celebrate election victory – in pictures Luiz Inácio Lula…
-- Amanda Stoker to replace Amanda Camm as child safety and DV minister — ABC +1 (SMH) · 24 Oct · https://www.abc.net.au/news/2026-10-24/premier-cabinet-change-amanda-stoker-camm-child-safety-dv/107304396
-  Child Safety Minister Amanda Camm announced she would be standing down this week because of health challenges.
 - Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/us-midterms-elections-dan-sullivans-alaska-donald-trump/107323036
   Something fishy is going on in Alaska ahead of the midterms, but it has nothing to do with the state's famous seafood and everything to do with two men with the same name.
+- Amanda Stoker to replace Amanda Camm as child safety and DV minister — ABC +1 (SMH) · 24 Oct · https://www.abc.net.au/news/2026-10-24/premier-cabinet-change-amanda-stoker-camm-child-safety-dv/107304396
+  Child Safety Minister Amanda Camm announced she would be standing down this week because of health challenges.
 - Huge gas-fired power station plan quietly revealed amid renewables fanfare — ABC · 27 Oct · https://www.abc.net.au/news/2026-10-27/bid-to-double-wa-renewable-energy-output-amid-price-rise-warning/107313754
   WA's environmental watchdog releases for public comment a plan for a mega gas-fired power plant on the same day the state government trumpets an ambitious plan to almost double renewable energy…
 - ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics
@@ -169,35 +165,41 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A proposed national childcare commission will be discussed at a meeting of education ministers next week, as the government faces renewed calls for changes following a Four Corners investigation into…
 - North Korean workers sold into Russia then stripped of wages, report finds — ABC · 29 Oct · https://www.abc.net.au/news/2026-10-29/north-korea-russia-labour-funding-missile-program/107318780
   Russian brokers are advertising North Korean workers to companies as part of a forced labour program being used to fund Pyongyang's ballistic missile program, a new report has alleged.
-(+126 more not listed)
+- SA MP recounts 'non-stop' messages and being followed to her car — ABC · 28 Oct · https://www.abc.net.au/news/2026-10-28/sa-mps-lucy-hood-and-ella-shaw-stalking-experiences/107318454
+  Two female South Australian politicians have revealed their separate experiences with a man who has been cautioned by police for stalking — including an incident where one of them was followed back…
+- 50,000 people could get compensation for unlawful Centrelink suspensions — ABC · 28 Oct · https://www.abc.net.au/news/2026-10-28/centrelink-jobseeker-compliance-regime-restarts/107313184
+  The federal government has invited more than 50,000 people to apply for compensation as it reinstates part of its controversial welfare compliance regime.
+(+124 more not listed)
 
 ## Other prominent general stories – one outlet
 - Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
   Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
-- Two Australians unaccounted for after Spain rail disaster — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/dfat-confirming-welfare-of-2-australians-in-spain/107330458
-  Australian authorities are working to confirm the wellbeing of two Australians after the deadly train crash in Spain earlier this week.
 - Russian drone strike on Ukrainian train platform kills 14 — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816
   A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
 - Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
   A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
-- Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb
-  Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has…
 - Man charged over allegedly false Bondi terror attack injury claim — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/nsw-man-charged-over-bondi-terror-attack-injury-claim/107317020
   The man is accused of making a false statement that he was injured in the Bondi shooting and making subsequent fraudulent claims for compensation.
+- Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb
+  Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has…
 - Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro — Guardian +1 (BBC) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election
   Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva…
-- 'Eyes moving west': Sydney's new airport opens to passengers today — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784
-  "Eyes are moving west" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.
+- US south-west braces for more flooding after stretch of heavy rain and storms — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms
+  More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially…
 - What happens next for Sam Wood after his bail has been denied — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/qld-sam-wood-denied-bail-what-happens-next/107328044
   Former reality TV contestant Sam Wood is set to spend at least another six months behind bars in south-east Queensland, after his second failed bail bid.
+- 'Eyes moving west': Sydney's new airport opens to passengers today — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784
+  "Eyes are moving west" when it comes to forward-planning for the future growth of Western Sydney and its new airport, which opens to passengers today.
+- Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’ — Guardian +1 (BBC) · 30 Oct · https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close
+  Independent outlet, whose former editor won Nobel peace prize, says Russian authorities have forced it to shut Europe live – latest updates The Russian independent newspaper Novaya Gazeta has…
 - iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
   Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple…
 - Police investigate bullet inscribed with 'RAT' found on Victorian MP's car — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762
   Emergency Services Minister Paul Edbrooke, a former firefighter, found the bullet on his car on Saturday.
-- Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’ — Guardian +1 (BBC) · 30 Oct · https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close
-  Independent outlet, whose former editor won Nobel peace prize, says Russian authorities have forced it to shut Europe live – latest updates The Russian independent newspaper Novaya Gazeta has…
 - Men charged with national security offences over incident at US base in England — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522
   Two men have been charged with national security offences over last month's incident at RAF Fairford, a US-run military base in England.
+- British student pilot among three dead after two helicopters collide in Oregon — Guardian +1 (BBC) · 31 Oct · https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide
+  Flight instructor, 22, and pilot, 38, among other fatalities after mid-air collision occurs near small airport Three people have been killed after two helicopters collided in mid-air near a small…
 - Trump expands hunt for voter fraud ahead of midterms — ABC +1 (BBC) · 29 Oct · https://www.abc.net.au/news/2026-10-29/us-midterms-daily-news-briefing-trump-obama/107318004
   The Trump administration demands records on tens of thousands of voters as it ramps up efforts to uncover evidence of voter fraud. Meanwhile, a new twist in the dual Dan Sullivan duel emerges.
 - Giant, spiked hail falls as 'very dangerous' storms hit Queensland — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/queensland-hail-stones-thunderstorm/107315704
@@ -206,8 +208,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The accused told his friend he had "misheard" an alleged confession he had "killed people" in recordings played to court.
 - Another Perth beach closed as more whale remains found — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/sorrento-beach-closed-whale-carcass/107306512
   All beaches in Sorrento, where a man was attacked and killed by a great white shark last month, have been closed after a whale's tail was found offshore.
-- British student pilot among three dead after two helicopters collide in Oregon — Guardian +1 (BBC) · 31 Oct · https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide
-  Flight instructor, 22, and pilot, 38, among other fatalities after mid-air collision occurs near small airport Three people have been killed after two helicopters collided in mid-air near a small…
 - Man charged with murder over alleged fatal stabbing of partner — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/man-charged-with-murder-over-alleged-stabbing-partner-rdh/107316154
   A 39-year-old man has been charged with murder over the death of his female partner, who died in hospital last month after being allegedly stabbed twice in the chest.
 - Maurene Comey was illegally fired as federal prosecutor, judge rules — Guardian +1 (BBC) · 27 Oct · https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling
@@ -216,13 +216,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Russell Brand is on trial in London charged with the rape, sexual assault and attempted indecent assault of six women between 1999 and 2009.
 - Anthropic files to list on stock market in potential $US1.5tn float — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/anthropic-claude-ipo-filing/107312096
   The company behind Claude could be floated on the Nasdaq as soon as next month, despite making a $114 billion loss in the first half of 2026.
+- Evacuation begins from ravaged Russian-controlled Ukrainian city — ABC +1 (Guardian) · 30 Oct · https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652
+  Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
 - Final MotoGP race at Phillip Island washed out — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532
   The MotoGP race at Phillip Island has been cancelled due to heavy rain and poor visibility.
 - Met Police received letter about Meghan Markle's father in 2019 — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/met-police-received-letter-about-meghan-markles-father/107305284
   It comes after Meghan, Duchess of Sussex revealed on Friday she was informed in 2018 about "disturbing allegations" against her father, Thomas Markle, which prompted her to keep her children away…
-- Evacuation begins from ravaged Russian-controlled Ukrainian city — ABC +1 (Guardian) · 30 Oct · https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652
-  Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
-(+1203 more not listed)
+(+1199 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - SpaceX Launches Grok AI Partner Program: Here’s What To Know — CRN · 29 Oct · https://www.crn.com.au/news-network/ai/2026/spacex-launches-grok-ai-partner-program-here-s-what-to-know
@@ -345,7 +345,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Enterprise open-source vendor SUSE is making a play around sovereign AI through a partnership with NVIDIA to help organisations run private enterprise AI in their own environments. The integration of…
 - Versent’s Tim Hope joins DX1 to help enterprises adopt AI with confidence — ARN · 26 Oct · https://www.arnnet.com.au/article/4239394/versents-tim-hope-joins-dx1-to-help-enterprises-adopt-ai-with-confidence.html
   After over a decade with Versent helping regulated organisations adopt cloud and AI, Tim Hope has joined Sydney-based engineering consultancy DX1 Australia to help customers connect technical…
-(+7 more not listed)
+(+6 more not listed)
 
 ## Technology news (BBC, Guardian)
 - Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms — Guardian · 31 Oct · https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax
@@ -444,14 +444,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights deals Get our new political email , free app or daily news podcast The Socceroos star stares…
 - The datacentre next door: on the frontline of tech’s latest David v Goliath battle — Guardian · 24 Oct · https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle
   The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban…
-- UK to invest £100m in 'world first' AI Biosecurity Lab — BBC · 24 Oct · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo
-  The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
 
 ## Cars (CarExpert)
-- Chery's global push includes London headquarters for one of its brands — CarExpert · 31 Oct · https://www.carexpert.com.au/car-news/cherys-global-push-includes-london-headquarters-for-one-of-its-brands
-  Chery’s international boss wants some brand headquarters outside China, floating London for Jaecoo as the company expands its global operations.
 - 2027 Hyundai i30 Sedan N Monochrome pricing: Subtle special brings notable price increase — CarExpert · 31 Oct · https://www.carexpert.com.au/car-news/2027-hyundai-i30-sedan-n-monochrome-pricing-subtle-special-brings-notable-price-increase
   Hyundai's special-edition sports sedan adds new alloy wheels, dark trim and Alcantara and carbon-fibre accents for an extra $5000 over a loaded i30 Sedan N.
+- Chery's global push includes London headquarters for one of its brands — CarExpert · 31 Oct · https://www.carexpert.com.au/car-news/cherys-global-push-includes-london-headquarters-for-one-of-its-brands
+  Chery’s international boss wants some brand headquarters outside China, floating London for Jaecoo as the company expands its global operations.
 - Denza B5 price cut: BYD’s Toyota Prado rival now priced under $74k drive-away — CarExpert · 31 Oct · https://www.carexpert.com.au/car-news/denza-b5-price-cut-byds-toyota-prado-rival-now-priced-under-dollar74k-drive-away
   Denza’s top-seller has been significantly discounted with drive-away pricing as the Chinese brand makes way for newer stock of the large off-road SUV.
 - 2027 Rolls-Royce Spectre II: Quick drive — CarExpert · 25 Oct · https://www.carexpert.com.au/car-reviews/2027-rolls-royce-spectre-ii-quick-drive
@@ -564,6 +562,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   If you know Neil Armstrong but don’t remember Michael Collins, we don’t blame you – but thanks to the MG Car Club of Victoria, we now have something in common after a run in the legendary Rob Roy…
 
 ## Science (Guardian, BBC)
+- UK could see 10 days without rain after 'wettest week in two years' — BBC · 31 Oct · https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo
+  With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.
 - Fears for mature Scots Pines burned by huge Highland wildfire — BBC · 31 Oct · https://www.bbc.co.uk/news/articles/cqd09pv4l3k0o
   Experts say some older Scot pine damaged by fire could die removing an important source of seeds
 - Hazardous driving conditions for Friday as fog warning issued by Met Office — BBC · 30 Oct · https://www.bbc.co.uk/weather/articles/c6ly075l742ro
@@ -697,23 +697,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 31 Oct 09:44 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 31 Oct 09:44 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 31 Oct 09:44 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 31 Oct 09:44 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 31 Oct 09:44 | 37 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 31 Oct 09:44 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 31 Oct 09:44 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 31 Oct 09:44 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 31 Oct 09:44 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 31 Oct 09:44 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 31 Oct 09:44 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 31 Oct 09:44 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 31 Oct 09:44 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 31 Oct 09:44 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 31 Oct 09:44 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 31 Oct 09:44 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 31 Oct 09:44 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 31 Oct 09:44 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 31 Oct 12:02 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 31 Oct 12:02 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 31 Oct 12:02 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 31 Oct 12:02 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 31 Oct 12:02 | 39 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 31 Oct 12:02 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 31 Oct 12:02 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 31 Oct 12:02 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 31 Oct 12:02 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 31 Oct 12:02 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 31 Oct 12:02 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 31 Oct 12:02 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 31 Oct 12:02 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 31 Oct 12:02 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 31 Oct 12:02 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 31 Oct 12:02 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 31 Oct 12:02 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 31 Oct 12:02 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,372 tokens._
+_Approximate reading cost of this digest: 29,355 tokens._
