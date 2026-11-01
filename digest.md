@@ -1,7 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sun 01 Nov 2026, 12:12 Sydney time. Stories from 25 Oct to 01 Nov. 1811 stories held from 17 of 18 sources.
-**Sources with problems:** Loft For Words - QPR match reports (details at the end).
+Updated Sun 01 Nov 2026, 13:54 Sydney time. Stories from 25 Oct to 01 Nov. 1817 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -31,12 +30,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The 19-year-old is fighting for her life in intensive care after being gunned down by two masked men outside Fitzys Loganholme on Saturday night.
 - Nvidia CEO reportedly targeted by Chinese spy — Guardian +2 (BBC, SMH) · 30 Oct · https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy
   Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has…
+- FBI accuses North Korea of Binance hack — ABC +2 (BBC, Guardian) · 01 Nov · https://www.abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446
+  The FBI has backed the opinion of crypto experts, by officially accusing North Korean hackers of stealing more than $US6 billion from cryptocurrency exchange Binance.
 - Childcare paedophile Ashley Paul Griffith extradited to NSW — ABC +2 (Guardian, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/qld-ashley-paul-griffith-extradited-to-nsw/107318786
   The former childcare worker is currently serving life in jail in Queensland after admitting to offences against 69 girls at early learning centres in Brisbane and Italy over two decades.
 - Israel election: what we know so far — Guardian +2 (BBC, SMH) · 29 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb
   With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties Israel election…
-- Israel presses ahead with West Bank army operation days before election — ABC +2 (BBC, SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944
-  The crackdown in the occupied West Bank has seen homes and businesses demolished following the killing of two Israeli soldiers.
 - Justice department charges ex-FBI director James Comey for third time — Guardian +2 (BBC, SMH) · 27 Oct · https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj
   Comey, an outspoken critic of Donald Trump, accused of leaking information related to US national defense The justice department charged former FBI director James Comey on Monday with two counts of…
 - Brand used fame to 'facilitate' sex but consent was key, he tells jury — ABC +2 (Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966
@@ -87,7 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
 - US approves $3 billion Patriot missile sale to Ukraine — ABC +1 (BBC) · 31 Oct · https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652
   The move is one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration.
-(+51 more not listed)
+(+53 more not listed)
 
 ## Australian politics and economy – other candidates
 - How WhatsApp 'army' flipped Brazil election and halted Trumpian trend — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/brazil-election-lulas-army-whatsapp-group-flipped-result/107313166
@@ -142,6 +141,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Everyone grows up, grows older and learns in Canberra that the politics of passion give way to the business of governing and pragmatism.
 - The economic outlook for 2027 is stark. Ordinary workers will wear the costs — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778
   Right now, some of our largest and most visible institutions are trimming or fighting with employees, in an economy that's powered by the build-out of job-changing technology that is both gargantuan…
+- Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal — Guardian · 01 Nov · https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west
+  Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news…
 - Criticism of One Nation cartoon of ex-Victorian premier Jacinta Allan — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/one-nation-cartoon-david-farley-staffing/107331900
   A new One Nation cartoon has depicted former Victorian premier Jacinta Allan as a witch, earning a rebuke from deputy premier Gabrielle Williams, who described it as misogynistic.
 - Politics is an image game, and the government needs to find better visuals — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/question-time-albanese-chalmers-jacob-greber/107327714
@@ -168,9 +169,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The federal government has invited more than 50,000 people to apply for compensation as it reinstates part of its controversial welfare compliance regime.
 - UN experts disappointed shackling and strip-searching bills blocked — ABC · 27 Oct · https://www.abc.net.au/news/2026-10-27/un-criticises-parliament-over-shackling-stripsearch-bills/107314010
   United Nations experts have released a statement calling on the Australian parliament to progress reforms for women and children in custody after legislation on shackling and strip-searching was…
-- Rome demonstrators storm Colosseum as Europe's youth protests spread — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/italy-protests-colosseum-cost-of-living/107308262
-  Later in the evening, clashes erupted between protesters and police elsewhere in central Rome, with officers using water cannons to disperse the crowd.
-(+131 more not listed)
+(+132 more not listed)
 
 ## Other prominent general stories – one outlet
 - Man charged over allegedly false Bondi terror attack injury claim — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/nsw-man-charged-over-bondi-terror-attack-injury-claim/107317020
@@ -181,10 +180,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Former reality TV contestant Sam Wood is set to spend at least another six months behind bars in south-east Queensland, after his second failed bail bid.
 - Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro — Guardian +1 (BBC) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election
   Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva…
-- US south-west braces for more flooding after stretch of heavy rain and storms — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms
-  More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially…
 - More than 50m Americans cast ballots in early voting with three days to go before midterms — Guardian +1 (BBC) · 01 Nov · https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms
   Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions…
+- US south-west braces for more flooding after stretch of heavy rain and storms — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms
+  More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially…
+- Israel to close West Bank crossings on election day as crackdown escalates — BBC +1 (SMH) · 25 Oct · https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o
+  The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.
 - Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens — BBC +1 (SMH) · 30 Oct · https://www.bbc.co.uk/news/articles/c60me298k1yeo
   Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 - iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
@@ -213,16 +214,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Russell Brand is on trial in London charged with the rape, sexual assault and attempted indecent assault of six women between 1999 and 2009.
 - Anthropic files to list on stock market in potential $US1.5tn float — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/anthropic-claude-ipo-filing/107312096
   The company behind Claude could be floated on the Nasdaq as soon as next month, despite making a $114 billion loss in the first half of 2026.
-- Final MotoGP race at Phillip Island washed out — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532
-  The MotoGP race at Phillip Island has been cancelled due to heavy rain and poor visibility.
 - Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
   Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of…
+- Final MotoGP race at Phillip Island washed out — ABC +1 (SMH) · 25 Oct · https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532
+  The MotoGP race at Phillip Island has been cancelled due to heavy rain and poor visibility.
 - Neo-Nazi Thomas Sewell pleads guilty to Camp Sovereignty violence — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/camp-sovereignty-incident-thomas-sewell-court-guilty-plea/107317606
   Neo-Nazi Thomas Sewell and three other men plead guilty to charges linked to an alleged attack at Melbourne's Camp Sovereignty last year.
 - Liberal candidate's husband allegedly assaulted over campaign sign — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/victorian-liberal-amanda-dow-husband-allegedly-assaulted/107311462
   A 59-year-old man is charged after over the alleged assault of Amanda Dow's husband on Sunday.
-- Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb
-  Robert John Crawford on trial after wife found near ride-on lawnmower on their Toowoomba property Get our breaking news email , free app or daily news podcast A former RAAF pilot was a “love rat” and…
 (+1227 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
@@ -349,8 +348,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+3 more not listed)
 
 ## Technology news (BBC, Guardian)
+- These firms you've never heard of are feeding fears the AI bubble could burst — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/cje36degrgv5o
+  The amount of debt held by data centres is measured in the tens of billions of pounds.
 - Is AI your new wingman? How chatbots are transforming dating — Guardian · 31 Oct · https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating
   Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI. Google…
+- The staggering $446m Elon Musk has spent on the US midterms – visualized — Guardian · 31 Oct · https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized
+  The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history Elon Musk has poured so much money into US politics this midterms…
 - ‘Apologies for any confusion!’: how to write the perfect passive-aggressive email — Guardian · 31 Oct · https://www.theguardian.com/technology/2026/oct/31/apologies-for-any-confusion-how-to-write-the-perfect-passive-aggressive-email
   In a survey, ‘just to be clear’ came out as the most loathed phrase. But I think I can do better A new contender for the most passive-aggressive email phrase has emerged. “Just to be clear” was…
 - Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms — Guardian · 31 Oct · https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax
@@ -700,23 +703,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 01 Nov 12:12 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 01 Nov 12:12 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 01 Nov 12:12 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 01 Nov 12:12 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 01 Nov 12:12 | 27 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 01 Nov 12:12 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 01 Nov 12:12 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 01 Nov 12:12 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 01 Nov 12:12 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 01 Nov 12:12 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 01 Nov 12:12 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 01 Nov 12:12 | 29 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 01 Nov 12:12 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 01 Nov 12:12 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 01 Nov 12:12 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 01 Nov 12:12 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 01 Nov 12:12 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | Problem: URLError: <urlopen error [Errno 104] Connection reset by peer> | 01 Nov 09:40 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 01 Nov 13:54 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 01 Nov 13:54 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 01 Nov 13:54 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 01 Nov 13:54 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 01 Nov 13:54 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 01 Nov 13:54 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 01 Nov 13:54 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 01 Nov 13:54 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 01 Nov 13:54 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 01 Nov 13:54 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 01 Nov 13:54 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 01 Nov 13:54 | 29 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 01 Nov 13:54 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 01 Nov 13:54 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 01 Nov 13:54 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 01 Nov 13:54 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 01 Nov 13:54 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 01 Nov 13:54 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,430 tokens._
+_Approximate reading cost of this digest: 29,544 tokens._
