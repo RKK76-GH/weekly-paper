@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sun 01 Nov 2026, 21:46 Sydney time. Stories from 25 Oct to 01 Nov. 1792 stories held from 18 of 18 sources.
+Updated Sun 01 Nov 2026, 23:54 Sydney time. Stories from 25 Oct to 01 Nov. 1792 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -74,10 +74,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Emergency services were called to Smothering Creek at Boompa Road on the Fraser Coast just after 11am.
 - Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb
   Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of…
-- Department sinks PM's claim $6m golf club grant was to fix sewage issues — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346
-  Infrastructure Department officials categorically rejected the prime minister's claim regarding the Marrickville Golf Club grant at a Senate estimates hearing last night.
 - More than 50m Americans cast ballots in early voting with three days to go before midterms — Guardian +1 (BBC) · 01 Nov · https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms
   Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions…
+- Department sinks PM's claim $6m golf club grant was to fix sewage issues — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346
+  Infrastructure Department officials categorically rejected the prime minister's claim regarding the Marrickville Golf Club grant at a Senate estimates hearing last night.
 - One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer — Guardian +1 (SMH) · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb
   Pauline Hanson says Anthony Albanese made ‘unsolicited’ offer of adviser with $200,000 salary to one of her MPs Get our daily political email , free app or daily news podcast The prime minister…
 - Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
@@ -115,14 +115,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news…
 - Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it
   As next week’s all but certain rate rise looms, there is one thing we can all agree on: the end of war in the Middle East can’t come soon enough Get our daily political email , free app or daily news…
-- The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs — Guardian · 27 Oct · https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs
-  Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes Get our daily political email , free app or daily news podcast The explosion of…
 - Albanese looks for reset on world stage as ‘spot fires burn’ domestically and likely interest rate hike looms — Guardian · 31 Oct · https://www.theguardian.com/australia-news/2026/oct/31/albanese-reset-world-stage-economic-spot-fires-rba-interest-rate-decision
   The prime minister will speak with King Charles and others at the Commonwealth heads of government meeting in Antigua and Barbuda Get our daily political email , free app or daily news podcast As…
-- Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians — Guardian · 27 Oct · https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb
-  Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app…
+- The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs — Guardian · 27 Oct · https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs
+  Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes Get our daily political email , free app or daily news podcast The explosion of…
 - Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal — Guardian · 01 Nov · https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west
   Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news…
+- Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians — Guardian · 27 Oct · https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb
+  Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app…
 - Albanese concedes savings needed as he faces internal Labor pressure on cost-of-living crisis — Guardian · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/albanese-concedes-savings-needed-as-he-faces-internal-labor-pressure-on-cost-of-living-crisis
   Prime minister vows not to slash health and education funding amid political problem over handling of economy Get our daily political email , free app or daily news podcast Anthony Albanese has ruled…
 - Victoria’s 2026 state election could have ‘great consequences’ for politics across Australia. What do voters need to know? — Guardian · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/28/victoria-state-election-2026-vic-explained-what-do-voters-need-to-know
@@ -133,14 +133,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Official’s controversial September request for Senate hearing footage to not be shared on social media has been heavily criticised Get our daily political email , free app or daily news podcast The…
 - Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb
   The prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Get our daily political email , free app or daily news podcast One…
-- The Republican senator campaigning on her clashes with Trump — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/susan-collins-distances-from-donald-trump-midterm-elections/107331256
-  Donald Trump desperately wants to retain a Republican majority in the US Senate. He is banking on the success of a senator whose campaign tactics include talking up her differences with the president.
-- Cooling property market delivers $5 billion blow to Victorian budget — ABC · 30 Oct · https://www.abc.net.au/news/2026-10-30/vic-budget-update-property-market-fall-debt/107327810
-  A reduced take from stamp duty and land taxes will shave an average of $1.3 billion from the state's tax revenue over the coming four years, according to a fiscal update delivered on Friday.
-- Albanese faces stark choice if Trump escalates Iran war — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/albanese-quiet-on-iran-war-as-uncertainty-grows/107306234
-  Everyone grows up, grows older and learns in Canberra that the politics of passion give way to the business of governing and pragmatism.
-- The economic outlook for 2027 is stark. Ordinary workers will wear the costs — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778
-  Right now, some of our largest and most visible institutions are trimming or fighting with employees, in an economy that's powered by the build-out of job-changing technology that is both gargantuan…
 - Albanese flies to Caribbean for summit as households brace for rate pain — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040
   The prime minister is travelling to Antigua and Barbuda to discuss climate, trade and AI regulation with other Commonwealth leaders.
 - US election officials brace for violence and intimidation at polling booths — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/us-midterm-election-officials-prepare-ice-agents-trump-meddling/107322620
@@ -151,6 +143,16 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Four interest rate hikes have added hundreds of dollars to mortgages each month, but the story is different for savings accounts.
 - Labor MPs left to defend decisions they had little say in shaping — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/interest-rate-myefo-albanese-armstrong-analysis-economy/107327460
   The prime minister has ridden out plenty of political turbulence before, but now economic headwinds are being compounded by growing frustration within his own ranks.
+- The Republican senator campaigning on her clashes with Trump — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/susan-collins-distances-from-donald-trump-midterm-elections/107331256
+  Donald Trump desperately wants to retain a Republican majority in the US Senate. He is banking on the success of a senator whose campaign tactics include talking up her differences with the president.
+- Cooling property market delivers $5 billion blow to Victorian budget — ABC · 30 Oct · https://www.abc.net.au/news/2026-10-30/vic-budget-update-property-market-fall-debt/107327810
+  A reduced take from stamp duty and land taxes will shave an average of $1.3 billion from the state's tax revenue over the coming four years, according to a fiscal update delivered on Friday.
+- Albanese faces stark choice if Trump escalates Iran war — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/albanese-quiet-on-iran-war-as-uncertainty-grows/107306234
+  Everyone grows up, grows older and learns in Canberra that the politics of passion give way to the business of governing and pragmatism.
+- The economic outlook for 2027 is stark. Ordinary workers will wear the costs — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778
+  Right now, some of our largest and most visible institutions are trimming or fighting with employees, in an economy that's powered by the build-out of job-changing technology that is both gargantuan…
+- Liberal MP pushes for party to rule out changes to superannuation — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948
+  Garth Hamilton argues the party has to shift its policy to reflect the mood of the nation and abandon any return to a super-for-housing type of policy.
 - Criticism of One Nation cartoon of ex-Victorian premier Jacinta Allan — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/one-nation-cartoon-david-farley-staffing/107331900
   A new One Nation cartoon has depicted former Victorian premier Jacinta Allan as a witch, earning a rebuke from deputy premier Gabrielle Williams, who described it as misogynistic.
 - Politics is an image game, and the government needs to find better visuals — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/question-time-albanese-chalmers-jacob-greber/107327714
@@ -163,12 +165,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Follow along as we bring you the latest live news updates from an election widely seen as a referendum on Benjamin Netanyahu’s almost two decades in power.
 - 'Get a reality check': Cartoon maker refuses to apologise to Jacqui Lambie — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/one-nation-cartoon-political-jacqui-lambie-pauline-hanson/107308528
   Senator Jacqui Lambie is calling on the One Nation candidate and creator of the party's 'Please Explain' cartoons to drop out of the race for an upper house seat in next month's Victorian election.
-- Liberal MP pushes for party to rule out changes to superannuation — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948
-  Garth Hamilton argues the party has to shift its policy to reflect the mood of the nation and abandon any return to a super-for-housing type of policy.
-- Israel's Arab parties emerge from deadlocked election as kingmakers — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/israel-election-leaves-anti-netanyahu-arab-parties-kingmakers/107326622
-  A record turnout of Arabs, many of whom identify as Palestinian citizens of Israel, tipped the political scales in the election and turned the Arab-majority parties into kingmakers in a deadlocked…
-- Economist delivers 'worst-case scenario' on interest rates as inflation fails to cool — ABC · 30 Oct · https://www.abc.net.au/news/2026-10-30/could-more-rate-rises-tip-us-into-recession/107322554
-  The Reserve Bank has so far been unable to pull inflation down to its target range of between 2 and 3 per cent. The only option left, it seems, is to take a sledgehammer to demand.
+- Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’ — Guardian · 01 Nov · https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust
+  Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a…
+- Third weekend of protests in France as youth-led rallies sweep Europe — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208
+  Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education.
 (+141 more not listed)
 
 ## Other prominent general stories – one outlet
@@ -184,14 +184,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Former reality TV contestant Sam Wood is set to spend at least another six months behind bars in south-east Queensland, after his second failed bail bid.
 - iPhone Duo owners report cracks in Apple’s first foldable handset — Guardian +1 (SMH) · 27 Oct · https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset
   Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple…
-- Evacuation begins from ravaged Russian-controlled Ukrainian city — ABC +1 (Guardian) · 30 Oct · https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652
-  Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
-- Police investigate bullet inscribed with 'RAT' found on Victorian MP's car — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762
-  Emergency Services Minister Paul Edbrooke, a former firefighter, found the bullet on his car on Saturday.
 - Breaking: Two boys, 16, dead in crash in Perth's north-east — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/two-teenage-boys-dead-bullsbrook-crash/107333718
   Police say the teenagers were the driver and passenger of a car that left the road and struck several trees.
 - Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
   Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of…
+- Evacuation begins from ravaged Russian-controlled Ukrainian city — ABC +1 (Guardian) · 30 Oct · https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652
+  Starving residents of Oleshky in southern Ukraine begin evacuating as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.
+- Police investigate bullet inscribed with 'RAT' found on Victorian MP's car — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762
+  Emergency Services Minister Paul Edbrooke, a former firefighter, found the bullet on his car on Saturday.
 - Men charged with national security offences over incident at US base in England — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522
   Two men have been charged with national security offences over last month's incident at RAF Fairford, a US-run military base in England.
 - British student pilot among three dead after two helicopters collide in Oregon — Guardian +1 (BBC) · 31 Oct · https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide
@@ -208,21 +208,21 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A 39-year-old man has been charged with murder over the death of his female partner, who died in hospital last month after being allegedly stabbed twice in the chest.
 - Maurene Comey was illegally fired as federal prosecutor, judge rules — Guardian +1 (BBC) · 27 Oct · https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling
   Daughter of ex-FBI director James Comey, a Trump foe, was dismissed in 2025 despite her work being widely praised Maurene Comey, the daughter of the former FBI director James Comey, was unlawfully…
+- Tornado-like storm hits NSW Southern Tablelands — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/violent-storm-tears-roof-from-buildings-toppled-tree-near-yass/107333182
+  A violent "tornado-like" storm cell has torn roofs from buildings, toppled trees and brought "golf-ball-sized hail" to a small rural community on the New South Wales Southern Tablelands.
 - Evacuees from Russian-occupied Oleshky reach Ukraine amid ceasefire — ABC +1 (Guardian) · 01 Nov · https://www.abc.net.au/news/2026-11-01/evacuees-from-russian-occupied-oleshky-arrive-in-ukraine/107332470
   Residents evacuated from the Russian-occupied city of Oleshky have reached Ukraine under the most significant truce since Russia's invasion of Ukraine in 2022.
 - Russell Brand's wife tells court actor's promiscuity left her 'heartbroken' — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/russell-brand-wife-gives-evidence-in-his-defence/107325686
   Russell Brand is on trial in London charged with the rape, sexual assault and attempted indecent assault of six women between 1999 and 2009.
 - Anthropic files to list on stock market in potential $US1.5tn float — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/anthropic-claude-ipo-filing/107312096
   The company behind Claude could be floated on the Nasdaq as soon as next month, despite making a $114 billion loss in the first half of 2026.
-- Tornado-like storm hits NSW Southern Tablelands — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/violent-storm-tears-roof-from-buildings-toppled-tree-near-yass/107333182
-  A violent "tornado-like" storm cell has torn roofs from buildings, toppled trees and brought "golf-ball-sized hail" to a small rural community on the New South Wales Southern Tablelands.
 - Who was behind the largest crypto heist in history? — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706
   Almost $9 billion in cryptocurrency was hacked from exchange company Binance, but who was behind the attack and where is the money?
 - Neo-Nazi Thomas Sewell pleads guilty to Camp Sovereignty violence — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/camp-sovereignty-incident-thomas-sewell-court-guilty-plea/107317606
   Neo-Nazi Thomas Sewell and three other men plead guilty to charges linked to an alleged attack at Melbourne's Camp Sovereignty last year.
 - Liberal candidate's husband allegedly assaulted over campaign sign — ABC +1 (SMH) · 26 Oct · https://www.abc.net.au/news/2026-10-26/victorian-liberal-amanda-dow-husband-allegedly-assaulted/107311462
   A 59-year-old man is charged after over the alleged assault of Amanda Dow's husband on Sunday.
-(+1219 more not listed)
+(+1218 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - SpaceX Launches Grok AI Partner Program: Here’s What To Know — CRN · 29 Oct · https://www.crn.com.au/news-network/ai/2026/spacex-launches-grok-ai-partner-program-here-s-what-to-know
@@ -348,6 +348,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+2 more not listed)
 
 ## Technology news (BBC, Guardian)
+- A gift to scammers: why you should probably keep your birthday a secret — Guardian · 01 Nov · https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice
+  Using a fake DOB or leaving the field blank when making an online account can offer protection from identity theft You get a call from your bank saying there has been suspicious activity on your…
 - These firms you've never heard of are feeding fears the AI bubble could burst — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/cje36degrgv5o
   The amount of debt held by data centres is measured in the tens of billions of pounds.
 - Is AI your new wingman? How chatbots are transforming dating — Guardian · 31 Oct · https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating
@@ -562,6 +564,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   While the visual updates are quite minor, the Isuzu D-Max and MU-X are now available in Thailand with a new 2.2-litre bi-turbo diesel engine.
 
 ## Science (Guardian, BBC)
+- Aquarium shark that helped 'dispel myths' dies — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/c64g18lkz0kno
+  Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.
 - Rhino siblings celebrate first birthday with cake — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/cqrkypljk526o
   Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each.
 - Oil tank vandalism results in waterfowl park 'nightmare' — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/c64g14ene2epo
@@ -654,8 +658,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.
 - Man killed by falling tree as Storm Boelo brings more severe weather to UK — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o
   An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.
-- Police using AI risks making discrimination worse, researchers warn — BBC · 25 Oct · https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo
-  AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Rare short-necked oil beetle rediscovered in Wales after nearly 60 years — Guardian · 01 Nov · https://www.theguardian.com/environment/2026/nov/01/rare-short-necked-oil-beetle-rediscovered-wales
@@ -701,23 +703,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 01 Nov 21:46 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 01 Nov 21:46 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 01 Nov 21:46 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 01 Nov 21:46 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 01 Nov 21:46 | 25 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 01 Nov 21:46 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 01 Nov 21:46 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 01 Nov 21:46 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 01 Nov 21:46 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 01 Nov 21:46 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 01 Nov 21:46 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 01 Nov 21:46 | 29 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 01 Nov 21:46 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 01 Nov 21:46 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 01 Nov 21:46 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 01 Nov 21:46 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 01 Nov 21:46 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 01 Nov 21:46 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 01 Nov 23:54 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 01 Nov 23:54 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 01 Nov 23:54 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 01 Nov 23:54 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 01 Nov 23:54 | 25 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 01 Nov 23:54 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 01 Nov 23:54 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 01 Nov 23:54 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 01 Nov 23:54 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 01 Nov 23:54 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 01 Nov 23:54 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 01 Nov 23:54 | 29 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 01 Nov 23:54 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 01 Nov 23:54 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 01 Nov 23:54 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 01 Nov 23:54 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 01 Nov 23:54 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 01 Nov 23:54 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,384 tokens._
+_Approximate reading cost of this digest: 29,479 tokens._
