@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Mon 02 Nov 2026, 16:05 Sydney time. Stories from 26 Oct to 02 Nov. 1798 stories held from 18 of 18 sources.
+Updated Mon 02 Nov 2026, 18:30 Sydney time. Stories from 26 Oct to 02 Nov. 1809 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -16,6 +16,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The 50-year-old survived two doses of pentobarbital as the state tried to execute her for the 1995 stabbing death of 19-year-old classmate Colleen Slemmer.
 - Hundreds stranded as 'cruise for life' operator goes bust over fuel costs — ABC +3 (BBC, Guardian, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/cruise-passengers-stranded-after-fuel-prices-tanks-operator/107320706
   A US-based cruise operator marketing its voyages as permanent holidays for retirees blames the ongoing fuel crisis for abruptly forcing passengers to disembark in Cambodia.
+- Nine dead as business jet crashes into Florida roadside — ABC +3 (BBC, Guardian, SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/business-jet-carrying-9-people-crashes-in-florida-neighbourhood/107335094
+  US officials say a small private jet has crashed into a southern Florida neighbourhood killing all nine people aboard.
 - Live: Erin Patterson awaits appeal decision on mushroom murder convictions — ABC +2 (Guardian, SMH) · 30 Oct · https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086
   Three judges from Victoria's Court of Appeal will hand down their judgment on Erin Patterson's appeal against her murder convictions and on the prosecution's appeal over her sentence.
 - FBI accuses North Korea of Binance hack — ABC +2 (BBC, Guardian) · 01 Nov · https://www.abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446
@@ -36,16 +38,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties Israel election…
 - Justice department charges ex-FBI director James Comey for third time — Guardian +2 (BBC, SMH) · 27 Oct · https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj
   Comey, an outspoken critic of Donald Trump, accused of leaking information related to US national defense The justice department charged former FBI director James Comey on Monday with two counts of…
-- Brand used fame to 'facilitate' sex but consent was key, he tells jury — ABC +2 (Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966
-  The famous actor gave evidence from the dock, telling the jury he was "promiscuous" at the time, but consent was "fundamental" to him. The next day, his wife backed him up in court.
 - France opens 'attempted murder' probe after riot police attacked with petrol bomb — ABC +2 (BBC, Guardian) · 02 Nov · https://www.abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294
   A French officer described "skin that stings" after being set alight by a molotov cocktail during another weekend of protests in Paris.
+- Brand used fame to 'facilitate' sex but consent was key, he tells jury — ABC +2 (Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966
+  The famous actor gave evidence from the dock, telling the jury he was "promiscuous" at the time, but consent was "fundamental" to him. The next day, his wife backed him up in court.
 - Alexander brothers sentenced over 'monstrous' sex trafficking — ABC +2 (BBC, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/alexander-brothers-sentenced-for-sex-trafficking/107319246
   Three brothers found guilty of leveraging their wealth to drug and rape women across luxury locales in the US have been sentenced.
 - Sydney's new metro stations open after two years of disruption — ABC +2 (Guardian, SMH) · 30 Oct · https://www.abc.net.au/news/2026-10-30/nsw-sydney-metro-southwest-line-opens-disruption/107310342
   Public transport enthusiasts, early commuters, politicians and other officials were aboard the first 13-kilometre passenger service from Bankstown to Sydenham that pulled in at 4:31am.
-- Nine dead as business jet crashes into Florida roadside — ABC +2 (Guardian, SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/business-jet-carrying-9-people-crashes-in-florida-neighbourhood/107335094
-  US officials say a small private jet has crashed into a southern Florida neighbourhood killing all nine people aboard.
 - Sydney University hires Jacinda Ardern as lecturer and mentor — ABC +2 (Guardian, SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/nsw-jacinda-ardern-sydney-university-appointment/107312388
   The former New Zealand prime minister has been appointed a professor of practice, with a focus on empathetic leadership, social cohesion and civic trust.
 - Ukrainian air raid alert app sends false warnings after being hacked — ABC +2 (BBC, SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/ukraine-air-force-pubic-air-raid-alert-app-hacked-false-warnings/107336062
@@ -70,8 +70,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Early exit polling and results show incumbent Prime Minister Benjamin Netanyahu's bloc is likely to secure more seats than the opposition, but will still fall short of the majority required to form…
 - Hello Kitty company cuts ties with Japanese spy show after China outcry — Guardian +1 (BBC) · 29 Oct · https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry
   Sanrio ends association with TV drama Vivant after China says portrayal of ruthless Chinese agents is ‘deliberate smear’ The company behind the successful Hello Kitty franchise has apologised and…
-- Breaking: Man found dead in Queensland floodwaters — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850
-  Emergency services were called to Smothering Creek at Boompa Road on the Fraser Coast just after 11am.
 - Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb
   Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of…
 - More than 50m Americans cast ballots in early voting with three days to go before midterms — Guardian +1 (BBC) · 01 Nov · https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms
@@ -86,7 +84,9 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
 - Russian drone strike on Ukrainian train platform kills 14 — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816
   A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
-(+45 more not listed)
+- Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
+  A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
+(+42 more not listed)
 
 ## Australian politics and economy – other candidates
 - How WhatsApp 'army' flipped Brazil election and halted Trumpian trend — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/brazil-election-lulas-army-whatsapp-group-flipped-result/107313166
@@ -105,8 +105,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Democrats' messy Michigan Senate campaign is again marred by friendly fire, with defeated primaries candidate Haley Stevens breaking ranks and endorsing the Republican nominee in Tuesday's…
 - Businesses hoping for 'salvation' from Sydney's new metro line — ABC +1 (SMH) · 29 Oct · https://www.abc.net.au/news/2026-10-29/sydney-marrickville-businesses-southwest-metro-construction/107324256
   After two years of economic pain, the small businesses along Sydney's new Southwest Metro line are breathing a sigh of relief and hoping customers will return in droves.
-- Brazil keeps left: what Lula’s victory means for his country and beyond — Guardian +1 (SMH) · 26 Oct · https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro
-  In today’s newsletter: As Luiz Inácio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relations Good morning. Chances…
 - Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/us-midterms-elections-dan-sullivans-alaska-donald-trump/107323036
   Something fishy is going on in Alaska ahead of the midterms, but it has nothing to do with the state's famous seafood and everything to do with two men with the same name.
 - Huge gas-fired power station plan quietly revealed amid renewables fanfare — ABC · 27 Oct · https://www.abc.net.au/news/2026-10-27/bid-to-double-wa-renewable-energy-output-amid-price-rise-warning/107313754
@@ -123,12 +121,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes Get our daily political email , free app or daily news podcast The explosion of…
 - Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians — Guardian · 27 Oct · https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb
   Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app…
+- Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’ — Guardian · 01 Nov · https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust
+  Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a…
 - Is One Nation losing steam in Victoria? New poll points to possible shift as election nears — Guardian · 01 Nov · https://www.theguardian.com/australia-news/2026/nov/01/is-one-nation-losing-steam-victoria-new-polling-greens-state-election-ntwnfb
   Exclusive: Internal polling by Greens shows progressives ahead of Hanson’s party, as Sandell and Pickering to join Wilson and Carroll at leaders’ debate Get our daily political email , free app or…
 - Albanese concedes savings needed as he faces internal Labor pressure on cost-of-living crisis — Guardian · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/albanese-concedes-savings-needed-as-he-faces-internal-labor-pressure-on-cost-of-living-crisis
   Prime minister vows not to slash health and education funding amid political problem over handling of economy Get our daily political email , free app or daily news podcast Anthony Albanese has ruled…
-- Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’ — Guardian · 01 Nov · https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust
-  Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a…
 - Home values fall for seventh consecutive month as interest rates dent demand — Guardian · 02 Nov · https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand
   Centre of downturn shifts away from Sydney and Melbourne, but after such strong growth most homeowners still sit on sizeable gains Get our breaking news email , free app or daily news podcast…
 - Victoria’s 2026 state election could have ‘great consequences’ for politics across Australia. What do voters need to know? — Guardian · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/28/victoria-state-election-2026-vic-explained-what-do-voters-need-to-know
@@ -165,15 +163,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   One Nation says it will not be bought or divided by the prime minister as a bitter dispute over his power to allocate parliamentary staff intensifies.
 - Israel election 2026 LIVE updates: Netanyahu, Eisenkot go head-to-head in nation’s first and ‘most consequential’ election since October 7 attacks — SMH · 28 Oct · https://www.smh.com.au/world/middle-east/israel-election-2026-live-updates-netanyahu-eisenkot-go-head-to-head-in-nation-s-first-and-most-consequential-election-since-october-7-attacks-20261028-p618xw.html?ref=rss
   Follow along as we bring you the latest live news updates from an election widely seen as a referendum on Benjamin Netanyahu’s almost two decades in power.
-- 'Get a reality check': Cartoon maker refuses to apologise to Jacqui Lambie — ABC · 26 Oct · https://www.abc.net.au/news/2026-10-26/one-nation-cartoon-political-jacqui-lambie-pauline-hanson/107308528
-  Senator Jacqui Lambie is calling on the One Nation candidate and creator of the party's 'Please Explain' cartoons to drop out of the race for an upper house seat in next month's Victorian election.
+- Albanese to discuss rule change for British backpackers — ABC · 02 Nov · https://www.abc.net.au/news/2026-11-02/albanese-to-discuss-british-backpacker-changes-with-burnham/107208084
+  Prime Minister Anthony Albanese will discuss tightening the rules for British backpacker visas when he meets with UK Prime Minister Andy Burnham in the Caribbean this week.
 - Government will not promise net savings in budget update, despite inflation pressure — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/katy-gallagher-wont-promise-myefo-net-savings/107333248
   Finance Minister Katy Gallagher says growing pressures on the federal budget mean the government cannot promise it will find overall savings in its December update, even as Australians brace for…
-(+143 more not listed)
+- Third weekend of protests in France as youth-led rallies sweep Europe — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208
+  Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education.
+(+144 more not listed)
 
 ## Other prominent general stories – one outlet
-- Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
-  A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
 - US approves $3 billion Patriot missile sale to Ukraine — ABC +1 (BBC) · 31 Oct · https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652
   The move is one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration.
 - Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb
@@ -182,8 +180,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 - What happens next for Sam Wood after his bail has been denied — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/qld-sam-wood-denied-bail-what-happens-next/107328044
   Former reality TV contestant Sam Wood is set to spend at least another six months behind bars in south-east Queensland, after his second failed bail bid.
-- Lula celebrates unlikely victory in Brazil as Bolsonaro rejects results — ABC +1 (Guardian) · 26 Oct · https://www.abc.net.au/news/2026-10-26/lula-brazil-election-win-bolsonaro-rejects-results/107308542
-  Two days before his 81st birthday, Brazil's president clinches a historic fourth term. But his opponent is refusing to accept defeat.
 - Breaking: Two boys, 16, dead in crash in Perth's north-east — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/two-teenage-boys-dead-bullsbrook-crash/107333718
   Police say the teenagers were the driver and passenger of a car that left the road and struck several trees.
 - Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
@@ -222,7 +218,11 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A 59-year-old man is charged after over the alleged assault of Amanda Dow's husband on Sunday.
 - Police Scotland says it has received information on Jeffrey Epstein visit to Balmoral with Andrew — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew
   Force says ‘inquiries ongoing’ into visit to royal estate in Scotland, when Ghislaine Maxwell was also present Detectives are investigating time spent by Andrew Mountbatten-Windsor, Jeffrey Epstein…
-(+1226 more not listed)
+- Breaking: Star Casino fined $260m for money laundering violations — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384
+  Australia's financial intelligence agency, AUSTRAC, had sought a much steeper fine that could have forced the casino company into financial collapse.
+- Alleged High Country killer Greg Lynn denied bail — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/greg-lynn-bail-denied-supreme-court-decision/107312570
+  Former Jetstar pilot Greg Lynn has been denied bail, as he waits to face a retrial over the alleged murder of Victorian retiree Carol Clay.
+(+1238 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Intel’s CEO Is ‘Disappointed’ It Couldn’t Meet ‘Strong’ CPU Demand, Cites ‘Near-Term Challenges’ — CRN · 03 Nov · https://www.crn.com.au/news-network/components-peripherals/2026/intel-s-ceo-is-disappointed-it-couldn-t-meet-strong-cpu
@@ -235,6 +235,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Google Cloud sales surged to $30.7 billion as CEO Thomas Kurian touted booming the TPU demand, AI growth and strong GCP revenue in Q3 2026 earnings report.
 - Citadel Edge builds sovereign AI push around Cloudera — CRN · 02 Nov · https://www.crn.com.au/news-network/partners/2026/citadel-edge-builds-sovereign-ai-push-around-cloudera
   “We're doing a fair bit with Cloudera at the moment, especially in Australia and New Zealand,” says Todd Trevillion, Executive General Manager, Strategic Partnerships and Relationships, Citadel Edge.
+- Avocado Consulting establishes data and AI practice with AI Consulting Group buy — ARN · 02 Nov · https://www.arnnet.com.au/article/4243118/avocado-consulting-establishes-data-and-ai-practice-with-ai-consulting-group-buy.html
+  Avocado Consulting has launched a data and AI practice through its acquisition of Sydney-based AI Consulting Group (AICG) after working together for the last two years. Acquired for an undisclosed…
 - Gigamon picks Caerl Murray as A/NZ country manager — ARN · 02 Nov · https://www.arnnet.com.au/article/4243111/gigamon-picks-caerl-murray-as-a-nz-country-manager.html
   Gigamon has appointed Caerl Murray to be the vendor’s next country manager for Australia and New Zealand (A/NZ). In the role, Murray will lead Gigamon’s growth strategy in the region, expand customer…
 - Microsoft quietly fixes Windows troubleshooter privesc vulnerability — iTnews · 02 Nov · https://www.itnews.com.au/news/microsoft-quietly-fixes-windows-troubleshooter-privesc-vulnerability-630060
@@ -343,8 +345,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As Cisco’s 360 partner program moves from strategy to execution, the vendor used Partner Summit 2026 to outline how it will support its channel in capturing opportunities created by AI-driven changes…
 - AirTrunk locks in $4.25B green loan for SYD3 campus — ARN · 27 Oct · https://www.arnnet.com.au/article/4240608/airtrunk-locks-in-4-25b-green-loan-for-syd3-campus.html
   AirTrunk has secured a $4.25 billion green loan to continue developing its SYD3 campus in Sydney. The funds will go towards infrastructure for cloud, AI, and other digital services, with more than…
-- Exclusive: Cisco To Raise Prices On Software, Select Hardware In Portfolio ‘Rebalancing’ — CRN · 27 Oct · https://www.crn.com.au/news-network/networking/2026/exclusive-cisco-to-raise-prices-on-software
-  Cisco is raising list prices on networking and security software as well as select hardware starting Nov. 7, a portfolio “rebalancing” that could have the biggest impact on partner deals already in…
 (+7 more not listed)
 
 ## Technology news (BBC, Guardian)
@@ -444,6 +444,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for a $95bn (£71bn) fundraising to cover its AI…
 
 ## Cars (CarExpert)
+- Hybrid vehicle prices to go up under changing NVES rules, says Hyundai — CarExpert · 02 Nov · https://www.carexpert.com.au/car-news/hybrid-vehicle-prices-to-go-up-under-changing-nves-rules-says-hyundai
+  Australians could soon be paying more for hybrids – or holding onto their older, higher-emission cars – due to NVES thresholds coming into effect in 2027.
+- “Not dead” – Hyundai considers future hydrogen car for Australia — CarExpert · 02 Nov · https://www.carexpert.com.au/car-news/not-dead-hyundai-considers-future-hydrogen-car-for-australia
+  The talk around hydrogen vehicles appears to have died down, but Hyundai insists there’s still a future for fuel-cell cars.
 - New Toyota HiLux GR Sport confirmed for 2027 — CarExpert · 02 Nov · https://www.carexpert.com.au/car-news/new-toyota-hilux-gr-sport-confirmed-for-2027
   The hero version of Toyota Australia’s most popular model has been confirmed for overseas markets, and the Ford Ranger Raptor rival will be built in right-hand drive.
 - Chinese brand patents perhaps the most unusual in-car luxury feature yet — CarExpert · 02 Nov · https://www.carexpert.com.au/car-news/chinese-brand-patents-perhaps-the-most-unusual-in-car-luxury-feature-yet
@@ -558,6 +562,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   It's not quite a facelift, but the Honda HR-V has gained a bit of extra rear-seat comfort and a splash of extra colour in its homeland.
 
 ## Science (Guardian, BBC)
+- Woman who flew with swans warns of lead danger — BBC · 02 Nov · https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo
+  Sacha Dench, known as the "human swan", welcomes new laws banning the sale of lead ammunition.
+- Verdict delayed on controversial sea defences — BBC · 02 Nov · https://www.bbc.co.uk/news/articles/cq9vz2jj409vo
+  The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.
+- Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn — Guardian · 02 Nov · https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn
+  The brilliant planet is about to join the waning crescent moon and the brightest star in the Virgo constellation Early risers have a beautiful sight to look forward to this week as brilliant Venus…
 - Aquarium shark that helped 'dispel myths' dies — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/c64g18lkz0kno
   Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.
 - Rhino siblings celebrate first birthday with cake — BBC · 01 Nov · https://www.bbc.co.uk/news/articles/cqrkypljk526o
@@ -638,16 +648,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Around 90,000 properties are without power after Scotland and north England is battered by strong winds.
 - Storm Boelo clears but more wind and rain bears down on UK — BBC · 26 Oct · https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo
   Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.
-- Plans to create a wildflower meadow take shape — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/c8vgx5qyrl45o
-  Fairstead Recreation Ground is being planted with wildflowers to benefit insects and pollinators.
-- Fed-up driver builds AI litter tracker — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o
-  Robin Bennett says he created the app after getting frustrated by the amount of rubbish beside roads
-- The dump detectives on the trail of the fly-tippers — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/cqy0ry25y32wo
-  The BBC joins environmental enforcement officers as they sift through illegally-dumped waste for clues.
-- What do we still need to know about the Tyne nurdle spill? — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/c34g1e81e9jeo
-  The spill of 18 tonnes of plastic pellets happened in July but there is still a lot we do not know.
-- Fire-hit nature reserve 'will never be the same' — BBC · 26 Oct · https://www.bbc.co.uk/news/articles/c3vgxk9w9rqjo
-  Three months on from a devastating wildfire, the RSPB says it will take 20 years to recover.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Rare short-necked oil beetle rediscovered in Wales after nearly 60 years — Guardian · 01 Nov · https://www.theguardian.com/environment/2026/nov/01/rare-short-necked-oil-beetle-rediscovered-wales
@@ -691,23 +691,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 02 Nov 16:05 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 02 Nov 16:05 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 02 Nov 16:05 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 02 Nov 16:05 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 02 Nov 16:05 | 30 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 02 Nov 16:05 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 02 Nov 16:05 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 02 Nov 16:05 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 02 Nov 16:05 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 02 Nov 16:05 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 02 Nov 16:05 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 02 Nov 16:05 | 28 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 02 Nov 16:05 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 02 Nov 16:05 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 02 Nov 16:05 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 02 Nov 16:05 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 02 Nov 16:05 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 02 Nov 16:05 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 02 Nov 18:30 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 02 Nov 18:30 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 02 Nov 18:30 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 02 Nov 18:30 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 02 Nov 18:30 | 30 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 02 Nov 18:30 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 02 Nov 18:30 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 02 Nov 18:30 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 02 Nov 18:30 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 02 Nov 18:30 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 02 Nov 18:30 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 02 Nov 18:30 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 02 Nov 18:30 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 02 Nov 18:30 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 02 Nov 18:30 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 02 Nov 18:30 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 02 Nov 18:30 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 02 Nov 18:30 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,984 tokens._
+_Approximate reading cost of this digest: 29,087 tokens._
