@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Tue 03 Nov 2026, 09:48 Sydney time. Stories from 27 Oct to 03 Nov. 1804 stories held from 18 of 18 sources.
+Updated Tue 03 Nov 2026, 12:07 Sydney time. Stories from 27 Oct to 03 Nov. 1808 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -34,14 +34,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has…
 - Childcare paedophile Ashley Paul Griffith extradited to NSW — ABC +2 (Guardian, SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/qld-ashley-paul-griffith-extradited-to-nsw/107318786
   The former childcare worker is currently serving life in jail in Queensland after admitting to offences against 69 girls at early learning centres in Brisbane and Italy over two decades.
-- Israel election: what we know so far — Guardian +2 (BBC, SMH) · 29 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb
-  With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties Israel election…
 - France opens 'attempted murder' probe after riot police attacked with petrol bomb — ABC +2 (BBC, Guardian) · 02 Nov · https://www.abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294
   A French officer described "skin that stings" after being set alight by a molotov cocktail during another weekend of protests in Paris.
-- Brand used fame to 'facilitate' sex but consent was key, he tells jury — ABC +2 (Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966
-  The famous actor gave evidence from the dock, telling the jury he was "promiscuous" at the time, but consent was "fundamental" to him. The next day, his wife backed him up in court.
+- Israel election: what we know so far — Guardian +2 (BBC, SMH) · 29 Oct · https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb
+  With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties Israel election…
 - High Court to hear challenge to under-16s social media ban — ABC +2 (BBC, Guardian) · 03 Nov · https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886
   Australia's world-first social media ban for users under 16 will face its first major legal challenge in the High Court today, nearly a year after taking effect.
+- Brand used fame to 'facilitate' sex but consent was key, he tells jury — ABC +2 (Guardian, SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966
+  The famous actor gave evidence from the dock, telling the jury he was "promiscuous" at the time, but consent was "fundamental" to him. The next day, his wife backed him up in court.
 - Lindsay Clancy back in court seeking to dismiss murder charges after mistrial — Guardian +2 (BBC, SMH) · 03 Nov · https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing
   Lawyers for Massachusetts mother who killed children argue new trial would violate double jeopardy rules Lindsay Clancy returned to court on Monday in an attempt to dismiss the charges that she…
 - Ukrainian air raid alert app sends false warnings after being hacked — ABC +2 (BBC, SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/ukraine-air-force-pubic-air-raid-alert-app-hacked-false-warnings/107336062
@@ -50,6 +50,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Three brothers found guilty of leveraging their wealth to drug and rape women across luxury locales in the US have been sentenced.
 - Sydney's new metro stations open after two years of disruption — ABC +2 (Guardian, SMH) · 30 Oct · https://www.abc.net.au/news/2026-10-30/nsw-sydney-metro-southwest-line-opens-disruption/107310342
   Public transport enthusiasts, early commuters, politicians and other officials were aboard the first 13-kilometre passenger service from Bankstown to Sydenham that pulled in at 4:31am.
+- Live: Journalist Kate McClymont faces cross-examination at Alan Jones trial — ABC +2 (Guardian, SMH) · 03 Nov · https://www.abc.net.au/news/2026-11-03/nsw-sydney-alan-jones-court-smh-kate-mcclymont/107312774
+  The Sydney Morning Herald reporter wrote a series of stories from late 2023 that contained accounts from a number of men who alleged Mr Jones indecently assaulted them. Follow live.
 - Rare Nanotyrannus skeleton sells for $47.3m at New York auction — Guardian +1 (BBC) · 28 Oct · https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction
   Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus…
 - WA set to become first state to legalise plug-in solar panels, batteries — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/western-australia-to-lift-ban-on-balcony-solar/107316134
@@ -78,21 +80,19 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions…
 - Department sinks PM's claim $6m golf club grant was to fix sewage issues — ABC +1 (Guardian) · 27 Oct · https://www.abc.net.au/news/2026-10-27/pm-claim-marrickville-golf-grant-sewage-fix-rejected/107313346
   Infrastructure Department officials categorically rejected the prime minister's claim regarding the Marrickville Golf Club grant at a Senate estimates hearing last night.
+- Supermarket freezers across Europe hit by second suspected cyber-attack — Guardian +1 (BBC) · 02 Nov · https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack
+  Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of…
 - Man charged over allegedly false Bondi terror attack injury claim — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/nsw-man-charged-over-bondi-terror-attack-injury-claim/107317020
   The man is accused of making a false statement that he was injured in the Bondi shooting and making subsequent fraudulent claims for compensation.
 - One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer — Guardian +1 (SMH) · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb
   Pauline Hanson says Anthony Albanese made ‘unsolicited’ offer of adviser with $200,000 salary to one of her MPs Get our daily political email , free app or daily news podcast The prime minister…
-- Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
-  Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
-- Russian drone strike on Ukrainian train platform kills 14 — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816
-  A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
-(+43 more not listed)
+(+44 more not listed)
 
 ## Australian politics and economy – other candidates
-- ABC tells One Nation to remove cartoon depicting Bluey running over a politician — ABC +1 (Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/brk-bluey-senate-estimates-one-nation-cartoon/107317644
-  In an episode of Pauline Hanson's Please Explain series released in 2024, Bluey and former Victorian premier Daniel Andrews were depicted running over each other.
 - Matt Canavan to run in Capricornia as One Nation's James Ashby withdraws — ABC +1 (Guardian) · 02 Nov · https://www.abc.net.au/news/2026-11-02/federal-politics-nationals-leader-matt-canavan-capricornia/107335062
   The Nationals leader officially throws his hat in the ring for the lower house seat of Capricornia, while One Nation's party director James Ashby publicly withdraws from contention.
+- ABC tells One Nation to remove cartoon depicting Bluey running over a politician — ABC +1 (Guardian) · 28 Oct · https://www.abc.net.au/news/2026-10-28/brk-bluey-senate-estimates-one-nation-cartoon/107317644
+  In an episode of Pauline Hanson's Please Explain series released in 2024, Bluey and former Victorian premier Daniel Andrews were depicted running over each other.
 - Albanese flies to Caribbean for summit as households brace for rate pain — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040
   The prime minister is travelling to Antigua and Barbuda to discuss climate, trade and AI regulation with other Commonwealth leaders.
 - Albanese has a sewerage problem and the Coalition loves the stench — ABC +1 (SMH) · 29 Oct · https://www.abc.net.au/news/2026-10-29/politics-albanese-courtney-gould/107313486
@@ -105,6 +105,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   After two years of economic pain, the small businesses along Sydney's new Southwest Metro line are breathing a sigh of relief and hoping customers will return in droves.
 - Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/us-midterms-elections-dan-sullivans-alaska-donald-trump/107323036
   Something fishy is going on in Alaska ahead of the midterms, but it has nothing to do with the state's famous seafood and everything to do with two men with the same name.
+- One Nation condemns alleged baseball bat assault on volunteer — ABC +1 (Guardian) · 03 Nov · https://www.abc.net.au/news/2026-11-03/vic-one-nation-volunteer-assault-torquay-geelong/107340162
+  Police say a 60 year-old man from Torquay was taken to hospital with non-life-threatening injuries after an alleged assault by a man and teenager armed with a baseball bat.
 - Millions in UK brace to remortgage on worse deals as rate rise looms — Guardian +1 (SMH) · 02 Nov · https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates
   More than 2.3m households face jump in payments in 2027, after expected increase in Bank of England rate this week More than 2.3m UK households face a sharp rise in mortgage payments as they come off…
 - Huge gas-fired power station plan quietly revealed amid renewables fanfare — ABC · 27 Oct · https://www.abc.net.au/news/2026-10-27/bid-to-double-wa-renewable-energy-output-amid-price-rise-warning/107313754
@@ -151,12 +153,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Official’s controversial September request for Senate hearing footage to not be shared on social media has been heavily criticised Get our daily political email , free app or daily news podcast The…
 - Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises — Guardian · 28 Oct · https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb
   The prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Get our daily political email , free app or daily news podcast One…
+- Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM — Guardian · 02 Nov · https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy
+  Frustration grows over the economy with one Labor MP saying voter anger is already high ahead of Reserve Bank of Australia decision Get our daily political email , free app or daily news podcast The…
 - The Republican senator campaigning on her clashes with Trump — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/susan-collins-distances-from-donald-trump-midterm-elections/107331256
   Donald Trump desperately wants to retain a Republican majority in the US Senate. He is banking on the success of a senator whose campaign tactics include talking up her differences with the president.
 - Cooling property market delivers $5 billion blow to Victorian budget — ABC · 30 Oct · https://www.abc.net.au/news/2026-10-30/vic-budget-update-property-market-fall-debt/107327810
   A reduced take from stamp duty and land taxes will shave an average of $1.3 billion from the state's tax revenue over the coming four years, according to a fiscal update delivered on Friday.
-- Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM — Guardian · 02 Nov · https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy
-  Frustration grows over the economy with one Labor MP saying voter anger is already high ahead of Reserve Bank of Australia decision Get our daily political email , free app or daily news podcast The…
 - Canavan's seat switch might backfire, but does he have a better option? — ABC · 02 Nov · https://www.abc.net.au/news/2026-11-02/matt-canavan-capricornia-one-nation-casey-briggs/107301460
   Matt Canavan is seeking pre-selection to run for the lower house seat of Capricornia at the next election, potentially setting up a high-profile showdown with One Nation.
 - Criticism of One Nation cartoon of ex-Victorian premier Jacinta Allan — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/one-nation-cartoon-david-farley-staffing/107331900
@@ -167,23 +169,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The fallout from Israel's inconclusive election takes another dramatic turn amid allegations of foreign interference.
 - One Nation MP rejects $200,000 staffer as Hanson accuses PM of meddling — ABC · 29 Oct · https://www.abc.net.au/news/2026-10-29/one-nation-mp-turns-down-extra-staffer-from-pm/107325240
   One Nation says it will not be bought or divided by the prime minister as a bitter dispute over his power to allocate parliamentary staff intensifies.
-- Has government spending added to inflation? These charts tell the story — ABC · 02 Nov · https://www.abc.net.au/news/2026-11-02/government-spending-cuts-to-control-inflation-explained/107337846
-  The Reserve Bank is tipped to increase interest rates tomorrow because of an ongoing concern that inflation is not under control. But is there an alternative?
-(+151 more not listed)
+(+153 more not listed)
 
 ## Other prominent general stories – one outlet
+- Music mogul Jay-Z picks himself to perform at next Super Bowl — ABC +1 (BBC) · 27 Oct · https://www.abc.net.au/news/2026-10-27/jay-z-picked-to-perform-at-nfl-super-bowl/107314694
+  Jay-Z has been picked to take the stage as the musical feature during next year's half-time show at the Super Bowl.
+- Russian drone strike on Ukrainian train platform kills 14 — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816
+  A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
 - Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
   A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
 - US approves $3 billion Patriot missile sale to Ukraine — ABC +1 (BBC) · 31 Oct · https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652
   The move is one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration.
 - Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb
   Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has…
-- Supermarket freezers across Europe hit by second suspected cyber-attack — Guardian +1 (BBC) · 02 Nov · https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack
-  Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of…
-- Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens — BBC +1 (SMH) · 30 Oct · https://www.bbc.co.uk/news/articles/c60me298k1yeo
-  Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 - Armed police start patrols in Sydney after Bondi Beach attack — BBC +1 (SMH) · 02 Nov · https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro
   The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.
+- Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens — BBC +1 (SMH) · 30 Oct · https://www.bbc.co.uk/news/articles/c60me298k1yeo
+  Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 - Breaking: Two boys, 16, dead in crash in Perth's north-east — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/two-teenage-boys-dead-bullsbrook-crash/107333718
   Police say the teenagers were the driver and passenger of a car that left the road and struck several trees.
 - Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
@@ -204,25 +206,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Spiked hail stones have been observed at Mudgeeraba as "very dangerous" storms hit an already soaked south-east Queensland.
 - Man charged with murder over alleged fatal stabbing of partner — ABC +1 (SMH) · 27 Oct · https://www.abc.net.au/news/2026-10-27/man-charged-with-murder-over-alleged-stabbing-partner-rdh/107316154
   A 39-year-old man has been charged with murder over the death of his female partner, who died in hospital last month after being allegedly stabbed twice in the chest.
+- Wild storms dump hail on south-east Queensland — ABC +1 (SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/queensland-storm-hail-warning/107338402
+  A series of storms have dumped hail on communities across the south-east through Monday afternoon and evening.
+- Molecular traces from 'blood cells' found in 115-million-year-old dinosaur bones — ABC +1 (Guardian) · 03 Nov · https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770
+  The surprise discovery of an iron-carrying molecule preserved in the bones of a Brazilian dinosaur adds to research about soft tissues found in fossils that are millions of years old.
 - Evacuees from Russian-occupied Oleshky reach Ukraine amid ceasefire — ABC +1 (Guardian) · 01 Nov · https://www.abc.net.au/news/2026-11-01/evacuees-from-russian-occupied-oleshky-arrive-in-ukraine/107332470
   Residents evacuated from the Russian-occupied city of Oleshky have reached Ukraine under the most significant truce since Russia's invasion of Ukraine in 2022.
 - Russell Brand's wife tells court actor's promiscuity left her 'heartbroken' — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/russell-brand-wife-gives-evidence-in-his-defence/107325686
   Russell Brand is on trial in London charged with the rape, sexual assault and attempted indecent assault of six women between 1999 and 2009.
-- Wild storms dump hail on south-east Queensland — ABC +1 (SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/queensland-storm-hail-warning/107338402
-  A series of storms have dumped hail on communities across the south-east through Monday afternoon and evening.
 - Hackers send fake nuclear threat alert to Ukraine emergency app — Guardian +1 (BBC) · 02 Nov · https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app
   Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Europe live – latest updates Unknown hackers have targeted Ukraine’s nationwide…
 - Who was behind the largest crypto heist in history? — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706
   Almost $9 billion in cryptocurrency was hacked from exchange company Binance, but who was behind the attack and where is the money?
 - Neo-Nazi Thomas Sewell pleads guilty to Camp Sovereignty violence — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/camp-sovereignty-incident-thomas-sewell-court-guilty-plea/107317606
   Neo-Nazi Thomas Sewell and three other men plead guilty to charges linked to an alleged attack at Melbourne's Camp Sovereignty last year.
-- Molecular traces from 'blood cells' found in 115-million-year-old dinosaur bones — ABC +1 (Guardian) · 03 Nov · https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770
-  The surprise discovery of an iron-carrying molecule preserved in the bones of a Brazilian dinosaur adds to research about soft tissues found in fossils that are millions of years old.
-- Police Scotland says it has received information on Jeffrey Epstein visit to Balmoral with Andrew — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew
-  Force says ‘inquiries ongoing’ into visit to royal estate in Scotland, when Ghislaine Maxwell was also present Detectives are investigating time spent by Andrew Mountbatten-Windsor, Jeffrey Epstein…
-- Breaking: Star Casino fined $260m for money laundering violations — ABC +1 (SMH) · 28 Oct · https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384
-  Australia's financial intelligence agency, AUSTRAC, had sought a much steeper fine that could have forced the casino company into financial collapse.
-(+1238 more not listed)
+- Russian strikes on Ukrainian shelter and aid centre kill 24 — ABC +1 (BBC) · 03 Nov · https://www.abc.net.au/news/2026-11-03/russia-strikes-ukrainian-aid-outpost/107339274
+  Ukrainian President Volodymyr Zelenskyy accused Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.
+(+1236 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - SuperIT heads Stateside, expands offering to US MSPs — CRN · 04 Nov · https://www.crn.com.au/news/2026/ai/superit-heads-stateside-expands-offering-to-us-clients
@@ -231,10 +231,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Intel said Thursday that its data center business hit a 15-year record for revenue growth, but its stock price still took a major hit.
 - Arctic Wolf CEO Nick Schneider: AI, Vulnerability Threats Changing In 2027 — CRN · 04 Nov · https://www.crn.com.au/news-network/security/2026/arctic-wolf-ceo-nick-schneider-ai
   As 2027 approaches, we have every reason to expect that AI-driven exploitation of vulnerabilities will be ‘more of the norm than the exception,’ Arctic Wolf CEO Nick Schneider says during the latest…
-- AWS Vs. Microsoft Azure Vs. Google Cloud Q3 Earnings Face-Off — CRN · 04 Nov · https://www.crn.com.au/news-network/cloud/2026/aws-google-azure-cloud-q3-2026
-  AWS vs. Microsoft Azure vs. Google Cloud: See Q3 2026 cloud revenue, global market share and sales growth as cloud services market hit $168 billion.
 - DXC CEO Fernandez: AI Strategy Moves From Experimentation To Commercial Adoption — CRN · 04 Nov · https://www.crn.com.au/news-network/ai/2026/dxc-ceo-fernandez-ai-strategy-moves-from-experimentation-to
   DXC CEO Raul Fernandez told financial analysts that the company’s AI business is growing, but for now is still centered around small agentic AI projects that should grow.
+- AWS Vs. Microsoft Azure Vs. Google Cloud Q3 Earnings Face-Off — CRN · 04 Nov · https://www.crn.com.au/news-network/cloud/2026/aws-google-azure-cloud-q3-2026
+  AWS vs. Microsoft Azure vs. Google Cloud: See Q3 2026 cloud revenue, global market share and sales growth as cloud services market hit $168 billion.
+- Excite Cyber earns Advanced status with Fortinet — ARN · 03 Nov · https://www.arnnet.com.au/article/4243477/excite-cyber-earns-advanced-status-with-fortinet.html
+  Excite Technology Services’ Excite Cyber business has gained Advanced partner status in Fortinet’s Engage Partner Program, supporting its strategy of using the vendor’s technology with its own…
 - Intel’s CEO Is ‘Disappointed’ It Couldn’t Meet ‘Strong’ CPU Demand, Cites ‘Near-Term Challenges’ — CRN · 03 Nov · https://www.crn.com.au/news-network/components-peripherals/2026/intel-s-ceo-is-disappointed-it-couldn-t-meet-strong-cpu
   Intel CEO Lip-Bu Tan said Thursday that “he’s disappointed” the company was “not able to meet strong demand” in the third quarter as he cited “near-term challenges” that included supply shortages and…
 - Cisco CEO Chuck Robbins: ‘The Partners Who Can Represent The Entire Architecture’ Will Stand Out — CRN · 03 Nov · https://www.crn.com.au/news-network/networking/2026/cisco-ceo-chuck-robbins-the-partners-who-can-represent-the
@@ -343,15 +345,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Human models face existential threat.
 - Apple says it will replace iPhone Duo units showing screen problems — iTnews · 27 Oct · https://www.itnews.com.au/news/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-629943
   Responds to reports of cracks and creases.
-- Alleged Israeli spy company heavily targeted Starlink users — iTnews · 27 Oct · https://www.itnews.com.au/news/alleged-israeli-spy-company-heavily-targeted-starlink-users-629942
-  As ad tech probe widens.
 (+5 more not listed)
 
 ## Technology news (BBC, Guardian)
-- From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now — Guardian · 02 Nov · https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026
-  Casserole dishes, electric heaters and silk shirts: your autumnal favourites show you’re hunkering down – with one eye on party season • Don’t get the Filter delivered to your inbox? Sign up here…
 - Binance users withdraw $3.6bn after record crypto hack — BBC · 02 Nov · https://www.bbc.co.uk/news/articles/cwj34gdmnly4o
   The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.
+- Apple unsure when more foldable iPhones will be available after selling out — BBC · 03 Nov · https://www.bbc.co.uk/news/articles/c6n8dn457ypko
+  Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.
+- From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now — Guardian · 02 Nov · https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026
+  Casserole dishes, electric heaters and silk shirts: your autumnal favourites show you’re hunkering down – with one eye on party season • Don’t get the Filter delivered to your inbox? Sign up here…
 - Investors pull billions in funds from Binance after record $6.3bn hack — Guardian · 02 Nov · https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions
   Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it…
 - Why you should treat charisma as a red flag — Guardian · 01 Nov · https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag
@@ -440,6 +442,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Photos shared online showed faults appearing on the screens of Apple's first foldable device.
 
 ## Cars (CarExpert)
+- Honda end-of-year offers include gift cards of up to $3000, free servicing — CarExpert · 03 Nov · https://www.carexpert.com.au/car-news/honda-end-of-year-offers-include-gift-cards-of-up-to-dollar3000-free-servicing
+  Free scheduled servicing and up to $3000 in gift cards are available as part of the brand’s plate clearance promotion, which includes most of its model range.
+- Inside Chery's "unique platform" claim for new Lepas brand — CarExpert · 03 Nov · https://www.carexpert.com.au/car-news/inside-cherys-unique-platform-claim-for-new-lepas-brand
+  Lepas says its new L6 SUV is built on a unique platform, but it hasn't outlined just how different it is from other SUVs in the wider Chery Group lineup.
 - Renault Duster slides under $30,000 – for a limited time — CarExpert · 03 Nov · https://www.carexpert.com.au/car-news/renault-duster-slides-under-dollar30000-for-a-limited-time
   Renault has discounted its off-road Duster small SUV range for the remainder of 2026, with the base price sliding below $30,000 drive-away.
 - Kia considering more PHEVs, but EVs and hybrids are satisfying Australia's emissions regulations — CarExpert · 03 Nov · https://www.carexpert.com.au/car-news/kia-considering-more-phevs-but-evs-and-hybrids-are-satisfying-australias-emissions-regulations
@@ -544,10 +550,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Leapmotor Australia is in talks to bring a hotter version of its new electric small hatch here, but it hasn't offered timing or specifications.
 - 2027 Polestar 4 SUV review — CarExpert · 27 Oct · https://www.carexpert.com.au/car-reviews/2027-polestar-4-suv-review
   Now with a rear window! The Polestar 4 SUV hails from Korea with more boot, more windows, and the same chassis upgrades as the mid-size 'coupe' it's based on. Is it the new pick of the range?
-- Chery boss questions future of car ownership amid rise of robotaxis — CarExpert · 27 Oct · https://www.carexpert.com.au/car-news/chery-boss-questions-future-of-car-ownership-amid-rise-of-robotaxis
-  Chery’s international boss is weighing a future with fewer private car buyers, as driverless fleets expand and analysts forecast different outcomes for vehicle sales.
 
 ## Science (Guardian, BBC)
+- From scooters to shampoo - the people saving hundreds from dumpster diving — BBC · 03 Nov · https://www.bbc.co.uk/news/articles/cm86zdp2ygqno
+  The men and women who rummage through commercial bins to take clothes and other items.
 - Do the Shetland Isles need Cold War-style military protection? — BBC · 03 Nov · https://www.bbc.co.uk/news/articles/cjg47dq6q775o
   Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.
 - ‘It’s really, really unusual’: tender bond between male donkey and bull baffles scientists — Guardian · 03 Nov · https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists
@@ -624,8 +630,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.
 - Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection — Guardian · 27 Oct · https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection
   For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but…
-- New weather warnings as third storm set to hit Scotland — BBC · 27 Oct · https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo
-  The country is braced for the third storm in as many days as communities continue to clean up after the weekend.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - Step one: Survive. Step two: Protect the planet — ABC · 03 Nov · https://www.abc.net.au/news/2026-11-03/ages-of-ice-polar-regions-climate-change-adventure-scientists/107260774
@@ -679,23 +683,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 03 Nov 09:48 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 03 Nov 09:48 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 03 Nov 09:48 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 03 Nov 09:48 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 03 Nov 09:48 | 35 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 03 Nov 09:48 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 03 Nov 09:48 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 03 Nov 09:48 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 03 Nov 09:48 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 03 Nov 09:48 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 03 Nov 09:48 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 03 Nov 09:48 | 29 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 03 Nov 09:48 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 03 Nov 09:48 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 03 Nov 09:48 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 03 Nov 09:48 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 03 Nov 09:48 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 03 Nov 09:48 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 03 Nov 12:07 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 03 Nov 12:07 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 03 Nov 12:07 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 03 Nov 12:07 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 03 Nov 12:07 | 35 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 03 Nov 12:07 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 03 Nov 12:07 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 03 Nov 12:07 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 03 Nov 12:07 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 03 Nov 12:07 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 03 Nov 12:07 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 03 Nov 12:07 | 29 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 03 Nov 12:07 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 03 Nov 12:07 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 03 Nov 12:07 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 03 Nov 12:07 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 03 Nov 12:07 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 03 Nov 12:07 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,815 tokens._
+_Approximate reading cost of this digest: 28,987 tokens._
