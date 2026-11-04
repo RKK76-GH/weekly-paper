@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Thu 05 Nov 2026, 03:59 Sydney time. Stories from 29 Oct to 05 Nov. 1820 stories held from 18 of 18 sources.
+Updated Thu 05 Nov 2026, 06:01 Sydney time. Stories from 29 Oct to 05 Nov. 1809 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -86,23 +86,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Pauline Hanson says Anthony Albanese made ‘unsolicited’ offer of adviser with $200,000 salary to one of her MPs Get our daily political email , free app or daily news podcast The prime minister…
 - Where to next after Netanyahu neither won nor lost the Israeli election — ABC +1 (BBC) · 29 Oct · https://www.abc.net.au/news/2026-10-29/what-happens-next-in-the-israeli-election/107321694
   The inconclusive result of the Israeli election, with neither Netanyahu nor the opposition gaining majority, means weeks of messy and complicated negotiations.
-(+47 more not listed)
+(+48 more not listed)
 
 ## Australian politics and economy – other candidates
 - Live: Reserve Bank tipped to hike interest rates to 18-year high — ABC +1 (Guardian) · 03 Nov · https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216
   The Reserve Bank board meets today after senior central bank officials warned inflation was still too high, prompting expectations of a fifth hike this year. Follow the day's events and insights from…
 - Matt Canavan to run in Capricornia as One Nation's James Ashby withdraws — ABC +1 (Guardian) · 02 Nov · https://www.abc.net.au/news/2026-11-02/federal-politics-nationals-leader-matt-canavan-capricornia/107335062
   The Nationals leader officially throws his hat in the ring for the lower house seat of Capricornia, while One Nation's party director James Ashby publicly withdraws from contention.
-- Albanese flies to Caribbean for summit as households brace for rate pain — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040
-  The prime minister is travelling to Antigua and Barbuda to discuss climate, trade and AI regulation with other Commonwealth leaders.
 - Live: Wall Street sinks on AI fears, ASX on edge ahead of RBA meeting — ABC +1 (SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/asx-markets-business-live-news-nov-2/107334212
   The ASX is poised for a flat opening despite a big sell-off on Wall Street amid mounting concerns about AI investments. Follow the day's events and insights from our business reporters on the ABC…
+- Albanese flies to Caribbean for summit as households brace for rate pain — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/anthony-albanese-flies-to-caribbean-for-chogm-summit/107330040
+  The prime minister is travelling to Antigua and Barbuda to discuss climate, trade and AI regulation with other Commonwealth leaders.
+- No evidence of fraud in Israeli election, commission finds — ABC +1 (Guardian) · 04 Nov · https://www.abc.net.au/news/2026-11-04/israeli-election-commission-fraud-investigation/107347454
+  Benjamin Netanyahu has accused Arab-led parties of stealing the election in which neither major bloc earned a parliamentary majority.
 - Canva restructure to affect a fifth of its workforce ahead of Christmas — ABC +1 (SMH) · 04 Nov · https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304
   The design software giant says growth has slowed for the first time in a decade and it needs smaller, more empowered teams.
 - Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say — Guardian +1 (SMH) · 04 Nov · https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb
   Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported An alleged attack on a One Nation supporter is not believed to have been…
-- No evidence of fraud in Israeli election, commission finds — ABC +1 (Guardian) · 04 Nov · https://www.abc.net.au/news/2026-11-04/israeli-election-commission-fraud-investigation/107347454
-  Benjamin Netanyahu has accused Arab-led parties of stealing the election in which neither major bloc earned a parliamentary majority.
 - 'Despicable betrayal': Democrat backs GOP candidate in key midterms race — ABC +1 (BBC) · 02 Nov · https://www.abc.net.au/news/2026-11-02/us-midterms-democrats-michigan-campaign-haley-stevens-backs-gop/107334852
   The Democrats' messy Michigan Senate campaign is again marred by friendly fire, with defeated primaries candidate Haley Stevens breaking ranks and endorsing the Republican nominee in Tuesday's…
 - Businesses hoping for 'salvation' from Sydney's new metro line — ABC +1 (SMH) · 29 Oct · https://www.abc.net.au/news/2026-10-29/sydney-marrickville-businesses-southwest-metro-construction/107324256
@@ -127,12 +127,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Americans head to the polls soon in elections that could have big ramifications for the second half of Trump’s presidency. Follow our coverage.
 - ‘Sharper, longer slowdown’ predicted for economy as fifth interest rate hike looms — Guardian · 02 Nov · https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms
   Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices Australia’s economy is set for a “sharper, longer slowdown”…
+- Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend — Guardian · 04 Nov · https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election
+  Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news…
 - Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’ — Guardian · 01 Nov · https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust
   Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a…
 - Is the government really on an ‘out-of-control’ spending splurge? It’s complicated — Guardian · 01 Nov · https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated
   Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull Get our daily political email , free app or daily news podcast…
-- Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend — Guardian · 04 Nov · https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election
-  Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news…
 - Voters were already frustrated before the RBA’s fifth rate hike. Labor will be hoping its luck hasn’t run out — Guardian · 03 Nov · https://www.theguardian.com/australia-news/2026/nov/03/labor-voters-fifth-rba-interest-rate-hike
   Tuesday’s RBA decision will add more pain for households and Pauline Hanson and Angus Taylor stand to benefit if voters keep punishing Labor Labor had a lot of luck before the last federal election…
 - Is One Nation losing steam in Victoria? New poll points to possible shift as election nears — Guardian · 01 Nov · https://www.theguardian.com/australia-news/2026/nov/01/is-one-nation-losing-steam-victoria-new-polling-greens-state-election-ntwnfb
@@ -151,8 +151,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   It is election day for the US as Americans prepare to elect a new US House of Representatives and Senate. Follow live.
 - Labor MPs left to defend decisions they had little say in shaping — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/interest-rate-myefo-albanese-armstrong-analysis-economy/107327460
   The prime minister has ridden out plenty of political turbulence before, but now economic headwinds are being compounded by growing frustration within his own ranks.
-- Bad inflation result lays bare the ugly truth: there is no easy way out — ABC · 29 Oct · https://www.abc.net.au/news/2026-10-29/bad-inflation-result-political-pressure/107318484
-  The latest numbers cause pain for households, business and the government. They also show that a tougher approach may well be needed to curb the problem.
 - Liberal MP pushes for party to rule out changes to superannuation — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948
   Garth Hamilton argues the party has to shift its policy to reflect the mood of the nation and abandon any return to a super-for-housing type of policy.
 - US election officials brace for violence and intimidation at polling booths — ABC · 01 Nov · https://www.abc.net.au/news/2026-11-01/us-midterm-election-officials-prepare-ice-agents-trump-meddling/107322620
@@ -163,35 +161,37 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   One Nation's candidate for Melbourne Matthew Collins quits and apologises just four weeks out from the Victorian election over offensive comments published on his social media accounts.
 - Defence backed claim that social media footage of public servants could invite bullying — Guardian · 29 Oct · https://www.theguardian.com/australia-news/2026/oct/29/defence-official-senate-estimates-social-media-public-servants-bullying-ntwnfb
   Official’s controversial September request for Senate hearing footage to not be shared on social media has been heavily criticised Get our daily political email , free app or daily news podcast The…
+- ‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry — Guardian · 05 Nov · https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb
+  Cost of living and AI outrank climate change and war as top concerns for future, but support for multiculturalism remains strong Get our daily political email , free app or daily news podcast The…
 - Australia seeks to change visa deal with UK after influx of Britons — Guardian · 03 Nov · https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk
   Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce The Australian prime minister, Anthony Albanese, has told Andy Burnham he is looking at…
 - The Republican senator campaigning on her clashes with Trump — ABC · 31 Oct · https://www.abc.net.au/news/2026-10-31/susan-collins-distances-from-donald-trump-midterm-elections/107331256
   Donald Trump desperately wants to retain a Republican majority in the US Senate. He is banking on the success of a senator whose campaign tactics include talking up her differences with the president.
 - Cooling property market delivers $5 billion blow to Victorian budget — ABC · 30 Oct · https://www.abc.net.au/news/2026-10-30/vic-budget-update-property-market-fall-debt/107327810
   A reduced take from stamp duty and land taxes will shave an average of $1.3 billion from the state's tax revenue over the coming four years, according to a fiscal update delivered on Friday.
-(+164 more not listed)
+(+163 more not listed)
 
 ## Other prominent general stories – one outlet
 - Russian drone strike on Ukrainian train platform kills 14 — ABC +1 (BBC) · 30 Oct · https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816
   A Russian drone has slammed into a busy platform at a railway station in Ukraine's Dnipro killing at least 14 people.
-- Unregulated peptides contributed to actor's death, coroner finds — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590
-  A coroner has found the death of Australian actor Richard Norton was triggered by injecting unapproved peptides, recommending the TGA consider tougher restrictions.
 - US approves $3 billion Patriot missile sale to Ukraine — ABC +1 (BBC) · 31 Oct · https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652
   The move is one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration.
 - Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues — Guardian +1 (SMH) · 30 Oct · https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb
   Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has…
+- Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure — Guardian +1 (SMH) · 04 Nov · https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure
+  Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast…
 - Wild storms dump hail on south-east Queensland — ABC +1 (SMH) · 02 Nov · https://www.abc.net.au/news/2026-11-02/queensland-storm-hail-warning/107338402
   A series of storms have dumped hail on communities across the south-east through Monday afternoon and evening.
 - Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens — BBC +1 (SMH) · 30 Oct · https://www.bbc.co.uk/news/articles/c60me298k1yeo
   Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
-- Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure — Guardian +1 (SMH) · 04 Nov · https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure
-  Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast…
 - Breaking: Two boys, 16, dead in crash in Perth's north-east — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/two-teenage-boys-dead-bullsbrook-crash/107333718
   Police say the teenagers were the driver and passenger of a car that left the road and struck several trees.
-- Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
-  Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of…
+- JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections — Guardian +1 (BBC) · 05 Nov · https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election
+  Stance signals vice-president seeks to distance himself from the unpopular conflict ahead of possible 2028 run US midterms 2026 live – latest updates Track live results from all 50 states Tell us…
 - Trump says US will stop $5.7b in aid to Israel in surprise announcement — ABC +1 (Guardian) · 04 Nov · https://www.abc.net.au/news/2026-11-04/us-midterms-daily-news-briefing/107340542
   Donald Trump has announced the US will cut funding to Israel in a move meant to take away a "bad talking point" from left-wing Democrats. Here's what to know about the US midterms today.
+- Police clash with masked rioters after largely peaceful protests across France — Guardian +1 (SMH) · 01 Nov · https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france
+  Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of…
 - Tornado-like storm hits NSW Southern Tablelands — ABC +1 (SMH) · 01 Nov · https://www.abc.net.au/news/2026-11-01/violent-storm-tears-roof-from-buildings-toppled-tree-near-yass/107333182
   A violent "tornado-like" storm cell has torn roofs from buildings, toppled trees and brought "golf-ball-sized hail" to a small rural community on the New South Wales Southern Tablelands.
 - Evacuation begins from ravaged Russian-controlled Ukrainian city — ABC +1 (Guardian) · 30 Oct · https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652
@@ -208,12 +208,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Residents evacuated from the Russian-occupied city of Oleshky have reached Ukraine under the most significant truce since Russia's invasion of Ukraine in 2022.
 - Russell Brand's wife tells court actor's promiscuity left her 'heartbroken' — ABC +1 (Guardian) · 29 Oct · https://www.abc.net.au/news/2026-10-29/russell-brand-wife-gives-evidence-in-his-defence/107325686
   Russell Brand is on trial in London charged with the rape, sexual assault and attempted indecent assault of six women between 1999 and 2009.
+- Telstra customers flooded with 'confusing' missed call notifications — ABC +1 (SMH) · 04 Nov · https://www.abc.net.au/news/2026-11-04/telstra-customers-flooded-with-false-missed-call-messages/107347874
+  Telstra customers have reported their SMS inboxes flooded with messages about missed calls from contacts who had not attempted to call them.
 - James Talarico wins Texas Senate race in historic victory for Democrats — Guardian +1 (BBC) · 04 Nov · https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate
   Ken Paxton’s defeat a crushing blow to Trump and Republican efforts to keep control of Congress US midterm elections – live updates Track live results from all 50 states Democrat James Talarico has…
 - Brand used fame to 'facilitate' sex but consent was key, he tells jury — ABC +1 (Guardian) · 31 Oct · https://www.abc.net.au/news/2026-10-31/russell-brand-takes-witness-box-in-rape-trial-defence/107325966
   The famous actor gave evidence from the dock, telling the jury he was "promiscuous" at the time, but consent was "fundamental" to him. The next day, his wife backed him up in court.
-- Telstra customers flooded with 'confusing' missed call notifications — ABC +1 (SMH) · 04 Nov · https://www.abc.net.au/news/2026-11-04/telstra-customers-flooded-with-false-missed-call-messages/107347874
-  Telstra customers have reported their SMS inboxes flooded with messages about missed calls from contacts who had not attempted to call them.
 - Star trainer Maher claims second Melbourne Cup as Point of Law storms to win — ABC +1 (SMH) · 03 Nov · https://www.abc.net.au/news/2026-11-03/melbourne-cup-point-of-law-wins-for-ciaron-maher/107341548
   Ciaron Maher takes the Melbourne Cup trifecta as Point of Law wins at Flemington after an incredible front-running effort from Royal Supremacy.
 - Who was behind the largest crypto heist in history? — ABC +1 (SMH) · 31 Oct · https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706
@@ -222,7 +222,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Democrat defeats Mike Rogers in race marked by Islamophobic attacks from Trump and Republican allies US midterm elections – live updates Track live results from all 50 states Tell us: what do you…
 - Convicted murderer who escaped from Tennessee prison captured in Missouri — Guardian +1 (BBC) · 04 Nov · https://www.theguardian.com/us-news/2026/nov/03/jacob-morley-tennessee-prisoner-capture
   Jacob Morley, serving a life sentence for killing a co-worker, slipped through a prison fence last week A man convicted of murder who escaped from a Tennessee prison was recaptured on Tuesday in…
-(+1240 more not listed)
+(+1230 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Cisco Pushes Partners To Lead With ‘High- Margin’ Resilient Infrastructure Services — CRN · 05 Nov · https://www.crn.com.au/news-network/networking/2026/cisco-pushes-partners-to-lead-with-high-margin-resilient-i
@@ -345,7 +345,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Outlines new wins around ore movement and management.
 - Lenovo’s Astrid Groves on the “exciting” service opportunity for partners — CRN · 29 Oct · https://www.crn.com.au/news/2026/ai/astrid-groves-lenovo-interview-oct-2026
   The director for distribution and commercial channel at the Aussie arm sees a bright future for partners and AI.
-(+8 more not listed)
+(+7 more not listed)
 
 ## Technology news (BBC, Guardian)
 - French blood storage impacted by freezer hacks as theories swirl about culprits — BBC · 05 Nov · https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro
@@ -536,8 +536,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Australian company behind Bendix, a former supplier to Holden, Ford and other local carmakers, has entered voluntary administration after more than 70 years of manufacturing.
 - Aston Martin Valhalla Spider unveiled as brand's fastest open-top car — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/aston-martin-valhalla-spider-unveiled-as-brands-fastest-open-top-car
   The Aston Martin Valhalla Spider has the coupe's V8 plug-in hybrid drivetrain, but now with a dash of wind-in-the-hair excitement.
-- GWM Tank 500 gets another update in China, but Australia still hasn’t received the last one — CarExpert · 29 Oct · https://www.carexpert.com.au/car-news/gwm-tank-500-gets-another-update-in-china-but-australia-still-hasnt-received-the-last-one
-  GWM's Ford Everest rival has gotten even more plush with the addition of new luxury features, but the update hasn't been confirmed for Australia.
 
 ## Science (Guardian, BBC)
 - Tiktoker 'super excited' to co-host BBC nature show — BBC · 04 Nov · https://www.bbc.co.uk/news/articles/c6y93pgydvzdo
@@ -670,8 +668,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push… The post Experts: What China wants from the COP31 climate talks appeared first on Carbon…
 - Analysis: China’s clean-tech exports in 2026 to avoid as much CO2 as Brazil emits in a year — Carbon Brief · 29 Oct · https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year
   China’s exports in 2026 of clean-energy technologies, such as solar panels, batteries and electric vehicles, are on track to cut… The post Analysis: China’s clean-tech exports in 2026 to avoid as…
-- UK budget 2026: Key climate and energy announcements — Carbon Brief · 29 Oct · https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements
-  Chancellor John Healey has announced a “new course on energy” for the UK, focused on keeping bills low amid the… The post UK budget 2026: Key climate and energy announcements appeared first on Carbon…
 
 ## QPR match reports (Loft For Words)
 - After The Lord Mayor’s Show – Report — Loft For Words · 02 Nov · https://www.fansnetwork.co.uk/news/67153/after-the-lord-mayor’s-show-–-report
@@ -681,23 +677,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 05 Nov 03:59 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 05 Nov 03:59 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 05 Nov 03:59 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 05 Nov 03:59 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 05 Nov 03:59 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 05 Nov 03:59 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 05 Nov 03:59 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 05 Nov 03:59 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 05 Nov 03:59 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 05 Nov 03:59 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 05 Nov 03:59 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 05 Nov 03:59 | 27 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 05 Nov 03:59 | 40 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 05 Nov 03:59 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 05 Nov 03:59 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 05 Nov 03:59 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 05 Nov 03:59 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 05 Nov 03:59 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 05 Nov 06:01 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 05 Nov 06:01 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 05 Nov 06:01 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 05 Nov 06:01 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 05 Nov 06:01 | 23 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 05 Nov 06:01 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 05 Nov 06:01 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 05 Nov 06:01 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 05 Nov 06:01 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 05 Nov 06:01 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 05 Nov 06:01 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 05 Nov 06:01 | 27 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 05 Nov 06:01 | 40 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 05 Nov 06:01 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 05 Nov 06:01 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 05 Nov 06:01 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 05 Nov 06:01 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 05 Nov 06:01 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 28,786 tokens._
+_Approximate reading cost of this digest: 28,639 tokens._
