@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Thu 12 Nov 2026, 11:39 Sydney time. Stories from 05 Nov to 12 Nov. 1470 stories held from 18 of 18 sources.
+Updated Thu 12 Nov 2026, 20:46 Sydney time. Stories from 05 Nov to 12 Nov. 1418 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -18,20 +18,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   US authorities have charged Thomas Markle, the father of Meghan, Duchess of Sussex, with possessing child sexual abuse material, alleging they have photos of him with prepubescent girls.
 - California governor to grant clemency to all 548 death row inmates in state — ABC +3 (BBC, Guardian, SMH) · 06 Nov · https://www.abc.net.au/news/2026-11-06/california-govenor-newsom-seeks-clemency-for-death-row-inmates/107354146
   The fate of hundreds of inmates facing death sentences in California hinges on the Supreme Court's approval after the governor says he wants to end state-sanctioned killing.
-- 'Multitude of factors' behind firing of chef who refused pineapple on pizza — ABC +3 (BBC, Guardian, SMH) · 06 Nov · https://www.abc.net.au/news/2026-11-06/queensland-pineapple-pizza-firing/107357058
-  Brisbane restaurant manager Elliot Ingram says there were a number of reasons behind the firing of a chef who refused to put pineapple on a customer's pizza.
 - Seven dead and 100 injured after trains collide in Egypt — ABC +3 (BBC, Guardian, SMH) · 09 Nov · https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794
   The collision on the edge of Cairo killed at least seven people and injured more than 110.
 - Gunman dies in hospital after killing six and injuring 15 in Krakow shooting — ABC +3 (BBC, Guardian, SMH) · 09 Nov · https://www.abc.net.au/news/2026-11-09/krakow-shooter-dies-in-hospital/107366174
   A gunman who killed six people and injured 15 others in a mass shooting in central Krakow, Poland, has died in hospital.
 - Trump says he was 'kidding' about offering Dana White press secretary job — ABC +3 (BBC, Guardian, SMH) · 09 Nov · https://www.abc.net.au/news/2026-11-09/donald-trump-says-he-was-kidding-about-dana-white-job-offer/107362886
   The US president backtracks on his announcement offering Ultimate Fighting Championship CEO Dana White the vacant White House press secretary role.
-- Live: Beau Lamarre-Condon explains why he threw Baird's phone off bridge — ABC +2 (Guardian, SMH) · 12 Nov · https://www.abc.net.au/news/2026-11-12/beau-lamarre-condon-trial-live-blog-cross-examination-thursday/107374518
-  Beau Lamarre-Condon's murder trial is continuing, after the jury was sent home early yesterday for a legal issue to be discussed.
-- Breaking: Hong Kong democracy activist Joshua Wong jailed for 10 more years — ABC +2 (BBC, Guardian) · 05 Nov · https://www.abc.net.au/news/2026-11-05/hong-kong-democracy-activist-joshua-wong-jailed-for-10-years/107350986
-  Prominent Hong Kong democracy activist Joshua Wong has been sentenced to 10 more years in prison for collusion with foreign powers.
-- Pauline Hanson to appeal racial discrimination finding in High Court — ABC +2 (Guardian, SMH) · 05 Nov · https://www.abc.net.au/news/2026-11-05/pauline-hanson-racial-discrimination-high-court-appeal/107139002
-  The High Court will hear One Nation Leader Pauline Hanson's appeal against a court ruling that found she racially vilified Greens Senator Mehreen Faruqi
+- Live: Lamarre-Condon breaks down as he tells jury about shooting ex-partner — ABC +2 (Guardian, SMH) · 06 Nov · https://www.abc.net.au/news/2026-11-06/beau-lamarre-condon-evidence-in-murder-trial-live-blog-friday/107354346
+  Former police officer Beau Lamarre-Condon is in the witness stand, describing the day he is alleged to have murdered Jesse Baird. Follow live.
 - Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI — Guardian +2 (BBC, SMH) · 06 Nov · https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai
   Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end…
 - Three more charged over alleged DV stabbing murder — ABC +2 (Guardian, SMH) · 09 Nov · https://www.abc.net.au/news/2026-11-09/three-charged-with-accessory-to-alleged-dv-stabbing-murder-wagga/107362302
@@ -46,6 +40,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The disgraced British comedian was found guilty last week of one count of rape and three counts of sexual assault relating to four women between 2004 and 2009.
 - Republican Thomas Massie moves to force vote to impeach Pete Hegseth — Guardian +2 (BBC, SMH) · 10 Nov · https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie
   US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers US politics live – latest updates A Republican lawmaker has moved to…
+- New York mayor says at least two people dead in 'devastating' building collapse — ABC +2 (BBC, Guardian) · 12 Nov · https://www.abc.net.au/news/2026-11-12/new-york-brooklyn-building-collapse-rescue/107376940
+  Firefighters are digging through the rubble of a three-storey building in New York City after it collapsed at the edge of a construction site, trapping people beneath the wreckage.
 - Twelve dead, 50 injured in Bulgarian motorway pile-up in heavy fog — ABC +2 (BBC, SMH) · 11 Nov · https://www.abc.net.au/news/2026-11-11/bulgaria-deadly-pile-up-highway/107371178
   Footage shows cars and trucks piled up, crushed and overturned across six lanes of the highway, with the country's prime minister declaring a day of mourning.
 - Live: PM says he will engage with Trump 'respectfully' on Iran war — ABC +2 (Guardian, SMH) · 09 Nov · https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100
@@ -54,28 +50,34 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   As United Nations climate change talks commence in Türkiye, Australia's position as a climate leader will be tested.
 - Kenyan doomsday sect leader jailed for 200 years over 191 murders — Guardian +1 (BBC) · 07 Nov · https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie
   Paul Mackenzie convicted over the deaths of 190 children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been sentenced to…
-- Breaking: More bomb threats divert planes across Europe — ABC +1 (Guardian) · 05 Nov · https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984
-  Bomb threats have affected at least 13 flights in Europe today, including in France, Bulgaria, Italy, Austria, Belgium and the Czech Republic.
 - Live: Victorian premier says voters deserve answers as Big Build royal commission begins — ABC +1 (Guardian) · 09 Nov · https://www.abc.net.au/news/2026-11-09/vic-election-blog-big-build-royal-commission/107357514
   A level crossing removal project in Melbourne's outer north is in focus at Victoria's Big Build royal commission, which has begun a block of public hearings today. Follow live in our blog.
 - Paraguay's president tangled up in Ueno banking crisis — ABC +1 (Guardian) · 06 Nov · https://www.abc.net.au/news/2026-11-06/banking-crisis-plunges-paraguay-into-political-disarray/107355316
   Paraguay's president has stepped down after the collapse of Ueno Bank plunged the country into a political crisis.
+- Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ — Guardian +1 (SMH) · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb
+  Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 Beau Lamarre-Condon trial live updates: former police officer…
 - Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul — Guardian +1 (BBC) · 10 Nov · https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul
   Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is…
 - Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit — Guardian +1 (BBC) · 09 Nov · https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity
   Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh…
 - US offers $29m reward for details on Iran's nuclear program — ABC +1 (BBC) · 07 Nov · https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156
   A US State Department program, Rewards for Justice, "is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program".
+- Brands asked to keep supplying David Jones despite unpaid debts — ABC +1 (SMH) · 07 Nov · https://www.abc.net.au/news/2026-11-07/david-jones-suppliers-waiting-for-debts-to-be-paid/107355408
+  Documents seen by ABC News show the unclear situation facing suppliers after the 188-year-old retailer was plunged into voluntary administration this week.
 - Woman pleads not guilty to DV murder of man found dead on Newell Highway — ABC +1 (SMH) · 06 Nov · https://www.abc.net.au/news/2026-11-06/lisa-anne-silson-pleads-not-guilty-murder-mark-akers/107355300
   Mark Akers was found dead on the side of the Newell Highway in June last year. The woman charged with his murder has pleaded not guilty.
+- Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace — Guardian +1 (BBC) · 12 Nov · https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace
+  US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectively Russia and Ukraine have agreed to the “largest prisoner exchange” of the war at…
 - Trump signs proclamation to try to prevent changes to gold-covered Oval Office — Guardian +1 (BBC) · 06 Nov · https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation
   President seeks to make Oval Office a national monument to ensure designs are not ‘ripped down by stupid people’ Donald Trump signed a proclamation on Thursday that he says will prevent future…
 - Live: One Nation candidate dumped over Hitler comments — ABC +1 (Guardian) · 10 Nov · https://www.abc.net.au/news/2026-11-10/victoria-state-election-blog-politics/107357090
   Earlier today, Liberal leader Jess Wilson confirmed the Coalition would preference One Nation ahead of Labor, the Greens and Victorian Socialists on how-to-vote preference cards. Follow live in our…
+- Four bears put down after fatal mauling of mother and daughter in Canada — ABC +1 (BBC) · 11 Nov · https://www.abc.net.au/news/2026-11-11/bears-euthanased-following-attack-in-canada/107372022
+  Investigators discovered the remains of art therapist Jenny Balcarras and her daughter Selah Reed last week, shortly after their family reported them missing.
 - Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass — Guardian +1 (BBC) · 06 Nov · https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass
   Major shake-up as LA councilmember, once considered long shot, ousts Democratic rival she had once endorsed Nithya Raman was elected to serve as the mayor of Los Angeles, defeating incumbent Karen…
-- Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace — Guardian +1 (BBC) · 12 Nov · https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace
-  US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectively Russia and Ukraine have agreed to the “largest prisoner exchange” of the war at…
+- House Republicans block effort to impeach Pentagon chief Pete Hegseth — Guardian +1 (BBC) · 11 Nov · https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort
+  Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth , rejecting…
 - France blames Iran for supermarket fridge cyberattacks — ABC +1 (BBC) · 10 Nov · https://www.abc.net.au/news/2026-11-10/irgc-iran-fridges-france/107366730
   France's Foreign Minister Jean-Noël Barrot says the Iran's Revolutionary Guards Corp is behind the "unprecedented" cyber attacks on supermarket fridges as he vows to press for Europe-wide sanctions.
 - Cruise ship pianist rescued after nine hours treading water miles from shore — Guardian +1 (BBC) · 09 Nov · https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue
@@ -84,9 +86,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The White House has been without a press secretary since October when Katie Zacharia left the position after less than a week on the job.
 - Hacker claims to have sold VCE exam papers to hundreds of students after government website hack — Guardian +1 (SMH) · 12 Nov · https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority
   With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’ Get our breaking news email , free app or daily news podcast The…
-- Four bears put down after fatal mauling of mother and daughter in Canada — ABC +1 (BBC) · 11 Nov · https://www.abc.net.au/news/2026-11-11/bears-euthanased-following-attack-in-canada/107372022
-  Investigators discovered the remains of art therapist Jenny Balcarras and her daughter Selah Reed last week, shortly after their family reported them missing.
-(+29 more not listed)
+(+31 more not listed)
 
 ## Australian politics and economy – other candidates
 - Live: Wall Street roars despite Nvidia spy slump, ASX set to rise — ABC +1 (SMH) · 10 Nov · https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300
@@ -105,75 +105,79 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The prime minister vows to keep Victoria Barracks in Sydney in public hands, following widespread backlash over plans for the heritage-listed site to be sold off.
 - No clear winner after tight New Zealand general election — BBC +1 (SMH) · 08 Nov · https://www.bbc.co.uk/news/articles/c3ewev11g1e0o
   Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.
-- Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia
-  Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters Get our daily political email , free app or daily news podcast When will Australia…
 - High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31 — Guardian · 10 Nov · https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31
   Simon Stiell makes opening address at summit in Turkey, where talks are under way about speeding up shift to electrification A global fossil fuel price crisis is “spreading inflation like a cancer”…
+- Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia
+  Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters Get our daily political email , free app or daily news podcast When will Australia…
 - Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ — Guardian · 10 Nov · https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack
   Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal penalties over the Medicare hack but the…
-- The Victorian Liberals’ campaign bus was supposed to be a reset. Instead it became the symbol of a rough week — Guardian · 07 Nov · https://www.theguardian.com/australia-news/2026/nov/07/the-victorian-liberals-campaign-bus-was-supposed-to-be-a-reset-instead-it-became-the-symbol-of-a-rough-week
-  Crashing into a shop awning ended the first outing of the Jess Express – but the opposition’s electoral momentum will be harder to stop Get our daily political email , free app or daily news podcast…
 - Canavan supports Paris Agreement but says EU trade deal goes too far — ABC · 08 Nov · https://www.abc.net.au/news/2026-11-08/federal-politics-matt-canavan-insiders-paris-eu-free-trade/107360586
   The Queensland senator says it is important to take measures to reduce emissions where the country can afford it.
-- One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’ — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb
-  Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election Get our breaking news email , free app or daily news podcast…
+- The Victorian Liberals’ campaign bus was supposed to be a reset. Instead it became the symbol of a rough week — Guardian · 07 Nov · https://www.theguardian.com/australia-news/2026/nov/07/the-victorian-liberals-campaign-bus-was-supposed-to-be-a-reset-instead-it-became-the-symbol-of-a-rough-week
+  Crashing into a shop awning ended the first outing of the Jess Express – but the opposition’s electoral momentum will be harder to stop Get our daily political email , free app or daily news podcast…
 - There’s more than a whiff of politics to the sudden call to slash Labor’s green energy subsidies — Guardian · 10 Nov · https://www.theguardian.com/business/2026/nov/10/labor-cuts-green-energy-subsidies-inflation
   EVs and home batteries are in Treasury’s crosshairs despite a better economic case for scaling back nuclear-powered submarines and diesel fuel rebates for miners Get our breaking news email , free…
+- One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’ — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb
+  Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election Get our breaking news email , free app or daily news podcast…
 - ‘I’m not asking for special treatment’: the would-be migrants waiting to start their new lives in Australia — Guardian · 07 Nov · https://www.theguardian.com/australia-news/2026/nov/07/migrants-waiting-to-start-life-in-australia-visa-rules-immigration-ntwnfb
   Reducing ‘net overseas migration’ has become a national preoccupation. What does it mean for the people waiting to come in? Sign up for a weekly email featuring our best reads Each year, tens of…
 - Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff — Guardian · 08 Nov · https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles
   Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four…
 - Australia faces same issues that flipped control of US Congress in midterms, experts say — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices
   Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast…
-- James Ashby denies attempting to orchestrate One Nation preference deal with Labor ahead of Victorian election — Guardian · 05 Nov · https://www.theguardian.com/australia-news/2026/nov/05/james-ashby-denies-one-nation-preference-deal-labor-victoria-election-ntwnfb
-  Exclusive: Calls between Ashby and Carroll campaign revealed as One Nation’s Victorian leader pictured meeting with Labor operative Get our daily political email , free app or daily news podcast…
 - When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions — Guardian · 07 Nov · https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions
   Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney Get our breaking news email , free app or daily news podcast Competing…
 - Live: Mississippi and Alaska races on knife-edge as Republicans reel from midterm losses — ABC · 06 Nov · https://www.abc.net.au/news/2026-11-06/us-midterm-elections-2026-live-updates/107351586
   Votes are still being counted in some parts of the US, with the Republican Party having lost already control of the House and Senate. Follow live.
 - Victorian election: high costs and unkept promises could flip Melbourne’s Labor heartland to One Nation — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/victoria-election-melbourne-labor-heartland-one-nation-ntwnfb
   Labor ignored its falling vote in the working-class western suburbs because they would never go Liberal – but now there’s another option Get our daily political email , free app or daily news podcast…
-- Bomb alert diverts Airbus A320 plane going from Dublin to Rome — SMH · 05 Nov · https://www.smh.com.au/world/europe/bomb-alert-diverts-airbus-a320-plane-going-from-dublin-to-rome-20261105-p61buq.html?ref=rss
-  The situation was being monitored by the French prime minister’s office.
-- Woman alleged to have stalked Greens senator appears in court — ABC · 05 Nov · https://www.abc.net.au/news/2026-11-05/jordon-steele-john-woman-charged-stalking-senator/107349262
-  A woman accused of stalking and threatening WA Greens senator Jordon Steele-John is ordered to stay away from him.
-- Trust in the Reserve Bank is under strain, RBA deputy governor concedes — ABC · 05 Nov · https://www.abc.net.au/news/2026-11-05/rba-andrew-hauser-trust-in-the-rba-is-deteriorating/107351696
-  Trust in the RBA is under strain "just as we need it most," RBA deputy governor warns.
-- Distance isn't making anyone fonder of Albanese after interest rate rise — ABC · 05 Nov · https://www.abc.net.au/news/2026-11-05/albanese-chogm-week-in-politics/107336024
-  Anthony Albanese doesn't have much choice over whether to attend a series of conferences and summits overseas. But as the Australian economy shudders under another interest rate rise, the timing…
-- Australia's biggest oil and gas company to axe 500 jobs — ABC · 05 Nov · https://www.abc.net.au/news/2026-11-05/woodside-energy-to-slash-more-than-500-jobs/107349938
-  Gas giant Woodside announces it will axe at least 500 jobs from its global workforce as part of plans to cut costs by $550 million a year from 2028.
 - Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese — Guardian · 09 Nov · https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia
   Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email , free app or daily news podcast…
 - Liberal bus crashes into shop awning on its first outing of Victorian election campaign — Guardian · 06 Nov · https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election
   Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news…
 - What matters to NZ voters? Economy, living costs, and then daylight — ABC · 06 Nov · https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-inflation-wages-economy/107350046
   New Zealand's coalition government faces a fragmented and increasingly disenchanted electorate.
+- Albanese puts Pacific first at COP31, but critics say Australia must do more — ABC · 12 Nov · https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792
+  Prime Minister Anthony Albanese has put the Pacific at the centre of his COP31 pitch, but Australia's continued expansion of coal and gas is drawing criticism from climate advocates.
+- Anthony Albanese fails to mention fossil fuels in Cop summit speech — Guardian · 12 Nov · https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech
+  Australian PM boasts of success in renewables but is criticised for not addressing the nation’s huge coal industry Get our breaking news email , free app or daily news podcast Anthony Albanese said…
 - Stop undermining Jim Chalmers, environment minister urges Labor colleagues — Guardian · 09 Nov · https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues
   ‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The…
 - Polls close in New Zealand’s election of the century — SMH · 07 Nov · https://www.smh.com.au/world/oceania/polls-close-in-new-zealand-s-election-of-the-century-20261107-p61ca9.html?ref=rss
   A nail-biting finish is on the cards with neither major party expected to get a majority and a so-called ‘teal’ candidate likely to play the kingmaker.
 - The Nationals have been around since 1920 — but are they about to wiped out? — ABC · 06 Nov · https://www.abc.net.au/news/2026-11-06/michelle-grattan-are-nationals-on-life-support/107352856
   Matt Canavan's move to the lower house comes as One Nation makes inroads into Nationals territory. The question is how many of his colleagues will survive.
-- ‘A dumping ground for blood oil’: Pressure mounts on Canberra over Putin trade ties — SMH · 05 Nov · https://www.smh.com.au/politics/federal/a-dumping-ground-for-blood-oil-pressure-mounts-on-canberra-over-putin-trade-ties-20261105-p61bop.html?ref=rss
-  Despite repeated warnings and Senate findings, Canberra is yet to ban refined petroleum imports originating from Moscow’s crude oil.
-- A mega-church pastor, a Paralympian, a Muslim professor: Meet the midterm giant-killers — SMH · 05 Nov · https://www.smh.com.au/world/north-america/a-mega-church-pastor-a-paralympian-a-muslim-professor-meet-the-red-state-killers-20261105-p61bn3.html?ref=rss
-  A year ago, the idea that Democrats might seize control of the US Senate was laughable. When it came, the win was not only emphatic; it was historic.
-- Albanese puts Pacific first at COP31, but critics say Australia must do more — ABC · 12 Nov · https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792
-  Prime Minister Anthony Albanese has put the Pacific at the centre of his COP31 pitch, but Australia's continued expansion of coal and gas is drawing criticism from climate advocates.
-- Anthony Albanese fails to mention fossil fuels in Cop summit speech — Guardian · 12 Nov · https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech
-  Australian PM boasts of success in renewables but is criticised for not addressing the nation’s huge coal industry Get our breaking news email , free app or daily news podcast Anthony Albanese said…
+- Victorian election hot seats: Dumped, demoted and nearly bankrupted: Why Pesutto keeps coming back — SMH · 11 Nov · https://www.smh.com.au/politics/victoria/i-am-hungry-pesutto-tipped-for-frontbench-return-20261109-p61cc9.html?ref=rss
+  If John Pesutto’s relationship with the Liberals was a romance, friends would have staged an intervention years ago. But he remains devoted, convinced that this time it might be different.
 - Victorian Labor’s ‘unforgivable’ preferences decision risks Liberal-One Nation government, Greens warn — Guardian · 11 Nov · https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb
   Exclusive: Ellen Sandell says Labor’s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close election Get our breaking news email , free app or daily…
 - Savers versus spenders in the great interest rate rise race — ABC · 08 Nov · https://www.abc.net.au/news/2026-11-08/off-and-bracing-the-rates-decision-that-stopped-the-nation/107354058
   All eyes were on the Melbourne Cup on Tuesday but they will quickly turn to bank balances as the latest interest rate rise sets in.
 - Albanese weighs in on 'very significant' US midterm results — ABC · 07 Nov · https://www.abc.net.au/news/2026-11-07/albanese-trump-iran-war-midterms-chogm-budget/107356124
   The prime minister describes the US midterm results as "very significant" and assures Australians he will continue to push for an end to the war in Iran.
-(+98 more not listed)
+- Inside the $3 billion battle over defence real estate — ABC · 07 Nov · https://www.abc.net.au/news/2026-11-07/inside-the-battle-over-defence-real-estate/107352438
+  A plan to sell 67 defence sites around the country has become a long-running political headache for the federal government, but it is vowing to press on.
+- Injured MP Helen Haines's condition improved to 'stable' — ABC · 06 Nov · https://www.abc.net.au/news/2026-11-06/helen-haines-in-stable-condition-hospital-alfred/107355980
+  The independent MP, who lost both of her legs due to injuries suffered in last month's alleged attack, had previously been "serious but stable".
+- Business says inquiry into sector's struggles ignores key issue of tax — ABC · 06 Nov · https://www.abc.net.au/news/2026-11-06/business-says-government-inquiry-into-struggles-misses-point/107351996
+  A Productivity Commission inquiry into how to make businesses more dynamic releases its interim findings after being directed not to consider tax or industrial relations.
+- In layman’s terms, this is what is happening at David Jones — ABC · 06 Nov · https://www.abc.net.au/news/2026-11-06/david-jones-what-now-under-administration/107350708
+  Can you be in administration and have receivers? Yes, and it is happening at David Jones, which is seeking to restructure but will likely face challenges.
+- Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI — Guardian · 12 Nov · https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai
+  Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level…
+- Big Build royal commission LIVE updates: Gap Road level project hears submissions as CFMEU comes under microscope in long-awaited construction royal commission — SMH · 09 Nov · https://www.smh.com.au/national/victoria/big-build-royal-commission-live-updates-big-build-project-cfmeu-under-microscope-as-state-s-long-awaited-construction-royal-commission-begins-20261109-p61c7n.html?ref=rss
+  The inquiry begins its first block of public hearings this week and is expected to examine the role of former premier Jacinta Allan and her office in a controversial road and rail project.
+- Plug-in solar push sparks house fire warning from electricians — ABC · 12 Nov · https://www.abc.net.au/news/science/2026-11-12/plug-in-solar-and-batteries-may-cause-house-fires/107350418
+  Plug-in solar and batteries promise savings for households, but electrical industry groups say the safety measures being proposed are insufficient and the devices could cause house fires.
+(+91 more not listed)
 
 ## Other prominent general stories – one outlet
-- House Republicans block effort to impeach Pentagon chief Pete Hegseth — Guardian +1 (BBC) · 11 Nov · https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort
-  Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth , rejecting…
+- Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina — Guardian +1 (BBC) · 12 Nov · https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina
+  Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house…
+- Human remains found inside sofa dumped in Sydney bushland — ABC +1 (Guardian) · 12 Nov · https://www.abc.net.au/news/2026-11-12/human-remains-torso-found-in-sofa-in-sydney-bushland-lane-cove/107376074
+  While the human remains are yet to be formally identified, police believe they belong to an adult male.
+- Hoax bomb alerts sent to schools in Italy, UK and Ireland — ABC +1 (BBC) · 12 Nov · https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742
+  European officials suspect Russia or Iran may be behind a campaign of disruption to everyday life.
 - 'There go my plans': Finnish embassy in Canberra goes viral after logistics post — ABC +1 (Guardian) · 11 Nov · https://www.abc.net.au/news/2026-11-11/finnish-ambassador-welcomes-viral-interest-social-media-posts/107374016
   It all began when Mr Haapea fronted a video promoting a campaign encouraging singles to enter a competition where they could travel to the Nordic country to meet and dine with new people. Then, they…
 - Activist wins 10-year fight against homophobic Trinidad and Tobago laws — Guardian +1 (BBC) · 11 Nov · https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws
@@ -182,12 +186,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The US Defense Secretary describes an attempt to impeach him as the "personal manifesto" of a "disgruntled" congressman, as members of Congress prepare for a possible vote in coming hours.
 - Russell Brand's ex Jemima Goldsmith accuses him of 'violence and abuse' — ABC +1 (Guardian) · 10 Nov · https://www.abc.net.au/news/2026-11-10/jemima-goldsmith-accuses-russell-brand-of-violence-and-abuse/107367380
   The convicted rapist's former partner says she called the police to remove him from her home during "a violent incident".
-- Human remains found inside sofa dumped in Sydney bushland — ABC +1 (Guardian) · 12 Nov · https://www.abc.net.au/news/2026-11-12/human-remains-torso-found-in-sofa-in-sydney-bushland-lane-cove/107376074
-  While the human remains are yet to be formally identified, police believe they belong to an adult male.
-- Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina — Guardian +1 (BBC) · 12 Nov · https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina
-  Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house…
-- Hoax bomb alerts sent to schools in Italy, UK and Ireland — ABC +1 (BBC) · 12 Nov · https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742
-  European officials suspect Russia or Iran may be behind a campaign of disruption to everyday life.
+- 'Train surfing' teen critical after Sydney Harbour Bridge fall — ABC +1 (Guardian) · 12 Nov · https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826
+  A teenage boy has been rushed to hospital after falling from a train and onto the tracks on the Sydney Harbour Bridge.
+- Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win — Guardian +1 (BBC) · 12 Nov · https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race
+  Colom takes victory by razor-thin margin in state that has not elected a Democrat to the Senate since 1982 Democrat Scott Colom defeated Cindy Hyde-Smith, the incumbent Republican senator, to become…
 - Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed — Guardian +1 (BBC) · 11 Nov · https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed
   Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can…
 - Eleven unknown Australian soldiers killed in WWI formally identified — ABC +1 (SMH) · 10 Nov · https://www.abc.net.au/news/2026-11-10/eleven-australian-soldiers-killed-wwi-formally-idenified/107370258
@@ -200,8 +202,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Runners seek medical treatment as 13-mile race held amid unusually high November temperatures Police in southern California are investigating the circumstances that led to the hospitalization of…
 - Snow blankets parts of NSW just weeks away from summer — ABC +1 (SMH) · 08 Nov · https://www.abc.net.au/news/2026-11-08/snow-falls-parts-of-nsw-after-strong-cold-front/107361014
   A cold front brought rain and storms, and saw temperatures drop by as much as 10 degrees Celsius in some Sydney suburbs.
-- Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win — Guardian +1 (BBC) · 12 Nov · https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race
-  Colom takes victory by razor-thin margin in state that has not elected a Democrat to the Senate since 1982 Democrat Scott Colom defeated Cindy Hyde-Smith, the incumbent Republican senator, to become…
+- Surgeon among six killed in Israeli air strike on Gaza hospital — ABC +1 (BBC) · 12 Nov · https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926
+  An Israeli air strike on Nasser Hospital has killed at least six people and injured 20, Palestinian health authorities say.
+- A 50-year obsession leads to largest turtle collection record — ABC +1 (SMH) · 12 Nov · https://www.abc.net.au/news/2026-11-12/qld-womans-turtle-obsession-leads-to-guinness-world-record/107369632
+  Tania Murphy has the largest collection of tortoise and turtle-related items in the world and has a Guinness World Record certificate to prove it.
 - Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site — Guardian +1 (BBC) · 11 Nov · https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk
   250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump…
 - Police charged over alleged e-bike hit and run in Sydney — ABC +1 (SMH) · 09 Nov · https://www.abc.net.au/news/2026-11-09/nsw-police-charged-over-alleged-ebike-hit-and-run-broadway/107366072
@@ -218,15 +222,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate…
 - Delhi's toxic winter air is back - is the Indian capital prepared for pollution? — BBC · 06 Nov · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo
   The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.
-- Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen? — Guardian · 05 Nov · https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king
-  Controversial theory that Verica, who incited Emperor Claudius’s AD43 landing, was a woman could put a new spin on British history if true It was a moment that changed the course of British history…
-- Elon Musk’s nearly half a billion dollars in midterms spending was a flop — Guardian · 05 Nov · https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis
-  The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion…
-(+909 more not listed)
+(+869 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - GTIA chief hails ‘Channel Effect’ as a position of power for the industry — CRN · 12 Nov · https://www.crn.com.au/news-network/channel-news/2026/gtia-chief-hails-channel-effect-as-a-position-of-power-for
   CEO Dan Wensley opens 2026 ChannelCon EMEA with a rousing call to action, a pledge to focus even more on community building and collaboration, and unveils a raft of AI initiatives
+- Breaking the confines of traditional female leadership roles — ARN · 12 Nov · https://www.arnnet.com.au/article/4247591/breaking-the-confines-of-traditional-female-leadership-roles.html
+  Across industries, women are taught to view higher positions in the workplace through a narrow lens. This can create a situation where they end up underestimating their potential and adapting…
 - DXN picks up CLS contract worth nearly $5M — ARN · 12 Nov · https://www.arnnet.com.au/article/4247555/dxn-picks-up-cls-contract-worth-nearly-5m.html
   Data centre specialist DXN has secured a $4.8 million order to build a modular cable landing station (CLS) for an unnamed global internet company. The facility will house subsea internet cables come…
 - BeyondTrust awards top Aussie partners for 2026 — ARN · 12 Nov · https://www.arnnet.com.au/article/4247547/beyondtrust-awards-top-aussie-partners-for-2026.html
@@ -341,13 +343,13 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Australian organisations are pouring money into cybersecurity but many are failing to see improved outcomes, with new research revealing that internal organisational friction, rather than technology…
 - ASI buys Incison Cyber to bolster customer security needs — CRN · 06 Nov · https://www.crn.com.au/news/2026/partners/asi-buys-incison-cyber-to-bolster-customer-security-needs
   Incison Cyber brings with it a SOC and all staff under the ASI banner.
-- DNX Solutions picks Thiago Dolabella as new CTO — ARN +1 (CRN) · 05 Nov · https://www.arnnet.com.au/article/4244887/dnx-solutions-picks-thiago-dolabella-as-new-cto.html
-  DNX Solutions has hired Thiago Dolabella to be its next chief technology officer to shape its solutions and offer advice to clients around technology strategy. In the role, Dolabella will work with…
-- HP appoints former GSK head Emma Walmsley as CEO — ARN · 06 Nov · https://www.arnnet.com.au/article/4245370/hp-appoints-former-gsk-head-emma-walmsley-as-ceo-2.html
-  HP has recruited outside of the technology industry for its next chief executive officer with the appointment of former GSK head Emma Walmsley. Walmsley will take on the role from 4 January 2027 and…
-(+9 more not listed)
+- Exclusive: DNX Solutions taps Thiago Dolabella as new CTO — CRN · 06 Nov · https://www.crn.com.au/news/2026/channel-news/dnx-solutions-taps-thiago-dolabella-as-new-cto
+  Dolabella was previously the CEO and founder of ITSP Nexent.
+(+7 more not listed)
 
 ## Technology news (BBC, Guardian)
+- Lego marketplace BrickLink offline after 'unusual activity' detected — BBC · 12 Nov · https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o
+  Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.
 - The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds — Guardian · 12 Nov · https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk
   We asked 20 tweenagers what they already own, love and think would make great gifts. Turns out it’s Lego, dance mats and plenty of lotions and potions • The best Christmas gifts for teenagers Buying…
 - How years of research built Grand Theft Auto VI’s obsessively detailed world — Guardian · 12 Nov · https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet
@@ -442,14 +444,20 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot • The best Christmas gifts for…
 - ‘It’s so glossy and sexy!’: 10 movies (and one TV show) that inspired Grand Theft Auto — Guardian · 05 Nov · https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto
   As GTA 6 looms, we look at the films that have influenced Rockstar’s creatives, from Heat to Bonnie and Clyde, via Boyz n the Hood and Speed Grand Theft Auto is arguably the most cinematic video game…
-- Tech barons cozied up to Trump. What will they do in newly blue America? — Guardian · 05 Nov · https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg
-  Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult The photo of Silicon Valley centi-billionaires at Donald…
-- Activists across Europe prepare two days of protests against datacentres — Guardian · 05 Nov · https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres
-  More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects Protesters across Europe are planning two days of action against datacentres this…
-- Apple iPad mini A20 Pro review: the best small tablet but with a big price — Guardian · 05 Nov · https://www.theguardian.com/technology/2026/nov/05/apple-ipad-mini-a20-pro-review-best-small-tablet-but-big-price
-  All-round upgrades fit a bigger OLED screen in a smaller and lighter body with water resistance for first time The new iPad mini takes Apple’s fan-favourite tiny tablet and upgrades just about…
 
 ## Cars (CarExpert)
+- Lexus IS recalled for airbag issue — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/lexus-is-recalled-for-airbag-issue
+  An earlier fix made to Lexus IS models fitted with Takata airbag inflators may not be durable enough, so the brand has devised another solution.
+- Another Chinese car getting a major update in China right after its Australian launch — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/another-chinese-car-getting-a-major-update-in-china-right-after-its-australian-launch
+  The Leapmotor B05 sold in markets like Australia could be made obsolete by a new Chinese update, but there's no guarantee it'll be offered in export markets.
+- Car app security flaw let researchers remotely unlock and start vehicles — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/car-app-security-flaw-let-researchers-remotely-unlock-and-start-vehicles
+  Researchers found an automaker had exposed credentials that could enable remote access to any of its vehicles with connected app functions enabled.
+- Hyundai’s $1 billion Australian battery plant ‘fell through’ after government bungled talks — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/hyundais-dollar1-billion-australian-battery-plant-fell-through-after-government-bungled-talks
+  A reported $1 billion investment by Hyundai didn't proceed after neither the prime minister’s office nor the NSW Government could organise a meeting.
+- GWM Ora 5 Plus EV to take on Tesla, BYD in 2027 — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/gwm-ora-5-plus-ev-to-take-on-tesla-byd-in-2027
+  GWM is adding a long-bottomed Ora 5 EV in early 2027. Alongside the Haval Jolion Max EV, it'll form a two-pronged attack on the mid-size electric SUV segment.
+- China's Forthing locks in updated Geely EX5 rival for New Zealand, Australian timing unclear — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/chinas-forthing-locks-in-updated-geely-ex5-rival-for-new-zealand-australian-timing-unclear
+  Forthing has given its mid-size electric and extended-range electric SUV a substantial update, but local launch timing has yet to be announced.
 - Chery Omoda 5 recall to fix detaching rear axle expands to Australia — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/chery-omoda-5-recall-to-fix-detaching-rear-axle-expands-to-australia
   A rear axle problem affecting Chery Omoda 5 small SUVs has led to a recall in China – and now Australia.
 - 2027 Audi A5 unplugs ICE variants as PHEV demand surges — CarExpert · 12 Nov · https://www.carexpert.com.au/car-news/2027-audi-a5-unplugs-ice-variants-as-phev-demand-surges
@@ -560,26 +568,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Electric SUVs weigh well over two tonnes, so how does Cadillac make them feel agile? A Cadillac performance engineer explains.
 - Mercedes-AMG’s electric GT recreates V8 sound with more than 1600 audio files — CarExpert · 06 Nov · https://www.carexpert.com.au/car-news/mercedes-amgs-electric-gt-recreates-v8-sound-with-more-than-1600-audio-files
   AMG’s electric GT pairs a GT R-inspired V8 soundtrack with simulated gearshifts and vibrations, while the entry-level GT53 gets six-cylinder sound.
-- 2027 Mercedes-AMG GT 4-Door Coupé review: Quick drive — CarExpert · 05 Nov · https://www.carexpert.com.au/car-reviews/2027-mercedes-amg-gt-4-door-coupe-review-quick-drive
-  We expected to dislike AMG’s electric GT. Several hours on Spanish roads and at Ascari changed that, but pricing and resale value remain questions.
-- Inside AMG’s 860kW electric GT: The motors and battery explained — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/inside-amgs-860kw-electric-gt-the-motors-and-battery-explained
-  A chassis walkaround with one of AMG’s engineers reveals the compact motors, specially developed battery cells and elaborate cooling behind its new electric GT.
-- Mercedes-AMG gives its electric GT a ‘race engineer’ you control — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/mercedes-amg-gives-its-electric-gt-a-race-engineer-you-control
-  AMG’s Race Engineer gives drivers separate control over throttle response, cornering behaviour, and wheelspin, backed by independently driven rear wheels.
-- Toyota Prado edges ahead of Ford Everest in battle of the big SUVs — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/toyota-prado-edges-ahead-of-ford-everest-in-battle-of-the-big-suvs
-  The LandCruiser Prado has clawed back the advantage enjoyed by arch-rival Everest, as Toyota expects sales to ramp up with increased supply in the final two months of the year.
-- Honda Prelude gets Civic Type R power and manual gearbox at SEMA — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/honda-prelude-gets-civic-type-r-power-and-manual-gearbox-at-sema
-  Two modified Honda Preludes at the famous SEMA show in the United States offer a glimpse of what the first-ever Prelude Type R could look like.
-- Australia needs to stop letting in new car brands, says dealer body — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/australia-needs-to-stop-letting-in-new-car-brands-says-dealer-body
-  The group representing new-car dealers in Australia wants a pause on new brands to our market, and for existing brands to give its members relief.
-- Toyota HiLux closes in on Ford Ranger in Australian sales race — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/toyota-hilux-closes-in-on-ford-ranger-in-australian-sales-race
-  The gap between Australia’s two best-selling vehicles has narrowed to only 129 sales as Toyota and Ford gear up for an intense sprint to the end of 2026.
-- Toyota's new supercar to make racing debut this weekend — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/toyotas-new-supercar-to-make-racing-debut-this-weekend
-  Toyota's new halo racecar will join the Super GT field for two races this weekend as the company works to establish Gazoo Racing as a standalone brand.
-- VFACTS October 2026: Diesels overtake EVs, Toyota HiLux reigns supreme — CarExpert · 05 Nov · https://www.carexpert.com.au/car-news/vfacts-october-2026-diesels-overtake-evs-toyota-hilux-reigns-supreme
-  After a couple of months with EVs holding the most market share, October saw diesels shine once again as the Toyota HiLux and Ford Ranger were the two best-selling vehicles.
 
 ## Science (Guardian, BBC)
+- Campaigners want more land protected from housing — BBC · 12 Nov · https://www.bbc.co.uk/news/articles/cmpw48zwnevlo
+  After parkland was safeguarded from development, residents want the council to change a housing plan.
+- Art trail celebrates arrival of black bears at zoo — BBC · 12 Nov · https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo
+  Jersey Zoo says the art trail will celebrate the world's "largest inhabitants to its smallest.
+- Nurdle impact to be researched for a year — BBC · 12 Nov · https://www.bbc.co.uk/news/articles/cxnv4y23zldyo
+  Research will be carried out on sea-birds and marine life following a microplastic spillage in July.
 - Significant drop in levels of toxic 'forever' chemicals in England's rivers — BBC · 12 Nov · https://www.bbc.co.uk/news/articles/cmze75r55g3jo
   The decline has been put down to severe restrictions placed on the substances' use.
 - 'Summer was a wake-up call, winter could be dire' warning over food supplies — BBC · 12 Nov · https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro
@@ -676,6 +672,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.
 
 ## Green economy (ABC, Guardian, Carbon Brief)
+- World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns — Guardian · 12 Nov · https://www.theguardian.com/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns
+  Failure to cut emissions will ‘consign humanity to disasters they are unable to adapt to’, report says The world is heading for an “irrecoverable overshoot” of global temperature thresholds that will…
 - Burnham lauds £12bn offshore wind investment as he prepares for climate summit — Guardian · 11 Nov · https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield
   Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield UK politics live – latest updates Andy Burnham has hailed a record investment in…
 - Developing countries in limbo as rich nations delay new climate finance plans — Guardian · 11 Nov · https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay
@@ -720,10 +718,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Climate-forward Democrats swept into power Tuesday night as a blue tsunami flipped the Senate, House and…
 - Interactive: Tracking negotiating texts at the COP31 climate summit — Carbon Brief · 06 Nov · https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit
   The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal… The post Interactive: Tracking negotiating texts at the COP31 climate summit appeared…
-- Will Democrats’ midterms triumph put wind back in sails of the renewables sector? — Guardian · 05 Nov · https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump
-  Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy After years as collateral damage in Donald Trump’s war on climate action, the…
-- UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI — Guardian · 05 Nov · https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy
-  Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed…
 
 ## QPR match reports (Loft For Words)
 - Glorious Glen dispels Rangers’ possession plight – Report — Loft For Words · 10 Nov · https://www.fansnetwork.co.uk/news/67216/glorious-glen-dispels-rangers’-possession-plight-–-report
@@ -733,23 +727,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 12 Nov 11:39 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 12 Nov 11:39 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 12 Nov 11:39 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 12 Nov 11:39 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 12 Nov 11:39 | 28 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 12 Nov 11:39 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 12 Nov 11:39 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 12 Nov 11:39 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 12 Nov 11:39 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 12 Nov 11:39 | 36 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 12 Nov 11:39 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 12 Nov 11:39 | 29 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 12 Nov 11:39 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 12 Nov 11:39 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 12 Nov 11:39 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 12 Nov 11:39 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 12 Nov 11:39 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 12 Nov 11:39 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 12 Nov 20:46 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 12 Nov 20:46 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 12 Nov 20:46 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 12 Nov 20:46 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 12 Nov 20:46 | 32 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 12 Nov 20:46 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 12 Nov 20:46 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 12 Nov 20:46 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 12 Nov 20:46 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 12 Nov 20:46 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 12 Nov 20:46 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 12 Nov 20:46 | 29 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 12 Nov 20:46 | 41 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 12 Nov 20:46 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 12 Nov 20:46 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 12 Nov 20:46 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 12 Nov 20:46 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 12 Nov 20:46 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 31,092 tokens._
+_Approximate reading cost of this digest: 30,725 tokens._
