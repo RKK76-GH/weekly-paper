@@ -1,6 +1,6 @@
 # Weekly paper – story digest
 
-Updated Sat 28 Nov 2026, 13:39 Sydney time. Stories from 21 Nov to 28 Nov. 1269 stories held from 18 of 18 sources.
+Updated Sat 28 Nov 2026, 23:56 Sydney time. Stories from 21 Nov to 28 Nov. 1280 stories held from 18 of 18 sources.
 
 Format: headline — lead outlet (+ other outlets covering it) · date · link, then summary.
 
@@ -10,8 +10,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   There are fears the death toll could rise after the crash, which also injured dozens of people and left cars and motorcycles charred.
 - Why Donald Trump was so set on getting Jensen Huang back at the helm of Nvidia — ABC +3 (BBC, Guardian, SMH) · 24 Nov · https://www.abc.net.au/news/2026-11-24/trump-influence-on-jensen-huang-nvidia/107419642
   Jensen Huang is back as CEO of Nvidia and US President Donald Trump is taking credit for the move. For Congress and experts alike, that is raising some flags.
-- Bowen details how the words 'fossil fuels' derailed COP31 — ABC +2 (BBC, Guardian) · 25 Nov · https://www.abc.net.au/news/2026-11-25/chris-bowen-disappointed-at-cop31-result-geopolitics/107427460
-  Minister for Energy and Climate Change Chris Bowen breaks his silence on just what went wrong at the UN Climate Summit.
 - Bodies found, 29 workers missing after Indonesian factory fire — ABC +2 (BBC, Guardian) · 22 Nov · https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720
   A fire has swept through a confectionary factory in Indonesia's Banten province, killing at least three workers and leaving 29 others unaccounted-for, officials say.
 - Israel's bombardment has turned Gaza into 'toxic wasteland' — ABC +2 (BBC, Guardian) · 24 Nov · https://www.abc.net.au/news/2026-11-24/israel-s-bombardment-turns-gaza-into-toxic-wasteland/107419898
@@ -22,12 +20,12 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The double murder trial of Beau Lamarre-Condon not only exposed him as a callous killer, but someone who was controlling when he stalked and "petrified" a former partner.
 - Iranian singer and four others receive lashes after performance without hijab — Guardian +2 (BBC, SMH) · 24 Nov · https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab
   Western governments and rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes…
+- Grace Tame says business chairman said she was 'looking to be raped again' — ABC +2 (BBC, Guardian) · 28 Nov · https://www.abc.net.au/news/2026-11-28/grace-tame-former-media-exec-matt-handbury-rape-comment-nsw/107437856
+  Matt Handbury has admitted to making the comments, but says they were "an attempt at humour in less-than-poor taste".
 - What we know about One Nation's chances at the Victorian election — ABC +2 (Guardian, SMH) · 25 Nov · https://www.abc.net.au/news/2026-11-25/vic-election-one-nation-how-many-seats-could-they-win/107419866
   As Liberal leader Jess Wilson's political prospects firm, the chances of a One Nation wipeout in Victoria's lower house are receding. But pockets of opportunity remain for the resurgent party.
 - Federal court clears way for army to detonate bomb-making chemicals in Iowa — Guardian +2 (BBC, SMH) · 24 Nov · https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court
   Trump, on social media, tried to push responsibility of ‘any and all death or destruction’ on Democratic governor-elect The US army can proceed with detonating several tons of degraded bomb-making…
-- Grace Tame says business chairman said she was 'looking to be raped again' — ABC +2 (BBC, Guardian) · 28 Nov · https://www.abc.net.au/news/2026-11-28/grace-tame-former-media-exec-matt-handbury-rape-comment-nsw/107437856
-  Matt Handbury has admitted to making the comments, but says they were "an attempt at humour in less-than-poor taste".
 - Mushroom killer Erin Patterson asks High Court to hear appeal — ABC +2 (BBC, Guardian) · 27 Nov · https://www.abc.net.au/news/2026-11-27/mushroom-killer-erin-patterson-high-court-appeal-bid/107433688
   Lawyers for the triple murderer have lodged the bid on the final day of the appeal window.
 - Red imported fire ants found in Western Sydney — ABC +2 (Guardian, SMH) · 23 Nov · https://www.abc.net.au/news/2026-11-23/red-imported-fire-ants-found-western-sydney/107415336
@@ -44,16 +42,18 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Solomon Islands has told China it is scrapping its controversial 2022 security pact, as the Pacific Island nation prepares to sign a sweeping near billion-dollar treaty with Australia.
 - Turkish heiress paid former prince Andrew $1.4m 'bribe', UK court told — ABC +2 (Guardian, SMH) · 24 Nov · https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512
   A lawyer for the Turkish heiress's former adviser says the payment to Andrew Mountbatten-Windsor "was a bribe, either for assistance with her passport or her UK residency".
+- Cop31 climate talks break down as key deal rejected — Guardian +1 (BBC) · 22 Nov · https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected
+  EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK…
 - COP31 deal failure 'very disappointing', Chris Bowen says — ABC +1 (Guardian) · 23 Nov · https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772
   The UN climate summit collapses as nations fail to agree over whether to mention the fossil fuels that cause global warming in an agreement.
 - Indian Cockroach movement leader asks court for permission to fly to UK — Guardian +1 (BBC) · 25 Nov · https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk
   Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked the Delhi high court…
 - South Korea education minister resigns after AI cheating scandal engulfs university exams — Guardian +1 (BBC) · 22 Nov · https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams
   Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday…
-- US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist — Guardian +1 (BBC) · 24 Nov · https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia
-  Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based…
 - 'Significant concern' as summer bushfire risk grows — ABC +1 (Guardian) · 27 Nov · https://www.abc.net.au/news/2026-11-27/australia-summer-bushfire-risk/107425264
   Fire risk is heightened across several states as the long-range forecast predicts a hot, dry summer for most.
+- US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist — Guardian +1 (BBC) · 24 Nov · https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia
+  Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based…
 - Kilmar Ábrego García, man at center of Trump deportation battle, leaving US — Guardian +1 (BBC) · 25 Nov · https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us
   Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition…
 - Israel seeks to jail Palestinian student activist without trial after dorm arrest — Guardian +1 (BBC) · 24 Nov · https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu
@@ -72,23 +72,25 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald…
 - ‘We’ve got to stop the war’: Endurance athlete swims in Strait of Hormuz — ABC +1 (Guardian) · 22 Nov · https://www.abc.net.au/news/2026-11-22/strait-of-hormuz-swimmer-highlights-iran-war-impact-on-wildlife/107414066
   As tankers are attacked and blown up nearby, 56-year-old Englishman Lewis Pugh swims in the Strait of Hormuz to draw attention to how the conflict is threatening the area's habitat and wildlife.
-- Flinders Island officer was 'ambushed' by man with stolen shotgun, police say — ABC +1 (Guardian) · 23 Nov · https://www.abc.net.au/news/2026-11-23/sergeant-michael-preshaw-flinders-island-police-shooting/107415264
-  Tasmania Police Deputy Commissioner Jonathan Higgins says the gun used to shoot a Flinders Island officer was stolen earlier this month.
-- Man in hospital after stabbing in Melbourne's CBD — ABC +1 (SMH) · 21 Nov · https://www.abc.net.au/news/2026-11-21/man-in-hospital-after-stabbing-on-bourke-street-mall/107412922
-  Police are searching for a man in his 30s after an alleged stabbing outside a store in Melbourne's CBD on Saturday afternoon.
-- Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal — Guardian +1 (SMH) · 22 Nov · https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal
-  Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her cancer diagnosis in a…
-- Man disappears after jumping into Yarra River from CBD bridge — ABC +1 (SMH) · 22 Nov · https://www.abc.net.au/news/2026-11-22/man-disappears-after-jumping-into-yarra-river-from-bridge/107414220
-  An emergency search is underway in the heart of Melbourne after the man failed to surface after jumping into the Yarra.
-- Democrats capture at least 258 House seats in largest sweep since 1992 — Guardian +1 (BBC) · 23 Nov · https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep
-  Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least…
+- Israeli air strike on Doctors Without Borders Gaza office kills two — ABC +1 (BBC) · 28 Nov · https://www.abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266
+  The World Health Organization condemns attacks on health facilities after an Israeli air strike on an MSF building in Gaza killed two people.
 - Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols — Guardian +1 (BBC) · 28 Nov · https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols
   Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the…
+- Flinders Island officer was 'ambushed' by man with stolen shotgun, police say — ABC +1 (Guardian) · 23 Nov · https://www.abc.net.au/news/2026-11-23/sergeant-michael-preshaw-flinders-island-police-shooting/107415264
+  Tasmania Police Deputy Commissioner Jonathan Higgins says the gun used to shoot a Flinders Island officer was stolen earlier this month.
+- Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal — Guardian +1 (SMH) · 22 Nov · https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal
+  Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her cancer diagnosis in a…
+- OpenAI countersues Apple for allegedly stealing trade secrets — Guardian +1 (BBC) · 28 Nov · https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets
+  Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets…
 - Momentous decision looms after judges call for Netanyahu charges to be dropped — Guardian +1 (BBC) · 27 Nov · https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges
   Dropping of corruption charges against Israeli PM after unusual intervention could set damaging precedent The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on…
-(+23 more not listed)
+- Major Thanksgiving storms inundate US with heavy rain, wind and flooding — ABC +1 (Guardian) · 27 Nov · https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308
+  Nearly 200,000 homes and businesses have lost power in Virginia and another 177,000 in Maryland, with flights also affected.
+(+29 more not listed)
 
 ## Australian politics and economy – other candidates
+- One Nation downplays Victorian election chances as Pauline Hanson leads ‘Labor party farewell tour’ — Guardian +1 (SMH) · 27 Nov · https://www.theguardian.com/australia-news/2026/nov/27/one-nation-victoria-state-election-pauline-hanson-labor-farewell-tour-ntwnfb
+  Hanson defends lack of policy costings on eve of state poll as Warren Pickering says ‘we’ve already won’ regardless of outcome Victorian election 2026 guide: what you need to know Confused about who…
 - Live: ASX to edge higher as global stocks climb — ABC +1 (SMH) · 27 Nov · https://www.abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390
   The ASX is set to open a little higher after solid gains across Europe and Asia. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
 - Victorian opposition defends release of major policies two days from Victorian election — ABC +1 (SMH) · 26 Nov · https://www.abc.net.au/news/2026-11-26/coalition-costings-victorian-state-election-2026/107430554
@@ -99,22 +101,26 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The Treasurer said the government was on track for cuts to more than cover any new spending in next month's mid-year budget update and that forecasts would project higher unemployment and lower…
 - Researcher who helped improve melanoma survival rates among winners of top Australian science prize — Guardian · 24 Nov · https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science
   Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science Get our daily political email , free app or daily news podcast When Prof Georgina Long was…
-- Potty-mouthed MPs ranked as Australian parliament sets new swearing record — Guardian · 23 Nov · https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record
-  One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The…
 - Chris Bowen may have flamed out at COP, but at least he tried — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/chris-bowen-cop-climate-politics/107434496
   The climate talks in Türkiye ended with disappointment for just about everyone, but getting consensus on the global stage is becoming increasingly impossible.
 - Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say — Guardian · 28 Nov · https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands
   Academic says Victorian Liberal proposal to lease treatment plants and generate profit with no compromise of services ‘a total furphy’ Victorian election 2026 guide: what you need to know Confused…
+- Potty-mouthed MPs ranked as Australian parliament sets new swearing record — Guardian · 23 Nov · https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record
+  One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The…
+- Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation — Guardian · 28 Nov · https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb
+  Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victorian election 2026 guide: what you need to…
+- NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say — Guardian · 28 Nov · https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say
+  Exclusive: Ryde councillor Penny Pedersen was asked by Labor head office not to nominate for Lane Cove in March state election Get our breaking news email , free app or daily news podcast Labor’s New…
 - Coalition to team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters — Guardian · 26 Nov · https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters
   Coalition to vote in Senate to pass government’s final major piece of legislation for 2026, denying Greens bid for 25% tax on exports Get our daily political email , free app or daily news podcast A…
 - Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises — Guardian · 26 Nov · https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy
   Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates…
 - Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider — Guardian · 25 Nov · https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb
   Several members of the group chat set up after the alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China Get our breaking news email , free…
-- Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation — Guardian · 28 Nov · https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb
-  Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victorian election 2026 guide: what you need to…
-- NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say — Guardian · 28 Nov · https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say
-  Exclusive: Ryde councillor Penny Pedersen was asked by Labor head office not to nominate for Lane Cove in March state election Get our breaking news email , free app or daily news podcast Labor’s New…
+- Australia poured millions into power stations PNG is now looking to sell — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/australia-poured-millions-into-png-power-stations-now-being-sold/107433586
+  In announcing the sell-off, Papua New Guinea Prime Minister James Marape said the power stations were putting "financial pressure" on the government.
+- If Australia wants to be a middle power, we have to stand up to the US — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/trump-creates-tariff-chaos-but-australia-wont-push-back/107435236
+  From intervening on Jensen Huang to a new round of tariffs, Donald Trump is continuing to create global chaos. But the government missed a crucial chance to assert ourselves around our 'ally'.
 - Older Australians suffering under Labor’s ‘botched’ aged care at home program, inquiry finds — Guardian · 26 Nov · https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report
   The Support at Home system has ‘baffling’ bureaucracy and ‘rations and denies care’, says Greens chair of Senate inquiry Get our daily political email , free app or daily news podcast Many older…
 - New defence laws could have ‘significant’ implications for human rights, Labor-led inquiry finds — Guardian · 26 Nov · https://www.theguardian.com/australia-news/2026/nov/26/new-defence-laws-could-have-significant-implications-for-human-rights-labor-led-inquiry-finds
@@ -137,12 +143,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   When swastikas appeared on election posters for the granddaughter of actor David Gulpilil, she reported it; by then her daughter had seen it. She’s not alone in raising concerns Get our breaking news…
 - Inside a room with Trump, there's no mistaking who holds the power — ABC · 22 Nov · https://www.abc.net.au/news/2026-11-22/albanese-trump-quad-xi-putin-summits-analysis/107410572
   The US president seems to have warmed to Anthony Albanese, but the PM is still learning to navigate his changing rules.
+- Victorian election 2026: Labor suffers historic defeat as Coalition wins majority government — Guardian · 28 Nov · https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results
+  Jess Wilson to become state’s first popularly elected female premier as Ben Carroll loses seat in 2026 state election, and Greens and One Nation surge Victoria election live results: votes tracker…
 - Victorian election 2026 LIVE updates: Jess Wilson rules out deal with One Nation; Polls point to Coalition victory despite anger over late policy release — SMH · 28 Nov · https://www.smh.com.au/politics/victoria/victorian-election-2026-live-updates-jess-wilson-and-ben-carroll-go-head-to-head-labor-on-track-for-historic-loss-20261128-p61hxg.html?ref=rss
   With the Coalition in the box seat to form government, Labor has shifted its focus to holding off One Nation in its heartland seats.
-- Australia poured millions into power stations PNG is now looking to sell — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/australia-poured-millions-into-png-power-stations-now-being-sold/107433586
-  In announcing the sell-off, Papua New Guinea Prime Minister James Marape said the power stations were putting "financial pressure" on the government.
-- If Australia wants to be a middle power, we have to stand up to the US — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/trump-creates-tariff-chaos-but-australia-wont-push-back/107435236
-  From intervening on Jensen Huang to a new round of tariffs, Donald Trump is continuing to create global chaos. But the government missed a crucial chance to assert ourselves around our 'ally'.
+- UN rapporteur Francesca Albanese denied entry at Costa Rica Airport — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/francesca-albanese-detained-at-costa-rica-airport/107437818
+  The high-profile independent investigator, who was invited to Costa Rica to receive an honorary degree, is spending her second night stranded at the airport while a petition to enter the country is…
+- Bomb scare email distribution blasted as 'irresponsible' by criminologist — ABC · 28 Nov · https://www.abc.net.au/news/2026-11-28/nt-government-bomb-threat-media-reaction/107435122
+  A bomb threat email was shared with media by the NT government this week, before police had investigated. Some say the move was "irresponsible".
 - Official results of New Zealand's national election announced — ABC · 27 Nov · https://www.abc.net.au/news/2026-11-27/official-results-of-new-zealand-s-national-election-announced/107434326
   New Zealand's incumbent Prime Minister Christopher Luxon will need to secure support from the centrist Opportunity party if he wants to form a new government.
 - Your pre-checkout checklist for Black Friday sales — ABC · 26 Nov · https://www.abc.net.au/news/2026-11-26/black-friday-sales-cyber-monday-scam-shopping-checklist-/107417930
@@ -161,21 +169,15 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Simplifying your supermarket shop to make healthier choices doesn't need to be overwhelming. Here are some evidence-based tips to make it easier to choose nutritious food and avoid the marketing spin.
 - PBS medicines to cost no more than $25 until end of decade — ABC · 23 Nov · https://www.abc.net.au/news/2026-11-23/albanese-cheaper-medicines-pbs-script-cost-of-living/107415508
   With household budgets under pressure, the federal government has again turned to cheaper medicines to try to cushion against rising costs.
-- Live: Small business websites to be exempt from digital duty of care — ABC · 23 Nov · https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266
-  Communications Minister Anika Wells has confirmed small business websites will be exempt from the proposed digital duty of care, following concerns from business groups. Follow live.
-- Live: Wall Street crashes to correction territory and ASX set to fall — ABC · 23 Nov · https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602
-  Wall Street's sharp sell-off on Friday is set to put the ASX under pressure today. Follow the day's events and insights from our business reporters on the ABC News live markets blog.
-- Experts say nostalgia for traditional industries resonates with voters — ABC · 23 Nov · https://www.abc.net.au/news/2026-11-23/victorian-election-promises-industry-nostalgia/107317574
-  The Victorian election has prompted discussion about the role of traditional industries like coal and timber — and experts say it resonates with voters.
-- Concern about data centres go from 'zero to 100' ahead of state election — ABC · 23 Nov · https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574
-  Community backlash against the explosion of data centre applications in Victoria has become a hot election issue, with locals saying they're being ignored.
-(+96 more not listed)
+(+103 more not listed)
 
 ## Other prominent general stories – one outlet
+- Man disappears after jumping into Yarra River from CBD bridge — ABC +1 (SMH) · 22 Nov · https://www.abc.net.au/news/2026-11-22/man-disappears-after-jumping-into-yarra-river-from-bridge/107414220
+  An emergency search is underway in the heart of Melbourne after the man failed to surface after jumping into the Yarra.
+- Democrats capture at least 258 House seats in largest sweep since 1992 — Guardian +1 (BBC) · 23 Nov · https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep
+  Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least…
 - Twelfth teen charged over alleged group bashing at Gold Coast schoolies — ABC +1 (SMH) · 27 Nov · https://www.abc.net.au/news/2026-11-27/qld-twelfth-charged-schoolies-gold-coast-alleged-bashing/107436214
   A twelfth person has been charged over the alleged group bashing of a 15-year-old during schoolies celebrations on the Gold Coast.
-- Major Thanksgiving storms inundate US with heavy rain, wind and flooding — ABC +1 (Guardian) · 27 Nov · https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308
-  Nearly 200,000 homes and businesses have lost power in Virginia and another 177,000 in Maryland, with flights also affected.
 - EU leaders braced for clashes over Ukraine aid at budget talks — Guardian +1 (BBC) · 26 Nov · https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks
   Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing for a clash…
 - New York City’s Macy’s Thanksgiving Day parade postponed due to weather — Guardian +1 (BBC) · 26 Nov · https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather
@@ -190,6 +192,8 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird’s Paddington home in February 2024 Get our breaking news email , free app or daily news podcast Beau…
 - Logan man charged with murder after wife found stabbed — ABC +1 (Guardian) · 22 Nov · https://www.abc.net.au/news/2026-11-22/slacks-creek-murder-change/107413926
   First responders attempted to save the 28-year-old woman, who had a single stab wound to her chest.
+- Adelaide-born WWE wrestler Bronson Reed dies aged 38 — ABC +1 (BBC) · 28 Nov · https://www.abc.net.au/news/2026-11-28/wwe-wrestler-bronson-reed-dies-aged-38/107438016
+  Tributes flow to Adelaide-born wrestler Jermaine Haley, aka Bronson Reed, whose death at the age of 38 has been attributed to medical complications.
 - Lawyers for Alan Jones open and close defence case in two hours — ABC +1 (Guardian) · 27 Nov · https://www.abc.net.au/news/2026-11-27/nsw-sydney-alan-jones-trial-defence-case-opens-and-closes/107433742
   Alan Jones's defence team tenders just a handful of documents in his defence on day 70 of his indecent assault and sexual touching trial.
 - Two Italians killed in drone strike on Kuwait, Iran denies involvement — ABC +1 (BBC) · 27 Nov · https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996
@@ -198,8 +202,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The former police officer's Supreme Court trial is now in its final stages, after about two months of evidence, and closing addresses from the Crown and defence.
 - Pope Francis's private diary details encounters with the devil — ABC +1 (BBC) · 24 Nov · https://www.abc.net.au/news/2026-11-24/pope-francis-private-diary-details-spiritual-crisis/107423074
   Newly published diary excerpts reveal the late pontiff's innermost fears, his anguish over the clergy sexual abuse scandal and a profound spiritual crisis linked to his exercise of power.
-- Teens 'lucky to be alive' after stabbings at Sydney shopping centre — ABC +1 (SMH) · 21 Nov · https://www.abc.net.au/news/2026-11-21/teenager-charged-after-sydney-shopping-centre-stabbings/107412324
-  A 17-year-old has been charged and a 16-year-old arrested after two boys were stabbed during an alleged confrontation at a shopping centre in Sydney's north-west.
+- Explosion at Afghanistan school kills seven students, wounds 97 people — ABC +1 (BBC) · 28 Nov · https://www.abc.net.au/news/2026-11-28/explosion-at-afghanistan-school/107438626
+  An explosion at a school in Afghanistan has killed seven students and wounded more than 90 people, officials say.
+- Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says — Guardian +1 (BBC) · 28 Nov · https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike
+  MSF and head of WHO denounce attack on Gaza City clinic as Israel claims security guards were members of Hamas Israeli forces have bombed a clinic run by Médecins Sans Frontières in Gaza City…
+- School camp staffer fired after reports of inappropriate touching — ABC +1 (SMH) · 28 Nov · https://www.abc.net.au/news/2026-11-28/aussie-bush-camp-police/107438418
+  Police will attend a primary school on Monday to investigate a report of an adult inappropriately touching students at a popular school camp, north of Newcastle.
+- Bendigo Writers Festival offers 'unreserved' apology to author Abdel-Fattah — ABC +1 (Guardian) · 28 Nov · https://www.abc.net.au/news/2026-11-28/bendigo-writers-festival-apology-randa-abdel-fattah/107438282
+  Festival organiser Greater Bendigo City Council says it sincerely regrets infringing Palestinian Australian academic Dr Randa Abdel-Fattah's intellectual and artistic freedom.
 - Sam Wood to remain behind bars on domestic violence charges — ABC +1 (SMH) · 27 Nov · https://www.abc.net.au/news/2026-11-27/qld-sam-wood-bail-appeal-court-decision/107431186
   The fitness influencer is charged with assaulting and strangling his wife on the Sunshine Coast in October.
 - Commissioner resigns after ambulance delay deaths in Queensland — ABC +1 (SMH) · 26 Nov · https://www.abc.net.au/news/2026-11-26/qld-ambulance-service-commissioner-resigns/107429060
@@ -210,19 +220,9 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a…
 - US Army detonates country's entire stockpile of lead azide explosives — ABC +1 (Guardian) · 26 Nov · https://www.abc.net.au/news/2026-11-26/iowa-us-army-lead-azide/107427996
   Residents in the area are being urged to take precautions due to concerns the explosion may throw lead particles into the air.
-- China commits to low-carbon electrification and help for others to improve — Guardian · 21 Nov · https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve
-  Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy…
-- International UN talks on controlling use of autonomous weapons collapse — Guardian · 22 Nov · https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse
-  Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to…
 - Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth — BBC · 25 Nov · https://www.bbc.co.uk/news/articles/cw8dv112r5gmo
   The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.
-- What failure of COP31 reveals about a divided world — BBC · 24 Nov · https://www.bbc.co.uk/news/articles/cky970n83rvjo
-  Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.
-- New draft deal aims to avert collapse of talks at climate summit — BBC · 22 Nov · https://www.bbc.co.uk/news/articles/cq7827z2841zo
-  The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.
-- COP31 struggles to reach deal with parties at odds over fossil fuels — ABC · 22 Nov · https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330
-  The language around fossil fuels remains a flashpoint at UN climate talks in Türkiye, where negotiations have gone into a second day past the deadline.
-(+778 more not listed)
+(+782 more not listed)
 
 ## IT services (iTnews, CRN, ARN)
 - Why Pax8 has created a new partner success team in APAC — CRN · 27 Nov · https://www.crn.com.au/news/2026/distributor/why-pax8-has-created-a-new-partner-success-team-in-apac
@@ -348,6 +348,14 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 (+2 more not listed)
 
 ## Technology news (BBC, Guardian)
+- Pensions and benefits services still down after 'cyber incident' — BBC · 28 Nov · https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o
+  The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.
+- ‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings — Guardian · 28 Nov · https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse
+  Meta claims its Muse assistant will make users’ lives easier, but business owners say AI is driving them to go analogue Restaurant owners are battling a horde of AI bots and returning to using the…
+- AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn — Guardian · 28 Nov · https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos
+  Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies AI companies are sitting on “bombshell” revelations that could disrupt a…
+- Could AI break encryption? What mathematical breakthroughs mean for cybersecurity — Guardian · 28 Nov · https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity
+  Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information Leading experts and the governor of the Bank of England have suggested that top…
 - How gamers are using AI and leaked files to clone Grand Theft Auto 6 — BBC · 28 Nov · https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo
   With an official PC version potentially still months away, fans are getting impatient.
 - The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites — Guardian · 28 Nov · https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk
@@ -440,15 +448,7 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.
 - Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe — Guardian · 24 Nov · https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe
   Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and…
-- How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’ — Guardian · 24 Nov · https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
-  As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft…
-- GTA 6 hacker released on licence with warning 'don't let this happen again' — BBC · 24 Nov · https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro
-  21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.
-- Dylan Moran goes looking for trouble and disappears off the beaten track in this baffling comedy show — Guardian · 24 Nov · https://www.theguardian.com/stage/2026/nov/23/dylan-moran-looking-for-trouble-review
-  Royal & Derngate, Northampton The Black Books star gets off to a promising start as he contemplates ‘the burning ball of what you don’t understand’ but his search for levity leads to half-baked…
-- AI conquered chess. What happened next should give us hope — Guardian · 24 Nov · https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai
-  As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between…
-(+11 more not listed)
+(+13 more not listed)
 
 ## Cars (CarExpert)
 - Volkswagen Golf GTI 1976: Manual transmission returns in limited edition model — CarExpert · 28 Nov · https://www.carexpert.com.au/car-news/volkswagen-golf-gti-1976-manual-transmission-returns-in-limited-edition-model
@@ -573,6 +573,10 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   It’s still not on the radar for a lot of people, but the Genesis Electrified GV70 has plenty to offer buyers of mid-size luxury electric SUVs.
 
 ## Science (Guardian, BBC)
+- Tribute to farmer who 'saved rare cattle breed' — BBC · 28 Nov · https://www.bbc.co.uk/news/articles/cv0l36eeky32o
+  Eric Freeman was a pioneering advocate for local rare breeds on his farm in Gloucestershire.
+- Viaduct gardens vision on show as group gets access — BBC · 28 Nov · https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko
+  Plans to create five community garden spaces on a disused viaduct in Leamington have been published.
 - New satellite data shows how fast some African cities are sinking — BBC · 28 Nov · https://www.bbc.co.uk/news/articles/cq074p95z4llo
   Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.
 - Hundreds of thousands still without power after storms hit US on Thanksgiving — BBC · 28 Nov · https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo
@@ -645,8 +649,6 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
   There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.
 - Hormuz swim highlights environmental cost of war — BBC · 22 Nov · https://www.bbc.co.uk/news/articles/c95y1gr27xplo
   Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.
-- How red squirrels made island their home — BBC · 21 Nov · https://www.bbc.co.uk/news/articles/c61k9mwxmplxo
-  Conservationists say that, with red squirrels dwindling in the UK, Jersey is an "important refuge".
 
 ## Green economy (ABC, Guardian, Carbon Brief)
 - ‘Sinking’ African megacities will expose seven million people to flooding by 2050 — Carbon Brief · 28 Nov · https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050
@@ -692,23 +694,23 @@ Ranked by number of outlets, then by how long they stayed in the feeds.
 
 | Source | Status | Last success (Sydney) | In feed last run | Address used |
 |---|---|---|---|---|
-| ABC News - Top Stories | OK | 28 Nov 13:39 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
-| SMH - Latest | OK | 28 Nov 13:39 | 20 | https://www.smh.com.au/rss/feed.xml |
-| Guardian - Australia | OK | 28 Nov 13:39 | 20 | https://www.theguardian.com/australia-news/rss |
-| Guardian - World | OK | 28 Nov 13:39 | 45 | https://www.theguardian.com/world/rss |
-| BBC - World | OK | 28 Nov 13:39 | 22 | https://feeds.bbci.co.uk/news/world/rss.xml |
-| iTnews | OK | 28 Nov 13:39 | 20 | https://www.itnews.com.au/rss/rss.ashx |
-| CRN Australia | OK (trial) | 28 Nov 13:39 | 130 | https://www.crn.com.au/rss.xml |
-| ARN | OK (trial) | 28 Nov 13:39 | 20 | https://www.arnnet.com.au/news/feed/ |
-| BBC - Technology | OK | 28 Nov 13:39 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
-| Guardian - Technology | OK | 28 Nov 13:39 | 32 | https://www.theguardian.com/technology/rss |
-| CarExpert | OK | 28 Nov 13:39 | 30 | https://www.carexpert.com.au/feed |
-| Guardian - Science | OK | 28 Nov 13:39 | 29 | https://www.theguardian.com/science/rss |
-| BBC - Science & Environment | OK | 28 Nov 13:39 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
-| ABC - Climate change | OK | 28 Nov 13:39 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
-| Guardian - Australia environment | OK | 28 Nov 13:39 | 43 | https://www.theguardian.com/au/environment/rss |
-| Guardian - Renewable energy | OK | 28 Nov 13:39 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
-| Carbon Brief | OK | 28 Nov 13:39 | 12 | https://www.carbonbrief.org/feed |
-| Loft For Words - QPR match reports | OK | 28 Nov 13:39 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
+| ABC News - Top Stories | OK | 28 Nov 23:56 | 25 | https://www.abc.net.au/news/feed/10719986/rss.xml |
+| SMH - Latest | OK | 28 Nov 23:56 | 20 | https://www.smh.com.au/rss/feed.xml |
+| Guardian - Australia | OK | 28 Nov 23:56 | 20 | https://www.theguardian.com/australia-news/rss |
+| Guardian - World | OK | 28 Nov 23:56 | 45 | https://www.theguardian.com/world/rss |
+| BBC - World | OK | 28 Nov 23:56 | 24 | https://feeds.bbci.co.uk/news/world/rss.xml |
+| iTnews | OK | 28 Nov 23:56 | 20 | https://www.itnews.com.au/rss/rss.ashx |
+| CRN Australia | OK (trial) | 28 Nov 23:56 | 130 | https://www.crn.com.au/rss.xml |
+| ARN | OK (trial) | 28 Nov 23:56 | 20 | https://www.arnnet.com.au/news/feed/ |
+| BBC - Technology | OK | 28 Nov 23:56 | 21 | https://feeds.bbci.co.uk/news/technology/rss.xml |
+| Guardian - Technology | OK | 28 Nov 23:56 | 36 | https://www.theguardian.com/technology/rss |
+| CarExpert | OK | 28 Nov 23:56 | 30 | https://www.carexpert.com.au/feed |
+| Guardian - Science | OK | 28 Nov 23:56 | 28 | https://www.theguardian.com/science/rss |
+| BBC - Science & Environment | OK | 28 Nov 23:56 | 42 | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml |
+| ABC - Climate change | OK | 28 Nov 23:56 | 25 | https://www.abc.net.au/news/feed/1450/rss.xml |
+| Guardian - Australia environment | OK | 28 Nov 23:56 | 43 | https://www.theguardian.com/au/environment/rss |
+| Guardian - Renewable energy | OK | 28 Nov 23:56 | 20 | https://www.theguardian.com/environment/renewableenergy/rss |
+| Carbon Brief | OK | 28 Nov 23:56 | 12 | https://www.carbonbrief.org/feed |
+| Loft For Words - QPR match reports | OK | 28 Nov 23:56 | 0 | https://www.fansnetwork.co.uk/football/queensparkrangers/news/ |
 
-_Approximate reading cost of this digest: 29,705 tokens._
+_Approximate reading cost of this digest: 29,909 tokens._
